@@ -1,0 +1,171 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+UZMAN YETERLİK SINAVI KONU BAŞLIKLARI
+• KANUNLAR
+1 657 sayılı Devlet Memurları Kanunu
+2 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun
+3 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu
+4 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu
+5 4857 sayılı İş Kanunu
+6 4982 sayılı Bilgi Edinme Hakkı Kanunu
+7 5464 sayılı Banka Kartları ve Kredi Kartları Kanunu
+8 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu
+9 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun
+10 5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun
+11 5682 sayılı Pasaport Kanunu
+12 5809 sayılı Elektronik Haberleşme Kanunu
+13 6331 sayılı İş Sağlığı ve Güvenliği Kanunu
+14 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu
+15 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun
+16 6475 sayılı Posta Hizmetleri Kanunu
+17 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun
+18 6698 sayılı Kişisel Verilerin Korunması Kanunu
+19 7127 sayılı Munzam Değerli Posta Pulları Çıkarılmasına Dair Kanun
+20 7201 sayılı Tebligat Kanunu
+21399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair 
+Kanun Hükmünde Kararname
+• YÖNETMELİKLER
+1 Banka Kartları ve Kredi Kartları Hakkında Yönetmelik
+2 Bilgi Teknolojileri ve İletişim Kurumu Posta Sektöründe İdari Yaptırımlar Yönetmeliği
+3 Cumhurbaşkanlığı İletişim Merkezi Yönetmeliği
+4 Çalışanların İş Sağlığı ve Güvenliği Eğitimlerinin Usul ve Esasları Hakkında Yönetmelik
+5 Devlet Arşiv Hizmetleri Hakkında Yönetmelik
+6 Elektronik Haberleşme Sektöründe Kişisel Verilerin İşlenmesi ve Gizliliğin Korunmasına İlişkin Yönetmelik
+7 Elektronik Tebligat Yönetmeliği
+8 Evrensel Posta Hizmetleri Yönetmeliği
+9 Gizlilik Dereceli Belgelerde Uygulanacak Usul ve Esaslar Hakkında Yönetmelik
+10 İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği
+11 İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik
+12 İş Sağlığı ve Güvenliği Risk Değerlendirmesi Yönetmeliği
+13 İşyerlerinde İşveren veya İşveren Vekili Tarafından Yürütülecek İş Sağlığı ve Güvenliği Hizmetlerine İlişkin Yönetmelik
+14 Kamu Hizmetlerinin Sunumunda Uyulacak Usul ve Esaslara İlişkin Yönetmelik
+15 Kamu İktisadi Teşebbüsleri Sözleşmeli Personel Sicil ve Başarı Değerlemesi Hakkında Yönetmelik
+16 Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmelik
+17 Mal Bildiriminde Bulunulması Hakkında Yönetmelik
+18 Ödeme Hizmetleri ve Elektronik Para İhracı ile Ödeme Hizmeti Sağlayıcıları Hakkında Yönetmelik
+19 Posta Hizmetlerinin Sunulmasına İlişkin Yönetmelik
+20 Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği
+21 Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik
+22 Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik
+23 Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik
+24 Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmelik
+25 Tebligat Kanununun Uygulanmasına Dair Yönetmelik
+26 Terörizmin Finansmanının Önlenmesi Hakkında Kanunun Uygulanmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik
+• PROSEDÜRLER
+1 Bilgi Güvenliği Olay ve İhlal Yönetimi Prosedürü
+2 Bilgi İçerikli Ortamların Yönetimi Prosedürü
+3 Bilgi Sistemi Temini Geliştirilmesi ve Bakımı Prosedürü
+4 Bireysel Performans Yönetim Sistemi Prosedürü
+5 Bölge Müdürlüklerinin E-Ticarette Tedarikçi Olma Prosedürü
+6 Dahili Sigorta İşlemleri Prosedürü
+7 Debit ve Prepaid Kart Prosedürü
+8 Değerli Kağıtlar İşletme Prosedürü
+9 Dış Müşteri Memnuniyeti Yönetim Prosedürü
+10 Efektif İşlemler Uygulama Prosedürü
+11 Eğitim Prosedürü
+12 Elektronik Apostil Prosedürü
+13 Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+14 Filateli İşletme Prosedürü
+15 Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına İlişkin Prosedür
+16 Güvenli Sistem Mühendisliği Prensipleri (BİL.PR01)
+17 Güvenlik Prosedürü
+18 Haberleşme Güvenliği Prosedürü
+19 Harcırah İşlemleri Prosedürü
+20 Hizmet ve Servis Telefonlarının Tahsis ve Kullanım Prosedürü
+21 İç Denetim Birimi Çalışma Prosedürü
+22 İç Kontrol Prosedürü
+23 İdari Hizmet Sözleşmeli Personelin Fazla Çalışma Prosedürü
+24 İletişim Prosedürü
+25 İnceleme ve Değerlendirme Kurulu (İndek) Prosedürü
+26 İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+27 İş Sağlığı ve Güvenliği Kurulları İşleyiş Prosedürü
+28 İş Sürekliliği Yönetim Prosedürü
+29 İş Yerleri Acentelikleri Yönetim Prosedürü
+30 İşletimsel Sistemlerin Güvenliği Prosedürü
+31 Kat Karşılığı İnşaat Yapımı ve Arsa Satışı Karşılığı Gelir Paylaşımı Prosedürü
+32 Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Sayfa 1 / 2
+
+
+==================== SAYFA 2 ====================
+
+33 Kaza ve Olay Araştırma Prosedürü
+34 Kişisel Pul İşletme Prosedürü
+35 Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler Prosedürü
+36 Kişisel Veri İşleme Envanteri Prosedürü
+37 Kişisel Verilerin Korunması Prosedürü
+38 Lojistik Hizmetler İşletme Prosedürü
+39 Lokal, Alakart, Kafeterya İşletme Prosedürü
+40 Mal Varlığı Dondurma Prosedürü
+41 Mali Sorumluluk ve Kasa İşlemleri Prosedürü
+42 Misafirhane İşletme Prosedürü
+43 Mutfak ve Yemekhane İşletme Prosedürü
+44 Ödeme Sistemleri Pos Tahsis Prosedürü
+45 Para Transfer Operatörleri Üzerinden Yurt Dışı Havale Prosedürü
+46 Pazar Araştırması Uygulama Prosedürü
+47 Posta Çeki ve Havale İşlemleri Uygulama Prosedürü
+48 Posta Pulu Satıcılıkları İşletme Prosedürü
+49 Posta ve Kargo Hizmetleri İşletme Prosedürü
+50 Posta ve Telgraf Teşkilatı Anonim Şirketi Disiplin Amirleri ve Disiplin Kurullarına İlişkin Prosedür
+51 Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+52 Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Ödeme Prosedürü
+53 Posta ve Telgraf Teşkilatı Anonim Şirketi Müşavirlerinin Çalışma Prosedürü
+54 Posta ve Telgraf Teşkilatı Anonim Şirketi Personelinin İdari Hizmet Sözleşmeli Statüye Geçişine İlişkin Prosedür
+55 Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+56 Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+57 Postacı Yürüyüş Yarışması Prosedürü
+58 Proje ve Portföy Yönetişim Prosedürü
+59 PTT A.Ş. Müzeleri İşletim Prosedürü
+60 PTT AŞ Bilgi/Bilişim Teknolojileri Personeli Esnek ve Uzaktan Çalışma Prosedürü
+61 PTT AŞ Hukuk Müşavirliği Prosedürü
+62 PTT AŞ İdari Hizmet Sözleşmeli Personelin Sözleşme Esasları, Sözleşme Ücretleri Prosedürü
+63 PTT AŞ İdari Hizmet Sözleşmeli Personelin Yer Değiştirme Suretiyle Atanma Prosedürü
+64 PTT AŞ Kurumsal Acente Prosedürü
+65 PTT AŞ Mal ve Hizmet Alımı Prosedürü
+66 PTT AŞ Malzeme Ambarlama Prosedürü
+67 PTT AŞ Personelinin Ödüllendirilmesine İlişkin Prosedür
+68 PTT AŞ Taşınmazların Yönetimi Prosedürü
+69 PTT AŞ Taşıt Prosedürü
+70 PTT AŞ Ücretsiz Servis ve Yol Yardımı Verilmesine İlişkin Prosedür
+71 PTT Müdürlük ve Şube Yönetim Prosedürü
+72 PTT Tanıtım, Reklam ve Etkinlik Faaliyetleri Uygulama, PTT İşyerleri ve Müzelerinde Film, Fotoğraf Çekimi ve Stant Açma Prosedürü
+73 Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+74 Rehberlik ve Teftiş Prosedürü
+75 Risk Yönetimi Prosedürü
+76 Satış İşlemleri Prosedürü
+77 Siber Güvenlik Açıklıkları Yönetimi ve İzlenmesi Prosedürü
+78 Sosyal Medya Kullanımı Prosedürü
+79 Stratejik Plan Hazırlama Prosedürü
+80 Tebligat İşletme Prosedürü
+81 Tele-Post Hizmetleri İşletme Prosedürü
+82 Telgraf Hizmetleri İşletme Prosedürü
+83 Tesis ve Çevre Temizliği Prosedürü
+84 Tören ve Temsil Giderleri Harcama ve Ödeme Prosedürü
+85 Ulusal Elektronik Tebligat Sistemi Prosedürü
+86 Uluslararası Organizasyonlar ve Protokol Prosedürü
+87 Uyum Birimi İç Denetim Prosedürü
+88 Uyum Birimi İzleme ve Kontrol Prosedürü
+89 Uyum Birimi Risk Yönetimi Prosedürü
+90 Uyum Programı (UYB.PR04)
+91 Veri Sahibi Başvuru Yönetimi Prosedürü
+92 Yapı İşleri Satınalma Prosedürü
+93 Yapı İşlerinde Bakım Onarım Prosedürü
+94 Yapı İşlerinde İş Sağlığı ve Güvenliği Prosedürü
+95 Yapı Kontrol Prosedürü
+96 Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+97 Yazılım Geliştirme Test Prosedürü
+98 Yönetim Kurulu İşleyiş Prosedürü
+99 Yurt Dışı Posta Sevk Sistemi İşletme Prosedürü
+100 Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+• USUL VE ESASLAR
+1 Kayıtlı Elektronik Posta Hizmet Sağlayıcılarının Birlikte Çalışabilirliğine İlişkin Usul ve Esaslar
+2 Kayıtlı Elektronik Posta Sisteminde Kullanılan İşlem Sertifikasına İlişkin Usul ve Esaslar
+3 Posta Gönderilerine İlişkin Güvenlik Tedbirlerine Yönelik Usul ve Esaslar
+4 Ulusal Elektronik Tebligat Sistemi ile İlgili Teknik Kriterlere İlişkin Usul ve Esaslar
+• DİĞER
+1 4 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar İle Diğer Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi
+2 Evrensel Posta Birliği (UPU) Sözleşme El Kitabı
+3 Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi
+Sayfa 2 / 2

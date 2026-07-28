@@ -1,0 +1,256 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+ULUSLARARASI 
+OPERASYONLAR DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Doküman Adı
+Uluslararası Organizasyonlar ve Protokol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UOD.PR02
+İlk Yayım Tarihi
+20.02.2025
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+0
+Sayfa Sayısı
+1/5
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketinin üyesi bulunduğu uluslararası organizasyonlar 
+ve yürütülen görevler kapsamında katılım sağlanan toplantılara yönelik protokol işlerine dair görev ve 
+sorumlulukları tanımlamaktır.
+2.KAPSAM
+Bu prosedür, uluslararası organizasyonlar ve protokol ile ilgili Posta ve Telgraf Teşkilatı Anonim Şirketi 
+bünyesindeki tüm birimleri ve çalışmaları kapsar.
+3.DAYANAK
+Birlik, Yönetim Kurulu, Konsey, Görev Gücü, Sabit Grup ve Çalışma Grubu üyeliklerimiz kapsamında 
+gerçekleştirilmesi beklenen tüm çalışmalar; Evrensel Posta Birliği Sözleşme El Kitabı ve Akdeniz Posta Birliği 
+Konvansiyonu bu prosedürün dayanaklarını teşkil etmektedir.
+4.TANIMLAR VE KISALTMALAR
+4.1 AB: Avrupa Birliğidir.
+4.2 Bakanlık: Ulaştırma ve Altyapı Bakanlığıdır.
+4.3 Belgenet: Elektronik belge yönetim sistemidir.
+4.4 Birim: Kurul/Komite, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve 
+Başmüdürlüklerdir.
+4.5 Birlik: UPU, PostEurop ve PUMed’i ifade eder.
+4.6 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul/Komite Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, 
+Birim Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Başmüdürdür.
+4.7 CA: Evrensel Posta Birliği İdari Konseyidir.
+4.8 Cumhurbaşkanlığı: Cumhurbaşkanlığı İdari İşler Başkanlığını ifade eder.
+4.9 Çalışma Grubu: Birlikler bünyesinde özel konularda çalışmak üzere oluşturulan gruplardır.
+4.10 EMIS: Evrensel Posta Birliği Acil Durum Bilgilendirme Sistemidir.
+4.11 Görev Gücü: Birliklerin çalışma yapıları altında yer alan büyük çalışma gruplarıdır.
+4.12 Konsey: Birliklerin altında yer alan ve idari ve işletmesel sorumlulukları bulunan organlardır.
+4.13 PUMed: Akdeniz Posta Birliğidir.
+4.14 POC: Evrensel Posta Birliği Posta İşletme Konseyidir.
+4.15 POSTEUROP: Avrupa Kamu Posta İşletmecileri Birliğidir. 
+4.16 Sabit Grup: Evrensel Posta Birliği Posta İşletme Konseyi yapısı altında yer alan komiteler bünyesinde çalışan 
+gruplardır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Uluslararası Organizasyonlar ve Protokol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UOD.PR02
+İlk Yayım Tarihi
+20.02.2025
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+0
+Sayfa Sayısı
+2/5
+4.17 Sekretarya: PUMed kapsamında yürüttüğümüz Genel Sekreterlik çalışmalarını ve koordinasyonu sağlayan 
+çalışmaların tümünü ifade eder.
+4.18 Sirküler: UPU Uluslararası Büro tarafından yayımlanan bilgilendirme dokümanlarıdır. 
+4.19 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.20 Uluslararası Büro: Evrensel Posta Birliği Uluslararası Bürosudur.
+4.21 UPU: Evrensel Posta Birliğidir.
+5.SORUMLULUKLAR
+Bu prosedürün hazırlanmasından ve yönetiminden Uluslararası Operasyonlar Daire Başkanlığı sorumludur.
+6.UYGULAMA
+6.1 Üyesi Bulunulan Birlikler Kapsamında Gerçekleştirilen Toplantılara Katılım Sağlanması 
+6.1.1 UPU – CA ve POC, PostEurop Yönetim Kurulu, PUMed Yönetim Kurulu ile Sekretarya görevleri 
+kapsamında yürütülen çalışmalar ve üyeliklere yönelik gerçekleştirilecek toplantılar için yayımlanan toplantı 
+takvimleri ve gündemleri takip edilir.
+6.1.2 Gerekli olması halinde dokümanların tercümesi yapılır, görev dosyası hazırlanır.
+6.1.3 Fiziki katılım sağlanacak toplantılar için görev gerekçeleri hazırlanır. Görev Onayı almak üzere Genel 
+Müdürlük Makamına arz edilir. Alınan Makam Onayı Bakanlığa sunulur.
+6.1.4 Uzaktan katılım sağlanacak toplantılar için ise ilgili Şubelerden katılım gösterecek personelin akreditasyon 
+işlemleri gerçekleştirilir. 
+6.1.5 Katılım gösterilen toplantıların sonrasında rapor hazırlanır.
+6.2 EMIS Mesajları
+Üye ülkelerden alınan EMIS (Emergency Information System) mesajları ilgili Birimlere iletilir. Birimlerden alınan 
+ve acilen UPU üyesi ülkelere iletilmesi gereken mesajlar ise EMIS formatına uygun olarak hazırlanarak UPU’ya 
+iletilir ve yayımlanması sağlanır. 
+6.3 Sirküler Yayımlatılması
+UPU Uluslararası Büro tarafından talepte bulunan üye ülkenin isteği üzerine özellikle operasyonel konularda 
+ülkelerin bilgilendirilmesi amacıyla yayımlanan sirkülerler (circulars), talepte bulunan Birimin isteği üzerine 
+oluşturularak UPU’ya iletilir.
+6.4 Posta Yoluyla Gönderilmesi Yasaklı/Sakıncalı Maddeler Kapmasında Yürütülen Çalışmalar
+6.4.1 Yasaklı Maddelere ilişkin Ülkemize ait listenin güncel tutulması amacıyla ilgili Bakanlıklar ile koordineli 
+çalışmalar yürütülmektedir.
+6.4.2 Gümrük Beyan Sisteminde (Customs Declarations System) yer alan ülkelere ait yasaklı maddeler listelerinin 
+çevirileri yapılarak Şirketimiz web sayfasında yayımlanması sağlanmaktadır. 
+6.4.3 Konuya ilişkin gerek Başmüdürlüklerden gerekse müşterilerden gelen bilgi talepleri cevaplanmaktadır.
+6.4.4 UPU ya da belirlenmiş işletmeciler tarafından yayımlanan yasak maddelere ait güncel bilgiler 
+Başmüdürlüklere duyurulmaktadır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Uluslararası Organizasyonlar ve Protokol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UOD.PR02
+İlk Yayım Tarihi
+20.02.2025
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+0
+Sayfa Sayısı
+3/5
+6.5 Tercüme 
+Birimlerden gelen çeviri talepleri değerlendirilir. Hukuki/Acil olanlar Uluslararası Operasyonlar Daire Başkanlığı 
+Onayı ile tercümesinin yapılması için çeviri bürosuna gönderilir. Diğer çeviriler dil bilen personelce yapılır. 
+Tamamlanan çeviriler, talep eden Birimlere Belgenet üzerinden veya e-posta yoluyla gönderilir.
+6.6 Yabancı Heyetlerin Karşılanması
+6.6.1 Ziyaret Öncesi
+6.6.1.1Şirketimizce veya karşı idareden alınan talep üzerine iş birliği ziyaretleri planlanır.
+6.6.1.2İş birliği içerisinde olduğumuz diğer Posta İdarelerinden gelecek heyetlerin uçuş bilgileri ve programları ile 
+ilgili olarak heyet ile irtibata geçilir.
+6.6.1.3Heyetlerin uçuş bilgileri alındıktan sonra tarafımızca hazırlanan ziyaret programı heyete iletilir.
+6.6.1.4Yapılacak toplantılarda yer alması gereken Birimlerimize ziyaret programının ve toplantı gündeminin ekte 
+yer aldığı bilgilendirme yazısı yazılır.
+6.6.1.5Talep edilmesi durumunda heyetlerin kalacakları oteller heyetle iş birliği içerisinde ayarlanır.
+6.6.2 Ziyaret Süreci
+6.6.2.1 Gerekli hallerde heyetler geliş saatlerine göre havalimanında karşılanarak programın içeriğine göre 
+transferleri sağlanır.
+6.6.2.2Heyetlere gerekli hallerde, ziyaret programının akışına göre tahsis edilen araç ya da araçlarla Daire 
+Başkanlığımızdan ilgili personel tarafından mihmandarlık yapılır ve gerekli transferler sağlanır. 
+6.6.2.3 Gerekli hallerde heyetlerin dönüş yapacakları havalimanına transferleri sağlanır.
+6.7 Şirketimiz Üst Yönetiminin Yurt Dışı Seyahatleri
+6.7.1 Şirketimiz yetkililerine yurt dışından bir davet gelmişse ya da bir toplantıya iştirak etmeleri gerekirse bu 
+toplantıların içeriği öğrenilip bir dosya ile Genel Müdürlük Makamına sunulur.
+6.7.2 Toplantı veya etkinliklerin tarihleri karşı taraf ile görüşülerek öğrenilir ve Makama arz edilir.
+6.7.3 Genel Müdürlük Makam Onayı ve Bakanlık Onayı için gerekli yazışmalar yapılır. 
+6.7.4 Uygun uçuşlar Makama arz edilir ve belirlenen uçuşlar için bilet alınır.
+6.7.5 Gerektiği takdirde etkinlik veya toplantı yerine yakın olacak şekilde konaklama yerleri ayarlanır.
+6.7.6 Günlük harcırah, otel ücreti ve olası harcamalar hesaplanarak avans işlemleri tamamlanır.
+6.7.7 Genel Müdürlük Makamının yurt dışı seyahat dönüşlerinde, gittikleri ülkede yaptıkları harcamaların faturaları 
+alınarak harcırah formları düzenlenir.
+6.8 Toplantı Takvimi Oluşturulma Süreci
+6.8.1 Şirketimizin uluslararası platformlarda etkin bir rol üstlenme ve katılım gösterilen toplantı/organizasyonlardan 
+maksimum seviyede fayda sağlama vizyonu çerçevesinde ilgili birimlerden bir sonraki yıl katılmaları zaruri olan ve 
+katılmalarında fayda görülen toplantıları; toplantıya ait açıklayıcı bilgiler (toplantı adı, amacı, tarihi, kayıt ücreti, 
+genel bilgiler, kişi başı yaklaşık maliyeti vb.) ile birlikte bildirmeleri istenir.
+6.8.2 Birimlerimizden alınan bilgiler ışığında oluşturulan toplantı takvimi ve programı Makama sunulur.
+6.8.3 Makamın talimatları doğrultusunda son şekli verilen toplantı takvimine göre görevler düzenlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Uluslararası Organizasyonlar ve Protokol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UOD.PR02
+İlk Yayım Tarihi
+20.02.2025
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+0
+Sayfa Sayısı
+4/5
+6.9 Yurt Dışı Görev Onaylarının Alınması
+6.9.1 Yurt dışı görevlendirme talep yazıları Daire Başkanlığımızca Görev Onayı formatında düzenlenerek Genel 
+Müdürlük Makamına sunulur.
+6.9.2 Alınan Makam Onayı Bakanlığa sunulur.
+6.9.3 Bakanlıktan onaylı olarak Daire Başkanlığımıza gönderilen Görev Onayları ilgili Birimlere e-posta yoluyla 
+veya Belgenet üzerinden iletilir.
+6.9.4 Göreve katılan personel tarafından görev dönüşü hazırlanan görev raporları, Bakanlığa Belgenet; 
+Cumhurbaşkanlığına ise Kamu E-Uygulama sistemi üzerinden gönderilir.
+6.10 Bakanlığa Aylık Rapor Gönderilmesi
+Görev Onayı, kişi ile gün sayıları ve harcırah tutar bilgilerini içeren yurt dışı geçici görev harcırah tablosu aylık 
+olarak Bakanlığa sunulur.
+6.11 AB Koordinasyon Süresi ve AB ile ilgili proje çalışmaları
+6.11.1 Görev alanına giren konularda Avrupa Birliği ile olan ilişkiler yürütülür.
+6.11.2 AB kuruluşlarının yaptıkları toplantılar ve mevzuat değişiklikleri ilgili internet sitesi üzerinden ya da resmi 
+yazışmalar aracılığıyla takip edilerek gerekli koordinasyonun ve gereğinin sağlanması için ilgili Birimlere 
+gönderilir.
+6.11.3 Şirketimizin görev alanına giren konularda AB Müktesebatına uyum çalışmaları ilgili internet sitesi 
+üzerinden ya da resmi yazışmalar aracılığıyla takip edilir, koordinasyonun sağlanması ve gereği için ilgili Birimlere 
+gönderilir.
+6.11.4 AB Müktesebatının üstlenilmesine ilişkin işlemlerin herhangi bir aksaklık olmaksızın yürütülmesi için AB 
+mali yardımlar internet sitesi üzerinden ya da resmi yazışmalar aracılığıyla takip edilerek izlenir, etüt edilir ve 
+bunlardan faydalanmak amacıyla projeler hazırlanır ve gereği için ilgili Birimlere gönderilir. Birimlerden alınan 
+projelerin tercümesi yapılarak ilgili kuruluşa gönderilir.
+7.ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.004-Evrensel Posta Birliği (UPU) Sözleşme El Kitabı
+KN.023-Akdeniz Posta Birliği (PUMed) Konvansiyonu
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Uluslararası Organizasyonlar ve Protokol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UOD.PR02
+İlk Yayım Tarihi
+20.02.2025
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+0
+Sayfa Sayısı
+5/5
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+0 20.02.2025 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

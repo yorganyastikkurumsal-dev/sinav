@@ -1,0 +1,293 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan:
+PTTBANK D. BŞK. 
+BANKACILIK 
+HİZMETLERİ ŞUBE 
+MÜDÜRLÜĞÜ
+Süreç Sahibi:
+PTTBANK D. BŞK. 
+BAŞKANLIK DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM SİSTEMİ 
+DAİRE BAŞKANLIĞI 
+BAŞKANLIK DAİRE BAŞKANI
+Onaylayan / İdari
+GENEL MÜDÜR
+Doküman No
+PBD.PR02.01/711.07.2018
+Dokümanın Adı:
+EFEKTİF İŞLEMLER UYGULAMA PROSEDÜRÜ
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+PBD.PR02
+İlk Yayın Tarihi
+11.07.2018
+Revizyon Tarihi
+11.07.2018
+Revizyon No:
+0
+Sayfa Sayısı:
+1/7
+REVİZYON TARİHÇESİ
+Revizyon 
+No Revizyon Tarihi Açıklama
+0 11.07.2018
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman No
+PBD.PR02.02/711.07.2018
+1. AMAÇ
+Bu prosedürün amacı Posta ve Telgraf Teşkilatı Anonim Şirketi İşyerlerince yerine getirilen efektif alım ve 
+satım hizmetinin uygulanma usul ve şeklini tanzim etmektir.
+2. KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından yetki verilen Posta ve Telgraf Teşkilatı 
+Anonim Şirketi İşyerlerince yabancı paraların alınarak, karşılığında Türk Parası ödenmesi ve Türk Parası 
+alınarak, karşılığında yabancı para verilmesi işlemlerinin süreçlerini kapsamaktadır.
+3. TANIMLAR VE KISALTMALAR
+3.1 Anlaşmalı Banka: Posta ve Telgraf Teşkilatı Anonim Şirketi İşyerlerince efektif işlemlerinde kuru 
+uygulanan ve bu efektiflerin devredilebileceği banka.
+3.2 Başmüdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Başmüdürlüğü.
+3.3 Döviz Alım Belgesi: Efektif alımları sırasında düzenlenen belge.
+3.4 Döviz Satım Belgesi: Efektif satışları sırasında düzenlenen belge.
+3.5 Efektif: T.C. Merkez Bankasınca konvertibl olarak kabul edilen banknot şeklindeki nakit yabancı ülke 
+paraları.
+3.6 Efektif Alış Kuru: Efektiflerin alımı işleminde kullanılan yabancı paranın Türk Parası cinsinden değeri.
+3.7 Efektif Satış Kuru: Efektif satışlarında kullanılan yabancı paranın Türk Parası cinsinden değeri.
+3.8 Efektif Spesimen Kataloğu: T.C Merkez Bankasınca kabul edilen konvertibl efektifler için hazırlanan 
+ve sahte efektifleri ayırt etmek amacıyla efektifler hakkında detaylı bilgilerin yer aldığı katalog. 
+3.9 Katkı Payı: Efektiflerin anlaşmalı Bankaya devri sırasında anaparaya ilaveten alınan para.
+3.10 Şirket/PTT A.Ş: Posta ve Telgraf Teşkilatı Anonim Şirketi.
+3.11 PTTBank İşlem Belgesi: Havale bedellerinin kabul ve ödemesinde veya çek hesaplarına ait yatırma, 
+aktarma ve ödeme işlemlerinde ve başka bir hizmetin yerine getirilmesi yönündeki yazılı veya elektronik 
+ortamda yaptıkları taleplerin yerine getirilmesi sonucu Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından 
+üretilen doküman.
+3.12 PTT İşyeri: Efektif işlemlerini yapmaya yetkili merkez müdürlükleri ve şubeleri.
+3.13 Türk Parası: Türkiye Cumhuriyeti kanunlarına göre Türkiye’de tedavülde bulunan veya tedavülden 
+kaldırılmış olsa bile değiştirme süresi dolmamış olan paralar.
+3.14 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulu.
+3.15 Yabancı Uyruklu Kişi: Yurt dışında yerleşik olup, herhangi bir sebeple Türkiye sınırları içinde 
+bulunan yabancı pasaport hamili gerçek kişiler.
+3.16 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğü
+4. SORUMLULUKLAR
+Bu prosedürün uygulanmasından Efektif Alım, Satım ve kontrol hizmetinde görev alan tüm personel 
+sorumludur.
+5. UYGULAMA
+5.1 Efektif Alım İşlemleri
+5.1.1 Efektiflerin Kimlerden Alınacağı
+Efektif her getirenden alınır; yabancı veya T.C. uyruklu olması fark etmez. Ayrıca efektiflerin menşei, temin 
+şekli, bozduruluş sebebi araştırılmaz, bu manaya gelebilecek herhangi bir soru sorulmaz.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman No
+PBD.PR02.03/711.07.2018
+5.1.2 Alınabilecek Efektif Miktarı
+5.1.2.1 Efektif alınmasında asgari ve azami bir sınır söz konusu değildir. Madeni yabancı para alınmaz; 
+ödemelerde madeni Türk Parası verilebilir.
+5.1.2.2 Yüksek değerli bir kupürün bir kısmının bozdurulması şartıyla bir kısmının da aynı cinsten ve daha 
+küçük değerde bir kupür olarak verilmesi talepleri de imkan nispetinde yerine getirilir. Örneğin; yüz avro 
+değerindeki bir kupürün altmış avro kadarının Türk Parası, geri kalan kırk avro olarak ilgiliye verilmesi 
+mümkündür.
+5.1.3 Alınacak Efektiflerin Tespiti
+5.1.3.1 Getirilen efektifler ilgili personelce önce tanınır, gerektiğinde Efektif Spesimen Kataloğundan 
+kontrol edilir, PTT İşyerinde sahte para ayırt etme cihazı var ise bu cihazdan geçirilerek, sahte olmadıkları 
+ve ödenebilir oldukları tespit edilir. Bozulan yabancı paraların geçerli olduklarının tespiti önemli olup, en 
+küçük bir şüphenin dahi kalmaması gerekir; bu bakımdan gerektiğinde civar bankaların bilgisine başvurulur.
+5.1.3.2 PTT İşyerlerine ibraz edilen efektifin satın alınabilir cinsten olduğunun tespitini müteakip, efektifin 
+geçerli olup olmadığı araştırılır.
+Bunun için, “Efektif Spesimen Kataloğu” kullanılır. Efektif Spesimen Kataloğunda yabancı paranın 
+fotoğrafıyla birlikte özelliklerini belirten kısa açıklamalar yer aldığından ibraz edilen efektif, Efektif 
+Spesimen Kataloğundaki örnek fotoğrafla karşılaştırılarak kontrol edilir ve geçerli olduğundan emin 
+olunduktan sonra alım yapılır. Böylece, dolaşımdan kalkmış veya sahte bir efektifin alımı engellenmiş olur.
+5.1.3.3 T.C. Merkez Bankasınca tedavüle sunulduğu bildirilen efektiflere ait Spesimenler PTT’nin ilgili 
+birimi tarafından PTT işyerlerine duyurulur. Bu duyurular PTT İşyerlerince Efektif Spesimen Kataloğunun 
+ilgili sayfalarına takılır.
+5.1.3.4 Efektif Spesimen Kataloğunda örnekleri bulunan yabancı paraların dolaşımından kaldırıldıkları PTT 
+İşyerlerine duyurulduğunda, bu yabancı paralara ait föyler Efektif Spesimen Kataloğundan çıkarılır.
+5.1.3.5 Satın alınan efektiflerin hangi ülkeye ait olduklarına özellikle dikkat edilir, Efektif Spesimen 
+Kataloğunda veya tebliğlerde/duyurularda belirtilen özelliklere uymayan efektifler kesinlikle satın alınmaz.
+5.1.3.6 PTT’nin ilgili birimi tarafından PTT İşyerlerine duyurulan Spesimenler, PTT İşyerince doküman 
+haline getirilir ve Efektif Spesimen Katalogları güncel tutulur.
+5.1.3.7 Efektif Spesimen Kataloğundaki föyler ile Spesimenlerin bildirildiği tebliğler/duyurular aylık olarak 
+karşılaştırılır, noksan föyler ile Efektif Spesimen Kataloğunda örnekleri olmamakla birlikte dolaşımda olan 
+efektiflerin özelliklerini belirleyen tebliğlerden/duyurulardan eksik olanlar tamamlanır.
+5.1.3.8 Efektif Spesimen Kataloğu, PTT’nin ilgili birimi tarafından PTT’nin intranet adresinde güncel 
+tutulur.
+5.1.4 Kabul Edilmeyecek Efektifler Ve Sahte Efektifler
+5.1.4.1 Aşağıda belirtilen özelliklerden herhangi birini taşıyan efektifler, PTT İşyerlerince hiçbir şekilde 
+alınmaz.
+a) Madeni para şeklindeki yabancı paralar,
+b)Dolaşımdan kaldırıldığı duyurulan efektifler,
+c)Çeşitli tebliğlerle alış ve satışlarının sınırlandırıldığı, Efektif Spesimen Kataloğunda örnekleri 
+bulunmakla birlikte ait oldukları ülkelerce ülke dışına çıkışının veya ülkeye girişinin yasaklandığı 
+bildirilen efektifler,
+d)Yırtık ve noksan olan efektifler,
+e)Çeşitli maddelerle yapıştırılmış olan efektifler (selobant vb.)
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman No
+PBD.PR02.04/711.07.2018
+5.1.4.2 Ancak ibraz edilen efektiflerin;
+a) Geçerlilikleri bozulmayacak şekilde, katlanma yerlerinin biraz aşınmış olması,
+b)Baskı çerçevesinin dış kısmında bulunan ya da iç kısmında olup, toplu iğne başı büyüklüğünü 
+geçmeyen yırtık veya noksanlık bulunması,
+c) Üzerinde kontrol unsurlarını kapatmayacak şekilde amblem, kaşe veya işaret bulunması,
+hallerinde alınmalarında herhangi bir sakınca bulunmaz.
+5.1.4.3 Şüphe edilen efektifler mümkün olduğunca orijinalleri ile karşılaştırılır. Gerçeklik emareleri;
+a)Kağıt özellikleri,
+b) Uygulanan baskı tekniği ve basılan portreler olmak üzere iki ana gruba ayrılır.
+5.1.4.4 Tüm gerçek paralar üzerindeki şekiller, ince çizgilerden oluşur ve bu çizgiler kesintisizdir. Portreler 
+çok temiz çalışılmıştır. Sahte efektiflerin ise çizgileri kaba, renkleri solgundur. Genellikle arka yüzleri ön 
+yüzlerinden daha kötü işlenmiştir.
+5.1.4.5 Özellikle Amerikan Doları ve Avro cinsinden sahte efektiflerin piyasaya çok sayıda sürüldüğü göz 
+önünde bulundurularak, bu cins efektifler alınırken;
+a)Baskı ve kağıt kalitesinin kontrolüne,
+b) Gerçek efektiflerde olması gereken (mavi, kırmızı ve siyah renkte, eğri, kısa) kılcal iplikçiklerin 
+mevcut olup olmadığına,
+c) Sahte efektiflerde genellikle düzgün olmayan seri ve sıra numaralarının muntazam basılıp 
+basılmadığına,
+d) Efektif tutarının rakam ve yazıyla aynı olup olmadığına,
+özellikle dikkat edilir.
+5.1.4.6 Yapılan kontrol sonucunda, orijinal olduğu konusunda şüpheye düşülen efektif alınmaz.
+5.1.4.7 İbraz edilen efektifin sahte olduğunun tespiti halinde, efektif, sahibine iade edilmeden durum kolluk 
+kuvvetlerine bildirilir. Ayrıca PTT’nin ilgili birimine de yazılı bilgi verilir.
+5.1.4.8 PTT İşyerince alınan, ancak daha sonra şüpheli görülerek Anlaşmalı Banka tarafından alınmayan 
+efektifler, bir zarf içine konularak, Başmüdürlük görüşü ile birlikte bir yazı ekinde PTT’nin ilgili birimine 
+iletilir.
+5.1.4.9 PTT tarafından, gerekli görülmesi halinde T.C. Merkez Bankası’nın görüşüne başvurulur. Efektifin 
+sahte olduğunun anlaşılması halinde ilgili Başmüdürlüğe gerekli bildirimde bulunulur.
+5.1.5 Uygulanacak Kur
+5.1.5.1 PTT İşyerlerine yabancı para getirilip karşılığından Türk Parası istendiğinde, uygulanacak kur efektif 
+alış kurudur.
+5.1.5.2 Efektif işlemlerinde; kur girişi ana sistem üzerinden yapıldığından ve dolayısıyla kur girişi ile 
+ödenecek Türk Parası miktarı sistem üzerinden hesaplandığından, ilgili ekran üzerinden alınan bilgilere göre 
+gerekli işlemler yapılır.
+5.1.6 Vergiler Ve Katkı Payı
+Efektif alım işlemi, ne yabancı para bozduran açısından ne de PTT bakımından damga vergisine tabi 
+değildir. Ancak bozulan efektif karşılığında PTT tarafından belirlenen oranda Katkı Payı alınabilir. Bu 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman No
+PBD.PR02.05/711.07.2018
+durumda Katkı Payı düşüldükten sonra kalan miktar efektif bozdurana ödenir. Efektif bozdurandan Katkı 
+Payı alınması halinde alınan Katkı Payı miktarı PTTBank İşlem Belgesinde mutlaka belirtilir.
+5.1.7 Döviz Alım Belgesi Düzenlenmesi
+5.1.7.1 Döviz Alım Belgesi olarak PTTBank İşlem Belgesi kullanılır.
+5.1.7.2 Efektif Bedeli ödendikten sonra PTTBank İşlem Belgesi yazdırılır. Sistemden yazdırılan belgenin 
+birinci nüshası efektif bozdurana verilir; ikinci nüsha ise PTT İşyerlerinde saklama süresi boyunca muhafaza 
+edilir.
+5.1.7.3 Efektif bozduranın belge istememesi halinde efektif bozdurana verilecek nüsha iptal edilir, diğer 
+nüsha aynı işleme tabi tutulur.
+5.1.7.4 Sisteme giriş sırasında efektif bozdurana ait bilgiler yazılmak zorunda değildir. Ancak talep halinde 
+bu bilgiler mutlaka yazdırılır. Bu husus belge yazdırılmadan tespit edilir.
+5.1.7.5 Düzenlenecek PTTBank işlem Belgesinde, efektif bozduranın isim vermek istememesi halinde 
+ilgilinin beyanıyla yetinilir.
+5.1.7.6 Suç gelirlerinin Aklanmasının Önlenmesi hakkındaki 5549 Sayılı Kanunun uygulanmasına ilişkin 
+09.01.2008 tarihli ve 26751 sayılı Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine 
+Daire Tedbirler hakkındaki Yönetmelikte belirtilen hususlara göre, bu Usul ve Esaslarda belirlenen limitleri 
+aşan tutarların alım ve satımında kimlik tespiti, bilgilerin muhafazası ve ilgili mercilere bildirim 
+yükümlülükleri PTT’ce belirlenen kurallar çerçevesinde yerine getirilir.
+5.1.7.7 5 inci maddenin ikinci fıkrasındaki gibi kısmi efektif bozma durumunda, PTTBank İşlem Belgesi 
+bozulan miktar için düzenlenir.
+5.2 Efektif Satış İşlemleri
+5.2.1 Satışın Kimlere Yapılacağı
+Türkiye’de veya yurtdışında yerleşik yabancı ve T.C. uyruklu kişilere efektif satışı serbesttir.
+5.2.2 Uygulanacak Kur
+5.2.2.1 PTT İşyerlerine Türk Parası getirilip karşılığında yabancı para istendiğinde uygulanacak kur efektif 
+satış kurudur.
+5.2.2.2 Efektif satış işlemlerinde; kur girişi ana sistem üzerinden yapıldığından ve dolayısıyla kur girişi, 
+alınacak Türk Parası miktarı ile müşteriye verilecek efektif miktarı sistem üzerinden hesaplandığından, ilgili 
+ekran üzerinden alınan bilgilere göre gerekli işlemler yapılır.
+5.2.3 Yapılabilecek İşlem Adedi
+5.2.3.1 Efektif satışı bir veya birden fazla PTTBank İşlem Belgesi düzenlenerek, ayrı ayrı yapılabilir.
+5.2.3.2 Efektif satışında asgari ve azami bir sınır söz konusu değildir. Madeni yabancı para talepleri 
+karşılanmaz; efektif satışı karşılığında madeni Türk Parası alınabilir.
+5.2.4 Döviz Satım Belgesi Düzenlenmesi
+5.2.4.1 Döviz Satım Belgesi olarak PTTBank İşlem Belgesi kullanılır.
+5.2.4.2 Efektif satış işleminden sonra PTTBank İşlem Belgesi yazdırılır. Sistemden yazdırılan belgenin 
+birinci nüshası yabancı para alana verilir, ikinci nüsha ise PTT İşyerlerinde saklama süresi boyunca 
+muhafaza edilir.
+5.3. Çeşitli Hükümler
+5.3.1 Efektif Devri
+5.3.1.1 Alınan efektifler, PTT’ce verilecek talimatlara göre “Alınan ve Satılan Efektif Aylık Döküm 
+Cetveli” hazırlanarak, Anlaşmalı Banka şubesine devredilebilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman No
+PBD.PR02.06/711.07.2018
+5.3.1.2 Efektifler Anlaşmalı Banka’ya devredilecekse, Anlaşmalı Banka ile yapılan protokol hükümlerinde 
+belirlenen esaslara göre devir sağlanır.
+5.3.1.3 Efektif işlemi yapan PTT İşyerinin bulunduğu yerdeki Anlaşmalı Banka şubesi, Anlaşmalı Banka ile 
+yapılan protokol hükümleri kapsamında efektifleri PTT İşyerlerinden alarak, karşılığını Türk Parası olarak 
+Katkı Payı da dahil PTT’ye verir veya PTT’nin hesabına alacak kaydeder.
+5.3.2 Katkı Payı Tahsili
+PTT İşyerlerinde satın alınarak, Anlaşmalı Banka şubesine devredilen efektifler toplamına PTT ile 
+Anlaşmalı Banka arasında kararlaştırılan oranda Katkı Payı ilavesi yapılır ve bu oran da Anlaşmalı 
+Banka’dan alınır veya PTT’nin hesabına alacak kaydedilir.
+5.3.3 Çalışma Saatler
+Efektif işlemleri mesai saatleri içinde PTT İşyerlerinden yapılır. Mesaisi normal çalışma saatlerinin dışına 
+taşan PTT işyerlerinde efektif işlemleri, açık kalan gişede yapılmaya devam eder.
+5.3.4 İşyerlerinde Efektif İşlemi Yapıldığının Belirlenmesi
+Efektif işlemi yapan PTT İşyerlerinin dışına, pencere, kapı gibi yerlere efektif alım satım işlemi yapıldığını 
+belirlemek amacıyla “Efektif Alınır ve Satılır” ibarelerinin Türkçe ve yabancı dildeki karşılıklarını içeren bir 
+veya birkaç levha asılır.
+5.3.5 Kur Bilgilerinin Müşterilere Duyurulması
+5.3.5.1 Efektif İşlemi yapan PTT İşyerlerinde binanın iç veya dış kısmında bir veya birkaç kur tablosu 
+halkın görebileceği şekilde asılabilir.
+5.3.5.2 PTT işyerlerinde kurulu bulunan kaplı devre ekranlardan ve PTT’ye ait internet sitesinden efektif alış 
+satış kurları görüntülenebilir.
+5.3.6 Günlük Kur Listelerinin Temini
+Ana sistem üzerindeki geçerli kur, PTT İşyerleri tarafından sistem üzerinden görülebildiği gibi çıktısı da 
+alınabilir.
+5.3.7 Kurların Uygulama Süresi
+Kur bilgileri, ana sisteme anlık olarak yansıtılır.
+5.3.8 Belgelerin Zayi Edilmesi
+Efektif işlemleri sonrasında müşteriye verilen belgelerin zayi edilmesi sebebiyle yazılı başvurulması halinde 
+sistem üzerinden yeni bir belge tanzim edilmez, müşteriye PTT İşyerlerinde muhafaza edilen belgenin bir 
+örneği PTT İşyeri tarafından onaylanarak verilebilir.
+5.3.9 Efektiflerin Değiştirilmesi
+PTT İşyerlerine gelen aynı cins efektif kupürlerinin birbiriyle ya da daha küçük veya daha büyük kupürlerle 
+değiştirilmesi talepleri kabul edilmez.
+5.3.10 Alış Ve Satışı Yapılan Efektifler
+5.3.10.1 Alışı ve satışı yapılacak efektifler, konvertibl efektifler üzerinden PTT’ce belirlenir.
+5.3.10.2 PTT, belirli bir konvertibl paranın sadece belirli işyerlerinden alımı ve satımı yapılması yönünde 
+karar alabilir.
+5.3.11 Yürürlükten Kaldırılan Hükümler
+“Efektif Yabancı Para İşlemleri Rehberi” yürürlükten kaldırılmıştır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman No
+PBD.PR02.07/711.07.2018
+6. YÜRÜRLÜK
+Bu prosedür yayınlandığı tarihte yürürlüğe girer.
+7. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,1511 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+REHBERLİK VE TEFTİŞ 
+BAŞKANLIĞI REHBERLİK 
+VE TEFTİŞ BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/26
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığının; teşkilatı, 
+görevi, yetki ve sorumlulukları ile çalışma usul ve esaslarını kapsar. 
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığının, Rehberlik ve Teftiş 
+Başkanının, Başdenetçilerin, Başmüfettişlerin, Denetçilerin, Müfettişlerin, Denetçi Yardımcılarının ve Yönetim 
+Hizmetleri Şube Müdürlüğünün görev, yetki ve sorumlulukları ile denetlenenlerin sorumluluklarını, Rehberlik ve 
+Teftiş Başkanı, Başdenetçi, Denetçi ve Denetçi Yardımcılarının atanma şekillerini ve özlük haklarını kapsar.
+3. DAYANAK
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel 
+Hakkında Yönetmeliği’nin 24. maddesinin 4. fıkrasına ve Posta ve Telgraf Teşkilatı Anonim Şirketi Esas 
+Sözleşmesi’nin 16. maddesinin 1. fıkrasının (j) bendine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Başkan: Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanını,
+4.2 Başkanlık: Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığını,
+4.3 Bağlı Ortaklık: Ana ortaklık tarafından hisselerinin doğrudan veya dolaylı olarak yüzde elliden fazlasına veya 
+aynı oranda oy hakkına ya da yönetim çoğunluğuna seçme hakkına sahip olunan şirketleri, 
+4.4 Denetçi: Posta ve Telgraf Teşkilatı Anonim Şirketinin Rehberlik ve Teftiş Başkanını, Başdenetçisini, 
+Denetçisini ve yetkili Denetçi Yardımcılarını, ayrıca 399 sayılı KHK’nın 1 sayılı cetveline tabi Başmüfettiş, 
+Müfettişlerini, 
+4.5 Denetçi Yardımcısı: Stajda bulunan yetkisiz Denetçi Yardımcılarını,
+4.6 İştirak: Ana ortaklık tarafından hisselerinin doğrudan veya dolaylı olarak, en fazla yüzde ellisine kadar veya 
+aynı oranlarda oy hakkına sahip olunan şirketleri,
+4.7 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürünü, 
+4.8 Refakat Denetçisi: Rehberlik ve Teftiş Başkanına yardımcı olmak üzere Merkez Büroda görevlendirilen 
+Denetçileri, 
+4.9 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini,
+4.10 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulunu, 
+ifade eder.
+5. SORUMLULUKLAR
+5.1. Rehberlik ve Teftiş Başkanlığı
+5.1.1 Rehberlik ve Teftiş Başkanlığının Görev ve Yetkileri
+Rehberlik ve Teftiş Başkanlığının görev ve yetkileri şunlardır; 
+a)Şirketin ve bağlı ortaklıklarının, iştiraklerinin, teftiş, inceleme ve soruşturma usul ve esaslarını belirleyerek 
+Yönetim Kuruluna sunmak, gerekli düzenleme, uygulama ve koordinasyonu sağlamak.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/26
+b) Rehberlik ve Teftiş Başkanı ve denetim personelinin (kontrolörler de dahil) görev, yetki ve sorumlulukları ile 
+ilgili usul ve esasları belirleyerek Yönetim Kuruluna sunmak ve gereğini sağlamak. 
+c)Şirkette ve bağlı ortaklıklarında, iştiraklerinde; teftiş, inceleme ve soruşturma yaptırmak.
+ç) Şirketçe yürütülen faaliyetlerin hedef ve amaçlara uygun olarak daha etkin gerçekleştirilmesine katkıda 
+bulunmak, uygulamada karşılaşılan sorunlara çözümler üretmek, Şirket politikalarının etkinliğini değerlendirmek, 
+uygulama yöntem ve sonuçları üzerinde analizler yaparak alternatif öneriler sunmak, yeni politikaların Şirket 
+birimlerince daha iyi anlaşılmasını temin etmek amacıyla çalışmalar yapılmasını sağlamak.
+d) Görev alanına ilişkin işlemlerin, ilgili mevzuat hükümleri ve Entegre Yönetim Sistemi şartlarına uygun 
+yürütülmesini sağlamak.
+e) Bilgi Edinme Hakkı Kanunu ve Dilekçe Kanunu çerçevesinde görev ve hizmet alanları ile ilgili CİMER ve bilgi 
+edinme aracılığı ile gelen şikâyet ve önerilerin değerlendirilerek sonuçlandırılmasını sağlamak.
+f)Müşteri (iç-dış) memnuniyetini sağlamak için müşterilerin ihtiyaç, beklenti ve yakınmalarını tespit ve 
+gidermeye yönelik çalışmaların yapılmasını sağlamak.
+g)Başkanlığın görev alanına ilişkin iş ve işlemlerle ilgili alımların; yapım işlerine ilişkin 4734 sayılı Kanun, Yapı 
+İşleri Satın alma Prosedürü ve PTT AŞ Mal ve Hizmet Alımı Prosedürü ile belirlenen limit ve alım usulü 
+çerçevesinde gereğini sağlamak.
+ğ) Başkanlık personelinin mevzuat hükümleri doğrultusunda hizmet içi, işbaşı ve kurum dışı eğitim ihtiyacının 
+belirlenmesi ile karşılanmasına yönelik iş ve işlemleri yapmak.
+h) Görev alanına ilişkin mevzuatı takip etmek, görev alanı ile ilgili rapor, brifing ve istatistikleri hazırlayarak 
+gerektiğinde ilgililere sunmak.
+ı) Görev alanına ilişkin hususlarda açılan davalar ile ilgili bilgi ve görüş hazırlamak.
+i) Görev alanına ilişkin ihtiyaç duyulan personel, araç, gereç ve malzemeleri tespit etmek, temini için gerekli iş ve 
+işlemleri yapmak. 
+j) Fiziki veya elektronik ortamda yapılan yazışma ve arşiv işlemlerinin standart dosya planı, evrak kodlama 
+sistemi, Resmî Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik ve Devlet Arşiv Hizmetleri 
+Hakkında Yönetmelik hükümleri doğrultusunda yürütülmesini sağlamak.
+k) Genel Müdürce rehberlik ve teftiş hizmetleriyle ilgili olarak verilen diğer görevlerin yerine getirilmesini 
+sağlamak.
+5.2 Rehberlik ve Teftiş Başkanının Görev, Yetki ve Sorumlulukları 
+5.2 Rehberlik ve Teftiş Başkanı, denetçi yetki ve sıfatına sahip olup Genel Müdürün yazılı emir veya onayı üzerine, 
+Genel Müdür adına aşağıdaki görevleri yapar;
+a) Başkanlığın görevlerinin yürütülmesini sağlamak,
+b) Başkanlığı yönetmek, denetçilerin çalışmalarını düzenlemek ve denetlemek, 
+c) Gerektiğinde bizzat teftiş, denetim, inceleme ve soruşturma yapmak,
+ç) Rehberlik ve Teftiş Başkanlığının faaliyet alanına ilişkin uygulama birliğinin sağlanmasına yönelik rehber ve 
+talimatların hazırlanmasını ve uygulanmasını sağlamak,
+d) Uygulamada, denetçiler arasında mevzuatın farklı yorumlandığı hallerde, bu farklılığın giderilmesi için görüş ve 
+uygulama birliğini sağlamak,
+e)Yıllık çalışma plan ve programı kapsamında “Turne Dışı” ve “Turne” teftiş programlarını hazırlayarak Genel 
+Müdürün onayına sunmak, onaylanan programların uygulanmasını sağlamak,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/26
+f) Denetçilerden gelen raporları incelemek, eksikliklerin giderilmesini sağlamak, Genel Müdüre sunmak, 
+ilgililerce alınacak önlemleri ve yapılacak işlemlerin sonuçlarını takip etmek ve alınması gereken önlemlere ilişkin 
+önerilerde bulunmak,
+g) Gerekli görülen hallerde Genel Müdürün emri ile program dışında da inceleme, soruşturma ve teftiş yaptırmak, 
+ğ) Denetçi Yardımcılarının işe alınması ve 3(üç) yıllık yardımcılık döneminde yetişmelerini sağlayıcı tedbirleri 
+almak,
+h) Bilimsel ve mesleki gelişmelere göre denetçilerin eğitimlerine yardımcı olmak, bilgilerini arttırmak için; görevi 
+aksatmayacak şekilde, her yıl uygun görülen süre ve yerlerde kurs, seminer ve konferanslar düzenlemek veya başka 
+birim ve kuruluşlar tarafından düzenlenenlere denetçilerin katılma olanaklarını araştırmak ve sağlamak,
+ı) Başkanlığın çalışmalarına ait faaliyet raporlarını gerektiğinde Genel Müdüre arz etmek,
+i) Yürürlükteki mevzuata göre denetçilerin ve Başkanlık personelinin izinlerini düzenlemek,
+j) Başkanlık personelinin görev dağılımını ve görev yerini belirlemek ve denetlemek. 
+k) Görev alanına giren konularda, uygulamalarda ortaya çıkan mevzuat yetersizliği ve aksaklıklarla ilgili hususlarda 
+inceleme ve araştırma yaptırarak, alınması gereken yasal, disiplin ve idari önlemler konusunda Genel Müdüre 
+önerilerde bulunmak,
+l) Denetçilerin aylık çalışma ve hesap cetvellerini inceletip, işlemlerini tamamlatmak,
+m) Başkanlık personelinin görev dağılımını ve görev yerlerini belirlemek, görevlerini denetlemek,
+n) Genel Müdür tarafından rehberlik ve teftiş hizmetleriyle ilgili olarak verilecek diğer görevleri yapmak.
+5.3. Denetçilerin Görev ve Yetkileri:
+5.3.1 Denetçiler, Genel Müdür adına şirkette ve bağlı ortaklıklarında, iştiraklerinde; 
+a) Mali denetim yaparak, sonucu hakkında rapor düzenlemek,
+b)Şirketin Uyum Birimi dahil tüm birimlerde her türlü denetleme, inceleme, araştırma, soruşturma ve teftiş işleri 
+yapmak, tüm işlemlerin kanun, tüzük, yönetmelik ve mevzuata uygun olarak yürütülüp yürütülmediğini, işlerin 
+zamanında, güvenli ve düzenli olarak yapılıp yapılmadığını, personelin görev ve yükümlülüklerini gereğince yerine 
+getirip getirmediğini denetlemek, her türlü işletme incelemesi yapmak ve bunların sonuçları ile PTT binalarının 
+yapım, bakım ve onarım işlemlerinin mevzuata uygun olarak yürütülüp yürütülmediği hakkında rapor düzenlemek,
+c)İşlemlerini denetlediği personelin, verim, bilgi ve yetenekleri hakkında bilgi edinmek ve haklarında 
+gerektiğinde "Denetleme Raporu" hazırlamak,
+ç) Mevzuatın uygulanmasından doğan aksaklıklarla, yapılmakta olan işlerde gerek Şirket açısından, gerekse diğer 
+yönetimsel açılardan görülen noksanlık ve aksaklıkların giderilmesini, düzeltilmesini, işlerin daha düzenli 
+yürütülmesini sağlayıcı önlemlere ilişkin görüşlerini, raporla Başkanlığa bildirmek,
+d) Herhangi bir şekilde öğrenecekleri her türlü yolsuzluğu derhal Başkanlığa bildirerek, alacakları emir üzerine 
+soruşturma yapmak, izin almaya elverişli süre olmadığı takdirde, derhal soruşturmaya başlamakla birlikte, durumu 
+ivedilikle Başkanlığa bildirmek,
+e)Çeşitli konularda yurt içinde ve dışında araştırmalar yapmak, görevlendirildikleri komisyon, kurs, seminer ve 
+toplantılara katılmak,
+f)Eşliğine verilen stajdaki denetçi yardımcılarının en iyi biçimde yetişmelerini sağlamak, bunların çalışma, verim, 
+ahlaki durum, tutum ve davranışları hakkında 3 ayda bir, eşliğinde 3 aydan az kalmış ise kaldığı süreye ilişkin veya 
+gerektiğinde daha kısa sürede gizli rapor vermek,
+g)Teftiş, inceleme ve soruşturmaya başlamadan önce ilgili iş yeri personelinden, izinli olarak ayrılmış olanların, 
+izinleri bitmeden görevlerine dönmeleri iş bakımından zorunlu görüldüğü takdirde, göreve başlamaları için, 
+durumu personelin en yakın birim amirine bildirmek,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/26
+ğ) Teftiş, inceleme veya soruşturmasını yaptığı personelin, konuyla ilgili olarak güncel mevzuat konusunda 
+bilgilenmesini sağlamak, 
+h)Başkanlık tarafından verilecek emir üzerine Şirket hizmetleriyle ilgili diğer çalışmaları yapmak,
+İle görevli ve yetkilidirler.
+5.3.2 Denetçi Yardımcılarının bu yetkilerini kullanabilmeleri ya da bağımsız olarak görev yapabilmeleri, belirli bir 
+yetişme süresinin sonunda, kendilerine Başkanlıkça yazılı yetki verilmesiyle mümkündür. Denetçi Yardımcılarına, 
+belirli bir yetişme süresinin sonunda Başkanlıkça müstakil olarak görev verilebilir. 
+5.3.3.Denetçiler, kanun ve mevzuatta öngörülen yetkilerini tam olarak kullanmak, görevlerini eksiksiz yerine 
+getirmek zorundadırlar. Aksine davranışlardan ötürü, yürürlükteki mevzuat çerçevesinde sorumluluk taşırlar.
+5.3.5 Denetçiler, yaptıkları çalışmaları ve hazırladıkları raporları yürürlükteki mevzuat çerçevesinde 
+sonuçlandırırlar.
+5.4 Yönetim Hizmetleri Şube Müdürlüğünün Görev Yetki ve Sorumlulukları 
+5.4.1 Şube Müdürlüğü, Başkanın emri altında; bir şube müdürü, yeteri kadar şef, memur ve diğer görevlilerden 
+oluşur.
+5.4.2 Yönetim Hizmetleri Şube Müdürlüğünün görevleri şunlardır;
+a) Turne ve turne dışı teftiş programı, inceleme ve soruşturma ile ilgili her türlü yazışmayı hazırlamak, kayıtlarını 
+tutmak.
+b) Denetim personelinden (kontrolörler de dahil) gelen rapor, yazı ve soruşturma evrakının kaydını tutmak ve takip 
+etmek.
+c) Denetçilerin iş ve hesap cetvellerini inceleyerek tahakkuka ait işlemi hazırlamak,
+ç) Denetçi Yardımcılarının staj işlemlerini takip etmek.
+d) İstatistiksel bilgilerle ilgili rapor hazırlamak.
+e) Kontrolörlerce gönderilen inceleme ve soruşturma faaliyetlerini gösterir tabloların düzenlenmesi ve takibini 
+sağlamak.
+f) Denetçiler ve personelin özlük hakları ile ilgili her türlü iş ve işlemleri yürütmek.
+g) Görev alanına ilişkin işlemlerin, ilgili mevzuat hükümleri ve Entegre Yönetim Sistemi şartlarına uygun 
+yürütülmesini sağlamak.
+ğ) Bilgi Edinme Hakkı Kanunu ve Dilekçe Kanunu çerçevesinde görev ve hizmet alanları ile ilgili CİMER ve bilgi 
+edinme aracılığı ile gelen şikâyet ve önerilerin değerlendirilerek sonuçlandırılmasını sağlamak.
+h) Müşteri (iç-dış) memnuniyetini sağlamak için müşterilerin ihtiyaç, beklenti ve yakınmalarını tespit ve gidermeye 
+yönelik çalışmaları yapmak. 
+ı) Başkanlığın görev alanına ilişkin iş ve işlemlerle ilgili alımların; ilgili mevzuat ile belirlenen limit ve alım usulü 
+çerçevesinde gereğini sağlamak.
+i) Personelin mevzuat hükümleri doğrultusunda hizmet içi, işbaşı ve kurum dışı eğitim ihtiyacının belirlenmesi ile 
+karşılanmasına yönelik iş ve işlemleri yapmak.
+j) Başkanlığın görev alanına ilişkin mevzuatı takip etmek, görev alanı ile ilgili rapor, brifing ve istatistikleri 
+hazırlayarak ilgililere sunmak.
+k) Başkanlığın görev alanına ilişkin hususlarda açılan davalar ile ilgili bilgi ve görüş hazırlamak.
+l) Başkanlığın görev alanına ilişkin ihtiyaç duyulan personel, araç, gereç ve malzemeleri tespit etmek, temini için 
+gerekli iş ve işlemleri yapmak.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/26
+m) Personelin görev dağılımını ve görev yerini belirlemek ve Başkanın onayına sunmak.
+n) Fiziki veya elektronik ortamda yapılan yazışma ve arşiv işlemlerinin standart dosya planı, evrak kodlama 
+sistemi, Resmî Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik ve Devlet Arşiv Hizmetleri 
+Hakkında Yönetmelik hükümleri doğrultusunda yürütülmesini sağlamak. 
+o) Şirket hizmetleriyle ilgili verilen diğer görevlerin yerine getirilmesini sağlamak.
+5.5. Üst Düzey Yöneticilerin Yükümlülükleri
+5.5.1 Denetçiler, görev emirlerini Genel Müdürün emri veya onayı üzerine Başkandan alırlar.
+5.5.2  Genel Müdürlük Başkanlıkları, Daire Başkanlıkları kendilerine doğrudan intikal eden ihbar ve şikayetlerden; 
+belli bir özlük hakkını isteme, çözüm önerme, temenni veya herhangi bir idari ve teknik ihtilafı giderme gibi, 
+Başkanlıkların, Daire Başkanlıklarının kendi uzmanlıklarına giren konuları kendileri çözümlerler.
+5.5.3 Ancak, incelenen konularda suç unsurları belirlenen ve soruşturmalarında denetçilik bilgi ve yeteneği ile teftiş 
+metot ve tekniklerinin kullanılmasını gerektiren hususlar, gerekçeli olarak Genel Müdür onayı alındıktan sonra 
+Başkanlığa aktarılır.
+5.5.4 Bölge Müdürlükleri; intikal eden ihbar ve şikayetler üzerine, gereken ilk incelemeyi görevlendirecekleri 
+personele yaptırırlar. Mahallinde muhakkik görevlendirmek suretiyle, inceleme ve soruşturması imkan dahilindeki 
+konular, Bölge Müdürlükleri tarafından varsa kontrolörlerine veya görevlendirilecekleri personele yaptırmak 
+suretiyle sonuçlandırılır. Denetçi bilgi ve tekniğini gerektirecek düzeyde önem ve ağırlıkta görülen konular ise 
+Başkanlığa aktarılır. 
+5.6. Yöneticilerin Yükümlülükleri
+5.6.1 Teftiş, İnceleme ve Soruşturma ile görevlendirilen denetçilere ilgili birimin yöneticisi; işlerinin gereğine 
+uygun biçimde yürütülmesini olanaklı kılacak şekilde ve görevleri süresince, kariyerlerine uygun, çalışabilecekleri 
+bir yer tahsis etmek, yürürlükteki mevzuat hükümleri çerçevesinde şehirlerarası otomatik görüşmeye açık bir 
+telefon tesis ettirmek, görevini yürütebilmesine ilişkin diğer gereksinimlerini ve görevle ilgili isteklerini yerine 
+getirmek, gerekli önlemleri almak,
+5.6.2 Teftiş defteri ile en son iki teftişe ait raporları ve bunlarla ilgili bildirileri, yerine atananlara imza karşılığında 
+devir-teslim etmek ve istediğinde denetçiye vermek, 
+5.6.3 Hastalık ve bunun gibi zorunlu nedenler dışında, yıllık izin, nakil, kursa katılmak için personelin görevden 
+ayrılmasını gerektiren durumlarda, denetçinin yazılı iznini almak, izin kullanmaya başlamış olan personeli, denetçi 
+isterse göreve çağırmak, 
+İle yükümlüdür.
+5.7 Birim Amirleri ve İlgili Personelin Yükümlülükleri
+5.7.1 Birim amirleri ve ilgili personel; 
+(a) Para ve para hükmündeki kağıtlar ile ambar ve depolarında bulunan ayniyat ve bunlarla ilgili tüm belge ve 
+defterleri, gizli de olsa bütün belgeleri ilk talepte denetçiye göstermek, saymasına ve incelemesine yardımcı olmak,
+(b) Denetçinin gerekli gördüğü evrak, kayıt ve belgelerin, denetçilik mührü ve imzasıyla onaylanmış suretlerini 
+yerine koymak koşulu ile asıllarını veya suretlerini vermek,
+(c) Denetçi tarafından sorulan sözlü ve yazılı soruları cevaplandırmak, 
+İle yükümlüdür.
+5.7.2 İlgililer bu yükümlülüklerini hiçbir nedenle geciktiremezler. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/26
+6. UYGULAMA
+6.1. Teşkilat, Bağlılık ve Görev Merkezi
+6.1.1 Teşkilat ve Bağlılık
+6.1.1.1 Rehberlik ve Teftiş Başkanlığı; Denetçi nitelik ve yetkisine sahip bir Başkan ve yeteri kadar Denetçiden 
+oluşur. Rehberlik ve Teftiş Başkanlığı, Genel Müdür adına görev yapar.
+6.1.1.2 Başkanlığın yazışma, hesap, arşiv ve benzeri işleri Başkanlığa bağlı Yönetim Hizmetleri Şube Müdürlüğü 
+tarafından yürütülür.
+6.1.2. Görev Merkezi
+6.1.2.1 PTT Rehberlik ve Teftiş Başkanlığının görev merkezi Ankara'dır. 
+6.1.2.2 Devamlı denetim ve teftişi sağlamak amacıyla, İstanbul ve İzmir'de görev merkezleri kurulmuştur.
+6.2 Rehberlik ve Teftiş Başkanının Atanması
+Rehberlik ve Teftiş Başkanı, Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli 
+Personel Hakkında Yönetmelik hükümlerinin ilgili maddesi gereğince atanır.
+6.3 Rehberlik ve Teftiş Başkanına Yardım 
+ Rehberlik ve Teftiş Başkanı, kendisine yardım etmek üzere yeterli sayıda denetçiyi, "Refakat Denetçisi" olarak 
+görevlendirebilir. Refakat denetçileri Başkanın gözetiminde raporları şekil ve esas yönünden inceleyerek, görüş ve 
+önerilerini Başkana sunar.
+6.4 Rehberlik ve Teftiş Başkanına Vekâlet
+Rehberlik ve Teftiş Başkanı; geçici sebeplerle görevinden ayrıldığında, Başkanlığa atanma koşullarını taşıyan, 
+Başkana yardımla görevli refakat denetçilerinden birine vekâlet görevini verir. Herhangi bir sebeple Rehberlik ve 
+Teftiş Başkanlığının boşalması halinde vekâlet görevi Genel Müdür onayı ile belirlenir.
+6.5 Denetçilerin Görevlendirilmesi
+Denetçiler, Genel Müdürün emri ve onayı üzerine, Başkanlıktan aldıkları talimatla görev yaparlar. Başka bir 
+makam tarafından denetçilere teftiş, inceleme ve soruşturma görevi verilemez. Denetçiler aldıkları görevlerin 
+neticelerini Başkanlığa bildirirler.
+6.6. Denetçilerin Uyacakları Hususlar
+6.6.1 Denetçiler, bulundukları yerlerde görev ve sıfatlarının gerektirdiği saygınlığı ve güven duygusunu sarsacak 
+nitelikte davranışlarda bulunamazlar.
+6.6.2 Denetçiler;
+a)  Yürütmeye müdahale edemezler.
+b)  İncelemek üzere el koydukları belgeler üzerinde, incelendiğine ilişkin işaret, tarih ve imza dışında, açıklama, 
+ekleme ve düzeltme yapamazlar. Elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgi ve kayıtları 
+değiştiremez ve silemezler.
+c)Teftişe tabi birim personeli ile özel münasebetler tesis edemezler. (Beşeri ve sosyal ilişkilerin gerektirdiği 
+hususlar, bu yasakların dışındadır.)
+ç) Teftişe gidecekleri yerleri, yapacakları işleri ve görevleri dolayısıyla edindikleri gizli bilgi ve belgeleri 
+açıklayamazlar.
+d)  Mesleğin gerektirdiği saygınlığı ve güven duygusunu sarsacak davranışlarda bulunamazlar.
+e)  Denetçiler meslek ahlakına ve etik ilkelere uygun davranırlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/26
+6.7 Görevden Uzaklaştırma
+6.7.1 Denetçiler görevlendirildikleri hususlarla ilgili olarak, aşağıdaki şartların gerçekleşmesi halinde, Şirkette 
+çalışan ilgilileri (657 sayılı DMK, 399 sayılı KHK ve İdari Hizmet Sözleşmeli Personel Hakkındaki Yönetmelik 
+hükümlerine tabi personeli) usulüne göre doğrudan görevden uzaklaştırabilirler.
+a) Devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına karşı suç 
+işlemek, casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, 
+ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya 
+kaçakçılık gibi yüz kızartıcı bir suçtan dolayı haklarında soruşturma açılmasına lüzum görülmesi.
+b) Denetim ve soruşturmanın önemli derecede güçleştirilmesi.
+c)İşyerinde kişilere ve mallara karşı ağır zararda bulunacağı hakkında kuvvetli işaretler bulunması.
+ç) Kasayı ve depoları saydırmaktan, para, para hükmündeki evrak, senet, ayniyat ile bunların kayıt ve hesaplarını, 
+defter ve kayıtları göstermekten veya sorulan sorulara kanuni bir sebep olmaksızın cevap vermekten kaçınılması.
+d) Herhangi bir nedenden dolayı tutuklanması.
+e) Göreviyle ilgili hakkında ceza soruşturması veya kovuşturması açılması.
+6.7.2 Görevden uzaklaştırma tedbiri, teftiş ve soruşturmanın her safhasında alınabilir. Ancak, görevden 
+uzaklaştırılan kişinin görevi başında kalmasının sakıncalı olduğunun gerekçelerinin açık bir şekilde ortaya 
+konması, 6.7.1. maddenin (ç) bendinde yazılı hususun ise, bir tutanakla belirlenmesi gerekir. Zanlıların ilgili 
+kanunlardaki susma hakkı saklıdır.
+6.7.3 Herhangi bir personelin görevden uzaklaştırılması nedeniyle, işlerin aksamaması için gereken önlemler o iş 
+yerinin amirince alınır. 
+6.7.4 Görevden uzaklaştırılan personelin görevini soruşturmayı yürüten denetçi üstlenemez.
+6.7.5 Görevden uzaklaştırma keyfiyeti denetçi tarafından gerekçesi ile birlikte atamaya yetkili amire sunulmak 
+üzere, Başkanlığa ve diğer ilgililere yazı ile hemen bildirilir.
+6.7.6 Atama yetkisi Yönetim Kuruluna ait personelin görevden uzaklaştırılması halinde, durum Başkanlık 
+tarafından Yönetim Kuruluna bilgi verilmek üzere Genel Müdüre sunulur.
+6.7.7 Teftiş ve soruşturma neticesinde suçun işlendiğinin anlaşılamadığı veya yeterli kanıt bulunamadığı hallerde; 
+görevden uzaklaştırılmış olan personel, denetçinin derhal vereceği rapor üzerine, atamaya yetkili amirlerince 
+bekletilmeksizin görevine iade edilir.
+6.7.8 Görevden uzaklaştırılan personele ait soruşturma ile merkezdeki ünitelerce bu soruşturmaya ait rapor üzerinde 
+yapılacak işlemin, diğer işlerden öncelikle tamamlanması ve sonuçlandırılması zorunludur.
+6.8 Müşterek Çalışmalar
+6.8.1 Teftiş, denetim, inceleme ve soruşturma programlarının gruplar halinde uygulanmasında, her gruba dahil 
+denetçilerden en kıdemlisi o grubun başkanı sıfatıyla çalışmaları düzenler. Grup başkanı, işe başlarken ve 
+çalışmaların devamı sırasında teftiş ve incelemeler için en uygun yöntemi belirler, işlerin seyrini izleyerek sonuç 
+alınmasını mümkün kılacak öneri ve önlemlerin uygulanmasını sağlar. Bu amaçla kendisi de dahil iş bölümü yapar 
+ve bu hususu grubundaki denetçilere yazı ile duyurur.
+6.8.2 Grup çalışmaları ile ilgili raporlar hariç her türlü yazışmalar grup başkanının imzasıyla yapılır.
+6.8.3 Denetçiler, grup halindeki çalışmalarda, mevzuatın ve kılavuzların gerektirdiği esaslara uyulmaması halinde, 
+Başkana karşı ortak sorumluluk taşırlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/26
+6.9 Denetçilerin Diğer Personelle Birlikte Yapacakları Çalışmalar 
+6.9.1 Teftiş, inceleme ve soruşturma için gidilen yerlerde, denetçilerle bu gibi görevleri yapan diğer personelin, 
+görev gereği birlikte çalışmaları halinde, denetçiler işin belirtilen süre içinde bitirilmesini sağlamak ve çalışmayı 
+yönetmekle yükümlüdür.
+6.9.2 Denetçilerin görevli bulundukları yerlerde teftiş, inceleme ve soruşturma ile görevlendirilen personel, denetçi 
+tarafından sakınca görülmemesi durumunda, çalışmaları hakkında denetçiye bilgi vermek suretiyle görevini yapar. 
+Denetçi bu personelin çalışmalarında sakınca gördüğü takdirde durumu Başkana bildirir ve alacağı emre göre 
+hareket eder.
+6.10 İşlerin Süresinde Bitirilmemesi ve İşin Devri
+6.10.1 İşlerin süresinde bitirilmemesi veya işin devrinde aşağıda belirtilen hususlara uyulur.
+a) Denetçiler kendilerine verilen işleri Başkanlık tarafından belirtilen süreler içinde bitirirler. Süresinde 
+tamamlanamayacağı anlaşılan işler hakkında Başkanlığa zamanında yazılı bilgi vererek alacakları talimata göre 
+hareket ederler.
+b) Denetçilere verilen işin devredilmemesi asıldır. Denetçiler ellerindeki işleri Başkanın yazılı emri veya izni ile 
+başka bir denetçiye devredebilirler.
+c) Devredilecek işler için devri yapacak olan denetçi bir devir notu hazırlar. En az üç nüsha olarak hazırlanacak 
+devir notuna; devredilen işin ne olduğu, devir gününe kadar işin hangi kısmının ne dereceye kadar incelendiği, iş 
+hakkında ne gibi görüş ve kanıya varıldığı, beliren kanı ve görüş olarak o işin özelliğine göre, bundan sonraki en 
+uygun inceleme ve soruşturma şeklinin ne olması gerekeceği hakkındaki düşüncelerini yazar.
+6.10.2 Bundan başka, devredilen işe ait bütün belgeleri, sıra numarası altında gösteren 3(üç) nüsha olarak 
+hazırlanan dizi pusulasına kaydederek bir nüshasını, işe ait defter ve belgelerle birlikte işi devralan denetçiye imza 
+karşılığında teslim eder. Devir notunun ve dizi pusulasının ikinci nüshası bir yazı ekinde devreden denetçi 
+tarafından, Başkanlığa gönderilir. Dizi pusulasının üçüncü nüshası bu denetçide kalır. 
+6.11 Denetim Bürolarında Görevli Personelin Durumu
+6.11.1 Ankara, İstanbul ve İzmir'de Başkanlık tarafından oluşturulan denetim bürolarında, yazım ve mevzuat 
+düzenleme ile ilgili işleri yapmak üzere memur çalıştırılabilir. Bunların pozisyonları o yerdeki birim amirliğince, 
+Başkanlığa tahsisen verilir. Ancak bu personelin tezkiye ve özlük işlemleri ilgili birim tarafından yürütülür. 
+6.11.2 Ayrıca, denetçilere tahsis edilecek denetim bürolarının oda, mefruşat ve malzeme ihtiyaçları o yerdeki birim 
+amirince sağlanır.
+6.12 Denetçiliğe Giriş, Giriş Sınavı Koşulları ve Sınavlarla İlgili Diğer İşlemler
+6.12.1 Denetçiliğe Giriş
+6.12.1.1 Rehberlik ve Teftiş Başkanlığına, Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet 
+Sözleşmeli Personel Hakkında Yönetmelik gereğince yazılı ve sözlü aşamalardan oluşan giriş sınavını başarmak 
+şartı ile Denetçi Yardımcısı olarak girilir. 
+6.12.1.2 Denetçi Yardımcılığı giriş sınavı, bilgi, karakter ve genel yetenekler bakımından Rehberlik ve Teftiş 
+Hizmetlerinde Denetçi Yardımcısı unvanı ile görev alabilecek adayların belirlenmesi ve bu nitelikleri taşıyan 
+adaylar arasından üstün olanların seçilmesi amacıyla yapılan işlemlerin tümüdür.
+6.12.1.3 Sınavın açılmasına, Başkanlığın önerisi ve Genel Müdürün onayı ile karar verilir.
+6.12.2 Giriş Sınavının Bölümleri
+Sınavın yazılı ve sözlü olmak üzere iki bölümü vardır. Önce yazılı sınav yapılır. Bu sınavda başarı gösterenlerden, 
+engel durumu görülmeyenler, sözlü sınava çağrılırlar, sözlü sınavda da başarı gösterenler, giriş sınavını başarmış 
+olurlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/26
+6.12.3 Denetçi Yardımcılığına Giriş Sınavı Kurulları
+Denetçi Yardımcılığı giriş sınavını yapacak kurul; Başkanın teklifi, Genel Müdürün onayı ile Rehberlik ve Teftiş 
+Başkanının başkanlığında, görevli denetçiler arasından seçilecek en az 4(dört) üyenin katılımı ile oluşur. Ayrıca iki 
+yedek üye seçilir.
+6.12.4 Denetçi Yardımcılığı Giriş Sınavı Koşulları
+Giriş sınavına katılabilmek için aşağıda gösterilen nitelikleri taşımak gerekir:
+a) Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında 
+Yönetmeliğin İşe Alınmada Aranacak Genel Şartlar başlıklı ilgili maddesinde sayılan nitelikleri taşımak.
+b) Hukuk, Siyasal Bilgiler, İktisat, İşletme, İktisadi ve İdari Bilimler Fakülteleri ile bunlara denkliği yetkili 
+makamca kabul edilen, en az dört yıl eğitim veren yerli veya yabancı fakültelerden birini bitirmiş olmak.
+c) Karakter ve yaşam biçimi bakımından denetim mesleğine alınmasına engel durumu olmamak. Bu koşul sadece 
+yazılı sınavı kazanan adaylar yönünden söz konusu olup, sözlü sınavdan önce Başkanlık tarafından yapılacak 
+inceleme ile belirlenir.
+6.12.5 Denetçi Yardımcılığı Giriş Sınavının İlanı
+6.12.5.1 Başkanlık, giriş sınavının açılış tarihini, yapılacağı yerleri ve giriş koşullarını Resmî Gazete’de, 
+Cumhurbaşkanlığınca belirlenen kurumun ve Şirketin internet sayfasında ayrıca ilgili PTT birimlerinde uygun 
+görülecek şekilde ilan edilmesini sağlar.
+6.12.5.2 İlanlar, sınav tarihinden en az 1 ay önce yapılır.
+6.12.5.3 Adayların başvuru ve kayıt süresi, sınavların başlama tarihinden 15(on beş) gün öncesine kadar devam 
+edecek şekilde belirlenir.
+6.12.6. Denetçi Yardımcılığı Giriş Sınavı İşlemleri
+6.12.6.1 Sınava girmek isteyenler; haklarında bilgi verebilecek iki kişinin ad, soy ad, adres ve telefonları bulunan 
+kendi el yazılarıyla hazırlayacakları öz geçmişleri ile beyanlarının yer aldığı PTT Denetçi Yardımcılığı Giriş Sınavı 
+Başvuru Formu’ nu doldurarak ve bu forma aşağıdaki belgeleri ekleyerek PTT Rehberlik ve Teftiş Başkanlığına 
+müracaat ederler.
+a)Yabancı okul mezunları için denklik belgesinin fotokopisi,
+b)İki adet fotoğraf 
+6.12.7 Denetçi Yardımcılığı Giriş Sınavının Şekli ve Yerleri
+6.12.7.1 Bu prosedürde aranan koşullara sahip adaylar, yazılı ve sözlü olmak üzere iki sınava tabi tutulurlar.
+6.12.7.2 Genel Müdürce gerek görülmesi halinde, adayların katılacağı Denetçi Yardımcılığı giriş sınavı, Öğrenci 
+Seçme ve Yerleştirme Merkezine (ÖSYM) veya bir üniversiteye yaptırılabilir.
+6.12.7.3 Yazılı sınavda başarılı olamayanlar sözlü sınava alınmazlar.
+6.12.7.4 Yazılı ve sözlü sınavlar Ankara'da yapılır. Gerektiğinde Genel Müdür onayı ile başka illerde de yapılabilir.
+6.12.8 Adaylık Belgesi
+Denetçi Yardımcılığı Giriş Sınavına katılacaklara, Başkanlık tarafından "Adaylık Belgesi" verilir. 
+Sınavlara ancak bu belgenin gösterilmesi ile girilebilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/26
+6.12.9 Denetçi Yardımcılığı Giriş Sınavlarının Konuları
+6.12.9.1 Denetçi Yardımcılığı Giriş Sınavı aşağıda gösterilen konulardan yapılır. Sınav soruları bu konulardan 
+seçilerek düzenlenir. Sınavların ÖSYM'ye veya bir üniversiteye yaptırılması durumunda adaylar için Genel Kültür 
+ve Yetenek sınavı da yaptırılabilir. 
+a) Hukuk;
+1) Anayasa Hukuku (Genel Esaslar),
+2) İdare Hukukunun Genel Esasları, İdari Yargı, İdari Teşkilat,
+3) Ceza Hukuku (Genel Esaslar, Devlete ve Millete Karşı İşlenen Suçlar),
+4) Medeni Hukuk (Genel Esaslar ve Ayni haklar),
+5) Borçlar Hukuku (Genel Esaslar),
+6) Ticaret Hukuku, (Genel Esaslar ve Kıymetli Evrak)
+7) İcra İflas Hukuku (Genel Esaslar),
+8) Ceza Muhakemesi Hukuku (Genel Esaslar).
+b) İktisat;
+1) İktisat Teorisi (Mikro-Makro Ekonomi vd.),
+2) Güncel Ekonomik Sorunlar,
+3) Para-Banka, Kredi ve Konjonktür,
+4) Milli Gelir,
+5) Milletlerarası Ekonomik İlişkiler ve Teşekküller,
+6) İşletme Denetimi ve Finansal Yönetim. 
+c) Maliye;
+1) Genel Maliye Teorisi ve Maliye Politikası,
+2) Türk Vergi Kanunlarının Esasları,
+3) Kamu Giderleri ve Gider Kanunlarının Esasları, 
+4) Bütçe ve Bütçe Çeşitleri, 
+5) Kamu Borçları. 
+d) Muhasebe;
+1) Genel Muhasebe,
+2) Mali Tablolar Analizi ve Teknikleri,
+3) Ticari Hesap.
+e) Yabancı dil; 
+1) İngilizce,
+2) Fransızca,
+3) Almanca,
+4) Dillerinden birisi.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+11/26
+f) Türkçe kompozisyon.
+6.12.9.2 Sınavların sevk ve idare sorumluluğu sınav kuruluna aittir.
+6.12.10 Gözetim Kurulları, Yazılı Sınavın Yapılış Şekli
+6.12.10.1 Giriş Sınavının yazılı bölümünün yapılacağı yerlerde gözlemci olarak görev yapmak üzere, Başkanlıkça 
+en az üçer denetçiden oluşacak gözetim kurulları görevlendirilir.
+6.12.10.2 Yazılı Sınav 6.12.9’uncu maddedeki konulardan her biri için ayrı olarak yapılır. Sınav, duyurulan yer, 
+gün ve saatte başlar, sınav sorularının açılıp, adaylara dağıtılmasından sonra sınav salonuna gelenler sınava 
+alınmazlar.
+6.12.10.3 Her aday, aday kartları kontrol edilerek salona alınır. Aday kartları gözetim kurullarında bulunanlarca 
+adayların kimlikleri ile karşılaştırıldıktan sonra kendilerine geri verilir.
+6.12.10.4 Sınav sorularının bulunduğu zarflar, adaylarca daha önce açılmamış ve mühürlü oldukları görüldükten 
+sonra açılır. Gözetim kurulları sınavın düzenli, sağlıklı ve disiplinli bir şekilde sonuçlandırılmasından 
+sorumludurlar.
+6.12.10.5 Kopya yapmaya girişenler, sınav salonundan dışarı çıkarılarak bir daha denetçi yardımcılığı sınavlarına 
+alınmazlar. Sınav önceden saptanan saatte bitirilir.
+6.12.10.6 Sınav kâğıtları, aday kartıyla kâğıttaki ad, numara karşılaştırıldıktan ve kâğıdın adayın adı soyadı yazılı 
+bölümü adaya kapattırıldıktan sonra toplanır.
+6.12.10.7 Sınav kağıtları bir zarfa konur, üzerine içinde hangi yerdeki, hangi sınava ait kaç tane kâğıt bulunduğu 
+yazılarak mühürlenir. Arkası gözetim kurullarınca imza edilir ve sınavın yapıldığı bir tutanakla belirlenir.
+6.12.11. Denetçi Yardımcılığı Giriş Sınavı Notlarının Değerlendirilmesi ve Sınav Sonrası İşlemler
+6.12.11.1 Giriş sınavlarında tam not; yazılı sınav gruplarında ayrı ayrı, sözlü sınavda tek olmak üzere 100'dür.
+6.12.11.2 Yazılı sınavı başarmış sayılabilmek için yabancı dil dışındaki yazılı sınav gruplarından alınan notlardan 
+her birinin 60'dan ve ortalamasının 65'den aşağı olmaması gerekir. Yazılı sınavda başarı gösterenler, bir yazı ile 
+sözlü sınava davet edilir.
+6.12.11.3 Sözlü sınavda 6.12.9’uncu maddede sayılan konulardan hazırlanan sorular sorulur. Ayrıca adayların, 
+zeka, kavrama ve ifade yeteneği, davranış biçimleri gibi kişisel özellikleri de göz önünde bulundurulur.
+6.12.11.4 Denetçi Yardımcılığı sınavını başarmış sayılmak için giriş sınav notunun 65'den az olmaması gerekir. 
+Giriş sınav notu, yabancı dil dışında yazılı sınav ortalaması ile sözlü sınav notu toplamının ikiye bölünmesi ile 
+bulunur.
+6.12.11.5. Sınavda başarı gösterenlerin sayısı kadro sayısından fazla olursa, giriş sınav notu üstün olanlar tercih 
+edilir. Giriş sınav notunun eşitliği halinde yabancı dil notu üstün olan aday öncelik kazanır. Diğer adaylar için sınav 
+sonuçları kazanılmış hak sayılmaz.
+6.12.11.6. Sınav sonuçları, sınav kurulu tarafından tutanakla belirlenir. Sınav ÖSYM veya bir üniversiteye 
+yaptırılmışsa, alınan sonuçlar hakkında tutanak düzenlenmez. Sınavı başaranlara Rehberlik ve Teftiş Başkanlığı 
+tarafından gerekli tebligat yapılır. Aynı giriş sınavında başarı gösterenlerin denetçi yardımcılığına atanmaları 
+sınavdaki derece sırasına göre yapılır.
+6.13.Denetçi Yardımcılarının Atanması ve Yetiştirilmesi
+6.13.1 Denetçi Yardımcılarının Atanması
+Giriş sınavında başarılı olan adaylar, Genel Müdür tarafından Denetçi Yardımcısı olarak atanırlar. Kendileri ile dört 
+aylık deneme sözleşmesi imzalanır. Bu süre sonunda haklarında düzenlenen değerlendirme raporu olumlu olanlar 
+ile takip eden cari yılsonuna kadar idari hizmet sözleşmesi imzalanır. Müteakip sözleşmeler herhangi bir şekilde 
+sözleşme fesih kararı alınmadığı sürece yenilenmiş sayılır. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+12/26
+6.13.2. Denetçi Yardımcılarının Yetiştirilmesinin Amacı ve Esasları 
+Denetçi Yardımcılarının yetiştirilmesinde aşağıdaki esaslara uyulur:
+a)Kişiliklerini mesleğin gerektirdiği niteliklere göre geliştirmek,
+b)Şirket mevzuatı ve genel mevzuatın şirketle ilgili yönleri ve posta işletmeciliği konularında görgü ve mesleki 
+bilgileri kazandırmak, teftiş, inceleme, soruşturma esas ve yöntemlerini, rapor yazma tekniğini öğretmek, bu 
+konulardaki deneyim ve yeteneklerini geliştirmek,
+c) Bilimsel çalışma, araştırma ve bilgisayar gibi çağdaş araç ve gereçlerden yararlanma alışkanlığını kazandırmak,
+ç) Yabancı dil bilgilerinin gelişmesi için imkan sağlamak,
+d) Sosyal, kültürel vb. etkinliklere aktif olarak katılmalarını sağlamak amacıyla gösterici ve özendirici olmak.
+6.13.3. Denetçi Yardımcılarını Yetiştirme Programı
+6.13.3.1 Denetçi Yardımcıları 3 yıllık yardımcılık döneminde, aşağıdaki programa göre yetiştirilirler.
+a) Birinci Dönem Çalışmaları; Başkanlığın yetki alanına giren teftiş, inceleme, araştırma ve soruşturma ile ilgili 
+mevzuatın öğretilmesi, gerektiğinde yabancı dil bilgisinin geliştirilmesi amacıyla hizmet içi eğitim şeklinde 
+düzenlenir.
+b)İkinci Dönem Çalışmaları; Denetçi Yardımcılarını yetiştirmeye yönelik gruplar halinde yapılan özel amaçlı 
+teftişlerdir. Yetiştirme görevi, Denetçi Yardımcılarının sayısına göre, bir veya birkaç denetçiye verilir. Denetçi 
+Yardımcıları belirtilen süre içinde refakatinde bulundukları denetçinin denetimi ve gözetimi altındadırlar. 
+Kendilerine verilen görevleri denetçinin talimatına göre yerine getirirler.
+Grup Başkanları programlarını; mevzuat ve uygulamasının, teftiş ve soruşturma yöntemlerinin yeteri derecede 
+öğrenilmesini sağlayacak şekilde düzenler ve uygularlar. Denetçiler, Denetçi Yardımcılarının çalışmalarını, en iyi 
+şekilde yetişmelerini sağlayacak tarzda düzenlerler.
+c) Üçüncü Dönem Çalışmaları; birinci ve ikinci dönem çalışmalarını başarı ile bitiren denetçi yardımcılarına, 
+yanında çalıştıkları denetçilerin görüşleri de alınarak, Başkanlık tarafından müstakil kasa yoklaması, müstakil 
+teftiş, inceleme ve soruşturma yetkisi verilebilir.
+6.13.3.2 Teftiş, inceleme ve soruşturmaya yetkili kılınan denetçi yardımcıları, müstakil ya da gerekiyorsa diğer 
+denetçilerle birlikte görev yaparlar.
+6.13.3.3 Denetçi Yardımcılarının üçüncü döneme ait çalışmaları, yetişmelerinin tamamlanması hususu da göz 
+önünde tutularak Başkanlık tarafından düzenlenir.
+6.13.4 Yeterlik Sınavından Önce Rehberlik ve Teftiş Başkanlığından Çıkarılma
+6.13.4.1 Denetçi Yardımcılığı döneminde, yanında çalıştıkları Denetçiler tarafından, çalışma tutum ve davranışları, 
+mesleki bilgileri, çalışkanlıkları, nitelikleri, liyakatleri hakkında her üç ayda bir, gerektiğinde daha kısa sürede gizli 
+rapor Başkanlığa gönderilir. 
+6.13.4.2 6.13.4.1. maddesinde belirtilen özellikleri taşımadığı anlaşılan Denetçi Yardımcıları hakkında Tezkiye 
+Raporunda ayrıntılı değerlendirmede bulunulur ve olumsuz hususlar tutanak vb yöntemlerle belgelendirilir. Birinci 
+defa hakkında olumsuz tezkiye düzenlenen Denetçi Yardımcıları, Başkanlıkça ikinci defa en az iki kişilik gruptan 
+oluşan Denetçilerin yanına verilirler. Gruptaki Denetçiler tarafından da olumsuz tezkiye verilen Denetçi 
+Yardımcıları, Başkanlık görüşü ile "Yeterlik Sınavı" beklenilmeksizin, rehberlik ve teftiş hizmetleri dışında bir 
+başka göreve nakil edilirler.
+6.13.4.3 Bu gibi durumlarda açılabilecek hukuk davalarındaki Şirket savunmalarına esas olmak üzere, olumsuz 
+Tezkiye Raporlarının şahitlendirilmesi ya da belgelendirilmesi gerekir. 
+6.13.5. Denetçi Yardımcılığı Dönemi ve Yeterlik Sınavı
+6.13.5.1 Denetçi Yardımcıları 3(üç) yıllık bir yardımcılık döneminden sonra yeterlik sınavına tabi tutulurlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+13/26
+6.13.5.2 Yazılı ve sözlü olarak iki bölümde yapılacak yeterlik sınavının tarihi, saati ve yeri sınav tarihinden en az 
+1(bir) ay önce ilgililere duyurulur. Yeterlilik sınavında başarı gösterenlerin denetçiliğe atanmaları sınavdaki derece 
+sırasına göre yapılır.
+6.14 Denetçiliğe Atama
+6.14.1 Denetçilik Yeterlik Sınav Kurulu
+Denetçilik yeterlik sınavını, bu prosedürün 6.12.3’üncü maddesine göre oluşturulan sınav kurulu yapar. Sınav 
+yürürlükteki mevzuat hükümlerine göre yapılır.
+6.14.2 Yeterlik Sınav Programı ve Konuları
+6.14.2.1 Denetçi Yardımcılarının 3 yıllık dönemde kazandıkları mesleki bilgi ve tecrübe derecesinin anlaşılması 
+için yapılacak yeterlik sınavı aşağıda gösterilen konulardan uygun görülenler arasından seçilir; 
+a) Yürürlükteki mevzuat ve uygulama;
+1) Anayasa Hukukunun Genel Esasları,
+2) İdare Hukuku Genel Esasları, İdari Yargı, İdari Teşkilat,
+3) Ceza Hukuku, (Genel Esaslar, Devlete ve Millete Karşı İşlenen Suçlar),
+4) Medeni Hukuk, (Genel Esaslar ve Ayni haklar)
+5) Borçlar Hukuku, (Genel Esaslar)
+6) Ticaret Hukuku, (Genel Esaslar ve Kıymetli Evrak)
+7) İcra İflas Hukuku, (Genel Esaslar)
+8) Ceza Muhakemesi Hukuku,
+9) Posta Hizmetleri ve PTT AŞ. ile ilgili genel kanun ve diğer mevzuat,
+b) Muhasebe ve Maliye;
+1) Genel Muhasebe,
+2) Ticari Hesap,
+3) Mali Tablolar Analizi ve Teknikleri,
+4) İşletme Denetimi ve Finansal Yönetim,
+5) Genel Maliye Teorisi ve Maliye Politikası,
+6) Türk Vergi Kanunlarının Esasları,
+7) Bütçe ve Finansman,
+8) Kamu Maliyesi,
+c) Teftiş, İnceleme ve Soruşturma İşlemleri;
+1) Teftiş, İnceleme ve Soruşturma Yöntem ve Teknikleri,
+2) Rapor Yazma ve Yazışma Teknikleri,
+3) Rehberlik ve Teftiş mevzuatı,
+6.14.2.2 Sınav soruları Şirketin ve Rehberlik ve Teftiş Başkanlığının çalışma alanını ilgilendiren konulara ağırlık 
+verilerek hazırlanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+14/26
+6.14.3 Yetişme Notu
+6.14.3.1 Yetişme notu aşağıda belirtilen konulardan her biri için verilen notlar ortalaması alınarak saptanır;
+a) Kurs ve seminer notu, (varsa katıldıkları kurs ve seminerler sonunda aldıkları notlar ortalaması) 
+b) Etüt ve inceleme notu, (Denetçi Yardımcılarının etüt ve inceleme sonucunda düzenledikleri raporlara verilen 
+not)
+c)Teftiş, ve denetim notu, (Denetçi Yardımcılarının yaptıkları teftiş ve inceleme sonucunda düzenledikleri 
+raporlara verilen not)
+ç) Soruşturma notu, (Denetçi Yardımcılarının yaptıkları soruşturma sonunda düzenledikleri raporlara verilen not) 
+d) Özel not, (Denetçi Yardımcılarının nitelikleri, tutum ve davranışları, mesleki bilgileri, çalışkanlıkları ve 
+liyakatleri hakkında yanında çalıştıkları denetçiler ve Rehberlik ve Teftiş Başkanı tarafından verilen notlar)
+6.14.3.2 Her bölümden verilecek notun 100 tam puan üzerinden 60'dan, yetişme notu ortalamasının ise 65'den aşağı 
+olmaması gerekir. 
+6.14.4. Yeterlik Sınavı Notlarının Değerlendirilmesi
+6.14.4.1 Yeterlik notu; Yetişme notu, yazılı ve sözlü sınav notu ortalamasından oluşur. Yazılı sınav kağıtları, sınav 
+kurulu üyeleri tarafından 100 puan üzerinden değerlendirilir. Yazılı sınavda başarılı sayılabilmek için üyelerin 
+verdiği notların ortalamasının en az 65 olması gerekir.
+6.14.4.2 Yazılı sınavda başarılı olan denetçi yardımcıları sözlü sınava tabi tutulurlar. Sözlü sınavda denetçi 
+yardımcılarına sınav kurulu üyelerinin her biri 100 tam puan üzerinden puan verir. Verilen puanların ortalaması, 
+sözlü sınav puanını oluşturur. Sözlü sınavda başarılı sayılabilmek için bu puanın en az 65 olması şarttır.
+6.14.5 Yeterlik Sınavını Kazanamayanlar ve Sınava Girmeyenler
+6.14.5.1 Yeterlik sınavını kazanamayan ya da geçerli bir mazereti olduğunu belgeleyenler dışında mazeretsiz olarak 
+sınava girmeyenler, Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel 
+Hakkında Yönetmeliğinin 24. maddesinin 3. fıkrası gereğince Gişe ve Büro Görevlisi pozisyonuna atanırlar.
+6.14.5.2 Geçerli bir mazereti olduğunu belgeleyenlere, bu prosedürün 6.12.3’üncü maddesine göre oluşturulan 
+sınav kurulu tarafından yeterlik sınavının tarihi, saati ve yeri sınav tarihinden en az (1) ay önceden duyurulur. Sınav 
+yürürlükteki mevzuat hükümlerine göre yapılır. 
+6.15 Yükselme, Kıdem ve Denetçilik Güvencesi, Denetçilerin Çalışma Anlayışı ve Amacı, Teftiş ve Turne 
+Teftiş Programlarının Hazırlanması ve İlgili Hükümler 
+6.15.1 Yükselme
+Yeterlik sınavında başarılı olanlar Denetçiliğe atanır. Özlük hakları Posta ve Telgraf Teşkilatı Anonim Şirketinde 
+Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik hükümlerine göre yapılır.
+6.15.2 Denetçilik Kıdemi
+6.15.2.1 Denetçilik kıdemine esas süre, denetçi yardımcılığında, denetçilikte, denetçi unvan ve pozisyonu muhafaza 
+edilmek şartıyla idari görevlerde, ücretli ve ücretsiz kanuni izinlerde geçirilen sürelerin, ayrıca Müfettiş 
+Yardımcılığı, Müfettiş ve Başmüfettiş olarak geçirilmiş olan sürelerin toplamıdır. 
+6.15.2.2 Denetçilik kıdemine esas süreleri aynı olanlar için kıdem sırası; denetçi yardımcıları açısından giriş sınav 
+tarihi, denetçiler için yeterlik sınavı tarihi ile bu sınavdaki başarı derecelerine göre tespit edilir. 
+ 6.15.2.3 Eylemli askerlik görevini yapmak üzere ayrılıp dönenler kendi dönemlerinin sonunda yer alırlar.
+6.15.2.4 Başdenetçilerin kıdem sırası, her halde denetçilerden öncedir. Başdenetçiler arasındaki kıdem sırasının 
+tespitinde Başdenetçiliğe atanma tarihi, aynı tarihte atananlar için Denetçilik, denetçilik kıdemi de aynı olanlar için 
+yeterlik sınavındaki başarı derecesi esas alınır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 15 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+15/26
+6.15.2.5 Denetçilik bir kariyerdir. Bu nedenle, denetçilik ve başdenetçilik kıdeminin belirlenmesinde, Denetçilik 
+dışındaki memuriyet süreleri dikkate alınmaz.
+6.15.3 Başdenetçiliğe Yükselme
+Başdenetçiliğe yükselmede esas; mesleki yetenek, kıdem, gayret, başarı ve Başkanlık nezdinde bırakılacak genel 
+izlenimin olumlu olması ile Denetçi Yardımcılığı süresi dahil, en az 10(on) yıl Denetçilik yapmış veya Müfettiş 
+Yardımcılığı süresi dahil en az 10 yıl Müfettişlik yapmış olmaktır.
+6.15.4. Denetçilik Görevinden Ayrılma ve Geri Dönüş 
+6.15.4.1 İstifa suretiyle veya başka bir göreve atanma nedeniyle ayrılan Denetçilerin, Denetçi pozisyonuna yeniden 
+kabulleri, ayrı bulundukları süre içinde, herhangi bir yasal suçtan hüküm giymemiş olmak ya da uyarma ve kınama 
+dışında herhangi bir disiplin cezası almamış olmak koşuluyla Yönetim Kurulunun onayına bağlıdır. Ancak 5 yıldan 
+fazla süreyle Denetçilikten ayrı kalanlar Denetçilik görevine dönemezler. 
+6.15.4.2 Başkanlık yaptıktan sonra Denetçiliğe dönenler dönemlerinin en kıdemlisi sayılırlar. Aynı dönemde bu 
+durumda birden fazla denetçi varsa, bunların kıdem sırasının belirlenmesinde denetçilik kıdemi esas alınır.
+6.15.4.3 Denetçilik görevinden ayrıldıktan sonra yeniden denetçiliğe dönenler, kıdem bakımından dönemlerinin 
+sonuna alınırlar.
+6.15.5 Denetçilik Güvencesi
+6.15.5.1 Rehberlik ve teftiş hizmetleri, diğer idari görevlerden ayrı bir kariyer olarak düzenlendiğinden; denetçiler 
+kendi istekleri dışında veya teftiş hizmetlerinin gerekleriyle bağdaşmayan sıhhi, ahlaki veya mesleki yetersizlikleri 
+tespit edilmedikçe görevden alınamaz, diğer idari görevlere atanamazlar.
+6.15.5.2 Sıhhi, ahlaki veya mesleki yetersizlik hallerinin; yargı kararı, sağlık kurulu raporu, denetçi raporu gibi 
+belgelerle tevsiki esastır.
+6.15.6 Denetçilerin Çalışma Anlayışı ve Amacı 
+6.15.6.1 Denetimin esas amacı, denetlenen birimin gelecekte daha mükemmel sonuçlar elde etmesine, hizmetlerin 
+etkin, verimli, rasyonel ve iktisadilik ilkelerine uygun şekilde sunulmasına, yolsuzluk ve usulsüzlüklerin 
+önlenmesine, yolsuzlukları özendirici durumların ortadan kaldırılmasına, işlerin plan ve programlar çerçevesinde 
+yasalara ve mevzuata uygun olarak gerçekleştirilmesine yönelik çözüm önerileri getirmektir.
+6.15.6.2 Denetçiler bu amaçtan hareketle Şirkette ve Bağlı Ortaklıklarında, İştiraklerinde;
+a) Hizmetlerin mevzuata ve emirlere uygun olarak yapılması,
+b)Şirketin çalışma ilkelerinin ve işletmenin faaliyetlerinin, tüm teşkilatta etkin, verimli ve uygulama birliği 
+içerisinde uygulanıp uygulanmadığının denetlenmesi,
+c) Uygulamada amaçlardan sapma ve mevzuatın uyuşmayan yönleri varsa bunların nedenleriyle birlikte 
+saptanarak, Genel Müdürlüğe ve uygulamacılara gerekli çözümlerin önerilmesi,
+ç) Personel arasındaki uyum ve işbirliğine katkıda bulunulması,
+d) Yasalardan, mevzuattan, plan ve programlardan sapmalar varsa bunların belirlenmesi, ekonomik, idari ve 
+hukuki nedenlerinin analiz edilmesi, çözüm önerilerinde bulunulması, 
+e)Şirkette hatalı işlemlerin ve varsa yolsuzlukların ortaya çıkartılması, bunların giderilmesi için gerekli önerilerin 
+yapılması, verim ve hizmetlerin etkinliğini ve verimini artırıcı önlemlerin saptanması,
+İle görevlidirler.
+6.15.6.3 Denetçilerin çalışma anlayışı, rehberlik anlayışını da içeren, etkin, verimli, iktisadi, caydırıcı bir denetim 
+sistemini öngörür, hata arayan ve sadece eleştiren teftiş sistemini benimsemez.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 16 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+16/26
+6.15.6.4 Denetçiler çalışkan, başarılı, hizmetleri gayret ve özveriyle yürüten, yetkilerini kamunun yararına kullanan 
+personelin ödüllendirilmesi için öneride bulunur.
+6.15.6.5 Denetçiler yerine getirilmeyen veya sürüncemede bırakılan işlerin nedenlerini inceler ve değerlendirme 
+sonucuna göre önerilerde bulunur.
+6.15.6.6 Denetçiler teftiş, inceleme ve soruşturmalarda; işin önemine ve niteliğine göre, gerek gördüğünde, 
+Başkanın yazılı onayını almak suretiyle ilgili personeli ve şirket bünyesindeki diğer denetim elemanlarını 
+çalıştırabilir.
+6.15.7 Teftiş Programının Hazırlanması ve Uygulanması 
+6.15.7.1 Teftiş ve denetim programları, esas olarak her yıl Rehberlik ve Teftiş Başkanlığınca hazırlanan Yıllık 
+Çalışma Plan ve Programı kapsamında, "Turne" ve "Turne Dışı" teftiş esasına göre yürütülür. Teftiş edilecek 
+birimlerin saptanmasında; birimlerin iş hacmi ve niteliği, çalışmalarının yeterlik ve verimliliği, teftiş gördüğü en 
+son tarih ve Rehberlik ve Teftiş Başkanlığında görevli denetçi mevcudu gibi hususlar dikkate alınır. Ayrıca, yıllık 
+programın hazırlanmasında, önceki yıl denetimlerinden elde edilen bilgilerden de yararlanılır. Teftiş programları, 
+Genel Müdürün onayına sunulur. 
+6.15.7.2 Buna göre; Merkez teşkilatı birimleri ile Ankara, İstanbul Anadolu, İstanbul Avrupa, İzmir Bölge 
+Müdürlükleri ve Ankara ,İstanbul ve İzmir’de bulunan lokal birimler "Turne Dışı Teftişi", bunların dışında kalan 
+yerler ise "Turne Teftişi" kapsamına girer.
+6.15.7.3. Turne ve turne dışı teftiş programlarında, uygulama esasları ve teftiş süreleri de belirtilir.
+6.15.7.4. Genel Müdür tarafından onaylanan programlar, denetçilere uygulama tarihinden 15(on beş) gün önce 
+bildirilir.
+6.15.8. Turne Teftiş Programı Hazırlama Esasları 
+6.15.8.1 PTT Teşkilatı, il itibarıyla EK-1'de gösterilen 4 bölgeye ayrılmıştır. Başkan gerekli durumlarda illerin 
+gelişmişlik düzeyi ve iş durumunu göz önünde bulundurmak koşulu ile bölgeler arasında il değişikliği yapabileceği 
+gibi, yeni kurulacak illerin hangi bölgede yer alacağını da belirler.
+6.15.8.2 Turne teftiş programlarının hazırlanmasında, objektif ilkeler dahilinde bölgeler esas alınarak, teftiş 
+edilecek müdürlük ve birimlerin iş kapasitesi çalışma ve sosyal koşulları, görev merkezine uzaklığı dikkate alınmak 
+suretiyle, denetçilerin her yıl değişik bölge ve illerde sıra ile teftiş yapmaları sağlanır.
+6.15.8.3 Ancak 3 ve 4’üncü bölgelerde turne teftiş programları, dönüşümlü şekilde her denetçi için zorunlu olarak 
+uygulanır.
+6.15.8.4 Buna göre; 
+1 - Başdenetçiler 2 ay, 
+2 - Denetçiler 3 ay,
+3 - Denetçi Yardımcıları 4 ay,
+Süre ile turnede çalışma yaparlar. Bu süreler iş gereksinimlerine göre uzatılabilir. 
+6.15.8.5 Denetçiler, Başkanlıkça gönderilen programda belirtilen turneye başlama ve bitiş tarihlerine uymak ve 
+programlarını tamamlamak zorundadırlar.
+6.15.8.6 Teftiş, zorlayıcı nedenlerin yazılı olarak Başkanlığa bildirilmesi koşulu ve verilecek onay gereğince 
+programda belirtilen süre sonunda kesilebilir. Bu durumda hangi konulara bakılmadığı Teftiş Raporunda gösterilir.
+6.15.9. Soruşturma ve İnceleme Grubu Oluşturulması 
+Teftiş programlarının hazırlanması sırasında, inceleme ve soruşturma işlerinde çalıştırılmak ve gerektiğinde 
+değiştirilmek suretiyle, yeteri kadar Denetçi görev merkezlerinde çalıştırılır. Bu gruba ayrılan Denetçiler için turne 
+ve turne dışı süreler gözetilmez.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 17 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+17/26
+6.15.10 Mesleki ve Bilimsel Çalışmalar 
+6.15.10.1 Denetçiler, teftiş, inceleme ve soruşturma konuları dışında bilimsel ve mesleki çalışmalara da katılırlar.
+6.15.10.2 Başkanlık, Şirket yönünden önemli gördüğü konuları saptamak suretiyle, gerektiği takdirde programa 
+bağlar, isteklileri de dikkate alarak denetçileri görevlendirir. Başkanlık, bu çalışmaların sonuçlarının 
+değerlendirilmesi amacıyla, her yıl uygun zamanlarda denetçiler toplantısı düzenleyebilir. Bu çalışmalar 
+gerektiğinde rapor halinde Genel Müdüre sunulur.
+6.15.11. Yabancı Ülkelere Gönderilme  
+6.15.11.1 Denetçilerin bilgi ve görgülerini artırmak, inceleme ve araştırma yapmak için Başkanın teklifi, Genel 
+Müdürün onaylaması ve ilgili makamlardan gerekli iznin alınması koşuluyla, denetçiler kıdem sıralarına göre, en 
+çok 1 yıl süreyle yurtdışına gönderilebilirler. 
+6.15.11.2 Yabancı ülkelerdeki çalışma programları, ilgili dairelerle yapılacak temas sonucu Başkanlık tarafından 
+belirlenir. Bu programlara göre, denetçilerin gönderildikleri ülkelerde posta hizmetleri ve bunların uygulanmasını 
+incelemeleri esas olmakla birlikte, bilimsel çalışmalar yapmaları da sağlanır.
+6.15.11.3 Tüm çalışma programlarının sonuçları her konu için ayrı ayrı düzenlenecek raporlarla Başkanlığa 
+bildirilir. Bu raporların yerinde düzenlenmesi esastır. Zorunlu nedenlerle Başkanlığın bilgisi dahilinde 
+düzenlenemeyen raporların ise yurda dönüşten itibaren en geç 3 ay içinde düzenlenip Başkanlığa verilmesi gerekir.
+6.15.11.4 Denetçiler normal çalışma programları dışında, kişisel olarak ilgi duydukları veya önemli gördükleri 
+konuları da programlarını aksatmamak koşuluyla inceleyebilirler. Bu çalışmalardaki başarı derecesi, yurtdışına 
+denetçi gönderilmesinde göz önünde bulundurulur.
+6.15.12 Denetçilerin İdari Kademelerde Görevlendirilmesi 
+6.15.12.1 Denetçiler, rızaları alınmak koşuluyla, denetçilik hakları saklı kalmak üzere, Genel Müdürün oluru ile 
+kariyerlerine uygun idari kademelerde geçici olarak görevlendirilebilirler.
+6.16 Teftiş, İnceleme, Soruşturma 
+6.16.1 Teftiş
+6.16.1.1 Teftişin Başlangıcı ve Yöntemi
+6.16.1.1.1 Merkez veya taşra teşkilatı içindeki herhangi bir birim, yönetmelik, genelge ve benzeri düzenlemelerle 
+yetki alanı dışına çıkartılamaz. Herhangi bir birim mutat ve makul süreler haricinde ve kabul edilebilir bir gerekçe 
+olmaksızın teftiş dışı tutulamaz.
+6.16.1.1.2 Teftiş, aksine bir emir verilmedikçe bir önceki teftiş tarihinden itibaren başlar. Teftiş mevzuata ve 
+Başkanlık tarafından hazırlattırılan kılavuzlara göre yapılır. İşlemlerin Şirketin önemli derecede zarar ve gelir 
+kaybına neden olduğunun görülmesi veya yolsuzluk bulunması durumunda, yolsuzluk saptanan konularda ve 
+özellikle sorumlu personelin işe başladığı tarihten itibaren ilgili hesaplara tarama suretiyle bakılır.
+6.16.1.1.3 Teftişlerde suç unsuruna rastlanılmamışsa en fazla 5 yıl öncesine inilir.
+6.16.1.2 Teftiş Yeri ve Sırası
+6.16.1.2.1 Teftişin, teftiş edilen iş yerinde yapılması ve programda gösterilen yerlerin sırasıyla teftiş edilmesi 
+esastır. Ancak zorunlu hallerde, Başkanlıktan önceden izin alınmak koşuluyla, başka bir yerde teftiş yapılabilir ve 
+yine Başkanlığa bilgi verilerek programdaki teftiş edilecek yerlerin sırası değiştirilebilir.
+6.16.1.3 Teftiş Raporu 
+6.16.1.3.1 Denetçiler, teftiş ettikleri; 
+6.16.1.3.1.1 PTT Müdürlükleri için, işletme ile muhasebe ve finansman işleri teftiş raporu düzenlerler. Teftiş 
+Raporlarının içeriği Teftiş Kılavuzları ile belirlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 18 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+18/26
+6.16.1.3.1.2 Daire Başkanlıkları ile Bölge Müdürlük kısımlarının teftişi sonucunda ise, ilgili Daire Başkanlıklarına 
+göre teftiş raporu düzenlerler.
+6.16.1.3.2 PTT Müdürlükleri Teftiş Raporlarında yer alan hususlar, Dairelerin görev alanları dikkate alınarak konu 
+başlıkları itibariyle gruplandırılır. 
+6.16.1.3.3. Teftiş raporlarındaki eleştirilerin dayanağı, kanun, tüzük, yönetmelik, genelge, yönerge ve diğer ilgili 
+mevzuattır.
+6.16.1.3.4 Teftiş raporlarının teftiş mahallinde düzenlenmesi esastır. Zorunlu hallerde Başkanlığın yazılı onayı ile 
+teftiş raporlarının görev merkezinde düzenlenmesi mümkündür. 
+6.16.1.4 Teftiş Raporlarının Kapsamı 
+6.16.1.4.1 Teftiş Raporlarında;
+a)Teftiş edilen müdürlük, birim veya servisin adı ve teftişin başladığı tarih,
+b) Bir önceki teftişin hangi tarihte ve kim tarafından yapıldığı,
+c)Teftiş edilen müdürlük, birim veya servis amirinin adı, soyadı, sicil numarası ile hangi tarihten itibaren o 
+görevde bulunduğu,
+ç) Eleştirilen ve takdir edilen işlemlerle, nedenleri, öneriler,
+d)Eleştirilen işlerden bazıları müdürlük, birim veya servisten ayrılan memur ve amirlerin çalıştıkları döneme ait 
+ise, kusurlu işin yapıldığı tarih ile bu personelin ad ve soyadları, sicil numaraları ve halen nerede görev yaptıkları,
+e) Önceki teftişte eleştirilmiş olan kusur ve noksanlıkların ne dereceye kadar düzeltildiği, henüz düzeltilmemiş 
+olanlar varsa bunların hangi nedenlerden ileri geldiği,
+f) Müdürlüklerin kontrolü altındaki ücret ödeme ve alma makinelerinin kontrol edildiği tarih itibariyle sayaç 
+değerleri, 
+g) Grup halinde yapılan teftişlerde hangi işlemlerin hangi denetçi tarafından teftiş edildiği,
+ğ) Teftişin bitirildiği tarih ile teftişi yapanların adları, soyadları ve unvanları, 
+gibi bilgilerin belirtilmesi zorunludur. 
+6.16.1.4.2 Ayrıca Müdürlük Veznesi, Gişe, ATM ve Şube sayımları ile gelecek teftişe devreden makbuzlar ve 
+Teftiş Kılavuzunda belirtilen diğer tutanaklar rapora eklenir.
+6.16.1.4.3 Teftiş sırasında tespit edilen ve soruşturmaya gerek görülmeyen işletme aksaklıklarına ilişkin olarak, 
+uyarma ve kınama cezası verilmesi gereken hallerde, denetçi tarafından, sorumlu personelin usulünce yazılı 
+savunması alınarak, rapora ait ek görüşte disiplin cezası önerisinde bulunulabilir.
+6.16.1.5 Teftiş Raporlarının Göreceği İşlemler
+6.16.1.5.1 Denetçiler tarafından düzenlenen teftiş raporları, teftiş defterine kaydedilerek teftişi yapılan yerin 
+amirine imza karşılığı verilir. Raporlar, teftiş edilenler tarafından 15 gün içinde cevaplandırılarak denetçiye iade 
+edilir.
+6.16.1.5.2 Teftiş edilen birimden alınan cevaplar ve raporun bir sureti, birim veya servisin bağlı olduğu üst makama 
+gönderilir. Bu makamlar raporları inceledikten sonra aldıkları önlemleri, yaptıkları bildirileri ve görüşlerini 
+belirtmek suretiyle, denetçiye iade ederler. Denetçiler, ek görüşleri ile birlikte raporu en geç 15 gün içinde bir yazı 
+ekinde Başkanlığa gönderirler.
+6.16.1.5.3 Teftiş gören personelin cevap ve teminatı ile bağlı olduğu üst makamın yaptığı bildiride noksanlık 
+bulunması durumunda, raporlar Başkanlığa gönderilmeden bu noksanlıkların giderilmesi sağlanır. Teftiş edilen 
+kısımlarla ilgili olarak yukarıda belirtilenler dışında rapor düzenlenmesine gerek görülmediğinde, durum 
+Başkanlığa gönderilen yazıda açıklanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 19 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+19/26
+6.16.1.6 Teftiş Raporlarının Cevap Süresi
+6.16.1.6.1 İlgililerce, teftiş raporlarının düzgün ve özenli bir şekilde cevaplandırılması ve 15 gün içinde denetçiye 
+gönderilmesi zorunludur. Bu süre zorlayıcı nedenler karşısında denetçi tarafından 15 gün uzatılabilir. 
+6.16.1.7 Teftiş Raporlarına PTT Genel Müdürlüğünde Uygulanacak İşlemler 
+6.16.1.7.1 Denetçiler tarafından işlemi tamamlanarak Başkanlığa gönderilen raporlar, Başkanlıkta incelendikten 
+sonra ilgili dairelere gönderilir. Daireler raporları en geç 1 ay içinde inceleyip, gereğine göre alınan önlemleri ve 
+teftiş gören birimlere yapılan bildirileri de belirtmek suretiyle, Başkanlığa yazı ile cevap verirler. Bu süre zorlayıcı 
+nedenler karşısında uzatılabilir. 
+6.16.1.7.2 Denetçiler, daireler tarafından yapılan işlemlerde ve bildirilerde noksanlık veya mevzuata aykırılık 
+görürlerse, rapor cevapları Başkanlıkça kendilerine intikal ettirildiğinde, bir yazıyla tamamlayıcı görüşlerini 
+bildirirler. Dairelerce yapılmış görüş, önlem ve bildiri bulunmadığı durumlarda, rapor cevapları denetçilere 
+gönderilmez. Rapor içeriklerine göre dairelerden yapılmış olan işlemlerden Başkanlıkça uygun görülenler, 
+denetçilere bilgi olarak gönderilir.
+6.16.1.8 Teftiş Defteri
+6.16.1.8.1 Teftiş yapılan her birimde bir "Teftiş Defteri" tutulur. Bu defterler denetçiler tarafından düzenleme 
+biçimine göre doldurularak imza edilir. 
+6.16.2 İnceleme
+6.16.2.1 İnceleme Raporlarının Kapsamı 
+6.16.2.1.1 İnceleme Raporları;
+a) Genel Müdür tarafından incelenmesi istenilen konular,
+b) Yürürlükteki kanun, tüzük, yönetmelik, genelge, emirler ve diğer mevzuat ile bunların uygulanmasında görülen 
+aksaklık ve noksanlıklar, aksaklık ve noksanlıkların giderilmesi yolları, yerine konulması gereken hüküm ve 
+yöntemler hakkında görüş ve öneriler,
+c)Teftişlerde, öncelikle ve doğruca Genel Müdürlüğe duyurulmasında yarar görülen hususlar,
+ç) Denetçilerin bilimsel ve mesleki alanlardaki çalışmalarının sonuçları,
+d)Yakınma ve ihbarlar üzerine yapılan incelemeler sonucunda soruşturmayı gerektirir bir durum bulunmaması,
+İle ilgili olarak düzenlenir.
+6.16.2.1.2 Denetçi herhangi bir konuda inceleme yaparken, personelin yazılı olarak bilgisine başvurmayı gerektiren 
+evrak ve belge temin etmek suretiyle, bir inceleme yapacaksa bunun için mutlaka Başkanlıktan yazılı onay 
+almalıdır ve bu hususu iş ve hesap cetvelinde göstermelidir.
+6.16.3 Soruşturma  
+6.16.3.1 Soruşturma Açılmasını Gerektiren Nedenler
+6.16.3.1.1 Soruşturma, PTT hizmetlerinin gereği gibi yürütülmesini sağlamak amacı ile mevzuatın emrettiği 
+görevleri yerine getirmeyen, uyulması zorunlu kılınan hususları yapmayan, yasakladığı işleri yapan, kanunlara göre 
+suç sayılan işlem ve eylemlerde bulunan personel hakkında, yasal, disiplin ve idari yönden sorumluluklarının, keza 
+Şirketimiz aleyhine sonuçlar doğuran eylemlerde bulunan diğer özel ve tüzel kişilerin de sorumluluklarının 
+belirlenmesi ve haklarında ilgili mercilerce gerekli işlemlerin yapılabilmesi için açılır.
+6.16.3.2 Soruşturma Açılma Biçimi ve Yetkisi 
+6.16.3.2.1 Genel Müdür tarafından gerekli görülen konular hakkında doğrudan doğruya soruşturma açılabileceği 
+gibi, 
+a)Soruşturmayı gerektiren eylem ve olayın teftiş ve inceleme sırasında öğrenilmesi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 20 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+20/26
+b)Kimliği belli kimse tarafından açık imzalı ve maddi dayanağı bulunan ihbar ve yakınma mektubu alınması 
+durumlarında da Genel Müdürlüğe yazılı bilgi vermek ve onaylanmak suretiyle, denetçiler tarafından doğrudan 
+soruşturma açılabilir. Teftiş ve inceleme esnasında yasal kovuşturmayı gerektiren bir durumun görülmesi ve 
+gecikmesinde sakınca bulunması halinde derhal soruşturmaya başlanır. Sözlü soruşturma emirleri için yazılı onay 
+alınması koşulu aranır. 
+6.16.3.2.2 Kimliği belli olmayanlar tarafından yapılmış olmakla birlikte, özellikle kuruluşa zarar verici nitelikteki 
+ihbar ve iddia konularının doğruluğu hakkında emareler görülür ve böyle bir izlenim edinilirse, aynı şekilde 
+soruşturma açılabilir. Soruşturma açılsın veya açılmasın, denetçiler aldıkları ihbarları değerlendirerek düşünceleri 
+ile birlikte Genel Müdürlüğe iletirler. 
+6.16.3.3 Soruşturmanın Şirket Dışında Diğer Kuruluş Personelini de İlgilendirmesi
+6.16.3.3.1 Denetçiler soruşturma sırasında, diğer resmi kuruluş görevlilerinin suçla ilgili olduğu kanısına varırlarsa, 
+kuruluşlarınca da haklarında gerekli işlemin yapılmasını sağlamak amacıyla, olayın bu kuruluşa bildirilmesini 
+Genel Müdürlükten isteyebilecekleri gibi, bunlar hakkında acele önlem alınmasının zorunlu olduğu durumlarda, 
+konuyu yazıyla o kuruluşun üst düzey birimlerine bildirebilirler. 
+6.16.3.4 Soruşturma Raporlarının Düzenlenme Biçimi ve Kapsamı
+6.16.3.4.1 Soruşturma raporları; Başlangıç, Konu, İnceleme ve Soruşturma, Çözümleme ve Tartışma ile Sonuç 
+bölümlerini kapsar.
+a)Başlangıç bölümünde; soruşturmaya başlama nedeni, soruşturmayla ilgili emri veya ihbar ve yakınmanın tarih 
+ve sayısı, 
+b) Konu bölümünde; soruşturma nedenini oluşturan olay, eylem, ihbar ve yakınmanın özü,
+c)İnceleme ve Soruşturma bölümünde; incelenen belge ve kayıtların konuya ilişkin özetleri ve bunlardan rapora 
+ekleneceklerin ek sıra numaraları, tarih ve sayıları, kimlerin sorgularının yapıldığı, anlatımların öz olarak; suçlama, 
+doğrulama, savunma, görgü ve bilgi gibi kanıt değeri taşıyan yönleri ve ek sıra numaraları,
+ç) Çözümleme ve Tartışma bölümünde; olaylarla kanıtlar çözümlenip tartışılarak değerlendirilip, kusur tarihi, 
+kusurun öğrenildiği tarih ile zaman aşımı tarihi göz önünde bulundurulmak suretiyle, yasal, disiplin ve idari 
+yönlerden varılan sonuçlarla ilgili gerekçeler,
+d) Sonuç bölümünde; konunun hiçbir duraksamaya yer vermeyecek şekilde tüm yönleri ile özeti, ilgililer hakkında 
+yasal kovuşturmaya gerek olup olmadığı, eylemin yasal niteliği, eylem ve kusurun disiplin cezalarından hangisini 
+ilgilendirdiği ve ilgili mevzuatındaki disiplin cezalarına ilişkin maddeleri, yapılan inceleme ve soruşturma 
+sonucunda, eylem kanıtlanamadığı takdirde, ilgili hakkında kovuşturmaya gerek olmadığı, olayın niteliğine göre, 
+kusurlu veya suçlu personel hakkında yönetimsel önlem veya karar alınması gerekiyorsa, bunların neler olduğu, 
+herhangi bir işlem yapılmasına gerek yoksa bu hususun açık olarak yazılması,
+e)Soruşturma raporlarının soruşturma mahallinde düzenlenmesi esastır. 
+Zorunlu hallerde Başkanlığın yazılı onayı ile soruşturma raporlarının denetçilerin görev merkezlerinde 
+düzenlenmesi, 
+Gerekir.
+6.16.3.4.2 Yasal kovuşturma yapılması isteği ile düzenlenen basit ve nitelikli zimmet, irtikap, rüşvet, alım satıma 
+fesat karıştırmak, evrakta sahtekarlık, hırsızlık, dolandırıcılık, kaçakçılık, iftira, kargo/kurye ve mektuplara tecavüz 
+suçlarıyla ilgili soruşturma raporları, doğruca Cumhuriyet Başsavcılığına, raporun yeteri kadar nüshası, tüm 
+eklerinin en az bir örneğiyle birlikte diğer suçlarla ilgili ve yasal kovuşturma yapılması isteği ile düzenlenen 
+soruşturma raporları ise gereği yapılmak üzere Başkanlığa gönderilir.
+6.16.3.4.3 Soruşturma raporunun aslı ve ekleri ilgili Cumhuriyet Başsavcılığına ayrı bir yazıya eklenerek gönderilir. 
+Savcılığa verilen/gönderilen raporun posta alındısı ya da teslimine ilişkin belge, Genel Müdürlüğe sunulan raporla 
+birlikte gönderilir.  
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 21 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+21/26
+6.16.3.5 Personelin Sorgusu
+6.16.3.5.1 Soruşturmalarda bilgisine başvurulması gereken personel yüz yüze sorguya çekilir. Sorgu tutanakları 
+birbirini izleyen sayfa numarası taşır. Duruma göre sorgu yazı yazılarak da yapılabilir. 
+6.16.3.5.2 Başka yerde bulunanların sorgusu, o yerdeki soruşturma elemanı veya personelin amiri aracılığı ile 
+(istinabe yoluyla) yapılabilir. İstinabe talimatı, doğruca gönderilir.
+6.16.3.5.3 Kusurlu veya tanık olarak dinlenmesine gerek görülenlerden, halen Şirkette çalışmayanların sorgularının 
+yüz yüze yapılması çareleri araştırılır. Bunlar ifade vermekten kaçındıkları takdirde, durum bir tutanakla saptanır ve 
+raporda belirtilir.
+6.17 Ortak Hükümler
+6.17.1 Rapor Düzeni
+6.17.1.1 Teftiş, İnceleme ve Soruşturma Raporları; amacı sağlayacak ölçüde kısa, açık, kazıntı ve silintisiz olarak 
+düzenlenir. Rapor ve ekleri numaralandıktan sonra denetçilik mührü ile mühürlenir, inceleme ve soruşturma 
+raporlarına, rapor eklerini gösteren bir ek dizi listesi konulur.
+6.17.1.2 İnceleme ve soruşturma raporları, konularına göre ilgili olduğu dairelere yetecek nüsha çıkarılmak 
+suretiyle hazırlanır.
+6.17.1.3 Düzenlenen teftiş, inceleme ve soruşturma raporlarına ait bildirilerden Başkanlıkça uygun görülenler 
+denetçiye gönderilir.
+6.17.2 Kasa Yoklaması
+6.17.2.1 Teftiş programlarında gösterilen kasa yoklamalarının sonucuyla ilgili olarak "Muhasebe ve Finansman 
+İşleri Teftiş Raporu" düzenlenir. İnceleme ve soruşturma görevleri ile gidilen müdürlük ve birimlerde, işin niteliği 
+kasa işlemlerini ilgilendirdiği veya kuşkulu bir durum görüldüğünde kasa yoklaması yapılır. Gerektiğinde durum 
+Genel Müdürlüğe bildirilerek, alınacak emre göre, ilgili işlemler ayrıntılı olarak da incelenebilir.
+6.17.3 Raporların Başkanlıkta İncelenmesi
+6.17.3.1 Teftiş, inceleme ve soruşturma raporları Başkan tarafından görevlendirilecek refakat denetçileri tarafından 
+yöntem ve esas bakımından incelenir.
+6.17.3.2 Bu inceleme sonucuna göre;
+a)İnceleme ve soruşturma raporlarında hata ve noksanlıklarına rastlanan denetçiler Başkanlıkça uyarılarak, 
+raporun Başkanlık görüşü ile Genel Müdüre sunulması ya da tamamlanması ve düzeltilmesi için bir nüshası 
+alıkonularak rapor aslı ve eklerinin denetçiye geri gönderilmesi,
+b)İnceleme ve soruşturma raporlarının uygun bulunduğu takdirde Genel Müdüre sunulması, 
+c)Teftiş raporlarının ilgili kılavuzuna göre hazırlanmış ve şekil yönünden noksanlığı bulunmayanların ilgili 
+dairelere sevk edilmesi, hata veya noksanlığı bulunanların ise düzenleyen denetçilere tamamlatılması, 
+Sağlanır.
+6.17.4 İşlem Gören Rapor Sonucunun Denetçilere Duyurulması
+6.17.4.1 Raporlarla ilgili olarak Genel Müdürlük Disiplin Komisyonlarınca alınan kararların, Daire 
+Başkanlıklarının inceleme raporları hakkındaki görüşlerini bildiren yazıların ve soruşturma raporlarına ilişkin 
+mahkeme kararlarının Başkanlıkça uygun görülenlerinin birer örneği ilgili denetçiye gönderilir. 
+6.17.5 Bilirkişi 
+6.17.5.1 İnceleme ve soruşturma nedeniyle gerekli görülen durumlarda, bilim, teknik, sanat ve uzmanlığa ilişkin 
+konularda, düşünce ve kanılarını bildirmeleri için seçimi ve sayılarının saptanması denetçiye ait olmak üzere, Genel 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 22 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+22/26
+Müdürün onayı ile bilirkişilere başvurulabilir. Bunlara ait ücretler denetçinin yazısına istinaden ilgili birimlerce 
+Genel Müdürlük adına ödenir. 
+6.17.5.2 Sahtecilik eylemleri ile ilintili belgeler üzerinde yapılması zorunlu "Yazı ve İmza Tatbik" işlemleri, 
+Emniyet Teşkilatı ya da benzer kuruluşların laboratuvarlarında, soruşturma ile görevlendirilen denetçi tarafından, 
+Başkanın onayı alınarak sonuçlandırılır. Bilirkişi rapor ücretinin ödenmesi işlemi denetçi tarafından sağlanır.6.18 
+Çeşitli Hükümler, Yürürlük ve Yürütme
+6.18.1 Aylık, Yolluk ve Diğer İstihkakların Alınması
+6.18.1.1 Denetçiler; aylıklarını, Genel Müdürlükçe belirlenmiş olan banka kuruluşları aracılığıyla, tahakkukunu 
+müteakip, alırlar; harcırah ve diğer istihkaklarını, tahakkukunu müteakip Genel Müdürlük merkez ve taşra 
+teşkilatındaki veznelerden çek karşılığında alırlar. Bunun için kendilerine bir kredi cüzdanı ve çek karnesi verilir. 
+Kredi cüzdanı ve çek tamamen kullanıldıktan sonra yenisi alınmak üzere, Başkanlığa bir yazı ekinde iade edilir. 
+Kredi cüzdanı ile çeklerin kaybedilmeleri halinde, durum derhal Başkanlığa bildirilir.
+6.18.1.2 Harcırahlar ile zorunlu giderler, bir ay içinde tahakkuk edecek tutarı geçmemek üzere, avans olarak 
+çekilebilir.
+6.18.1.3 Çekilen paranın hak edilen miktarı aşmaması esastır. Ertesi aya borç devri ancak, ayın son günlerinde 
+görevle ilgili olarak yolculuk yapılması halinde uygun görülebilir. Alınan paranın hak edilenden fazla olduğu 
+anlaşıldığı takdirde, fazla miktar makbuz karşılığında derhal yatırılır.
+6.18.1.4 Yılsonlarında borç ve alacak artığı bırakılmaz.
+6.18.2 İş ve Hesap Cetveli
+6.18.2.1. Denetçiler; çalışmalarını, aylık, harcırah ve diğer istihkaklarını her ay sonunda düzenleyecekleri "İş ve 
+Hesap Cetveli’nde gösterirler. Bu cetvellerin ait oldukları ayı takip eden ayın ilk haftası içinde hazırlanarak, 
+Başkanlığa gönderilmesi gerekir.
+6.18.2.2 İş ve Hesap Cetvelinin birinci sayfasında; denetçinin çalışmaları, günler itibarı ile ana hatlarıyla belirtilir. 
+Yolculuk halinde, hareket edilen yer adı ile saatleri gösterilir. İnceleme ve soruşturmayla ilgili olarak görev yapılan 
+yerlerde, dosya numarası da yazılır.
+6.18.2.3 Cetvelin ikinci sayfasında, denetçilerin harcırah ve geceleme giderleri, vb. istihkakları ve bunlara karşılık 
+çekilen paraları gösteren tablolar doldurulur.
+6.18.2.4 İş ve Hesap Cetvellerine, denetçinin çektiği paralara ait çekler, vezneye iade edilen fazla paraya ait vezne 
+makbuzları, uçak biletleri, geceleme giderlerine ait makbuz veya faturalar ile servis telefonu faturaları ve ödeme 
+dekontları eklenir.
+6.18.3 İzin Kullanılması
+6.18.3.1 Denetçiler, yürürlükteki mevzuata göre kullandıkları izin sonrası göreve dönüş tarihlerini Başkanlığa 
+yazıyla bildirirler. Başkanlıktan ayrıca onay alınmadıkça, verilen iznin bir defada kullanılması esastır. İznin bir 
+kısmını kullandıktan sonra göreve başlanılmak istendiğinde, Başkanlığın uygun görmesi ve yazılı onay üzerine 
+göreve başlanılır. 
+6.18.4 Denetçilik Mühür ve Belgeleri, Demirbaşlar
+6.18.4.1 Denetçi ve Denetçi Yardımcılarına birer mühür ve Genel Müdür tarafından imzalanmış kimlik belgesi 
+verilir. Ayrıca hesap makinesi, bilgisayar (tablet vb.), mobil internet, çanta vb. malzemeler, imkanlar ölçüsünde 
+Başkanlıkça sağlanır. 
+6.18.5 Haberleşme
+6.18.5.1 Denetçiler; teftiş, inceleme ve soruşturma çalışmaları ile ilgili olarak, çeşitli kurum ve makamlarla 
+ilişkilerinde, doğrudan doğruya veya Başkanlık aracılığı ile haberleşme yaparlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 23 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+23/26
+6.18.5.2 Elektronik Belge Yönetim Sistemi ile haberleşme esas olmakla birlikte, mümkün olmaması halinde, resmi 
+yazı, faks ya da telefon kullanılabilir.
+6.18.5.3 Denetçiler; görevli gittikleri yerlere varışlarını aynı gün, hareketlerini ise 24 saat önce Başkanlığa 
+bildirirler. Bu haberleşmelerin, gizlilik içerdiği durumlarda gizliliği korunarak yapılması zorunludur.
+6.18.6 Kayıt ve Dosya İşleri 
+6.18.6.1 Denetçilere, Genel Müdürlük dairelerince çıkartılan genelge, tebliğ ve diğer mevzuat, Başkanlıkça 
+Elektronik Belge Yönetim Sistemi üzerinden gönderilir. EBYS üzerinden gönderilen bu mevzuat denetçilere tebliğ 
+edilmiş sayılır. 
+6.18.7 Raporların Gönderilmesi
+6.18.7.1 Denetçiler teftiş, inceleme ve soruşturma raporlarını; Başkanlığa Elektronik Belge Yönetim Sistemi 
+üzerinden veya gereğine göre Başkanlıkça belirlenen usullerde gönderirler. Rapor ekleri ise posta yoluyla 
+gönderilir. 
+6.18.8 Başmüfettiş, Müfettişlerin Çalışmaları
+6.18.8.1 Başmüfettiş ve Müfettişlerin; 6475 sayılı Posta Hizmetleri Kanununun geçici 5 ve 6’ncı maddesine göre, 
+özlük hakları ve mevcut statüleri saklı olup, tabi oldukları mevzuatına göre istihdamlarına, Başkanlığa bağlı olarak 
+devam olunur.  
+6.18.8.2 Başmüfettiş ve Müfettişler, PTT’de çalışmalarına devam ettikleri sürece, çalışmaları Başkanlık tarafından 
+yönetilir. Yasal özlük hakları dışındaki; görev, yetki ve sorumlulukları ile çalışma esas ve usulleri gibi, diğer tüm 
+hususlar yönünden, Başmüfettişler Başdenetçi olarak, Müfettişler Denetçi olarak değerlendirilmek suretiyle, PTT 
+Teftiş Kurulu Yönetmeliğine aykırılığı bulunmayan, bu prosedürde belirtilen tüm hükümlere tabidirler.
+6.18.9 Kılavuzların Hazırlanması
+6.18.9.1 Başdenetçi, Başmüfettiş, Denetçi, Müfettiş ve Denetçi Yardımcılarının; teftiş, inceleme ve soruşturma 
+görevlerinin yürütülmesi ile bu esasların uygulanmasına ilişkin olarak, Başkanlık tarafından gerekli görülen 
+konularda, yapacakları işlemler, uyacakları usuller ve kurallar ile raporlarının düzenleniş şekli gibi hususları 
+gösterecek olan kılavuzlar, Başkanlık tarafından hazırlanarak, Genel Müdürün onayı ile uygulamaya konulur.
+6.18.9.2 Kılavuzlara ve bu yönde Başkanlıkça yapılmış olan tebliğlere uyulması zorunludur.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+8.1. Bu prosedür PTT Yönetim Kurulu tarafından kabul edildiği tarihte yürürlüğe girer. 
+8.2. Bu prosedürün yayımlanması ile 12/12/2018 tarihinde yayımlanan REK.PR01 kodlu Rehberlik ve Kontrol 
+Hizmetleri Prosedürü yürürlükten kaldırılmıştır.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 24 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+24/26
+TURNE TEFTİŞ PROGRAMININ HAZIRLANMASINA ESAS OLUŞTURAN
+BÖLGE VE İLLERİ GÖSTERİR LİSTE
+1.BÖLGE 2.BÖLGE 3.BÖLGE 4.BÖLGE
+Afyonkarahisar Adana Artvin Adıyaman
+Aksaray Amasya Bayburt Ağrı
+Ankara Bartın Diyarbakır Ardahan
+Antalya Bilecik Elazığ Batman
+Aydın Burdur Erzincan Bingöl
+Balıkesir Denizli Erzurum Bitlis
+Bolu Giresun Gaziantep Hakkari
+Bursa Hatay Gümüşhane Iğdır
+Çanakkale Isparta Kahramanmaraş Kars
+Çankırı Karaman Kilis Muş
+Çorum Kastamonu Malatya Siirt
+Düzce Kayseri Mardin Şırnak
+Edirne Karabük Rize Tunceli
+Eskişehir Kütahya Sivas
+İstanbul Mersin Şanlıurfa
+İzmir Niğde Ordu
+Kırıkkale Osmaniye Trabzon
+Kırklareli Samsun Van
+Kırşehir Sinop
+Kocaeli Tokat
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 25 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+25/26
+Konya Uşak
+Manisa Yozgat
+Muğla Zonguldak
+Nevşehir
+Sakarya
+Tekirdağ
+Yalova
+10. REFERANS DOKÜMANLAR
+RTB.FR01-İş ve Hesap Cetveli
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+YAP.PR04-Yapı İşleri Satınalma Prosedürü
+6475 sayılı Posta Hizmetleri Kanunu 
+Türkiye Ticaret Sicili Gazetesinde yayınlanan Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesinin 19. 
+maddesi 
+Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında 
+Yönetmelik 
+PTT AŞ Mal ve Hizmet Alımı Prosedürü 
+Yapı İşleri Satınalma Prosedürü 
+PTT Teftiş Kurulu Yönetmeliği 
+Dış Kaynaklı Dokümanlar 
+Doküman Adı
+657 sayılı Devlet Memurları Kanunu 
+399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin Düzenlenmesi ve 233 sayılı Kanun Hükmünde 
+Kararnamenin Bazı Maddelerinin Yürürlükten Kaldırılmasına Dair Kanun Hükmünde Kararname 
+5901 sayılı Türk Vatandaşlığı Kanunu 
+5237 sayılı Türk Ceza Kanunu 
+4982 sayılı Bilgi Edinme Kanunu 3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun 
+4734 sayılı Kamu İhale Kanunu Resmi Yazışmalarda Uygulanacak Esas ve Usuller Hakkında Yönetmelik 
+Devlet Arşiv Hizmetleri Hakkında Yönetmelik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 26 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR01
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+26/26
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur.     
+0 15.11.2021 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

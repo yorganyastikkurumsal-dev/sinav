@@ -1,0 +1,637 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+DEĞERLİ KAĞITLAR DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+1/10
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından yürütülen filateli hizmeti ile ilgili 
+filatelik ürünler, abonelik, acentelik ve armağan işlerine ilişkin usul ve esaslar ile görev, yetki ve sorumlulukları 
+belirlemektir.  
+2.KAPSAM
+2.1 Bu prosedür; Filateli Hizmet Sunumu, Filatelik Zarfların Hazırlanması, Satışa Sunulması ve İmha İşlemleri, 
+Filatelik Damgaların Hazırlanması, Satışa Sunulması ve İmha İşlemleri,Maksimum Kartlar ile Pul Baskılı Posta 
+Kartlarının Hazırlanması, Satışa Sunulması ve İmha İşlemleri, Portföylerin Hazırlanması, Satışa Sunulması ve İmha 
+İşlemleri, Filatelik Ürünlerin Satışı, Abonelik İşlemleri,Aboneliğin İptali, Acentelik İşlemleri ve Filatelik Ürünlerin 
+Armağan İşlerine  ilişkin düzenlemeleri kapsar.
+2.2 Turistik posta damgaları üretilmesi ve kullandırılması ile ilgili hususlar bu prosedürün kapsamı dışındadır.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu, 6698 sayılı Kişisel Verilerin Korunması Kanunu, 30479 sayılı 
+Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında 
+Cumhurbaşkanlığı Kararnamesi, DKD.PR04 Değerli Kâğıtlar İşletme Prosedürü hükümlerine dayanılarak 
+hazırlanmıştır. 
+4.TANIMLAR VE KISALTMALAR
+4.1 Acente: Yurtdışında Şirket adına pul ve filatelik ürün satan tüzel kişiliklerdir.
+4.2 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim 
+Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür.
+4.3 Birim Yöneticisi: Merkez Teşkilatında Şube/Teknik Müdürleri, Taşra Teşkilatında ise Teknik Müdürleri/ 
+Müdürleri (İhtisas) ve PTT Müdürleridir.
+4.4 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.5Basımevi: Her türlü filatelik ürünün basım işlemlerinin gerçekleştirildiği Şirket Matbaası veya piyasada basım 
+işi yapan işyerleridir. 
+4.6 Daire Başkanı: Posta ve Telgraf Teşkilatı Anonim Şirketi Değerli Kağıtlar Daire Başkanıdır.
+4.7 Daire Başkanlığı: Posta ve Telgraf Teşkilatı Anonim Şirketi Değerli Kağıtlar Daire Başkanlığıdır.
+4.8Değerli kâğıt: Postada kullanılan, değeri üzerinde gösterilen her türlü pul ile üzerinde pul veya pul baskısı 
+bulunan zarfları, posta kartlarını, maksimum kartları ile ilkgün, özelgün ve özeltarih damgalı zarflardır.
+4.9 Erör: Değerli kâğıtların ve filatelik ürünlerin basılmaları veya zımbalanmaları sırasında meydana gelen 
+hatalardır.
+4.10 Filateli: Pul ve posta ile ilgili materyallerin koleksiyonculuğudur.
+4.11 Filatelist: Pul ve posta ile ilgili materyallerin koleksiyonculuğunu yapan kişilerdir.
+ 4.12 Filateli aboneliği: Gerçek veya tüzel kişilerin belirledikleri değerli kâğıtları ve filatelik ürünleri tedavüle 
+çıktıkça bedeli karşılığında almayı yazılı olarak taahhüt etmeleri ve bunun için avans yatırmalarını veya abone 
+oldukları Şirket işyerinden taahhüt ettikleri değerli kâğıtları ve filatelik ürünleri satın almalarıdır.
+4.13 Filatelik damga: İlkgün ve özeltarih damgalarıdır.
+4.14 Filatelik Malzeme; Koleksiyonculukta kullanılan her türlü araç gereç ve malzemedir.
+4.15 Filatelik Ürün: Şirket tarafından hazırlanarak satışa sunulan ve içerisinde değerli kâğıt ve/veya koleksiyon 
+değeri taşıyan materyallerdir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+2/10
+4.16 Filatelik zarf: İlkgün veya özeltarih damgası ile damgalanmış anma pulu, sürekli posta pulu veya pul baskısı 
+taşıyan, üzerinde özel tasarımlara da yer verilebilen ve Şirket tarafından satışa sunulan zarflardır.
+4.17 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.18 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğüdür.
+4.19İlkgün Damgası: Anma pulu ve sürekli posta pullarının tedavüle çıkarıldıkları gün, yalnız bu pulların ve aynı 
+gün tedavüle çıkarılan aynı konudaki pul baskılarının iptalinde kullanılmak üzere yaptırılan ve üzerlerinde konu ile 
+ilgili tasarım bulunan tarih damgalarıdır.
+4.20İlkgün zarfı (FDC): Üzerlerinde bir anma pulu ile sürekli posta pulu yer alan ve ilkgün damgası ile 
+damgalanmış filatelik zarflardır.
+4.21 Maksimum kart: Üzerinde taşıdığı pul ile aynı konuda tasarım bulunan, görselin bulunduğu yüze konuya 
+ilişkin pul yapıştırılarak aynı konuda filatelik damga ile damgalanan posta kartlardır.
+4.22 Özelgün zarfı: Üzerlerinde geçerlikteki bir anma pulu veya sürekli posta pulu yer alan, damganın konusu ile 
+ilgili tasarım bulunan ve özeltarih damgası ile damgalanmış filatelik zarflardır.
+4.23 Özeltarih damgası: Bazı önemli olaylar ve belirli günlerde; ilgili olduğu yerde ve tarihte, geçerlikte bulunan 
+herhangi bir anma pulu, sürekli posta pulu veya pul baskısını iptal etmek üzere kullanılan ve üzerinde konuya ait 
+tasarım bulunan tarih damgalarıdır.
+4.24 Özeltarih damgalı zarf: Üzerlerinde bir anma pulu, sürekli posta pulu veya pul baskısı yer alan, damganın 
+konusu ile ilgili tasarım bulunmayan ve özeltarih damgası ile damgalanmış filatelik zarflardır.
+4.25 Portföy: İçinde pullara, filatelik ürünlere, diğer değerli kâğıtlara ve/veya diğer materyallere yer verilen özel 
+tasarımlı filatelik ürünüdür.
+4.26 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+4.27 PTT Müdürlükleri: Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan 
+Müdürlüklerdir.
+4.28 Pul Baskılı Posta Kartı: Üzerlerinde herhangi bir konuda tasarım ve postada alınacak ücreti gösteren pul 
+baskısı yer alan posta kartlarıdır.
+4.29 Pul Baskılı Zarf: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından çıkarılan, üzerinde postada alınacak 
+ücreti gösteren, pul baskısı bulunan zarflardır.
+4.30 Pul Karnesi: Birden fazla pulun veya pul sayfalarının kapak içine yerleştirilmesi ile oluşan filatelik ürünlerdir.
+4.31 Pul Poşeti: Yıllık emisyon programı kapsamında tedavüle sunulan, ortak pulların yabancı ülke baskıları hariç 
+olmak üzere anma pulları, sürekli ve resmi posta pullarının tamamının yer aldığı filatelik üründür.
+4.32Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.33Şube Müdürlüğü: Değerli Kâğıtlar Daire Başkanlığı Filateli ve Abone İşleri Şube Müdürlüğüdür.
+4.34 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+4.35 Z grubu: Tedavüle sunuldukları gün Şirket tarafından, çıkarıldığı yerin posta damgası ile damgalanarak 
+üzerinde yazılı olan adrese kayıtlı olarak gönderilen ilkgün veya özelgün zarflarıdır.
+5.SORUMLULUKLAR
+Bu prosedür ile Filateli Hizmetine ilişkin diğer düzenlemelerin uygulanmasından, Filateli Hizmetlerinde görev alan 
+tüm çalışanlar sorumludur.
+6.UYGULAMA
+6.1 Filateli Hizmet Sunumu
+6.1.1 Filateli hizmetleri; Daire Başkanlığı, Bölge Müdürlükleri ve Bölge Müdürlüklerince iş hacmine göre tespit 
+edilecek işyerlerinde, ayrı gişe şeklinde veya posta gişesi bünyesinde yürütülür.
+6.2 Filatelik Zarfların Hazırlanması, Satışa Sunulması ve İmha İşlemleri 
+6.2.1 Filatelik zarfların; tirajı, satış bedelleri ve tedavül tarihleri Genel Müdür onayı ile belirlenir alındıktan sonra 
+başlanır ve Daire Başkanlığınca üretilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+3/10
+6.2.2 Kişi, kurum ve kuruluşlardan gelen özelgün ve özeltarih damgalı zarf talepleri Daire Başkanlığı ile Bölge 
+Müdürlüğü ve bağlı işyerleri tarafından alınır.  Alınan tüm talepler, Daire Başkanlığınca değerlendirilir.  Genel 
+Müdür tarafından onaylananlar kabul edilir.
+6.2.3Kişi, kurum ve kuruluşlardan gelen özelgün ve özeltarih damgalı zarf taleplerinin; 
+-Türkiye Cumhuriyeti Kanunlarına,
+-Devletin ülkesiyle ve milletiyle bölünmez     bütünlüğüne,
+-Fikir, sanat ve sınai telif haklarına,
+-Ticari rekabet kurallarına,
+-Genel ahlak ve adaba,
+-Kişisel haklara,
+-Üretim sırasında gerekli olan teknik şartlara,
+Uygun olması gerekmektedir.
+Ayrıca, özelgün zarflarından en az yediyüzelli adet, özeltarih damgalı zarflardan ise en az beşyüz adet satın 
+alınması ve tedavül tarihinden en az bir ay önce müracaat edilmesi hallerinde talepler kabul edilir. Tedavül tarihine 
+bir aydan az kalan taleplerin uygunluğuna Genel Müdür tarafından karar verilir.
+6.2.4 İlkgün ve özelgün zarflarının üzerine basılacak tasarımlar zarfın ilgili olduğu konuya ait öğeler taşır. Özeltarih 
+damgalı zarfların tasarımlarında tatbik edilecek damganın konusuyla ilgili tasarıma yer verilmez.
+6.2.5 İlkgün ve özelgün zarflarının basım işlemlerinde iki adet baskı örneği Daire Başkanı tarafından onaylanır. 
+Onaylanan zarf örneklerinden bir adedi baskıya esas teşkil etmek üzere Basımevi yetkilisine, diğeri ise ilgili Şube 
+Müdürlüğüne muayeneye esas olmak üzere teslim edilir. Basımevi, zarfları bildirilen sayıda basar ve fersudeleri ve 
+baskı örneği ile birlikte teslim eder.
+6.2.6 Basımı gerçekleştirilen ilkgün ve özelgün zarflarının baskı örnekleri yıl sonunda ilgili Şube Müdürlüğü 
+tarafından Müze Şube Müdürlüğüne teslim edilir.
+6.2.7 Filatelik zarflar, üzerlerine anma pulu veya sürekli posta pulu yapıştırılarak hazırlanır.
+6.2.8 Basımı tamamlanmış ilkgün zarfları, üzerlerine ait olduğu pul yapıştırılarak; ilkgün damgası tatbik edilerek 
+hazırlanır.  Özelgün zarfları ve özeltarih damgalı zarflar ise geçerlikteki bir anma pulu veya sürekli posta pulu 
+yapıştırılarak, özeltarih damgası tatbik edilerek hazırlanır.
+6.2.8 Basımı tamamlanmış ilkgün zarfları, üzerlerine ait olduğu pul yapıştırılarak; ilkgün damgası tatbik edilerek 
+hazırlanır.  Özelgün zarfları ve özeltarih damgalı zarflar ise geçerlikteki bir anma pulu veya sürekli posta pulu 
+yapıştırılarak, özeltarih damgası tatbik edilerek hazırlanır.
+6.2.9 Pul baskılı zarfların basım işlemleri, Değerli Kağıtlar İşletme Prosedürüne göre gerçekleştirilir. 
+6.2.10 Filatelik zarfların satışa çıkarılacağı tarih ve satış bedelleri; Şirket birimlerine, yurtiçi ve yurtdışı abonelere, 
+yurtdışı acentelere, Basın ve Yayın kuruluşlarına, Türkiye Filateli Dernekleri Federasyonu ve bağlı filateli ile ilgili 
+kulüp ve derneklere, kamuoyuna yazılı olarak veya Şirket internet siteleri ve sosyal medya hesapları aracılığı ile 
+duyurulur.
+6.2.11 Filatelik zarfların basım sonrası muayene işlemleri sırasında tespit edilen baskı bozukları ile tiraj 
+tamamlandıktan sonra geriye kalan zarflar; üretim tamamlandıktan sonra, gelen sayı ve tiraj denkliği sağlanarak en 
+az üç kişiden oluşan bir komisyon tarafından tutanak düzenlenmek suretiyle kullanılamayacak hale getirilerek imha 
+edilir. 
+6.2.12 Tedavüle sunuldukları tarihten itibaren; özelgün zarfları 5 yıl, özeltarih damgalı zarflar 1 yılın sonunda 
+tedavülden kaldırılıp, “Kesin Tespit İmha Komisyonu” tarafından denklikleri sağlanarak imha edilir.
+6.3 Filatelik Damgaların Hazırlanması, Kullandırılması ve İmha İşlemleri
+6.3.1Filatelik damgalar Daire Başkanlığınca hazırlanır, onaylanır ve kullandırılır. 
+6.3.2Filatelik damgalar; filatelik ürünlerin üretilmesinde, PTT işyerlerinde ait olduğu günde kullanılmak üzere 
+ve Müze Şube Müdürlüğünde teşhir edilmek amacı ile Daire Başkanınca belirlenecek sayıda üretilir. 
+6.3.3Filatelik damgalar ait oldukları konu ile ilgili olarak tasarlanır ve kullanılacakları   tarih, damga üzerinde 
+belirtilir. Filatelik damgalar süreleri dışında kullanılamaz.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+4/10
+6.3.4Kişi, kurum ve kuruluşlardan gelen özeltarih damgası talepleri Daire Başkanlığı ile Bölge Müdürlüğü ve 
+bağlı işyerleri tarafından alınır.  Alınan tüm talepler Daire Başkanlığınca değerlendirilir. Genel Müdür tarafından 
+onaylananlar kabul edilir.
+6.3.5Şube Müdürlüğü abonelerinin taleplerini karşılamak amacı ile sadece resmi pullara tatbik etmek üzere, 
+Şube Müdürlüğü ile bağlı olduğu Daire Başkanlığının isminin yer aldığı tarih damgası kullanılabilir. Söz konusu 
+damgalar kullanıldığı gün tarihi değiştirilerek 150.001-1208 stok numaralı damga tatbik defterine uygulaması 
+yapılır ve kullanan personel tarafından bu defter imzalanır.
+6.3.6Filatelik damgalar sadece damga üzerinde yer alan tarihlerde, Değerli Kağıtlar Daire Başkanı onayı ile 
+belirlenecek işyerlerinde kullandırılır.
+6.3.7Filatelik damgaların uygulanmasında; filatelik ürünler üzerinde bulunan pul baskıları, emisyon pulu gibi 
+işleme tabi tutulur. 
+6.3.8PTT işyerlerine müşteriler tarafından posta ile yollanan filatelik ürünlerin damgalanmasına ilişkin yazılı 
+talepleri; bu materyallerin damga kullanılacağı işyerine en geç damganın kullanıldığı tarihte ulaşması halinde yerine 
+getirilir. Filatelik damgalar bu prosedür hükümleri göz önünde bulundurularak uygulanır.
+6.3.9Müşterilerce, pulsuz filatelik ürünlerin pullanması ve damgalanması yönündeki yazılı talepleri, pul 
+bedellerinin Şirket ilgili hesabına yatırılması ve talep sahibince ilgili işyerine bilgi verilmesi durumunda yerine 
+getirilir. Pul bedelleri nakit olarak alınır. Ayrıca gerektiğinde ücretler, Şirket tarafından belirlenen banka ve posta 
+çeki hesaplarına yatırılarak veya kredi kartı ile ödenebilir.
+6.3.10Müşterilerce, elden veya posta yolu ile filatelik damga tatbiki yapılmak amacı ile ulaştırılan filatelik 
+ürünlerin üzerinde bulunan pul ve pul baskılarının toplam değerinin, yurt içi ilk ağırlık kademesi mektup ücreti 
+değerinden az olmamak üzere posta ücretini karşılaması gerekir.
+6.3.11Müşterilerin gönderilen filatelik ürünlerin damgalandıktan sonra kayıtsız mektup veya üzerinde yeterli 
+değerde pul olması halinde kayıtlı mektup olarak gönderilmesi yönündeki yazılı talepleri, damganın kullanıldığı 
+PTT işyeri tarafından yerine getirilir.
+6.3.12Müşteri taleplerine göre hazırlanarak yollanan filatelik ürünlerin kaybı halinde; durum Şirket kayıtlarına 
+göre tespit edilmiş ise gönderi kapsamı, alıcıya yeniden gönderilir. Yeniden gönderme imkânı bulunmuyorsa 
+gönderi kapsamı kadar tutar kişiye ödenir. Ödenen tutar, sorumlulardan tahsil edilir. 
+6.3.13Filatelik damgaların kullandırılacağı tarihler ve işyerleri; Şirket birimlerine, yurtiçi ve yurtdışı abonelere, 
+yurtdışı acentelere, Basın ve Yayın kuruluşlarına, Türkiye Filateli Dernekleri Federasyonu ve bağlı filateli ile ilgili 
+kulüp ve derneklere, kamuoyuna yazılı olarak veya Şirket internet siteleri ve sosyal medya hesapları aracılığı ile 
+duyurulur.
+6.3.14Müşterilerce, hazırlanan filatelik ürünlerde Şirket tarafından üretildiği izlenimi uyandıracak herhangi bir 
+ibare, tasarım ve pul görseli kullanılamaz. Bu ürünlerin filatelik damganın kullanıldığı işyerine getirilmesi halinde 
+filatelik damga tatbiki yapılmaz.
+6.3.15İlkgün damgaları, ait oldukları pul ve pul baskısı dışında başka pullara ve pul baskılarına tatbik edilemez. 
+6.3.16Şirket tarafından üzerinde pul baskısı ile satışa sunulan filatelik ürünlere, aynı gün ve aynı konuda tedavüle 
+çıkan pula ait ilkgün damgası tatbik edilebilir.
+6.3.17Üzerlerinde ilkgün damgası ile ilgili olmayan pullar ve pul baskıları taşıyan filatelik ürünler, özeltarih 
+damgası veya posta damgası ile damgalanabilir.
+6.3.18Özeltarih damgaları geçerlikte olan anma pulu ve sürekli posta pulları ile pul baskılarına tatbik edilir.
+6.3.19İlkgün damgaları kullanıldıkları gün mesai bitiminde, özeltarih damgaları ise kullanım süresinin son günü 
+mesai bitiminde damganın kullanıldığı Şube Müdürlüğü veya PTT işyerince imha edilir. 
+6.3.20Bu prosedürün 5.3.2 maddesinde belirtilen usulde üretilen filatelik damgalardan iki adedi Şube 
+Müdürlüğünce kullanım süresi sonunda teşhir edilmek üzere Müze Şube Müdürlüğüne gönderilir. Diğer filatelik 
+damgalar ise en az üç kişiden oluşan bir komisyon tarafından düzenlenen tutanak eşliğinde, birkaç yerinden keserek 
+sakatlamak suretiyle imha edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+5/10
+6.3.21PTT işyerlerince imha edilen filatelik damgalar ve imha tutanağının bir örneği, Daire Başkanlığına 
+gönderilir.  
+6.3.22İmha edilmiş filatelik damgalar yıl sonunda Şube Müdürlüğünce oluşturulan komisyon tarafından yıl 
+boyunca tatbik edilen damga sayısı ile imha edilen damga sayısının denkliği sağlanır. Konuya ilişkin düzenlenen 
+tutanak, dosyasında muhafaza edilir.
+6.4 Maksimum Kartlar ile Pul Baskılı Posta Kartlarının Hazırlanması, Satışa Sunulması ve İmha İşlemleri
+6.4.1Maksimum kartlar ile pul baskılı posta kartlarının; tirajları, satış bedelleri ve tedavül tarihleri Genel Müdür 
+onayı ile belirlenir ve Daire Başkanlığınca üretilir.
+6.4.2Maksimum kartlar ile pul baskılı posta kartların damgaları filatelik damgaların tatbiki ve uygulaması ile 
+aynıdır.
+6.4.3Pul baskılı posta kartlarının basım işlemleri, Değerli Kağıtlar İşletme Prosedürüne göre gerçekleştirilir. 
+6.4.4Maksimum kartların basım işlemlerinde iki adet baskı örneği Daire Başkanı tarafından onaylanır. Onaylanan 
+kart örneklerinden bir adedi baskıya esas teşkil etmek üzere Basımevi yetkilisine, diğeri ise ilgili Şube 
+Müdürlüğüne muayeneye esas olmak üzere teslim edilir. Basımevi, kartları bildirilen sayıda basar ve fersudeleri ve 
+baskı örneği ile birlikte teslim eder. 
+6.4.5Basımı gerçekleştirilen maksimum kartların baskı örnekleri yıl sonunda ilgili Şube Müdürlüğü tarafından 
+Müze Şube Müdürlüğüne teslim edilir.
+6.4.6Maksimum kartlar, üzerlerine anma pulu veya sürekli posta pulu yapıştırılarak hazırlanır. 
+6.4.7Basımı tamamlanmış maksimum kartlar, üzerlerine ilgili pul yapıştırılarak; filatelik damga tatbik edilerek 
+hazırlanır. 
+6.4.8Maksimum kartlar ile pul baskılı posta kartlarının satışa çıkarılacağı tarih ve satış bedelleri; Şirket 
+birimlerine, yurtiçi ve yurtdışı abonelere, yurtdışı acentelere, Basın ve Yayın kuruluşlarına, Türkiye Filateli 
+Dernekleri Federasyonu ve bağlı filateli ile ilgili kulüp ve derneklere, kamuoyuna yazılı olarak veya Şirket internet 
+siteleri ve sosyal medya hesapları aracılığı ile duyurulur.
+6.4.9Maksimum kartların basım sonrası muayene işlemleri sırasında tespit edilen baskı bozukları ile tiraj 
+tamamlandıktan sonra geriye kalan kartlar; üretim tamamlandıktan sonra, gelen sayı ve tiraj denkliği sağlanarak en 
+az üç kişiden oluşan bir komisyon tarafından tutanak düzenlenmek suretiyle kullanılamayacak hale getirilerek imha 
+edilir. 
+6.5 Portföylerin Hazırlanması, Satışa Sunulması ve İmha İşlemleri
+6.5.1Portföylerin; tirajı, tedavül tarihleri, satış bedelleri ve içerisinde yer alacak filatelik ürünler Genel Müdür 
+onayı ile belirlenir ve Daire Başkanlığınca üretilir.
+6.5.2Portföylerin basım işlemlerinde iki adet baskı örneği Daire Başkanı tarafından onaylanır. Onaylanan portföy 
+örneklerinden bir adedi baskıya esas teşkil etmek üzere Basımevi yetkilisine, diğeri ise ilgili Şube Müdürlüğüne 
+muayeneye esas olmak üzere teslim edilir. Basımevi, portföyleri bildirilen sayıda basar ve fersudeleri ve baskı 
+örneği ile birlikte teslim eder. 
+6.5.3Basımı gerçekleştirilen portföylerin baskı örnekleri yıl sonunda ilgili Şube Müdürlüğü tarafından Müze Şube 
+Müdürlüğüne teslim edilir.
+6.5.4Portföylerin satışa çıkarılacağı tarih ve satış bedelleri; Şirket birimlerine, yurtiçi ve yurtdışı abonelere, 
+yurtdışı acentelere, Basın ve Yayın kuruluşlarına, Türkiye Filateli Dernekleri Federasyonu ve bağlı filateli ile ilgili 
+kulüp ve derneklere, kamuoyuna yazılı olarak veya Şirket internet siteleri ve sosyal medya hesapları aracılığı ile 
+duyurulur.
+6.5.5Portföylerin basım sonrası muayene işlemleri sırasında tespit edilen baskı bozukları ile tiraj tamamlandıktan 
+sonra geriye kalan portföyler; üretim tamamlandıktan sonra, gelen sayı ve tiraj denkliği sağlanarak en az üç kişiden 
+oluşan bir komisyon tarafından tutanak düzenlenmek suretiyle kullanılamayacak hale getirilerek imha edilir.  
+6.6 Pul Poşetinin Hazırlanması ve Satışa Sunulması
+6.6.1Pul poşetlerinin tirajları Daire Başkanlığınca, belirlenir. İçerisinde yer alan pulların satış bedellerinin toplamı 
+üzerinden satışa sunulur. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+6/10
+6.6.2İçerisinde anma pulları, sürekli ve resmi posta pulları ile açıktan satışa sunulan numaralı pullar bulunan pul 
+poşetleri Daire Başkanlığınca hazırlanır.
+6.6.3Pul poşetlerinin basım işlemlerinde iki adet baskı örneği Daire Başkanı tarafından onaylanır. Onaylanan pul 
+poşeti örneklerinden bir adedi baskıya esas teşkil etmek üzere Basımevi yetkilisine, diğeri ise ilgili Şube 
+Müdürlüğüne muayeneye esas olmak üzere teslim edilir. Basımevi, pul poşetlerini bildirilen sayıda basar ve 
+fersudeleri ve baskı örneği ile birlikte teslim eder. 
+6.7 Z Grubu Abone Gönderilerinin Hazırlanması
+6.7.1İlkgün veya özelgün zarfları abone adreslerine gönderilmek üzere Daire Başkanlığınca hazırlanır.
+6.7.2Abone için hazırlanan söz konusu zarfların üzerindeki pul bedelleri, kayıtlı mektup ücretinden az ise eksik 
+ücret kadar pul zarfa yapıştırılır. Zarf ve ilave pul ücretleri abone hesabından tahsil edilir.
+6.7.3Z grubu abone gönderilerinin tamamı, ilkgün veya özeltarih damgalarının kullanıldığı ilgili Bölge 
+Müdürlüğüne Daire Başkanlığınca yazı ile gönderilir.
+6.7.4İlkgün veya özeltarih damgasının kullanıldığı PTT işyeri tarafından, söz konusu gönderiler üzerine o yerin 
+posta damgası tatbik edilir. Zarf üzerinde ilave pul bulunması halinde bu pullar da posta damgası ile damgalanarak 
+abone adreslerine gönderilir.
+6.8 Filatelik Ürünlerin Satışı
+6.8.1Filatelik ürünlerin satışı, Değerli Kâğıtlar İşletme Prosedüründe yer alan Değerli Kağıtların Satışı başlıklı 
+6.3.3 maddesine göre belirlenmiş usullerin yanı sıra www.filateli.gov.tr web adresi, mobil uygulama ve e-devlet 
+üzerinden de gerçekleştirilebilir.
+6.8.2Anma pullarının blok pul olarak üretilmesi halinde blok pul üzerinde yer alan pulların değerlerinin toplamı 
+üzerinden satışları yapılır. Anma blokları üzerindeki pullar birbirinden ayrılarak posta gönderileri üzerinde de 
+kullanılabilir. 
+6.8.3Satılan filatelik ürünler geri alınmaz. Ancak, hatalı hizmet sunumunun Şirketin kusurundan kaynaklandığı 
+tespit edildiğinde değerli kâğıt ve filatelik ürünlerin iadesi kabul edilir. İnternet sitesi ve abonelik üzerinden yapılan 
+satışlarda 6502 sayılı Tüketicinin Korunması Hakkındaki Kanun hükümlerine göre müşterilerin cayma hakkı 
+saklıdır.
+6.9 Abonelik işlemleri
+6.9.1Filateli aboneliği işlemleri PTT işyerleri ve Şube Müdürlüğünce gerçekleştirilir. PTT işyerlerince 
+gerçekleştirilen abonelik işlemleri Şube Müdürlüğüne bildirilir.
+6.9.2Yurt içi ve yurtdışından gerçek veya tüzel kişiler filateli abonesi olabilir.
+6.9.3Aboneliğin tüzel kişi adına açılması halinde formu imzalayanın tüzel kişilik adına yetkili olduğuna dair belge 
+ile tüzel kişiliğin imza sirküsü gerekir. 
+6.9.4Abonelik işlemleri, DKD.FR 35 numaralı Filateli Aboneliği Formu doldurularak   müracaat eder. 
+Müracaatlar bizzat başvuru, posta yolu ve elektronik ortamda ve e-devlet üzerinden yapılabilir.
+6.9.5Abone olunacak filatelik ürün talep miktarında prensip olarak bir sınır yoktur. Şirket herhangi bir nedenle 
+talep miktarına sınırlama getirebilir.
+6.9.6Aboneliğin tüzel kişi adına açılması halinde formu imzalayanın tüzel kişilik adına yetkili olduğuna dair belge 
+ile tüzel kişiliğin imza sirküsü gerekir.
+6.9.7Her bir abone için dosya açılır ve ilgili doküman abonenin dosyasında muhafaza edilir.
+6.9.8Müşteriler, abonelik formunun Şube Müdürlüğüne ulaştığı tarihten itibaren satışa sunulacak filatelik 
+ürünlerden başlayarak abone olabilirler. Abone olunan tarihten önce satışa sunulmuş filatelik ürünlerin talep 
+edilmesi halinde abonenin isteği, stok durumuna göre karşılanır. Stokta bulunmayan filatelik ürünler için abone hak 
+talep edemez.
+6.9.9Aboneler, yazılı olarak bildirilmesi halinde abone oldukları filatelik ürün miktarında ve türünde değişiklik 
+yapabilir. Değişiklik talebinden sonra tedavüle sunulan filatelik ürünler için geçerli olur. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+7/10
+6.9.10PTT işyerlerine abone olmak için müracaat eden gerçek veya tüzel kişilerin abonelik talepleri DKD.FR 74 
+numaralı Bölge Müdürlüğü Abone Formu düzenlenerek kabul edilir. Ancak yurtdışı abonelik müracaatında bulunan 
+müşterilere DKD.FR 35 numaralı Filateli Aboneliği Formu doldurtulur. Kabul edilen taleplere ait abone formları 
+Şube Müdürlüğüne aktarılır.
+6.9.11PTT işyerleri; abonelerinin filatelik ürünleri takip etmekten sorumludur. Aboneler; filatelik ürünleri gişelere 
+gelerek bedelini ödemek suretiyle temin ederler. 
+6.9.12PTT işyerleri; aboneleri tarafından talep edilen filatelik ürünlerin türleri ile toplam adetlerini Bölge 
+Müdürlükleri aracılığı ile her yılın ocak ayının ilk haftasında Şube Müdürlüğüne bildirir. Yıl içerisinde abone 
+sayısında ve talep miktarında değişiklik olması halinde değişiklikler, talebin alındığı tarihte Bölge Müdürlüklerince 
+Şube Müdürlüğüne bildirilir.
+6.9.13PTT işyerine abone olanların talep ettikleri filatelik ürünler satışa çıkarıldıkları gün dâhil olmak üzere altı 
+ay boyunca PTT işyerinde bekletilir. Abone için bekletilen ve altı aylık bekleme süresi biten filatelik ürünler satışa 
+çıkarılır. 
+6.9.14PTT işyerinde aboneler için ayrılan filatelik ürünler; her abone için düzenlenen DKD.LS01 numaralı Abone 
+Talep ve Teslim Listesine kaydedilir. PTT işyeri; abonelerine, filatelik ürünlerin bekleme süresi içinde söz konusu 
+liste imzalattırılarak satışı gerçekleştirilir. Aboneler, kendilerine ayrılan filatelik ürünleri üçüncü şahıslar 
+aracılığıyla da satın alabilir. Bu durumda abone için ayrılmış ürünlerin satışı, abonenin yetkili kıldığı kimsenin 
+imzası ve yetkilendirme belgesi alınarak gerçekleştirilir.
+6.9.15Abone tarafından bekleme süresi içinde satın alınmayan ürünler, DKD.LS01 numaralı Abone Talep ve 
+Teslim Listesine kaydedilerek teslim edildiği tarih listede belirtilmek suretiyle imza karşılığı vezneye verilir. 
+6.9.16Bekleme süresi sonunda vezneye aktarılan filatelik ürünler pullar hariç olmak üzere bir yıl süre ile satışta 
+tutulur. Aboneler için ayrılan ve satışta kalma süresi dolan filatelik ürünler Bölge Müdürlüklerince Şube 
+Müdürlüğünün bağlı olduğu Daire Başkanlığına aktarılır. 
+6.9.17Şube Müdürlüğünce abonelere abone numarası tahsis edilir. Tahsis edilen numara aboneye bildirilir. 
+6.9.18Aboneler, talep ettikleri filatelik ürünlerin karşılığı olan bedeli Şirket hesaplarına yatırmaktan ve 
+hesaplarında yeterli miktarda bakiye bulundurmaktan sorumludur.
+6.9.19Abonelerin talep ettikleri filatelik ürünler, hesaplarındaki bakiyeye göre adreslerine servis olarak gönderilir. 
+Yeterli bakiye bulunmaması halinde hesaplarındaki bakiyeye denk düşen talepleri gönderilir. Aboneler için ayrılan 
+filatelik ürünler tedavül tarihinden itibaren bir yıl boyunca bekletilir. Bekleme süresi biten filatelik ürünler satışa 
+sunulur. 
+6.9.20Aboneliğin devamı sırasında ilgilinin hesabında bulunan parayı talep etmesi halinde, bu talebi kabul 
+edilmez. Abonesi olduğu ürünlerden gönderilmek suretiyle hesaptaki bakiyesi kullanılır.
+6.9.21Abonenin sistemde kayıtlı adresine gönderilen pul ve filatelik ürünler alıcıya teslim edilemediği için iade 
+olarak dönerse; abone ile iletişime geçilir.
+Abone ile iletişime geçilmesi halinde; gönderi 2. kez abone adresine sevk edilir. Aboneye 2. kez sevk edilen 
+gönderinin tekrar iade olarak dönmesi halinde, gelen gönderi 6 ay süresince bekletilir. 6 aylık süre bittikten sonra 
+gönderi içeriği pul ve filatelik ürünler Değerli Kağıtlar Muhasebe Şube Müdürlüğüne teslim edilir. Pullar 1 yıl süre 
+ile bekletilir, diğer filatelik ürünler satışa sunulur. Söz konusu gönderi içeriği tutarı abone hesabına aktarılır. 
+Abonenin bekleme süresi sonunda pul ve filatelik ürünleri talep etmesi halinde, stokta bulunmayan ürünler için 
+Şirket sorumlu değildir.
+Abone ile iletişime geçilememesi halinde; iade gelen gönderi 6 ay süresince bekletilir. 6 aylık süre bittikten sonra 
+gönderi içeriği pul ve filatelik ürünler Değerli Kağıtlar Muhasebe Şube Müdürlüğüne teslim edilir. Pullar 1 yıl süre 
+ile bekletilir, diğer filatelik ürünler satışa sunulur. Söz konusu gönderi içeriği tutarı abone hesabına aktarılır. 
+Abonenin bekleme süresi sonunda pul ve filatelik ürünleri talep etmesi halinde, stokta bulunmayan ürünler için 
+Şirket sorumlu değildir.
+6.10Aboneliğin iptali
+6.10.1Bir yıl süre ile işlem görmeyen abonelere birinci yılın sonunda uyarma yazısı gönderilerek durum 
+kendilerine bildirilir. Buna rağmen cevap alınmayan abonelerin dosyası servisten kaldırılır, ikinci yılın sonunda 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+8/10
+usulüne uygun şekilde imha edilir. Abonenin hesabında bakiye olması halinde kalan bakiye karlar hesabına 
+aktarılır. Aboneliğin devamının istenmesi durumunda bu talep kabul edilir, abonelik işlemine ilişkin doküman 
+yenilenir.
+6.10.2Müşteri tarafından aboneliğin iptalinin yazılı olarak istenmesi halinde bu talebi kabul edilerek, hesabındaki 
+bakiye müşteriye ödenir. 
+6.11 Acentelik işlemleri
+6.11.1Şirket, filatelik ürünlerin satışı amacı ile yurt dışındaki tüzel kişilere acentelik verebilir. Acentelik işlemleri 
+Şube Müdürlüğünce yürütülür.  
+6.11.2Acentelik başvurusunda bulunan tüzel kişilikten; tüzel kişiliğin resmî belgesi, başvuran kişinin 
+yetkilendirildiğine dair belge, kimlik bilgileri ve acentelik talebine ilişkin yazı alınır. 
+6.11.3Acentelik başvurusunun kabulü, çalışma esasları ve komisyon oranları Genel Müdür onayı ile belirlenir.
+6.11.4Acenteliğin kabulü ilgiliye bildirilir. Acenteler filatelik ürünlerin sayılarını ve türlerini yazılı olarak 
+belirtmek suretiyle talepte bulunurlar. Acentelerin bu talepleri Şirket stoklarına göre karşılanır. Acentelik 
+taleplerinin eksik karşılanması halinde acentelik hiçbir hak talebinde bulunamaz. 
+6.11.5Acenteye satılan filatelik ürünlerin her birinden gönderilen miktarın sadece %20 si iade kabul edilir. İade 
+alınan filatelik ürünün bedeli komisyon oranı düşülerek acenteye ödenir. 
+6.11.6Acente, Şirketin kendisine sağladığı avantajları yazılı izin almaksızın herhangi bir özel kişiye, kuruma veya 
+firmaya devredemez. 
+6.11.7Acente talepleri adreslerine servis olarak gönderilir. Talep etmeleri halinde usulüne göre kendisine veya 
+yetkilendirdikleri kişilere elden de teslim edilebilir 
+6.11.8Bir yıl süre ile işlem görmeyen acentelere birinci yılın sonunda uyarma yazısı gönderilerek durum 
+kendilerine bildirilir. Buna rağmen cevap alınmayan acentelerin dosyası servisten kaldırılır, ikinci yılın sonunda 
+usulüne uygun şekilde imha edilir. Acentenin hesabında bakiye olması halinde kalan bakiye karlar hesabına 
+aktarılır.  
+6.11.9Acenteliğin Şirket tarafından iptali halinde; acente, elinde kalan filatelik ürünleri Şirkete iade edebilir. İade 
+alınan filatelik ürünün bedeli komisyon oranı düşülerek acenteye ödenir.
+6.11.10Acenteliğin acente tarafından iptalinin istenmesi halinde; elinde bulunan filatelik ürünlerin her birinin %20 
+si iade kabul edilebilir. İade alınan filatelik ürünün bedeli komisyon oranı düşülerek acenteye ödenir.
+6.12 Filatelik Ürünlerin Armağan İşleri
+6.12.1 Şirketçe uygun görülecek yerlere filatelik ürünlerin armağan olarak verilmesine Genel Müdür yetkilidir. 
+6.12.2Tedavüle sunulan; 
+-Anma pulları ile sürekli ve resmi posta pullarından üç yüzer seri, 
+-Anma bloklarından ellişer adet, 
+-Diğer filatelik ürünlerden ellişer adet, 
+-Portföylerden onar  adet, 
+damgasız olarak Müze Şube Müdürlüğüne verilir.
+6.12.3Aynı tür pulun değişik sayıda pul kapsayan tabakalara basılması halinde, Müze Şube Müdürlüğüne bu 
+tabakaların her birinden de aynı sayılarda verilir. 
+6.12.4Tedavüle sunulan; 
+-Anma pulları ve sürekli posta pullarından ikiyüzer seri, anma bloklarından otuzar adet ilkgün damgası ile damgalı 
+olarak,
+-Resmi posta pullarından ise ikiyüzer seri Şube Müdürlüğünün damgası ile damgalı olarak,
+Müze Şube Müdürlüğüne teslim edilir.
+6.12.5Müze Şube Müdürlüğü envanterinde kayıtlı pullar ile filatelik ürünler satılamaz ve armağan edilemez.
+6.12.6Tedavüle sunulan İlkgün ve Özelgün zarflarından beşer adet Z grubuna dahil edilerek, PTT Pul Müzesi 
+adresine, gerektiğinde Posta ve Telgraf Ücret Tarifesine göre eksik kalan kısım posta pullarıyla tamamlanarak 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+9/10
+postayla gönderilir. Söz konusu Z Grubu gönderiler Müze Şube Müdürlüğü envanter kayıtlarına alınarak muhafaza 
+edilir, gerektiğinde sergilenir.
+6.12.7Yurtiçi ve yurtdışı sergilerde teşhir amaçlı kullanılmak üzere tedavüle sunulan pullardan ve filatelik 
+ürünlerden yirmibeşer adet Müze Şube Müdürlüğüne teslim edilir.
+6.12.8Örnek Pul albümüne konulmak üzere tedavüle çıkarılan pul ve filatelik ürünlerden birer adet Pul Planlama 
+Şube Müdürlüğüne teslim edilir.
+6.12.9Şirket hizmetlerine yönelik eğitim amaçlı çalışmalarda filatelik ürünlerden, ilgili birimin talebi 
+doğrultusunda gerekli olduğu bildirilen ve satışta olan filatelik malzemeler Genel Müdür Onayı ile verilir.
+6.12.10Uluslararası organizasyonlar, yabancı ülkelerle ortak çıkarılan pullar ve yıl içerisinde uluslararası alanda 
+gerçekleşen önemli olaylara ilişkin tedavüle sunulan pul ve filatelik ürünlerden T.C. Dışişleri Bakanlığına onar adet 
+gönderilir.
+6.12.11Dünya Çevre Günü konulu pullardan ve ilkgün zarflarından birer adet, Çevre Günü konulu özelgün 
+zarflarından birer adet Birleşmiş Milletler Müzesinde sergilenmek üzere gönderilir.
+6.12.12Atatürk ile ilgili tedavüle sunulan pullardan ikişer seri Anıtkabir Müzesine gönderilir.
+6.12.13Cumhurbaşkanlığı Atatürk Müze Köşkü Müdürlüğü, İl Kültür ve Turizm Müdürlüğü, Cumhuriyet Müzesi 
+Müdürlüğü, Milli Kütüphane Başkanlığı ve Adnan Ötüken İl Halk Kütüphanesi Müdürlüğünde sergilenmek üzere 
+pullardan birer seri, ilkgün zarflarından birer adet gönderilir.
+6.12.14Kuzey Kıbrıs Türk Cumhuriyeti Posta Dairesine, tedavüle sunulan pullardan ve ilkgün zarflarından 
+otuzbeşer adet gönderilir.
+6.12.15Genel Müdür tarafından uygun görülen diğer posta idareleri ile pul ve filatelik ürün mübadelesi yapılabilir. 
+Her yıl mübadele yapılan yabancı posta idarelerinden Şirketimize gönderilen pullar, gerektiğinde tanıtım amaçlı 
+kullanabilir. Mübadele yapılan ülkelerin pulları dışında diğer posta idarelerinden yıl içinde pul mübadelesi talebi 
+olması halinde Şirketimize gönderilen pul sayısı kadar pul gönderilir.
+6.12.16Şirketimizce tedavüle sunulan pullar, ilkgün zarfları, pul baskılı posta kartı ve maksimum kartlardan yurtiçi 
+ve yurtdışı basın ve yayın kuruluşlarına gönderilmek üzere, ilgili birime yirmişer adet verilir.
+6.12.17Yurtiçinde ve yurtdışında katılım sağlanan yarışmalara yarışma şartlarına göre belirlenen sayılarda pul ve 
+filatelik ürünler gönderilir. 
+6.12.18Dünya Posta Birliği (UPU) sözleşmesi kapsamında tedavüle sunulan pullardan talep edilen miktar kadar 
+gönderilir.
+6.12.19Dünya Pul Numaralandırma Sistemine (WNS) kayıt edilmek üzere, tedavüle sunulan numaralı pullar da 
+dahil olmak üzere tüm pullardan üçer seri gönderilir.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+DKD.FR35-Filateli Aboneliği Formu
+DKD.FR74-Bölge Müdürlüğü Filateli Abone Formu
+DKD.LS01-Abone Talep ve Teslim Listesi
+DKD.PR04-Değerli Kağıtlar İşletme Prosedürü
+11. REVİZYON BİLGİLERİ
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Filateli İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR01
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+10/10
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+2 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+1 14.12.2020
+Günün şartları ve filatelik ürün çeşitleri göz önüne alınarak;  Tanımlar ve 
+Kısaltmalar başlıklı 3. Maddede yer alan tanımların daha anlaşılır olarak 
+ifade edilebilmesi amacı ile gerekli güncellemeler ve yeni tanım eklemeleri 
+yapılmıştır.  Uygulamalar başlığı altında düzenlemeler yapılmıştır.      
+0 16.07.2018 Yeni Doküman 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,589 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+İÇ DENETİM BİRİMİ İÇ 
+DENETİM BİRİMİ BİRİM 
+SORUMLUSU
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/10
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi İç Denetim Birimi’nin organizasyon, görev, 
+yetki ve sorumlulukları ile çalışma usul ve esaslarını düzenlemektir.
+2.KAPSAM
+Bu Prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi İç Denetim Birimi’nin organizasyon yapısı ile çalışma 
+esaslarını kapsar.
+3.DAYANAK
+Bu prosedür, 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun’un 5’inci maddesi, Suç 
+Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı 
+Hakkında Yönetmelik’in İç Denetim başlıklı Yedinci Bölümünün 26, 27 ve 28’inci maddeleri, Posta ve Telgraf 
+Teşkilatı Yönetim Kurulunun 31/01/2017 tarihli ve 50 sayılı kararı ile 15/08/2017 tarih ve 232 sayılı kararı ve 
+Uluslararası İç Denetçiler Enstitüsü tarafından yayımlanan Uluslararası İç Denetim Standartlarına dayanılarak 
+hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.2 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, 
+Birim Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür. 
+4.3 Denetim Komitesi: Aslî işlevi, muhasebe, denetim, iç kontrol sistemi ve mali raporlama uygulamaları ile ilgili 
+olarak Yönetim Kuruluna gözetim görevinde yardımcı olmak üzere, Yönetim Kurulunun onayına bağlı olarak, 
+Yönetim Kurulunun mali ve/veya iç denetim konularında bilgili bağımsız üyelerinden oluşan komitedir.
+4.4 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.5 İç Denetçi: İç denetim faaliyetlerini yürütmekle görevli İç Denetim Birimi çalışanlarıdır.
+4.6 İç Denetim Birimi Yönetim Hizmetleri Şefliği: PTT AŞ İç Denetim Birimi Yönetim Hizmetleri 
+Şefliğidir.
+4.7 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir. 
+4.8 Üst Yönetim: Yönetim Kurulu Başkanı ve Üyeleri, Genel Müdür, Genel Müdür Yardımcıları ile Birim 
+Üst Yöneticileridir. 
+4.9 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur. 
+5.SORUMLULUKLAR
+5.1 Bağımsızlık
+İç Denetim Birimi, doğrudan Yönetim Kuruluna ve Denetim Komitesine bağlı olarak görev yapar ve denetim 
+sonuçları hakkında, Yönetim Kurulu ve Denetim Komitesine rapor sunar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/10
+İç Denetim Birimi, Yönetim Kurulunun verdiği yetki çerçevesinde, denetimin kapsamının belirlenmesinde, 
+denetim etkinliklerinin gerçekleştirilmesinde ve sonuçlarının iletilmesinde bağımsız olarak görev yapar. İç 
+Denetim Biriminin görüşlerinin değiştirilmesi istenemez.
+İç denetçiler, denetim faaliyetine ilişkin görevlerini bu esaslar kapsamında tam bir bağımsızlık içinde yürütürler. İç 
+Denetçiler, görevlerini yerine getirirken görevin başarıyla sonuçlanmasını engelleyecek bir kısıtlama veya engel ile 
+karşılaşmaları halinde bunu Birimin görüşüne sunarlar. 
+İç denetçilerin görevlerini bağımsız ve hiçbir dış ve iç etki altında kalmadan yapmaları Birimin sorumluluğundadır.
+İç denetimin bağımsızlığı kalite güvence ve geliştirme programı kapsamında Denetim Komitesi tarafından düzenli 
+olarak değerlendirilir.
+5.2 Tarafsızlık
+İç denetçiler görevlerini yerine getirirken tarafsızlık ilkesiyle hareket eder. İç denetçiler; denetimin belirlenen 
+amaçlarına ulaşılması için iç denetim faaliyetlerinde gerekli tüm denetim tekniklerini uygular, ihtiyaç duyacağı 
+tüm bilgi ve belgeleri toplar, tarafsız ve yeterli bilgi ve tecrübeye sahip her iç denetçinin aynı sonuçlara ulaşmasını 
+sağlayacak şekilde, denetim kanıtına esas bu bilgi ve belgeleri değerlendirir ve denetim kalitesinden ödün 
+vermeden ve başka düşünce ve telkinlerden etkilenmeden görüşünü oluşturur.
+İç denetçiler, görevlerini yürütürken bağımsızlık ve tarafsızlıklarını zedeleyebilecek bir durumla karşılaşmaları 
+halinde, bu durumu derhal İç Denetim Birimine yazılı olarak bildirirler.
+Şirketin farklı birimlerindeyken İç Denetçilik görevine atananlar, daha önce sorumlu oldukları görevlerle ilgili 
+olarak denetimlerinde tarafsızlığa azami derecede dikkat etmekle birlikte atamalarının üzerinden bir yıl geçmeden 
+daha önce sorumlu oldukları görevle ilgili denetim faaliyeti yürütemezler. 
+İç Denetim Birimi, iç denetçilerin görevlendirilmesinde, tarafsızlık prensibinin uygulanmasına azami özeni 
+gösterir.
+5.3 Mesleki Yeterlilik
+İç denetçiler görevlerinin gerektirdiği mesleki yeterliliğe sahip olmak ve Şirketin faaliyet gösterdiği konular 
+doğrultusunda kendilerini geliştirmek zorundadırlar. Mesleki yeterlilik; görevin gerektirdiği bilgi ve beceriye sahip 
+olma, gerekli ruhsat ve yetkilendirmelere sahip olmayı, iç denetim konularıyla ilgili sağlıklı veri ve kanıt toplama, 
+inceleyip değerlendirme ve raporlama yeteneğini ifade eder. 
+İç Denetim Birimi, iç denetçilerin mesleki yönden gelişmesi, yenilikleri izlemesi ve çalışma isteğini artırmak için 
+gerekli tedbirler almakla görevlidir.
+5.4 Mesleki Özen
+İç denetçiler, görevlerini yerine getirirken gerekli her türlü özen ve dikkati gösterirler. Bu amaçla, her türlü art 
+niyetli davranışa, hata ve ihmale, israf, verimsizlik ve iç denetçilerin tarafsızlığını engelleyici duruma karşı gerekli 
+tedbirleri alır ve incelemelerini özenle yaparlar.
+İç denetçiler, iç denetim boyunca denetledikleri birimlerin günlük çalışmalarının aksamaması için gerekli özen ve 
+dikkati gösterirler.
+İç denetim etkinlikleri iç denetimle görevlendirilen iç denetçiler tarafından bizzat yerine getirilir. İç denetim yetkisi 
+devredilemez.
+İç denetçiler, görev yaptıkları birim personeliyle ve kişilerle ilişkide bulunan üçüncü şahıslar veya kurumlarla 
+tarafsızlığı zedeleyecek maddi ve manevi herhangi bir ilişki ve borç-alacak ilişkisine giremezler, şahsi hediye 
+kabul edemezler.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/10
+5.5 İç Denetim Standartları ve Etik Kurallar
+İç denetim faaliyetleri, iç denetimin tanımına ve etik kurallara uygun olarak yürütülür.  Açıklık bulunmayan 
+hallerde ise uluslararası denetim standartları ile etik kurallar dikkate alınır. İç Denetim Birimi Sorumlusu ve İç 
+Denetçiler bu standartlardaki kurallar ile iç denetimin tanımına uygun hareket etmekle yükümlüdür.
+5.6 İç Kontrolle İlişki
+İç denetim faaliyeti, iç kontrol sisteminin yeterliliği, etkinliği ve işleyişiyle ilgili olarak yönetime bilgiler sağlar, 
+değerlendirmeler yapar ve önerilerde bulunur.
+İç denetçiler, iç kontrol sisteminin düzenlenmesi ya da uygulanması süreçlerine ve iç kontrol tedbirlerinin seçimine 
+dâhil edilemez. Yönetim Kurulu iç denetçilerden, iç kontrol ilkelerine ve iç kontrol sisteminin oluşturulmasına 
+yönelik görüş alabilir.
+5.7 Görev Yeri
+İç Denetim Biriminin görev yeri, Şirketin Ankara’daki merkezidir. Bu merkez, aynı zamanda İç Denetim Birimi 
+personelinin de görev merkezidir. İç Denetim Birimi ihtiyaç halinde farklı görev yerleri de oluşturabilir.
+5.8 Organizasyon Yapısı, Görev, Yetki ve Sorumluluklar
+5.8.1 Birim Çalışanları, Birim  Üst Yöneticisinin Atanması ve Görevden Alınması
+İç Denetim Birimi; İç Denetim Birim  Üst Yöneticisi, İç Denetçiler ile Birimin günlük idari ve sekretarya işlerini 
+yürütecek Yönetim Hizmetleri Şefi ile Yönetim Hizmetleri Şefliği personelinden oluşur. 
+İç Denetim Birim  Üst Yöneticisinin atanması, görevine son verilmesi ve görev değişikliği, Denetim Komitesinin 
+görüşü alınmak suretiyle Yönetim Kurulu kararıyla gerçekleştirilir.
+5.8.2 İç Denetim Biriminin Görev, Yetki ve Sorumlulukları
+İç Denetim Biriminin ana fonksiyonu, Şirketin normal işleyişinin devamını sağlamak ve aksaklıkları tespit etmek 
+suretiyle hak ve çıkarlarını korumak, Şirkete değer katmak amacıyla Şirketin tüm sistem ve süreçlerini 
+değerlendirmek, bunların geliştirilmesi ve iyileştirilmesine katkıda bulunmak; işletme içi ve işletme dışı risklere 
+karşı öneriler geliştirmek üzere tarafsız ve bağımsız iç denetim  faaliyeti yürütmek ve danışmanlık hizmeti vermek; 
+gerektiğinde iş ve işlemler ile ilgili diğer iç denetim faaliyetlerini yürütmektir.
+Bu amaçla ve Şirketin büyümesine, yaşanan rekabet ortamına uygun olarak gelişmesine ve kurumsallaşmasına 
+katkıda bulunmak ve üst yönetimin karar alma mekanizmasının hızlı ve etkin işletilmesine yardımcı olmak için 
+aşağıda yazılı görevleri yerine getirir:
+a)   Şirketin bütün birimlerinde ve iştiraklerinde, tüm, iş, işlem ve etkinliklerini denetlemek ve sonuçlarını 
+Yönetim Kurulu ve Denetim Komitesine raporlamak, 
+b)   Risk odaklı denetim planları yapmak ve uygulanmasını sağlamak,
+c)   İç kontrol sisteminin yeterliliğini ve etkinliğini incelemek ve değerlendirmek,
+ç)   Kurumsal yönetim ilkeleri ile etik değerlere uyumluluğu denetlemek,
+d)   Risk yönetimi uygulamalarının etkinliğini incelemek ve öneriler sunmak,
+e)   Şirketin faaliyet ve işlemlerinin; Genel Kurul ve Yönetim Kurulu kararlarına, bu kararlara dayanılarak yapılan 
+iş ve işlemler ile çıkarılan talimatlar ve genelgelere, plan ve bütçe hedeflerine, iç usul esaslara, prosedür ve 
+talimatlara, yasal mevzuata ve genel kabul görmüş muhasebe ilkelerine uygunluğunu araştırmak ve 
+değerlendirmek,
+f)  Şirket üst yönetiminin belirleyeceği stratejik kararlar çerçevesinde; kaynak kullanımının,  faaliyet ve 
+işlemlerinin, mali ve ekonomik yönlerden analiz ve değerlendirmelerini yapmak, maliyet tasarrufu ve verimlilik 
+artışı sağlayacak öneriler geliştirmek,
+g)   Denetim Komitesince uygun görülen konularda danışmanlık hizmeti vermek, özel amaçlı çalışmaları yürütmek 
+veya bu çalışmalara katılmak,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/10
+ğ)  Çalışmalarını yürütürken gizlilik ve sır saklama prensipleri çerçevesinde Şirketin tüm fonksiyonlarına ve 
+işlemlerine, varlıklarına, tüm kayıt, belge ve defterlerine herhangi bir kısıtlama olmaksızın erişebilmek,
+h)   İç denetim faaliyetlerinin başarıyla yürütülebilmesi için genel prensipleri saptamak, metodoloji geliştirmek, 
+Birim personelinin verimli çalışmasını özendirici sistem geliştirmek,
+ı)   Uzmanlığına gerek duyulan alanlarda, gerektiğinde Şirket personelinden veya Şirket dışındaki uzmanlardan 
+yardım almak,
+i)   Denetim çalışmalarının kalitesini artırmak ve çağdaş denetim tekniklerini yakından takip etmek amacıyla 
+eğitim çalışmaları yapmak,
+j)   Denetim Komitesinin verdiği yetki çerçevesinde raporların gereğini sağlamak üzere ilgili birimlere göndermek,
+k) Bağımsız dış denetimin kapsamı da göz önüne alınarak denetim çalışmalarının en üst düzeyde 
+gerçekleştirilmesini sağlamak,
+l)    İç denetim faaliyetleri ile ilgili olarak Yönetim Kurulu tarafından verilen diğer görevleri yapmak.
+5.8.3İç Denetim Birim Üst Yöneticisinin Görev, Yetki ve Sorumluluğu
+İç Denetim Birim Üst Yöneticisi; aşağıda yerine getirmekle yükümlü olduğu belirtilen görevler ile ilgili olarak 
+Denetim Komitesine karşı sorumludur:
+a)İç Denetim Biriminin, 4.8.2 inci maddede belirtilen yetkileri çerçevesindeki görevlerini yürütmek,
+b)İç Denetim Biriminin verimli bir şekilde çalışmasını sağlamak üzere ihtiyaç durumunu gözeterek organizasyon 
+yapısı ve kadro tekliflerini hazırlayarak onaya sunmak,
+c)İç Denetim Birimini yönetmek ve personelin belirlenen esaslar çerçevesinde çalışmalarını sağlamak,
+ç)    İç Denetim Birimi Çalışma prosedürleri hakkında gerekli değişiklik tekliflerini yapmak,
+d) Denetim sırasında uygulanacak metodolojileri, usul ve esasları tanımlayan iç denetim rehberlerini ve 
+talimatları hazırlamak,
+e)Gerektiğinde, hizmetine ihtiyaç duyulan Şirket personelini, iç denetim faaliyetlerinde görevlendirmek,
+f)İç Denetime ayrılan kaynakların etkin ve verimli bir şekilde kullanılmasını sağlamak,
+g)İç Denetim faaliyetlerinin ahlaki kurallara ve standartlara uygun olmasını teminen gerekli tedbirleri almak,
+ğ)  İç denetçilerin görevlerini yaparken bağımsızlık veya tarafsızlığının tehlikeye girdiği veya ihlal edildiği 
+durumlarda gerekli tedbirleri almak ve Yönetim Kurulunu bilgilendirmek,
+h) Denetim sonuçlarını izlemek, raporlarda belirtilen hususların yerine getirilip getirilmediğini takip etmek,
+ı)    Birimi temsil etmek ve Şirket üst düzey yönetimi ile gerekli iletişimi sağlamak,
+i)İç denetçilerin ve ilgili diğer personelin performans değerlendirmelerini yapmak,
+j) Dönemsel denetim planlarını Denetim Komitesinin onayına sunmak, gerekli durumlarda denetim plan ve 
+programlarında değişiklik yapmak,
+k) Birimin etkinliklerini gerçekleştirmek için gerekli kaynakların yeterliliği konusunda Denetim Komitesi ve 
+Yönetim Kuruluna bilgi vermek,
+l) Birim faaliyetleri ile ilgili olarak Yönetim Kuruluna ve Denetim Komitesine rapor sunmak,
+m)İç denetçilerin, denetim sırasında veya denetim sonuçlarına göre soruşturma açılmasını gerektirecek veya suç 
+teşkil eden durumlara ilişkin tespitlerini Yönetim Kuruluna bildirmek,
+n)   İç Denetim Birimi etkinliklerini dönemsel olarak iç değerlendirmeye tabi tutmak ve gerektiğinde geliştirilmesi 
+amacıyla araştırmalar yapmak, yaptırmak,
+o)   Mesleki gelişim için denetim kadrosuna sürekli destek vermek,
+ö)   İç denetim faaliyetleri ile ilgili olarak Yönetim Kurulu tarafından verilen diğer görevleri yapmak.
+İç Denetim Birim Üst Yöneticisi görevinin gerektirdiği yetkilerle birlikte İç Denetçi sıfatı ve yetkilerine sahiptir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/10
+5.8.3.1 Birim Üst Yöneticisine Vekalet
+İç Denetim Birim Üst Yöneticisi, geçici nedenlerle görevinden ayrıldığında, Birim Üst Yöneticisinin belirleyeceği 
+bir İç Denetçi, Birim Üst Yöneticisine vekalet eder ve vekalet süresince Birim Üst Yöneticisinin yetkilerini kullanır.
+5.8.4  İç Denetçilerin Görev, Yetki ve Sorumlulukları
+İç denetçiler bu prosedür çerçevesinde iç denetim faaliyetlerine ilişkin aşağıdaki görevleri yerine getirir, yetkileri 
+kullanır ve sorumluluklara riayet eder.
+Görevleri;
+a)    Nesnel risk analizlerine dayanarak Şirketin yönetim ve kontrol yapılarını değerlendirmek,
+b)  Kaynakların etkili, ekonomik ve verimli kullanılmasının sağlanması için incelemeler yapmak ve önerilerde 
+bulunmak,
+c)    Şirket faaliyet ve işlemlerinin ilgili kanun, tüzük, yönetmelik ve diğer mevzuata uygunluğunu denetlemek,
+ç)    Denetim sonuçları çerçevesinde iyileştirmelere yönelik önerilerde bulunmak,
+d)    Merkez ve Taşra Teşkilatı tarafından üretilen bilgilerin doğruluğunu denetlemek,
+e)    Şirket tarafından belirlenen performans göstergelerinin uygulanabilirliğini değerlendirmek,
+f)   Denetim sırasında veya denetim sonuçlarına göre soruşturma açılmasını gerektirecek veya suç teşkil eden 
+durumlara ilişkin tespitlerini Birim Üst Yöneticisine bildirmek,
+g)    Mevzuat çerçevesinde görev alanına giren konularda verilen diğer görevleri yapmak.
+Yetkileri;
+a) Denetim konusuyla ilgili elektronik ortamdakiler dahil her türlü bilgi, belge ve dokümanlar ile nakit, kıymetli 
+evrak ve diğer varlıkların ibrazını talep etmek,
+b) Denetlenen birim çalışanlarından, iç denetim faaliyetlerinin gereği olarak yazılı ve sözlü bilgi istemek,
+c) Denetim faaliyetinin gerektirdiği konularda, kurum içinden uzman yardımı almak,
+ç)    Denetim faaliyetinin gerektirdiği araç, gereç ve diğer imkanlardan yararlanmak,
+d) Denetimi engelleyici tutum, davranış ve hareketleri İç Denetim Birimi Üst Yöneticisine intikal ettirmek.
+Sorumlulukları;
+a) Mevzuata ve etik kurallara uygun hareket etmek,
+b) Mesleki bilgi ve becerilerinin sürekli olarak geliştirmek,
+c)İç denetim faaliyetlerinde yetki ve ehliyetini aşan durumlarda İç Denetim Birim  Üst Yöneticisinin haberdar 
+etmek,
+ç)   Verilen görevin tarafsız ve bağımsız olarak yapılmasına engel olan durumların bulunması halinde, durumu İç 
+Denetim Birim  Üst Yöneticisine bildirmek,
+d) Denetim raporlarında kanıtlara dayanmak ve değerlendirmelerde objektif olmak,
+e) Denetim esnasında elde ettiği bilgilerin gizliliğini korumak.
+5.8.5 Yönetim Hizmetleri Şefliğinin Görev, Yetki ve Sorumlulukları
+İç Denetim Birimi Yönetim Hizmetleri Şefliği, İç Denetim Birim Üst Yöneticisinin emri altında Yönetim Hizmetleri 
+Şefi ve yeterli sayıda personelden oluşur.
+İç Denetim Birimi Yönetim Hizmetleri Şefliğinin görevleri şunlardır;
+a) Birimin tüm gelen ve giden yazışmalarının kayıt, dosyalama ve muhafaza işlerini, haberleşme ve ulaşım 
+işlevlerini üstlenmek,
+b) Birimin tüm rapor ve gizli belgelerini düzenli biçimde muhafaza etmek,
+c) Birimin yıllık bütçesini hazırlamak, tahakkuk işlerini yürütmek,
+ç)   Birim için gerekli araç, gereç ve malzemenin temini ile ilgili hizmetleri yürütmek,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/10
+d) Birim Üst Yöneticisi tarafından verilecek diğer görev ve işlemleri yapmak.
+Yönetim Hizmetleri Şefliği personeli görevleri nedeniyle edindikleri bilgileri açıklamamakla yükümlüdür.
+5.8.6 Göreve Başlama, Yükselme ve Performans Değerlendirmesi
+İç Denetim Birimi çalışanlarının göreve başlama, yükselme ve performans değerlendirmeleri, Posta ve Telgraf 
+Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik ile Posta ve 
+Telgraf Teşkilatı Anonim Şirketi Bireysel Performans Değerlendirme Prosedürü çerçevesinde yapılır. 
+İç denetçi olarak atama hususunda, bu maddenin son paragrafında sayılan şartları taşıyan adaylar arasından, birinci 
+paragrafta anılan Yönetmelik çerçevesinde, İç Denetim Birim Üst Yöneticisinin teklifi ve Yönetim Kurulunun 
+kararıyla atama yapılır.
+İç denetçi olarak atanacaklarda, lisans mezunu olma ve en az 5 yıllık denetim tecrübesinin yanı sıra, CIA 
+(Certified Internal Auditor), CISA (Certified Information System Auditor), CCSA (Certification in Control Self-
+Assessment), CGAP (Certified Government Auditing Professional), CFSA (Certified Financial Services Auditor) 
+ve CRMA (Certification in Risk Management Assurance) sertifikalarından birine sahip olma şartları aranır. Ayrıca, 
+Mesleki Uygulama Çerçevesi Kapsamında Uluslararası İç Denetim Standartları, İç Denetçilerin göreve başlama, 
+yükselme ve performans değerlendirmelerinde göz önünde bulundurulur.
+5.8.6.1 Bu Prosedürün yürürlüğe girdiği tarihten itibaren, Rehberlik ve Kontrol Hizmetleri Dairesi Başkanlığı 
+bünyesinde mesleğe seçme ve yarışma sınavı kazanarak girmiş olan ve en az 3 yıl süreli yardımcılık döneminden 
+sonra yapılan yeterlik sınavında başarı göstererek Müfettiş/Denetçi unvanını iktisap etmiş bulunan kişiler arasından 
+İç Denetçi olarak görevlendirilir.
+İç Denetim Biriminin kuruluşunda, ilk defa görevlendirilecek İç Denetçiler için, 4.8.6’ncı Maddede belirtilen 
+şartlar aranmaz.
+5.8.6.2 Birimin kuruluşunda, Şirket içinden ilk defa görevlendirilecek İç Denetçiler 4.8.6’ncı Maddenin 3. 
+paragrafında belirtilen sertifikalardan en az birini 3 yıl içinde almakla/tamamlamakla yükümlüdürler. Bu 
+yükümlülüğü yerine getirmeyen İç Denetçilerin İç Denetim Birimiyle ilişikleri kesilerek eski görevlerine iadesi 
+sağlanır.
+5.8.7 İdari Göreve Atanma
+İç Denetçiler, İç Denetim Birim Üst Yöneticisinin uygun görüşü alınmak suretiyle, Şirket ihtiyaç ve talepleri ile 
+kişisel nitelikleri çerçevesinde, Şirket içinde vekaleten/asaleten idari görevlere getirilebilirler.
+5.8.8 Danışmanlık Hizmeti Verilmesi
+Denetim Komitesinin gerekli görmesi halinde iç denetçiler Şirket hizmetlerinde danışmanlık yapabilirler. İç 
+denetçiler bu görevlerinde icrai bir sorumluluk almazlar. Söz konusu danışmanlık hizmetinin, tarafsız, iç denetim 
+etkinlikleri ile çakışmayan, tavsiye niteliğinde, danışmanlık hizmeti verilen konudaki etkinliği ve verimliliği 
+artırıcı bir yapıda olması esastır. Söz konusu esaslara uygunluk İç Denetim Birimi tarafından yakından izlenir.
+5.8.9 İç Denetim Birimi, İç denetçilerin çalışmalarına esas teşkil edecek İç Denetim Birimi Çalışma Prosedürüne 
+ilişkin rehber veya rehberler hazırlar ve uygulanmasını sağlar.
+5.8.10 Denetlenenlerin Sorumluluğu
+İç Denetim Biriminin çalışmalarının gereği gibi yürütülmesi için tüm kademelerdeki Şirket yönetici ve görevlileri, 
+denetim elemanlarına uygun bir çalışma yeri sağlamak ve denetimin gerektirdiği diğer önlemleri almak, istenen 
+bilgi ve belgeleri zamanında vermek, denetimi kolaylaştırmak için gerekli yardımı sağlamak sorumluluğundadırlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/10
+5.8.11 İşlerin Devri
+İç denetçilerin başka göreve atanma, emekliye ayrılma, askerliğe alınma gibi zorunlu sebeplerle işi devretme 
+gerekliliği doğması halinde, İç Denetçi elindeki işi Birim Üst Yöneticisinin yazılı onayıyla bir başka İç Denetçiye 
+devreder.
+Devredilecek işle ilgili bir Devir Notu hazırlanır ve o ana kadar toplanan her türlü belge dizi pusulası ekinde işi 
+devralacak İç Denetçiye teslim edilir.
+5.9 Yurtdışında İnceleme, Eğitim ve Akademik Çalışma
+İç denetçilere, mesleki ve bilimsel gelişmeleri takip etmek, yabancı dil öğrenmek veya geliştirmek, Yönetim 
+Kurulu tarafından uygun görülecek konularda araştırma yapmak ve kendilerini geliştirmek amacıyla yurtdışında 
+inceleme, araştırma, eğitim veya staj yaptırılabilir.
+İç denetçiler, yurtdışı lisansüstü eğitim hariç diğer görevlendirmelerde yurtiçine dönüşlerinde inceleme ve staja 
+ilişkin 1 ay içerisinde bir rapor hazırlarlar ve İç Denetim Birimine sunarlar.
+5.10 Yolluk ve Diğer İstihkakların Alınması
+İç denetçiler, yevmiye, yolluk ve diğer istihkaklarının tahakkuku ve alınması ile diğer her türlü mali ve sosyal 
+haklara ilişkin hususlarda, Şirket Müfettişlerinin/Denetçilerinin sahip olduğu tüm mali ve sosyal hakları haizdir.
+5.11 Bilgi, Belge ve Kayıtların Gizliliği
+İç Denetim Birimi çalışanları faaliyetlerini gizlilik ve sır saklama prensipleri çerçevesinde yürütmekle 
+yükümlüdürler.
+6.UYGULAMA
+6.1 İç Denetim Faaliyetinin Amacı, Kapsamı 
+6.1.1 İç Denetim Faaliyetinin Amacı 
+İç Denetim faaliyeti; Şirket faaliyetlerinin amaç ve politikalara, stratejik planlara, performans programlarına ve 
+mevzuata uygun olarak planlanmasını ve yürütülmesini, kaynakların etkili, ekonomik ve verimli kullanılmasını; 
+bilgilerin güvenilirliğini, bütünlüğünü ve zamanında elde edilebilirliğini sağlamayı amaçlar.
+Şirketin faaliyetlerini geliştirmek ve bunlara değer katmak için tasarlanan bağımsız, objektif güvence ve 
+danışmanlık hizmeti sağlayan İç Denetim Birimi tarafından yürütülen iç denetim faaliyetleri, Şirketin risk 
+yönetimi, kontrol ve yönetişim süreçlerinin etkinliğini değerlendirmek ve geliştirmek amacına yönelik sistemli ve 
+disiplinli bir yaklaşım getirerek Şirketin amaçlarına ulaşmasına yardımcı olur.
+İç denetim faaliyeti sonucunda, Şirket varlıklarının güvence altına alınması, iç kontrol sisteminin etkinliği ve 
+risklerin asgariye indirilmesi için Şirket faaliyetlerini olumsuz etkileyebilecek risklerin tanımlanması, gerekli 
+önlemlerin alınması, sürekli gözden geçirilmesi ve mümkünse sayısallaştırılması konularında yönetime önerilerde 
+bulunur.
+İç denetim, nesnel güvence sağlamanın yanında, özellikle risk yönetimi, kontrol ve yönetim süreçlerini 
+geliştirmede, Şirket birimlerine yardımcı olmak üzere bağımsız bir danışmanlık hizmeti sağlar. Danışmanlık 
+hizmeti, Şirket hedeflerine gerçekleştirmeye yönelik faaliyetlerinin ve işlem süreçlerinin sistemli ve düzenli bir 
+biçimde değerlendirilmesi ve geliştirilmesine yönelik önerilerde bulunulmasıdır.
+Nesnel güvence sağlama; Şirket risk yönetimi ile kontrol yönetim süreçlerinin etkin bir şekilde işlediğine, üretilen 
+bilgilerin doğruluğuna ve tamlığına, faaliyetlerin etkili, ekonomik, verimli ve mevzuata uygun bir şekilde 
+gerçekleştirildiğine, varlıklarının korunduğuna dair Şirket içine ve Şirket dışına yeterli güvencenin verilmesidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/10
+6.1.2 İç Denetim Faaliyetinin Kapsamı
+Şirketin tüm işlem ve faaliyetleri, risk esaslı denetim plan ve programları doğrultusunda sistematik, sürekli ve 
+disiplinli bir yaklaşımla iç denetim standartlarına uygun olarak iç denetime tabi tutulur.
+6.2 İç Denetim Uygulamaları
+Şirkette yapılacak iç denetim aşağıda belirtilen denetim uygulamalarını kapsar.
+a) Uygunluk Denetimi: Şirketin faaliyet ve işlemlerinin ilgili kanun, tüzük, yönetmelik ve diğer mevzuata 
+uygunluğunun incelenmesidir.
+b) Performans Denetimi: Yönetimin bütün kademelerinde gerçekleştirilen faaliyet ve işlemlerin planlanması, 
+uygulanması ve kontrolü aşamalarındaki etkili ekonomik ve verimliliğin değerlendirilmesidir.
+c) Mali Denetim: Gelir, gider, varlık ve yükümlülüklere ilişkin hesap ve işlemlerin doğruluğunun; mali sistemde 
+tabloların güvenilirliğinin değerlendirilmesidir.
+ç)   Bilgi Teknolojisi Denetimi: Denetlenen faaliyet ve işlemlerdeki elektronik bilgi sistemlerinin sürekliliğinin ve 
+güvenilirliğinin değerlendirilmesidir.
+d) Sistem Denetimi: Denetlenen birimin faaliyetlerinin ve iç kontrol sisteminin; organizasyon yapısına katkı 
+sağlayıcı bir yaklaşımla analiz edilmesi, eksikliklerinin tespit edilmesi, kalite ve uygunluğunun araştırılması, 
+kaynakların ve uygulanan yöntemlerin yeterliliğinin ölçülmesi suretiyle değerlendirilmesidir.
+İç denetim, birinci fıkrada belirtilen denetim uygulamalarından bir veya birkaçını kapsayacak şekilde risk odaklı 
+olarak yapılır. Ayrıca, bir faaliyet veya konu tüm birimlerde denetim kapsamına alınabilir.
+6.3 İç Denetim Stratejisi
+İç Denetim Birimi, risk odaklı hazırlanmış İç Denetim plan ve programlarını, detayları İç Denetim Rehberinde 
+belirtildiği üzere, bağımsızlık ilkesi doğrultusunda uygular.
+Yönetim tarafından tanımlanan riskler, iç denetim birimince kapsamlı bir risk analizine tabi tutulur. Bu analiz 
+sonucunda riskler, oran ve önem dereceleri belirlenerek sıralanır. İç Denetim Birimi tarafından; Şirketin hedefleri, 
+faaliyetleri ve varlıklarını etkileyebilecek önemli risklere ilişkin olarak yapılan analiz sonucunda, en yüksek risk 
+içeren alan ve konulardan başlanarak iç denetim planı ve uygulamaya ilişkin programlar hazırlanır.
+6.4 İç Denetimin Uygulanması
+Denetimin başlangıcında Şirketin ilgili birim yetkilileri ile bir açılış toplantısı yapılarak, denetimin konusu, süresi 
+ve çalışma yöntemi hakkında bilgi aktarılır. Varsa denetlenen birim yöneticilerinin, denetim ile ilgili talepleri 
+alınır.
+Çalışma sırasında, iç denetim konusunun gerektirdiği denetim yöntemleri kullanılarak bulgular elde edilir. İç 
+denetim çalışmasının detayları ile sonuçları ve bulgular, özel olarak hazırlanmış çalışma kâğıtları veya bilgisayar 
+ortamı kullanılarak dokümante edilir.
+6.5 İç Denetimde Kalite Güvencesi 
+İç denetim faaliyetlerinin tüm yönleriyle değerlendirilmesi ile iç denetim standartları ve mesleki ahlak kurallarına 
+uygun olarak yürütülmesinin sağlanması için kalite güvence ve geliştirme programı oluşturulur ve uygulanır.
+6.6 İç Denetim Sonrası Raporlama
+İç denetim çalışması sonucunda elde edilen bulgular, Şirketin denetlenen birim yöneticileri ile gerekli müzakereler 
+yapılarak değerlendirilir.
+Bulguların müzakeresinden sonra, hazırlanan rapor, gerekli kalite kontrol çalışması sonucu taslak şekline getirilir 
+ve inceleme ve görüşlerini bildirmesi amacıyla denetlenen birimin yöneticilerine gönderilir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/10
+6.7 Düzeltme Aksiyon Planı
+Taslak iç denetim raporunda yer alan bulgu ve önerilere ilişkin ilgili birim yöneticisinin görüşleri yazılı olarak 
+alınır ve rapora dahil edilir. Yönetimin görüşleri düzeltmelere ilişkin aksiyon planını da içerir.
+İlgililerce, denetim raporlarının en geç on beş gün içinde yanıtlanması gerekmektedir. Bu süre zorunlu durumlarda 
+iç denetçi tarafından uzatılabilir.
+Aksiyon planlarında ön görülen eylemler için makul sürelerin öngörülmesi ve bu sürelere uyulması esastır. 
+İyileştirme süreleri normal şartlarda altı aydan uzun olamaz. 
+6.8 Raporların Hazırlanması ve Dağıtımı
+5.6 ve 5.7 maddeleri doğrultusunda hazırlanan taslak rapor ile ilgili olarak denetlenen birim yönetiminin 
+görüşlerinin alınmasından sonra, İç Denetim Birimi tarafından rapor nihai hale getirilir.
+Raporların dağıtımının yapılacağı birimler, zamanlaması ve sıklığı İç Denetim Birimi tarafından belirlenir.
+6.9 İç Denetim Sonuçlarının Takibi
+Denetlenen birimin yöneticisi, denetim raporunda yer alan hususları ve önerileri dikkate almak ve gerekli 
+uygulamaları yapmakla sorumludur.
+Birim önerilerin uygulanışını izlemek yükümlülüğündedir. Bu çerçevede, denetlenen birimden periyodik olarak 
+düzeltme aksiyon planına ilişkin durum raporu talep edilir. Düzeltmelere bir sonraki denetimde bakılır ve ulaşılan 
+sonuçlar raporda yer alır. Gerek görüldüğü takdirde salt düzeltmeleri inceleyen denetim de yapılabilir.
+6.10 Dönemsel Raporlama
+İç Denetim Birimi tarafından yapılan faaliyetler, denetim raporlarının ve bulgularının özetleri ile aksiyon 
+planlarının uygulama sonuçları Yönetim Kuruluna ve Denetim Komitesine dönemsel olarak raporlanır.
+6.11 Haberleşme, Yazışmalar ve Dosya Düzeni
+Görevlerin yürütülmesi sürecindeki ön çalışma, testlerin uygulanması (saha çalışması) ve bulguların paylaşılması 
+hariç olmak üzere, tüm yazışmaların Elektronik Belge Yönetim Sistemi (EBYS) üzerinden Birim  Üst Yöneticisi 
+aracılığı ile yapılması esastır.
+Kurum dışına gönderilecek raporların her sayfası İç Denetim Birimince mühürlenir.
+6.12 Birimin Bilgilendirilmesi
+İç Denetim Biriminin görevlerini etkin bir şekilde yürütebilmesi için, İç Denetim Biriminin talebi üzerine 
+Yöneticilerin faaliyet alanlarıyla ilgili olarak İç Denetim Biriminin zamanında ve yeterli şekilde bilgilendirilmesini 
+sağlarlar. 
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+İDB.DKD001-Uluslararası İç Denetim Standartları 
+İKD.YNT01-Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel 
+Hakkında Yönetmelik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+İç Denetim Birimi Çalışma Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İDB.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/10
+KN.030-5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun
+YKK.03-31.01.2017 Tarihli ve 50 Sayılı Yönetim Kurulu Kararı
+YKK.04-17.08.2017 Tarihli ve 232 Sayılı Yönetim Kurulu Kararı
+YNT.058-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum 
+Programı Hakkında Yönetmelik
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur.
+0 17.07.2018 Yeni Doküman
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

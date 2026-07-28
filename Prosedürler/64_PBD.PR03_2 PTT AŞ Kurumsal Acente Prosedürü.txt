@@ -1,0 +1,570 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+PTTBANK DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+1/10
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi nam ve hesabına Kurumsal Acente sıfatıyla hizmeti 
+sunacak tüzel kişilerin sağlaması gereken şartları ve uymak zorunda oldukları kuralları belirleyerek Kurumsal 
+Acenteliklerin açılması, teminatlandırılması, işletilmesi, denetim ve gözetimi, kapatılması, görev, yetki ve 
+sorumluklarının belirlenmesidir.
+2.KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi nam ve hesabına Kurumsal Acente sıfatıyla hizmeti sunacak 
+tüzel kişilerin çalışma usul esaslarını kapsar.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu’nun “Faaliyet konuları ve nitelikleri” başlıklı 22. maddesinin 
+birinci fıkrasına dayanılarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge Müdürlüğünü,
+4.2 Birim Üst Yöneticisi: Merkez teşkilatında Kurul Başkanını, Başkanı, 1. Hukuk Müşavirini, Daire Başkanını, 
+Birim Sorumlusunu ve Özel Kalem Müdürünü; taşra teşkilatında ise Bölge Müdürünü,
+4.3 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürleri, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürleri (İhtisas) ve PTT Müdürlerini,
+4.4 Bölge Müdürlüğü: Posta ve Telgraf Teşkilatı Anonim Şirketi Bölge Müdürlüğünü,
+4.5Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğünü,
+4.6 Genel Teminat: Türkiye içerisinde en az PTT İştirakler/bağlı ortaklıklar hariç 25 adet işyeri açma şartını 
+sağlayan Kurumsal Acenteden başvurusunun kabulü akabinde alınacak asgari teminat tutarını,
+4.7 Katılım Ücreti: PTT tarafından bir defaya mahsus olarak sisteme giriş için Kurumsal Acenteden alınan ücreti,
+4.8 Kurumsal Acente: İşbu prosedürde belirtilen kriterlere göre belirli bir bey’iye karşılığında, Posta ve Telgraf 
+Teşkilatı Anonim Şirketi tarafından uygun görülen hizmetleri Kurumsal Acentelik İşyerlerinde ve/veya Sanal 
+Acentelikte PTT AŞ nam ve hesabına yerine getiren ve Türkiye Cumhuriyeti ilgili Kanunlarına göre kurulmuş olan 
+tüzel kişiliği,
+4.9 Kurumsal Acentelik: İşbu prosedürde belirtilen kriterlere göre açılan, Posta ve Telgraf Teşkilatı Anonim 
+Şirketi’nin denetim ve gözetiminde, Kurumsal Acente ile özel hukuk hükümlerine dayanılarak imzalanan sözleşme 
+kapsamında, Kurumsal Acente nam ve hesabına Kurumsal Acentelik İşyerinde faaliyet gösteren gerçek/tüzel kişiyi,
+4.10 Kurumsal Acentelik İşyeri: Kurumsal Acente nam ve hesabına hareket eden Kurumsal Acenteliklerin faaliyet 
+gösterdiği Posta ve Telgraf Teşkilatı Anonim Şirketi iş yerini,
+4.11 PTT Müdürlükleri: Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan müdürlükleri
+4.12 PTT Bank İşlem Belgesi: Kurumsal Acentelikte Posta ve Telgraf Teşkilatı Anonim Şirketi nam ve hesabına 
+yapılan işlemi tevsik eden belgeyi,
+4.13 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarını,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+2/10
+4.14 PTT İştirakleri/Bağlı Ortaklıkları: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından Kurumsal 
+acenteliklerin açılmasına ve işletilmesine yetki verilen mevcut veya açılacak PTT Şirketleri,
+4.15 PTT Temas / Hizmet Noktası: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından uygun görülen ürün ve 
+hizmetlerin hem self servis, hem de işyeri sahibi tarafından sunulmasına imkân sağlayan Elektronik İşlem Cihazını,
+4.16 Sanal Acentelik: İşbu prosedürde belirtilen kriterlere göre gelir paylaşımı karşılığında, Posta ve Telgraf Teşkilatı 
+Anonim Şirketi tarafından uygun görülen hizmetlerin Posta ve Telgraf Teşkilatı Anonim Şirketi nam ve hesabına 
+yerine getirildiği internet platformları, (Web, Mobil) ve diğer tele platformları (Telefon, Mesajlaşma vb.)
+4.17 Şirket/PTT A.Ş: Posta ve Telgraf Teşkilatı Anonim Şirketi’ni,
+4.18 Teminat: Tedavüldeki Türk parası, bankalar tarafından verilmiş, kesin, süresiz ve ilk talepte ödeme kayıtlı 
+teminat mektupları ile Hazine ve Maliye Bakanlığınca uygun görülen ve Posta ve Telgraf Teşkilatı Anonim Şirketi 
+tarafından kabul edilen finans kuruluşlarınca Türk Lirası veya Türkiye Cumhuriyet Merkez Bankasınca konvertibl 
+olarak kabul edilen döviz cinsinden verilmiş kesin, süresiz ve ilk talepte ödeme kayıtlı teminat mektupları, Devlet 
+tahvilleri ve hazine kefaletini haiz tahviller ve hazine bonoları, 2983 sayılı Tasarrufların Teşviki ve Kamu 
+Yatırımlarının Hızlandırılması Hakkında Kanuna göre çıkartılan menkul kıymetleri,
+4.19 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulunu, 
+İfade eder.
+5.SORUMLULUKLAR
+Bu prosedürün uygulanmasından, PTT AŞ ve Kurumsal Acente sorumludur.
+6. UYGULAMA
+6.1 Kurumsal Acenteliklerde Aranacak Şartlar
+6.1.1 Kurumsal Acente başvurusunda bulunan Türkiye Cumhuriyeti ilgili Kanunlarına göre kurulmuş olan tüzel 
+kişiliklerin temsil ve ilzama yetkili kişilerinde aşağıda belirtilen şartlar aranır:
+6.1.1.1 T.C. vatandaşı olmak,
+6.1.1.2 Reşit ve mümeyyiz olmak,
+6.1.1.3 En az lise veya dengi okul mezunu olmak.
+6.1.1.4 Bir yargı kararı ile kamu haklarını kullanmaktan yoksun bırakılmamış olmak,
+6.1.1.5 OFAC (Office of ForeignAssets Control: ABD Hazine Bakanlığı'na bağlı Dış Kaynaklı Varlıkları / Hesapları 
+Denetleme Kurumu olup, terörist veya narkotik faaliyetler trafiği içerisinde olduğu belirlenen ülkelere, gruplara veya 
+kişilere karşı ekonomik müeyyideler uygulamak ve bu uygulamaları yönetmek için kurulmuş ofis.) listesi ile İçişleri 
+Bakanlığının yayınladığı aranan teröristler listesi içerisinde yer almamak,
+6.1.1.6 Taksirli suçlar hariç olmak üzere affa uğramış olsalar bile mülga 765 sayılı Türk Ceza Kanunu ve diğer 
+kanunlar uyarınca ağır hapis veya beş yıldan fazla hapis, 5237 sayılı Türk Ceza Kanunu ve diğer kanunlar uyarınca 
+üç yıldan fazla hapis cezasıyla cezalandırılmamış olması veya mülga 3182 sayılı Bankalar Kanununun, bu Kanunla 
+yürürlükten kaldırılan 4389 sayılı Bankalar Kanununun, bu Kanunun ve 2499 sayılı Sermaye Piyasası Kanununun ve 
+ödünç para verme işleri hakkında mevzuatın hapis cezası gerektiren hükümlerine muhalefet yahut mülga 765 sayılı 
+Türk Ceza Kanunu, 5237 sayılı Türk Ceza Kanunu veya diğer kanunlar uyarınca basit veya nitelikli zimmet, irtikâp, 
+rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflâs gibi yüz kızartıcı suçlar ile istimal ve 
+istihlak kaçakçılığı dışında kalan kaçakçılık suçları, resmî ihale ve alım satımlara fesat karıştırma, kara para aklama 
+veya Devletin şahsiyetine karşı işlenen suçlar ile Devlet sırlarını açığa vurma, Devletin egemenlik alametlerine ve 
+organlarının saygınlığına karşı suçlar, Devletin güvenliğine karşı suçlar, Anayasal düzene ve bu düzenin işleyişine 
+karşı suçlar, milli savunmaya karşı suçlar, Devlet sırlarına karşı suçlar ve casusluk, yabancı devletlerle olan ilişkilere 
+karşı suçlar, vergi kaçakçılığı suçlarından veya bu suçlara iştirakten hükümlü bulunmamak,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+3/10
+6.2 Kurumsal Acente BAŞvuru Şekli
+6.2.1 PTT İştirakler/bağlı ortaklıklar hariç en az 25 adet Kurumsal Acentelik İşyeri açma şartını yerine getirmek 
+ve 6493 Sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları 
+Hakkında Kanun kapsamında faaliyet izni olması koşuluyla, Kurumsal Acente olmak isteyen   tüzel kişilik, Genel 
+Müdürlüğe bir dilekçe ile başvurur. 
+Bu dilekçeye,
+6.2.1.1 Ticaret Sicil Gazetesinin aslı veya onaylı sureti,
+6.2.1.2 Temsil ve ilzama yetkili kişilere ait imza sirküleri aslı veya onaylı sureti,
+6.2.1.3 Temsil ve ilzama yetkili kişiler için, T.C. Nüfus Cüzdanı veya T.C. kimlik kartı aslı ve örneği, mezun olduğu 
+okula ait mezuniyet belgesi, adli sicil kaydı belgesi,
+6.2.1.4 Vergi Levhası ve faaliyet belgesinin aslı ve onaylı sureti eklenir.
+6.2.1.5 Yukarıda bahsi geçen bilgi ve belgeleri ihtiva eden başvuru dilekçesi PTT AŞ tarafından inceleme ve 
+değerlendirmeye alınır. Yönetim Kurulu tarafından uygun görülen başvuru sahipleri ile Kurumsal Acente Sözleşmesi 
+imzalanır.
+6.3 Kurumsal Acentelik, PTT Temas / Hizmet Noktası ve Sanal Acentelik Açılması
+6.3.1 PTT AŞ hizmetlerin yürütülmesi amacıyla açılması planlanan Kurumsal Acentelikler, PTT Temas/Hizmet 
+Noktaları ve Sanal Acentelik için Genel Müdürlükçe hazırlanan “Kurumsal Acentelik Başvuru Formu, PTT 
+Temas/Hizmet Noktası Başvuru Formu, Sanal Acentelik Başvuru Formu” ile Kurumsal Acente tarafından müracaat 
+edilir. Bu formlar, Genel Müdürlük tarafından değerlendirilerek, söz konusu Kurumsal Acentelik, PTT Temas/Hizmet 
+Noktası ve Sanal Acenteliğin açılması hususu Yönetim Kurulunun Onayına sunulur.
+6.3.2 Yönetim Kurulu tarafından açılması uygun görülen Kurumsal Acentelik, PTT Temas/Hizmet Noktası ve Sanal 
+Acentelik PTT AŞ tarafından 2 ay içerisinde Kurumsal Acenteye yazılı olarak bildirilir.
+6.3.3 Kurumsal Acente açılması onaylanan Kurumsal Acentelik İşyeri, PTT Temas/Hizmet Noktası ve Sanal 
+Acenteliğin faaliyete başlama tarihini sözleşmede belirlenen sürede Genel Müdürlüğe bildirir.  
+6.4 Kurumsal Acentelik ve PTT Temas / Hizmet Noktası Açılabilecek Yerler
+6.4.1 Kurumsal Acentelik ve PTT Temas / Hizmet Noktası PTT AŞ’nin uygun göreceği yerlerde açılır.
+6.5 Kurumsal Acenteliklerde Çalışacak Kişilerde Aranacak Şartlar
+6.5.1 Kurumsal Acentelik İşyerlerinde çalışacak kişilerin işbu prosedürün 5.1 maddesinde belirtilen nitelik ve şartları 
+taşıması zorunludur.
+6.6 Kurumsal Acentelik İşyerlerinde Çalıştırılacak Personele İlişkin Belgeler
+6.6.1 Kurumsal Acentelikte çalıştırılacak personelin;
+6.6.1.1 T.C. Kimlik Belgesi örneği,
+6.6.1.2.Diploma veya mezuniyet belgesinin onaylanmış sureti,
+6.6.1.3 Adli sicil kaydı belgesi,
+6.6.1.4 Görevini devamlı yapmaya engel bir durum olmadığına dair sağlık raporu,
+Kurumsal Acente uhdesinde muhafaza edilir ve PTT AŞ tarafından talep edildiğinde eksiksiz olarak ibraz edilir.
+6.7 Kurumsal Acenteliklerin faaliyet göstereceği işyerinin özellikleri
+6.7.1 Kurumsal Acentelik olarak kullanılacak işyerinin;
+6.7.1.1 Herkesin ulaşabileceği merkezi bir yerde olması,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+4/10
+6.7.1.2 PTT AŞ hizmetlerinin verilmesine uygun ve güvenliği sağlanmış olması,
+6.7.1.3 PTT AŞ tarafından belirlenen PTT işyeri konseptine uygun olması, zorunludur.
+6.7.2 Kurumsal Acentelik hizmetlerinin yapılacağı Kurumsal Acentelik İşyeri ile PTT Temas/Hizmet Noktası 
+uygunluğu PTT AŞ tarafından onaylanır.
+6.7.3 Kurumsal Acentelik İşyerlerinin güvenliği, ergonomisi, iç ve dış mekân tasarımı, alarm ve kamera sisteminin 
+kurulumu, reklam, matbu evrak, levha ve tanıtıcı afişler vb. PTT AŞ’nin onayının alınması şartıyla Kurumsal Acente 
+tarafından sağlanır.
+6.8 Kurumsal Acentelik, PTT Temas / Hizmet Noktası ve Sanal Acentelik Kapatılması
+6.8.1 Kurumsal Acentelik İşyeri, PTT Temas / Hizmet Noktası ve Sanal Acenteliğin kapatılması Yönetim Kurulunun 
+onayına sunulur.
+6.9 Sözleşme, işlem limiti, katılım ücreti ve teminat
+6.9.1 Genel Müdürlük ile Kurumsal Acente arasında sözleşme imzalanır, sözleşmeden doğan vergi, resim ve harçlar 
+Kurumsal Acente tarafından karşılanır.
+6.9.2 Kurumsal Acente, PTT AŞ hizmetlerini verebilmek için her bir Kurumsal/Sanal Acenteliğe ve PTT 
+Temas/Hizmet Noktasına ait posta çeki hesabı açabileceği gibi tüm Kurumsal/Sanal Acentelik ve PTT Temas/Hizmet 
+Noktalarına ait tek bir posta çeki hesabı da açabilir. Günlük tahmini işlem trafiği ile hâsılat miktarını göz önünde 
+bulundurarak Kurumsal Acente, açılmış olan posta çeki hesabında günlük işlem tutarını karşılayacak miktarda para 
+bulundurur.
+6.9.3 Hizmetler posta çeki hesabındaki meblağ oranında verilir.
+6.9.4 Hizmetlerin devamlılığını sağlamak adına Kurumsal Acente tarafından talep edilmesi halinde Kurumsal 
+Acentenin posta çeki hesaplarına Kredili Mevduat Hesabı bağlanabilir.
+6.9.5 PTT İştirakler/bağlı ortaklıklar hariç Kurumsal Acente, PTT AŞ’nin belirleyeceği miktardaki teminatı 
+vermekle yükümlüdür.
+6.9.6 PTT İştirakler/bağlı ortaklıklar hariç Kurumsal Acente, PTT AŞ’nin belirleyeceği miktardaki sisteme 
+katılım ücretini vermekle yükümlüdür. Herhangi bir sebeple sözleşmesi sona eren Kurumsal Acenteye katılım 
+ücreti iade edilmez. 
+6.10 Sözleşme Süresi
+6.10.1 Kurumsal Acente Sözleşmesi en az bir yıl sürelidir. Kurumsal Acente Sözleşme süresi ile ilgili hususlar 
+sözleşmede belirlenir. 
+6.11 Devir ve Temlik
+6.11.1 Kurumsal Acente, Kurumsal Acente sıfatına haiz yetki ve yükümlülüklerini PTT AŞ’nin yazılı onayı 
+olmaksızın üçüncü kişilere devir ve temlik edemez.
+6.11.2 Kurumsal Acente, özel hukuk hükümleri doğrultusunda imzalanan sözleşme kapsamında Kurumsal Acentelik 
+ve PTT Temas/Hizmet Noktası işletilmesine yönelik iş ve işlemleri PTT AŞ’nin uygun göreceği üçüncü kişilere 
+yaptırabilir. Ancak, PTT AŞ nezdinde Kurumsal Acenteliklerin gerçekleştirecekleri her türlü faaliyetten Kurumsal 
+Acente tek başına sorumludur.
+6.11.3 Kurumsal Acente, Sanal Acenteliği PTT AŞ’nin yazılı onayı olmaksızın üçüncü kişilere devredemez. Sanal 
+Acentelik faaliyetinden kaynaklanan bey’iye ile hak ve yükümlülüklerini üçüncü kişilere devir ve temlik edemez.
+6.12 Vergi, Resim, Harç ve Fonlar
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+5/10
+6.12.1 Kurumsal Acente faaliyet, iş ve işlemleri ile ilgili her türlü vergi, resim, harç, fon vb. mali ve yasal 
+yükümlülüklerden sorumludur. Ayrıca, Kurumsal Acenteliklerin faaliyet, iş ve işlemleri ile ilgili her türlü vergi, resim, 
+harç, fon vb. mali ve yasal yükümlülüklerden de PTT AŞ’ye karşı onlarla birlikte müteselsilen sorumludur.
+6.13. Kurumsal Acentenin Yetki ve Sorumlulukları
+6.13.1. Kurumsal Acente, Kurumsal Acentelik İşyeri, PTT Temas / Hizmet Noktası ve Sanal Acenteliğin yürüttüğü 
+faaliyet, iş ve işlemlere ilişkin PTT AŞ tarafından yayımlanan tüm mevzuatı bilmekle yükümlüdür. 
+6.13.2. Kurumsal Acente, PTT AŞ tarafından kendisine bildirilen mevzuat ve tarife değişikliklerini takip etmek ve 
+uygulamakla yükümlüdür.
+6.13.3. Kurumsal Acente, faaliyet, iş ve işlemleri ile ilgili PTT AŞ personeli gibi sorumludur. Kurumsal Acentelik, 
+PTT Temas / Hizmet Noktası ve Sanal Acentelik faaliyet, iş ve işlemleri ile bunların ve kendisinin çalışanlarından 
+kaynaklanan, PTT AŞ aleyhine doğmuş ve doğacak tüm maddi ve manevi zararları Kurumsal Acente tek taraflı olarak 
+ve münhasıran karşılamakla yükümlü olup, işbu sözleşme gereğince verdiği teminatlarla sınırlı olmaksızın bizzat ve 
+tüm işletmesi ile birlikte sınırsız olarak sorumludur.
+6.13.4. Kurumsal Acente ve kendisine bağlı Kurumsal Acentelikler tarafından verilen hizmetlere ait işlem belgelerinin 
+düzenlendiği yılı takip eden takvim yılı başından itibaren on yıl muhafaza edilmesi zorunludur.
+6.13.5. Kurumsal Acentenin, otomasyon sistemi üzerinden yapmış olduğu işlemleri aynı gün içinde iptal edebilme 
+yetkisi vardır.
+6.13.6. Kurumsal Acente, kendisinin ve Kurumsal Acenteliklerinin 11.10.2006 tarihli ve 5549 sayılı “Suç Gelirlerinin 
+Aklanmasının Önlenmesi Hakkında Kanun” kapsamındaki yükümlülüklerin yerine getirilmesinden ve dolandırıcılığın 
+önlenmesi için iç kontrol yöntemlerinin oluşturulmasından sorumludur.
+6.13.7 Kurumsal Acente, kendisinin ve Kurumsal Acenteliklerinin faaliyetleri ile ilgili PTT AŞ’nin gerek göreceği 
+bütün bilgileri gizli dahi olsa vermeye, bunların vergiyle ilgili kayıtları dâhil olmak üzere tüm defter, kayıt ve 
+belgelerini incelemeye hazır bulundurmakla sorumlu olup, tüm bilgi işlem sistemini denetim amaçlarına uygun olarak 
+açmakla, verilerin güvenliğini sağlamakla ve muhafaza etmek zorunda oldukları her türlü defter ve belgeler ile vermek 
+zorunda bulundukları bilgilere ilişkin mikro fiş, mikrofilm, manyetik teyp, disket ve benzeri ortamlardaki kayıtlarını 
+ve bu kayıtlara erişim veya kayıtları okunabilir hale getirmek için gerekli tüm sistem ve şifrelerini inceleme için ibraz 
+etmek ve işletmekle yükümlüdür.
+6.13.8 Kurumsal Acentelerin, PTT AŞ adına sunacakları hizmetler için talep eden müşterilere e-fatura/e-arşiv fatura 
+düzenlemeleri gerekmektedir.
+6.13.9 Taraflar 6698 sayılı Kişisel Verilerin Korunması Kanunu gereği olarak, protokollerin ifası sırasında 
+veya  protokollerin ifasıyla bağlantılı olarak öğrendiği, eriştiği veya herhangi bir şekilde elde ettiği herhangi bir kişisel 
+veriyi hukuka aykırı olarak işlemeyecek, işlenmesini önlemek için gerekli her türlü tedbiri alacak, kişisel verilerin 
+elde edilmesi anında müşterileri aydınlatma yükümlülüğüne uygun hareket edecek, herhangi bir kişisel veriye hukuka 
+aykırı olarak erişim sağlamayacak ve/veya erişilmesini önleyecek her türlü tedbiri alacak ve kişisel verilerin 
+muhafazası için gereğini yapacaktır.
+6.13.10 Kurumsal Acente, kendisinin veya Kurumsal Acenteliklerin herhangi bir ihlali nedeniyle, PTT’nin bir hukuki, 
+idari veya cezai yaptırıma uğraması veya tazminat ödemek durumunda kalması halinde, PTT’nin uğramış olduğu 
+zarardan münhasıran sorumlu olacak ve bu zararı talep tarihinden itibaren 5 (beş) iş günü içinde PTT AŞ’ye nakden 
+ve defaten ödenecektir.
+6.14 Kurumsal Acenteye İlişkin Diğer Hükümler
+6.14.1 Kurumsal Acente, Kurumsal Acentelik, PTT Temas / Hizmet Noktası ve Sanal Acentelikte yapılması öngörülen 
+hizmetlerini ilgili mevzuat hükümlerine göre yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+6/10
+6.14.2 Kurumsal Acente, Kurumsal Acentelik, PTT Temas / Hizmet Noktası ve Sanal Acentelikte PTT tarafından izin 
+verilenler dışında hiçbir faaliyet, iş ve işlem yapamaz.
+6.14.3 Kurumsal Acente, müşterilerden PTT AŞ tarafından belirlenen ücretler dışında her ne surette olursa olsun 
+herhangi bir ücret alamaz.
+6.14.4 Kurumsal Acente, Kurumsal Acentelik İşyerlerinde, PTT AŞ’nin yazılı izni olmadan hiçbir ATM, POS, kiosk, 
+elektronik cihaz, stant, ilan, afiş, reklam, tanıtıcı materyal v.b. bulunduramaz.
+6.14.5 Kurumsal Acente, hizmetlerin verilmesi esnasında veya herhangi bir zamanda PTT AŞ sistemlerinde 
+oluşabilecek arıza veya kesintiden dolayı PTT AŞ’yi sorumlu tutamaz. Kurumsal Acente bu sebeplere dayanarak PTT 
+AŞ’den kar kaybı gibi dolaylı zararlarda dahil olmak üzere herhangi bir hak ve tazminat talep edemez.
+6.14.6 PTT AŞ ile Kurumsal Acente ve/veya Kurumsal Acentelik tarafından istihdam edilen kişiler arasında 4857 
+sayılı İş Kanunu kapsamında bulunan iş sözleşmesine dayalı bir alt işveren üst işveren ilişkisi bulunmamaktadır. 
+Kurumsal Acentelik İşyerlerinde istihdam edilen kişiler ile ilgili tüm yükümlülükler (bildirimde bulunma, prim ödeme 
+vb.) Kurumsal Acenteye aittir.
+6.14.7 Kurumsal Acente eliyle işletilen Sanal Acentelikler, PTT AŞ’nin sistemlerine uyumlu olarak çalışacaktır. 
+6.14.8 Kurumsal Acente’nin, yedinde bulunan PTT AŞ’nin taşınır malları, kıymetli evrakı veya alacakları üzerinde 
+hapis hakkı bulunmamaktadır.
+6.14.9 Kurumsal Acente, PTT AŞ tarafından yazılı onay verilmediği sürece, PTT AŞ adına dava     açamaz; yazılı 
+onay ile açılmış olan davalarda dahi kendisine özel olarak yetki verilmediği sürece feragat, kabul, sulh gibi işlemlerde 
+bulunamaz. Kurumsal Acente, kendisine karşı açılmış davalar hakkında PTT AŞ’ye derhal bilgi verir; Kurumsal 
+Acentenin yaptığı veya katıldığı bir işlem nedeniyle PTT AŞ aleyhine dava açılması veya takip yapılması halinde, 
+Kurumsal Acente PTT AŞ’nin tercihine bağlı olarak davaya derhal PTT AŞyanında katılır ve PTT AŞ’nin savunması 
+için gerekli tüm bilgi ve belgeleri PTT AŞ’ye derhal teslim eder.
+6.14.10 Kurumsal Acente, Kurumsal Acentelik, PTT Temas / Hizmet Noktası ve Sanal Acentelikte hiçbir surette toplu 
+tahsilat işlemi gerçekleştiremez. Gerçekleştirdiği takdirde sözleşme hükümleri uygulanır.
+6.15. Kurumsal Acenteliğin Bağlanacağı PTT Müdürlüğü
+6.15.1 Kurumsal Acentelikler, doğrudan Genel Müdürlük ilgili birimine veya PTT AŞ’nin belirleyeceği PTT İş 
+Yeri/PTT Müdürlüğüne de bağlanabilir. Kurumsal Acenteliğin başka bir Bölge Müdürlüğüne bağlı bir merkeze 
+bağlanması, Genel Müdürlüğün izni ile yapılır.
+6.16 Kurumsal Acentenin Eğitimi
+6.16.1 Kurumsal Acenteye hizmetlere ilişkin eğitim planlamasında belirlenen sürelerde PTT AŞ tarafından gerekli 
+eğitimler verilir. Kurumsal Acente, masrafları kendine ait olmak üzere Kurumsal Acentelik İşyerlerinde çalışacak 
+personele gerekli eğitimi vermekle yükümlüdür.
+6.17 Kurumsal Acenteye Verilecek Malzeme
+6.17.1. Kurumsal Acenteye PTT AŞ tarafından; işbu prosedürün bir nüshası ile birlikte ilgili diğer yayınlar, ücret 
+tarifeleri, ilgili tebliğ ve genelgeler verilir.
+6.17.2. PTTBank işlem belgesi, PTT AŞ tarafından ücreti mukabili verilir. 
+6.17.3. PTT AŞ tarafından belirlenen yazılım ve donanım, nitelik ve nicelikleri ile güvenlik standartları Kurumsal 
+Acente tarafından sağlanır.
+6.17.4. Kurumsal acenteye posta ve kargo hizmetleri ile ilgili kullanılacak her türlü malzeme, matbu evrak ücreti 
+mukabilinde verilebileceği gibi, kendisinin temin etmesine de izin verilebilir. 
+6.17.5. Kurumsal Acentenin her türlü maliyet, gider ve harcamaları kendisine aittir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+7/10
+6.18. Sistem Mutabakat İşlemleri
+6.18.1. Kurumsal Acentenin iş ve işlemleri gerçekleştirmek üzere PTT Ana Sistemi ile entegre çalışacak şekilde kendi 
+sisteminin bulunması durumunda mutabakatsızlık oluşması halinde, PTT AŞ ve Kurumsal Acente sorunu birlikte 
+çözüme kavuşturacaktır. 
+6.18.2. PTT Ana Sistemi ile Kurumsal Acente sistemi arasında ihtilaf oluşması halinde çözüme esas teşkil etmek üzere 
+PTT AŞ sistem kayıtları doğru olarak kabul edilecektir.
+6.19. Kurumsal Acente tarafından tutulacak defterler
+6.19.1. Kurumsal Acente, ilgili mevzuat doğrultusunda gerekli defterleri tutar ve PTT AŞ’nin gerekli gördüğü hallerde 
+PTT AŞ’nin denetimine sunar.
+6.20. Kurumsal Acentelik İşyerinin Çalışma Gün ve Saati
+6.20.1. Kurumsal Acentelik İşyerinin çalışma gün ve saatleri PTT AŞ tarafından belirlenir.
+6.20.2. Kurumsal Acentelik İşyerinin çalışma gün ve saatleri dışarıdan görülebilecek bir yere asılır.
+6.21. Kurumsal Acentenin Halkla İlişkileri
+6.21.1. Kurumsal Acente, Kurumsal Acentelik İşyerlerinde müşterileri nezaketle karşılamak, işlerinde kolaylık 
+göstermek ve işlerini en kısa sürede yapmak zorundadır.
+6.21.2. Kurumsal Acentelik İşyerlerinde çalışan personel “Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık 
+ve Kıyafetine Dair Yönetmelik” kurallarına uymakla yükümlüdür.
+6.22. PTT AŞ’nin Fikri Haklarının Korunması ve Kurumsal Acentenin Gizliliğe Uyma Zorunluluğu
+6.22.1. Kurumsal Acente, PTT AŞ’nin bilgi güvenliği politikasına ve bilgi güvenliğine ilişkin diğer prensip ve 
+standartlarına uymakla yükümlüdür.
+6.22.2. Kurumsal Acente verdiği hizmetlere ilişkin önemli bir bilgi güvenliği olayı yaşanması durumunda, bu durumu 
+ivedilikle PTT AŞye bildirmekle yükümlüdür.
+6.22.3. Kurumsal Acente PTT A.Ş’ ye, müşterilerine ve iş ortaklarına ilişkin bilgilerin gizliliği, bütünlüğü ve 
+erişilebilirliğini korumakla ilgili gerekli önlemleri almakla yükümlüdür.
+6.22.4. Kurumsal Acente, PTT AŞ tarafından kendisine teslim edilen yayın, defter, liste, formül, levha, tabela ve 
+bunlarla sınırlı olmamak üzere her türlü belge ve taşınır mallara ilişkin fikri ve sınai mülkiyet hakkının PTT A.Ş’ ye 
+ait olduğunu, kendisine yalnızca işbu prosedür ile PTT A.Ş ile aralarında yapılacak olan sözleşmeye konu iş ve 
+hizmetler kapsamında, kendisine ait veya kendisine bağlı Kurumsal Acenteliklere ait işyerlerinde münhasır olmayan 
+kullanım hakkı verildiğini kabul eder. Kurumsal Acente, PTT AŞ’nin fikri ve sınai haklarının korunması için gerekli 
+her türlü hukuki ve idari tedbiri almak ve herhangi bir ihlal tespitinde PTT’yi derhal bilgilendirmekle yükümlüdür
+6.22.5. Kurumsal Acente, işbu maddenin 1, 2, 3 ve 4. fıkralarda yer alan yükümlülüklerin ihlali nedeniyle PTT AŞ’nin 
+uğrayacağı doğrudan ve dolaylı maddi ve manevi zararların tamamının derhal, defaten ve nakden tazmininden 
+sorumludur.
+6.23. Kurumsal Acenteye Yapılacak BAŞvuru ve Şikâyetler
+6.23.1. Kurumsal Acente, müşteri şikâyetlerinin değerlendirilerek sonucu hakkında ilgililere cevap verilmesini 
+sağlayacak bir müşteri memnuniyeti sisteminin oluşturulması, şikâyetlerin belirlenecek hususları ihtiva edecek şekilde 
+kendisine düzenli raporlanması ve şikâyet konularına ilişkin gerekli tedbirlerin alınmasından sorumludur.
+6.24. Kurumsal Acenteye Verilecek Bey’ iye
+6.24.1. Kurumsal Acentelere PTT AŞ tarafından belirlenecek miktarda bey’ iye verilir. 
+6.25. Kurumsal Acentede Yapılacak Hizmetler
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+8/10
+6.25.1. Kurumsal Acente tarafından yapılabilecek faaliyet, iş ve işlemler sözleşme ile belirlenir. Belirlenen bu 
+hizmetler, Kurumsal Acentelik İşyerlerinin tümü için geçerli olabileceği gibi, konumu, özelliği ve PTT Müdürlüğüyle 
+olan irtibatı gibi hususlar göz önünde tutularak bazı Kurumsal Acentelik İşyerlerinde bir kısım PTT AŞ hizmetlerinin 
+yaptırılmaması veya bazı hizmetlerin ilaveten yaptırılması Genel Müdürlüğün yetkisindedir.
+6.26. Denetim ve Gözetim
+6.26.1. Kurumsal Acentelik İşyeri denetim ve gözetimi, PTT AŞ işyerlerinin tabi olduğu denetim ve gözetim 
+hükümlerine göre yapılır. Acentelikler bağlı bulunduğu Birimin gözetimi altındadır. 
+6.26.2. Kurumsal Acentelik işlemlerinin mevzuat ve emirlere uygun olup olmadıkları, acentelik işlerinde hata ve 
+aksaklık bulunup bulunmadığı, Bağlı bulunduğu birim tarafından denetlenir.  Görülen hata aksaklık veya usulsüzlükler 
+yazıyla Kurumsal Acenteye bildirilir. Kurumsal Acente kendisine bildirilen aksaklıkları en kısa sürede düzeltmek ve 
+bağlı olduğu birimi bilgilendirmekle yükümlüdür.
+6.26.3. Birimler öngörülen denetimler dışında görevlendireceği bir personel tarafından gizli müşteri adı altında 
+Kurumsal Acenteliği denetler.
+6.26.4. Kurumsal Acente PTT AŞ’nin denetim ve gözetimle yetkili personelinin işlerini çabukluk ve kolaylıkla 
+yapmalarını sağlamakla yükümlüdür.
+6.27. Kurumsal Acente Sözleşmesinin PTT AŞ Tarafından Feshedileceği Haller ve Fesih Usulü
+6.27.1. Kurumsal Acenteliğin;
+6.27.1.1. Taşınması gereken şart ve niteliklerinden en az birinin yitirilmesi,
+6.27.1.2. PTT AŞ tarafından yazılı olarak bildirilen talimatları yerine getirmemesi,
+6.27.1.3. Usulsüz veya konusu suç teşkil eden eylemlerde bulunduğunun tespit edilmesi,
+6.27.1.4. Aleyhine iflas kararı alınması veya acentenin konkordato ilan etmesi veya borçlarını ödemekte acze düşmesi,
+6.27.1.5. Bankacılık Düzenleme ve Denetleme Kurumu veya başka bir idari makam tarafından, tüketici haklarının 
+korunması açısından gerekli görülmesi veya sunulan hizmetlerin ilgili mevzuata aykırılık teşkil etmesi,
+6.27.1.6. Haberleşme gizliliğini ihlal ettiğinin veya açığa vurduğunun yahut bunu başkasının yapmasına sebebiyet 
+verdiğinin tespiti,
+6.27.1.7. 6698 sayılı Kanunu’nun ihlal edilmesi,
+6.27.1.8. 6493 Sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para 
+Kuruluşları Hakkında Kanun kapsamında faaliyet izninin yitirilmesi,
+6.27.1.9. Taraflar arasında sözleşme hükümlerinin ihlal edilmesi,
+6.27.1.10. PTT AŞ’nin yazılı izni olmaksızın Kurumsal Acentenin hak ve yükümlülüklerini üçüncü kişilere 
+devretmesi hallerinde, ayrıca her halükarda iki (2) ay önceden bildirim yaparak herhangi bir mazeret göstermeksizin, 
+başkaca ihtara gerek kalmaksızın ve her ne nam altında olursa olsun bir bedel/tazminat ödemeksizin Kurumsal Acente 
+sözleşmesi PTT AŞ tarafından tek taraflı olarak feshedilebilir.
+6.28. Kurumsal Acente Sözleşmesinin Kurumsal Acente Tarafından Sona Erdirilmesi
+6.28.1. Kurumsal Acente sözleşmenin normal veya uzatılmış süresinin dolmasından iki ay önce sözleşmeyi sona 
+erdirme isteğini yazılı olarak bildirir ve işbu prosedürün 5.29 maddesinde belirtilen yükümlülükleri yerine getirirse, 
+sözleşme süresinin bitiminde sona erer.
+6.28.2. Kurumsal Acentenin yazılı talebi ve Genel Müdürlüğün uygun görmesi halinde sözleşme her zaman sona 
+erdirilebilir.
+6.29. Kurumsal Acentelik ilişkisinin kesilme usulü
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+9/10
+6.29.1. Sözleşmesi herhangi bir sebeple sona eren Kurumsal Acentenin son güne kadar kullandığı işbu prosedürün 
+6.17 maddesinde belirtilen belgeler ile PTT AŞ ücret tarifesinin bulunduğu iç levha, düzenlenecek tutanak ile Bölge 
+Müdürlüğü tarafından teslim alınır.
+6.30. Tüzel kişiliğinin sona ermesi
+6.30.1. Kurumsal Acentenin tüzel kişiliğinin sona ermesi halinde genel hükümler uygulanır.
+6.31. Teminatın iadesi
+6.31.1. Sözleşmesi sona eren Kurumsal Acenteden bu prosedürün 5.9 maddesine göre alınmış olan teminat sözleşme 
+hükümlerine göre iade edilir.
+6.32. Genel hükümlerin uygulanması
+6.32.1. İşbu prosedürde hüküm bulunmayan hallerde genel hükümler uygulanır.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+Kurumsal Acente Sözleşmesi
+KN.006-5237 sayılı Türk Ceza Kanunu
+KN.008-6698 sayılı Kişisel Verilerin Korunması Kanunu
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.020-4857 sayılı İş Kanunu
+KN.028-6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para 
+Kuruluşları Hakkında Kanun 
+KN.074-2983 sayılı Tasarrufların Teşviki ve Kamu Yatırımlarının Hızlandırılması Hakkında Kanun
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+2 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur.     
+1 21.10.2020 Sisteme giriş ve çıkış ile ilgili yeni hükümler eklenmiştir. 
+0 26.08.2019 Yeni Doküman 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+PTT AŞ Kurumsal Acente Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR03
+İlk Yayım Tarihi
+26.08.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+10/10
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

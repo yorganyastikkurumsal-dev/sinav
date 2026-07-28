@@ -1,0 +1,395 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+POSTA VE KARGO 
+OPERASYONLARI DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+1/6
+1. AMAÇ
+Bu prosedürün amacı, yurt içi ve yurt dışı Tele-Post hizmetinin yürütülmesine ilişkin süreçleri belirlemektir.
+2. KAPSAM
+Bu prosedür, yurt içi ve yurt dışı Tele-Post hizmetinin yürütülmesi, çalışma saatleri, yönetim ve denetimi ile 
+personelin görevlerine ilişkin süreçleri kapsar.
+Bu prosedür Merkez Teşkilatında Posta ve Kargo Operasyonları Daire Başkanlığını, Taşra Teşkilatında Bölge 
+Müdürlüğü bünyesinde posta ve kargo hizmetlerinin yürütüldüğü ilgili birimleri ve tüm PTT iş yerlerini kapsar.
+3. DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu ile 406 sayılı Telgraf ve Telefon Kanunu, 15/07/2018 tarihli ve 
+30479 sayılı Resmi Gazetede yayınlanan Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve 
+Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi, 21/07/2014 tarihli görev sözleşmesi, 03/06/2014 
+tarih ve 29019 sayılı Resmi Gazete’ de yayınlanan Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği, Posta 
+Hizmetlerinin Sunulmasına İlişkin Yönetmelik, Posta Sektöründe İdari Yaptırımlar Yönetmeliği, Evrensel Posta 
+Birliği Kararları, yabancı idareler ile yapılan ikili anlaşmalar ve PKO.PR01 Posta ve Kargo Hizmetleri İşletme 
+Prosedürü hükümlerine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlüklerini,
+4.2 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim 
+Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürünü,
+4.3 Bürofaks Servisi: İş yerlerimizde Şirketimizin otomasyon sistemi aracılığı ile uluslararası telekomünikasyon 
+hatlarından ya da otomasyon sisteminden yararlanılarak karşı idarelerin iş yerlerine dokümanların iletimini ve karşı 
+idarelerin iş yerlerinden gelen dokümanları işleyen servisi,
+4.4 Kabul Formu: Doküman kabul işleminde kullanılan gönderi kabul bilgileri, teslim şekilleri ile mesaj 
+bölümünden oluşan matbu formu,
+4.5 Gönderi Kabul Bilgisi: Doküman kabulünde kabul iş yeri, barkod numarası, sayfa adedi, tarih, saat, alıcı ve 
+gönderici adresleri ile varış iş yeri bilgilerini içeren kabul formunda yer alan bölümü,
+4.6 PTT İş Yeri: Acentelikler de dâhil PTT AŞ tarafından faaliyetlerini yürütmek amacıyla kurulan birimi,
+4.7 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’ni,
+4.8 Tele-Post Hizmeti: Form, grafik, el yazıları, resim, plan, proje, matbu evrak ve benzeri dokümanların bütün 
+çeşitlerinin bu prosedürde belirlenen limitler ve karakteristik özellikler içinde kalmak şartı ile Şirketimizin 
+otomasyon sisteminden yararlanılarak uzak bir noktada kopyasının çıkarılması ve teslim edilmesini,
+4.9 Tele-Post Servisi: İş yerlerimizde Şirketimizin otomasyon sisteminden yararlanılarak, dokümanların kabul, 
+iletim ve teslim hizmetini vermek amacı ile kurulmuş olan servisi,
+4.10 Tele-Post Doküman: Otomasyon sisteminden kabul edilen, iletilen, alınan, teslim ve düşüm işlemleri 
+gerçekleştirilen dokümanı ifade eder.
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanması ve yönetiminden Posta ve Kargo Operasyonları Daire Başkanlığı, uygulanmasından ise 
+posta hizmetlerinin yürütülmesinin her aşamasında görevli tüm personel ve bu kapsamdaki tüm birimler ve 
+çalışanlar sorumludur.
+6. UYGULAMA
+6.1 Tele-Post Servisinde Verilen Hizmetler ve Mesai Süresi
+Tele-post servisinde verilen hizmetler ve süresi aşağıdaki gibidir.
+a) Tele-Post servisinden/iş yerinden Tele-Post servisine/iş yerine (Yurt içi)
+b) Tele-Post servisinden/iş yerinden Bürofaks merkezine (Yurt içi-Yurt dışı)
+c) Yurt dışı Bürofaks merkezinden, Bürofaks merkezine ya da Tele-Post servisine/iş yerine (Yurt dışı-Yurt içi) 
+doküman kabul edilir ve iletilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+2/6
+ç) Tele-Post Servisi, iş yerinin mesaisine göre hizmet verir.
+6.2 Sorumluluk
+6.2.1 Şirketimizin otomasyon sistemi ile doküman iletimi ve alımı yapılırken doküman aslı ile otomasyon 
+sisteminden alınan/yazdırılan doküman arasında PTT AŞ’den kaynaklanan ve mahiyeti ciddi şekilde farklı olan ve 
+dokümanların geciktirilmesinden, değiştirilmesinden veya kaybedilmesinden dolayı Şirketimiz sorumludur. 
+Göndericinin talebi halinde kabul ücreti, kusurlusuna rücu edilmek üzere göndericisine iade edilir.
+6.2.2 Geciktirilmesinde, değiştirilmesinde veya kaybedilmesinde kusuru bulunan personel hakkında gerekli disiplin 
+işlemi uygulanır.
+6.2.3 Fiillerinin suç unsuru taşıması halinde ilgili mevzuat uyarınca işlem yapılır.
+6.3 Gizlilik
+Kabul ve teslimi yapılan Tele-Post doküman başka şahıslara açıklanamaz, metni ve mevcudiyeti hakkında bilgi 
+verilemez. Buna aykırı harekette bulunanlar hakkında ilgili Kanunlar uyarınca işlem yapılır.
+6.4 Otomasyon Sisteminden Özel Mesaj İletimi
+Tele-Post gönderisi ile ilgili yazışmaları gerektiren dokümanlar hariç olmak üzere, ücretsiz olarak doküman alınıp 
+verilmesi yasaktır.
+6.5 Suç Unsuru Bulunan Doküman
+6.5.1 Gişe personelince içeriğinde suç unsuru bulunduğuna kanaat getirilen doküman, kimlik tespiti yapılarak kabul 
+edilir ve bu durum ivedilikle Cumhuriyet Savcılığına bildirilir.
+6.5.2 Ancak genel ahlak kurallarına aykırı veya güvenliği bozucu ve bir suç işlenmesini teşvik edici işaret, resim ve 
+yazılar taşıyan dokümanlar kabul edilmez.
+6.5.3 Kabul iş yeri suç unsuru taşıyan dokümanın Cumhuriyet Savcılığına ihbar edildiğini ayrı bir dokümanla varış 
+iş yerine bildirir.
+6.5.4 Varış iş yerince, Cumhuriyet Savcılığına ihbar edilen doküman hakkında kabul iş yerinden yazı alınmışsa 
+doküman alıcısına teslim edilir. Cumhuriyet Savcılığına ihbarda bulunulduğu hususunda herhangi bir yazı 
+alınmamışsa ve varış iş yerince dokümanın bir örneği çıkarılıp bir yazı ile gizli olarak varış yeri Cumhuriyet 
+Savcılığına verildikten sonra dokümanın teslimi sağlanır. Her halükârda, içeriğinde suç unsuru bulunan gerek kabul 
+merkezince gerekse de varış iş yerince Cumhuriyet Savcılığına bildirilen dokümanlar, alıcısına teslim edilir.
+6.5.5 Varış iş yerince, Cumhuriyet Savcılığına ihbar edilen doküman hakkında kabul merkezinden/iş yerinden yazı
+alınmışsa doküman alıcısına teslim edilir. Cumhuriyet Savcılığına ihbarda bulunulduğu hususunda herhangi bir yazı 
+alınmamışsa ve varış iş yerince dokümanın bir örneği çıkarılıp bir yazı ile gizli olarak varış yeri Cumhuriyet 
+Savcılığına verildikten sonra dokümanın teslimi sağlanır.
+6.5.6 Bu çeşit dokümanların fark edilmediği durumlarda kabulünden ve alıcısına tesliminden PTT AŞ sorumlu 
+değildir.
+6.6 Kimlik Tespiti
+6.6.1 Aşağıda belirtilen dokümanlar kimlik tespiti yapılmak ve imza alınmak suretiyle PTT iş yerinde kabul edilir.
+a) Alıcının maddi ve manevi zararına sebebiyet verebilecek bilgiler içeren dokümanlar,
+b) Genel ahlak ve adaba aykırı içeriğe sahip dokümanlar,
+c) Hakaret, tehdit ve suç isnadı içeren dokümanlar,
+ç) Devletin emniyeti, genel asayiş ve huzuru bozucu bilgiler içeren dokümanlar,
+d) Metni yabancı dille yazılmış dokümanlar.
+6.6.2 Göndericiler adına dokümanı gişeye verenler ile toplu imza atmak suretiyle dokümanları gişeye verenler 
+kimliklerini ispat etmeye ve gönderici adresi kısmına imzalarını atmaya mecburdurlar.
+6.6.3 Bu madde kapsamında doküman göndermek isteyen ancak, kimliğini vermek istemeyen, imzalamayan ve 
+gönderici adresi yazmak istemeyenin dokümanı kabul edilmez.
+6.6.4 Kimlik ispatı, fotoğraflı kimlik kartı ehliyet, pasaport, avukat kimlik belgesi, resmi daire ve kurumlarca 
+düzenlenmiş fotoğraflı kurum yetkililerince imzalanmış ve resmi mühürle tasdik edilmiş kimlik belgeleri veya 
+bunların yerine geçen usulüne uygun bir resmî belge göstermek suretiyle yapılır.
+6.6.5 Kimlik bilgileri dokümanın arka kısmına yazılır.
+6.7 Doküman Örneklerinin Verilmesi
+6.7.1 Tele-Post dokümanın asıl veya örnekleri
+a) Gönderici ve alıcılar ile bunlar tarafından resmen yetkilendirilen kişilere,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+3/6
+b) Mahkemeler ile Cumhuriyet Başsavcılıklarına,
+c) Resmi makamların kendilerine çekilen dokümanları almaya yetki verdikleri idari amir ve memurlarına,
+ç) Yetkili makamlarca inceleme ve soruşturma yapmak üzere görevlendirilmiş olanlara,
+Mahkeme kararı aranmaksızın yazılı istekte bulunmaları halinde verilir.
+6.7.2 Dokümanın asıl veya örneklerini almaya yetkili makam veya şahıslar hakkında şikâyeti içeren dokümanlar 
+şahıslara değil, şikâyeti incelemeye yetkili makama verilir.
+6.7.3 Verilen örnek için ücret alınmaz.
+6.8 Kabul Formunun Bölümleri
+6.8.1 Kabul Formu gönderi kabul bilgisi, metin ve teslim şekilleri bölümünden oluşmaktadır.
+6.8.2 Gönderi kabul bilgileri;
+a) Uluslararası merkezin telefon numarasını, (Hat başı merkez),
+b) Kabul iş yeri adını,
+c) Doküman barkod numarasını,
+ç) Sayfa adedini,
+d) Kabul tarih ve alış saatini,
+e) “Risk göndericiye aittir”,
+f) Teslim şekillerini,
+g) Gönderici adresini,
+ğ) Alıcı adresini kapsamalıdır.
+6.8.3 Dokümanın teslimi için gerekli olan alıcı ve göndericiye ait bulunması gereken bilgiler aşağıda belirtilmiştir.
+a) Gönderici ve alıcının ismi, unvanı veya kurum/kuruluş ismi,
+b) Alıcı ve göndericiye ait açık adres ve biliniyorsa posta kodu,
+c) Alıcının e-posta adresine iletimi isteniyorsa alıcı adresindeki e-posta adresi,
+ç) Alıcı göndericiye ait telefon numarası (biliniyorsa).
+6.9. Doküman Kabul Şartları
+Kabul edilecek dokümanlarda aşağıdaki şartlar aranır.
+6.9.1 Nakledilecek dokümanların boyutları maksimum ISO A4 formatında (210x297 mm) olmalıdır.
+6.9.2 Net bir iletim için ISO A4 formatındaki dokümanın üstten 5 mm alttan 15 mm, sol yan kenardan 15 mm ve sağ 
+yan kenardan 5 mm boşluk bırakılmalıdır.
+6.9.3 Doküman boyutunun ISO A4 formatından büyük olması halinde, gönderici bu dokümanın parçalara ayrılarak 
+gönderilmesini talep edebilir. Parçalara ayırma işlemi gönderici tarafından yapılır ve her parçası gönderici tarafından 
+imzalanır.
+6.9.4 Dokümanın tatminkâr bir nitelikte iletiminin sağlanabilmesi için çizgi kalınlığı, kâğıt yapısı bakımından sahip 
+olması gereken özellikler:
+a) Dokümanlar katlanmamalıdır.
+b) Dokümanlar parlak olmamalıdır.
+c) EI yazısı ile yazılmış dokümanların harf çizgisi kalınlığı en az 0.25 mm, harf yüksekliği en az 4 mm olmalıdır.
+ç) Teknik resim, şema, diyagram ve benzeri dokümanlarda çizgi kalınlığı en az 0.2 mm ve iki çizgi arasındaki 
+uzaklık en az 0.5 mm olmalıdır.
+d) Göndericiye, renkli dokümanın siyah beyaz çıkacağı, net olmayan ve yukarıda belirtilen şartlara uymayan 
+dokümanların karşı tarafa naklinin tatminkâr olamama ihtimali bulunduğu bildirilir. Buna rağmen gönderici 
+dokümanın gönderilmesini isterse; PKO.FR12 Tele-Post Kabul Formu’ndaki 6 no.lu “RİSK GÖNDERİCİYE 
+AİTTİR” bölümü işaretlenerek göndericinin imzası alınır.
+6.10 Doküman Kabulü
+6.10.1 Dokümanın Tele-Post Servislerinden/İş Yerinden Kabulü
+6.10.1.1 İş yerlerimizde doküman müşteri talebine göre PKO.FR12 Tele-Post Kabul Formu düzenlenerek teslim 
+alınır. Tele-Post servislerine/iş yerlerine getirilen dokümanın, madde 6.9‘da belirtilen kabul şartlarına uygunluğu 
+kontrol edilir.
+6.10.1.2 Kimlik tespiti ile kabul edilen dokümanın bir fotokopisi göndericiye ücretsiz olarak verilir, doküman aslı iş 
+yerinde muhafaza edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+4/6
+6.10.1.3 PKO.FR12 Tele-Post Kabul Formu ya da doküman gişe personelince incelendikten sonra taratılarak 
+bilgisayara kaydedilir. Otomasyon sistemi üzerinde kabul ekranına gönderici ve alıcının adres bilgileri yazıldıktan 
+sonra bilgisayara kaydedilen kabul formu ya da doküman sisteme eklenir. Göndermeden önce gişe personelince 
+doküman sayfa adedi, içerik ve kabul bilgileri konusunda göndericiden teyit alınır ve gönderinin kabulü yapılır.
+6.10.1.4 Doküman, 6.9 uncu maddede belirtilen şartları taşımaması halinde ve göndericinin Kabul Formu 
+kullanmadan doküman iletiminde ısrar etmesi durumunda ise, göndericiden gerekli imzalı meşruhat alınarak kabul 
+ekranında “Risk Göndericiye Aittir” seçeneği işaretlenerek göndermeden önce gönderici şifahi olarak bilgilendirilir 
+ve doküman kabul edilir.
+6.10.1.5 Doküman üzerinde yapılan karalamalar ilaveler ve silintiler için gönderici, gişe personelince PTT’nin 
+sorumluluk kabul etmeyeceği, riskin göndericiye ait olduğu yönünde bilgilendirilir ve göndericiden gerekli imzalı 
+meşruhat alınarak kabul ekranında “Risk Göndericiye Aittir” seçeneği işaretlenir.
+6.10.1.6 Kabulü yapılan doküman için otomasyon sistemi tarafından barkod numarası verilir.
+6.10.1.7 Ücretlendirme yapıldıktan sonra, göndericiye sistemden Tele-Post Alındısı tanzim edilerek verilir/iletilir.
+6.11 İletim
+6.11.1 Doküman, Tele-Post servisi/iş yeri tarafından geliş sırasına göre sistem üzerinden iletilir.
+6.11.2 Varış iş yeri tarafından alınan doküman silik ve okunaksız ise, çıkış iş yerine bilgi verilir ve yeniden 
+gönderilmesini sağlamaya çalışır.
+6.11.3 Varış iş yeri ''RİSK GÖNDERİCİYE AİTTİR / RISK BELONGS TO THE SENDER” seçeneği ile kabul 
+edilen dokümanın daha net olmasının temini maksadı ile gönderici iş yerinden tekrarını isteyemez.
+6.12 Doküman Teslim Şekilleri
+Kabul iş yerinde alıcının e-posta adresine iletilmek, varış iş yerlerince ise otomasyon sisteminden alınan Tele-Post 
+dokümanının PTT iş yerinde veya alıcı adresinde olmak üzere 3 şekilde teslimi vardır.
+6.12.1 Dokümanın PTT İş Yerinde Teslimi
+6.12.1.1 Varış iş yerinde otomasyon sisteminden alınan dokümanın çıktısı göndericinin talebine göre alıcı veya 
+alıcının yetkili kıldığı kişiye kimlik tespiti yapılarak ve imza karşılığında teslim edilir.
+6.12.1.2 Gönderici dokümanın teslim yerini PTT İş yeri olarak belirtmesine rağmen, alıcı dokümanın adresinde 
+teslimini talep ederse, konutta teslim ücreti alınarak teslim edilir.
+6.12.2 Dokümanın Adreste Teslimi ve Süresi
+6.12.2.1 Doküman varış iş yerinde cihet listesine eklendikten sonra dağıtıma çıkartılır ve cihet listesinin ilgili 
+yerlerine tarih ve saat yazılarak imza karşılığı alıcıya teslimi sağlanır.
+6.12.2.2 Kabul iş yerinde adreste teslimli olarak varış iş yerine iletilen doküman, alıcının yazılı talebi üzerine 
+bildirilen e-posta adresine doğrudan iletilerek de teslim edilebilir.
+6.12.2.3 Varış Tele-Post iş yerince alınan doküman, kabul saatinden itibaren 24 (yirmi dört) saat içerisinde teslim 
+edilir.
+6.12.2.4 Alıcı adresinde dokümanın teslim edileceği kimsenin bulunmaması halinde adrese haber kâğıdı bırakılarak 
+doküman, PTT iş yerine ihbarlı olarak bırakılır. Postacı tarafından teslim edilemediği ve haber kâğıdı bırakıldığı 
+yönünde sisteme girilen bilgi sonucunda, varsa alıcının cep telefonuna otomatik olarak SMS gönderilir. Gönderinin 
+bekleme müddeti haber kâğıdı bırakıldığı tarihin ertesi gününden itibaren 3 iş günüdür. İhbar bırakıldıktan sonra 
+gönderi, ihbar bırakıldığı tarihin ertesi gününden itibaren 3 (üç) iş gününün sonunda alıcısına teslim edilmezse 
+teslim ekranından “teslim edilmedi-dağıtım iptal” bilgisi girilir.
+6.12.3 Dokümanın E-Posta Adresine Teslimi
+Kabul iş yerinde alıcı adresi e-posta adresi olarak kabul edilen doküman alıcı e-posta adresine doğrudan iletilerek 
+teslim edilir.
+6.13 Doküman Örnekleri ile Kabul Raporunun Kontrolü
+PTT iş yerinde kontrolle görevli personel tarafından kabul raporu üzerinden ücretler günlük olarak kontrol edilir ve 
+tahsil olunan ücretlerin kasaya intikali sağlanır. Kimlik tespiti yapılarak kabul edilen doküman örnekleri sırasında 
+saklanır.
+6.14 Dokümanın Ücretlendirilmesi
+6.14.1 Doküman kabul PTT iş yerince, Posta ve Telgraf Ücret Tarifesi’nde belirtilen her bir sayfa iletim ücreti 
+göndericiden tam ve peşin olarak alınmak sureti ile ücretlendirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+5/6
+6.14.2 Yurt dışından gelen postrestant özel hizmetli telefaks dokümanlarından Posta ve Telgraf Ücret Tarifesi’nde 
+belirtilen ücret alınır.
+6.15 Ücret İadesi
+6.15.1 Kabul iş yerince kabul edilen dokümanın, kabulü yapıldıktan sonra varış iş yerince dağıtıma çıkarılana kadar 
+iptali mümkündür. Personel hatası nedeniyle yapılan iptallerde ücret iadesi yapılır, gönderici isteği üzerine yapılan 
+iptallerde ise ücret iadesi yapılmaz.
+6.15.2 “RİSK GÖNDERİCİYE AİTTİR/RISK BELONGS TO THE SENDER” seçeneği ile kabul edilen 
+dokümanların alıcı tarafından kabul edilmemesi halinde ücret iadesi yapılmaz.
+6.15.3 Gönderici veya alıcı ile onları temsil eden kişilerin herhangi bir kusuru olmadığı halde, hizmetten doğan hata 
+veya aksaklık nedeni ile alıcısına teslim edilemeyen doküman ile hatalı olup, alıcısı tarafından kabul edilmeyen 
+hatalı sayfalara ait ücretler göndericinin yazılı talebi halinde iade edilir. Alıcı kabul etmediği doküman sayfalarını 
+kendisinde alıkoyamaz.
+6.15.4 Göndericiler tarafından ücret iadesine ilişkin dilekçeler, herhangi bir PTT iş yerine kabul tarihinden itibaren 1 
+(bir) yıllık süre içinde verilmelidir. Bu dilekçelere iddiayı kanıtlayan gönderici ve alıcı tarafından temin edilen 
+doküman ve belgeler de eklenir. Ücret iadesi gönderici veya vekiline ödenir.
+6.15.5 Ücret iadesi talebinde bulunan göndericilerin, ücretlerini almak üzere başvuruları sonuçlandıktan itibaren 
+PTT iş yerlerine bir yıl içerisinde müracaat etmeleri gerekir. Bu süre içerisinde müracaat etmeyenlerin ücretleri iade 
+edilmez.
+6.16 İhtirazi Kayıtla Kabul Edilecek Doküman
+İhtirazi kayıtla kabul edilecek dokümanlar aşağıdaki gibidir.
+a) Askeri ve sivil okullarla, askeri birlik, cezaevleri ve hastane adreslerine çekilecek doküman.
+b) Posta abone kutusu adresine gönderilecek doküman.
+c) Tatil günleri ve/veya teslimi tatil günlerine denk gelecek doküman.
+ç) Günlük posta dağıtımı yapılamayan (şehir dağıtım alanı dışında kalan) yerlere kabul edilen doküman.
+Bu dokümanların göndericileri, dokümanının kabulünden evvel gişe personeli tarafından gecikme ihtimali hakkında 
+ikaz olunduktan sonra göndericiden gerekli imzalı meşruhat alınarak ihtirazı kayıt ile kabul edilir.
+6.17 Tele-Post Doküman ile İlgili Evrakın Saklanması
+6.17.1 Kimlik tespiti yapılarak kabul edilen doküman kopyaları ve kabul formları ile cihet teslim listeleri 5 (beş) yıl, 
+kimlik tespiti gerektirmeyen dokümanların kabul formları 1 yıl süreyle saklanır.
+6.17.2 Kimlik tespiti gerektirmeyen ve herhangi bir nedenle alıcısına teslim edilemeyen dokümanlar bekleme 
+müddeti sonunda imha edilir.
+6.17.3 Herhangi bir nedenle alıcısına teslim edilemeyen tele-post gönderisi, kabul tarihinden itibaren 1 (bir) yıl 
+içinde alıcısının başvurusu üzerine sistemden çıktısı alınarak PTT iş yeri mührü basılmak suretiyle teslim edilir.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+8.1 Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+8.2 Bu prosedür yayımlandığında PKH.PR05 Tele-Post Hizmetleri İşletme Prosedürü yürürlükten kalkar.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+CBK.002-4 sayılı Cumhurbaşkanlığı Kararnamesi
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.044-406 sayılı Telgraf ve Telefon Kanunu
+PKO.FR12-Tele-Post Kabul Formu
+PKO.FR30-Haber Kâğıdı
+PKO.PR01-Posta ve Kargo Hizmetleri İşletme Prosedürü
+YNT.050-Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği
+YNT.068-Bilgi Teknolojileri ve İletişim Kurumu Posta Sektöründe İdari Yaptırımlar Yönetmeliği
+YNT.078-Evrensel Posta Hizmetleri Yönetmeliği
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Tele-Post Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+6/6
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+0 1.01.2026 Yeni Doküman 
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

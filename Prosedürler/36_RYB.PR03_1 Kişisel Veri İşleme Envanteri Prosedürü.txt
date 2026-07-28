@@ -1,0 +1,158 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+RİSK YÖNETİM BİRİMİ
+RİSK YÖNETİM BİRİMİ
+BİRİM SORUMLUSU
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Kişisel Veri İşleme Envanteri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RYB.PR03
+İlk Yayım Tarihi
+28.07.2025
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/3
+1.AMAÇ
+Bu prosedürün amacı veri sorumlusu sıfatını haiz Posta ve Telgraf Teşkilatı Anonim Şirketinin 6698 sayılı Kişisel 
+Verilerin Korunması Kanunu’nun 16. maddesi uyarınca Veri Sorumluları Sicili Bilgi Sistemi’ne kayıt 
+yükümlülüğünün gerekliliklerinden olan Kişisel Veri İşleme Envanteri’nin hazırlanması ve güncellenmesi 
+süreçlerini düzenlemektir.  
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketinin tüm birim ve çalışanlarını kapsar. 
+3.DAYANAK
+Bu prosedür 6698 sayılı Kişisel Verilerin Korunması Kanunu ve alt mevzuatına dayalı olarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Alıcı Grubu: Veri sorumlusu tarafından kişisel verilerin aktarıldığı gerçek veya tüzel kişi kategorisidir.
+4.2 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.3 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.4 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Merkez Teşkilatıdır.
+4.5 İrtibat Kişisi: Türkiye’de yerleşik olan gerçek ve tüzel kişiler için veri sorumlusu tarafından, Türkiye’de 
+yerleşik olmayan gerçek ve tüzel kişiler için de veri sorumlusu temsilcisi tarafından, 6698 sayılı Kişisel Verilerin 
+Korunması Kanunu ve bu Kanuna dayalı olarak çıkarılacak ikincil düzenlemeler kapsamındaki yükümlülükleriyle 
+ilgili olarak, Kişisel Verileri Koruma Kurumu ile iletişimi sağlamak amacıyla Veri Sorumluları Siciline kayıt 
+esnasında bildirilen gerçek kişidir. 
+4.6 Kanun: 6698 sayılı Kişisel Verilerin Korunması Kanunu’dur. 
+4.7 Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir. 
+4.8 Kişisel Veri İşleme Envanteri: Veri sorumlularının iş süreçlerine bağlı olarak gerçekleştirmekte oldukları 
+kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları, veri kategorisi, aktarılan alıcı grubu ve veri konusu kişi 
+grubuyla ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan azami süreyi, 
+yabancı ülkelere aktarımı öngörülen kişisel verileri ve veri güvenliğine ilişkin alınan tedbirleri açıklayarak 
+detaylandırdıkları envanteridir. 
+4.9 Kişisel Verilerin İşlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt 
+sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza 
+edilmesi, değiştirilmesi, yeniden düzenlenmesi, açıklanması, aktarılması, devralınması, elde edilebilir hale 
+getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü 
+işlemidir. 
+4.10 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.11 Taşra Teşkilatı: Şirketin Genel Müdürlük Birimleri dışındaki tüm birimleridir.
+4.12 Veri Sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin 
+kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişidir.
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Kişisel Veri İşleme Envanteri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RYB.PR03
+İlk Yayım Tarihi
+28.07.2025
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/3
+4.13 Veri Sorumluları Sicili Bilgi Sistemi (VERBİS): Veri sorumlularının Sicile başvuruda ve Sicile ilişkin ilgili 
+diğer işlemlerde kullanacakları, internet üzerinden erişilebilen, Kişisel Verileri Koruma Kurumu Başkanlığı 
+tarafından oluşturulan ve yönetilen bilişim sistemidir. 
+4.14 Yönetmelik: Veri Sorumluları Sicili Hakkında Yönetmelik’tir. 
+5.SORUMLULUKLAR
+Bu prosedürün uygulanmasından PTT AŞ bünyesindeki tüm birimler sorumludur.
+6.UYGULAMA
+6.1 Kişisel Veri İşleme Envanteri 
+Yönetmelik gereğince, veri sorumlusu olan PTT AŞ’nin VERBİS başvurularında açıklanacak bilgileri, Kişisel Veri 
+İşleme Envanteri’ne dayalı olarak hazırlanır. 
+6.2 Kişisel Veri İşleme Envanteri Hazırlanması 
+6.2.1 Risk Yönetimi Birimince Kanun’da belirtilen asgari unsurları içerir kişisel veri işleme envanteri şablonu 
+hazırlanır. 
+6.2.2 Söz konusu şablon, kişisel veri işlenen süreçler gözetilerek doldurulmak üzere ilgili Birimlere gönderilir. 
+6.2.3 Birimler tarafından doldurulan kişisel veri işleme envanteri Risk Yönetimi Birimince VERBİS’e kayıt ettirilir. 
+6.3 Kişisel Veri İşleme Envanterinin Güncellenmesi  
+6.3.1 Birim yöneticileri tarafından belirlenen personel, envanteri güncellemekle yetkili ve sorumlu olarak 
+görevlendirilir.  
+6.3.2 Birim personeli, envanterde güncelleme yapılmasını gerektirir hususları, görevlendirilen sorumlu personele 
+bildirir. 
+6.3.3 Envanterdeki değişiklikler sadece yetkili ve sorumlu personel tarafından yapılır.  
+6.3.4 Envanterde güncelleme yapılması konusunda belirlenen personel, envanterdeki güncellemeyi envantere 
+işleyerek Risk Yönetimi Birimine bildirir.  
+6.3.5 Risk Yönetimi Birimi, Birimlerden gelen güncellemeyi PTT AŞ’nin ana envanterine işler. 
+6.3.6 Risk Yönetimi Birimi envanterdeki güncellemenin VERBİS kaydında güncelleme gerektirip gerektirmediğini 
+tespit eder.
+6.3.7 Yönetmelik uyarınca değişiklik gerektiren bir hususun olması halinde, Risk Yönetimi Birimi tarafından 7 
+(yedi) gün içinde VERBİS güncellemesi yapılır. 
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.008-6698 sayılı Kişisel Verilerin Korunması Kanunu
+RYB.PK02-Kişisel Veri Saklama ve İmha Politikası
+RYB.PR02-Kişisel Verilerin Korunması Prosedürü
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Kişisel Veri İşleme Envanteri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RYB.PR03
+İlk Yayım Tarihi
+28.07.2025
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/3
+RYB.PR04-Veri Sahibi Başvuru Yönetimi Prosedürü
+RYB.PR05-Kişisel Veri Güvenliği Denetim Prosedürü
+RYB.PR06-Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler Prosedürü
+YNT.079-Veri Sorumluları Sicili Hakkında Yönetmelik
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 28.07.2025 Yeni Doküman

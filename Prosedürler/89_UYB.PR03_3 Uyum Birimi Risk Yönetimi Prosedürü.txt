@@ -1,0 +1,287 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+UYUM BİRİMİ
+UYUM BİRİMİ
+BİRİM SORUMLUSU
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Dokümanın Adı
+Uyum Birimi Risk Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UYB.PR03
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+1/5
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde suç gelirlerinin aklanması ve terörün 
+finansmanına yönelik olarak maruz kalınabilecek risklerin tanımlanması, derecelendirilmesi, izlenmesi, 
+değerlendirilmesi, azaltılması, önlenmesinin sağlanması ve faaliyetlerinin 5549 saylı Suç Gelirlerinin Aklanmasının 
+Önlenmesi Hakkında Kanun ve bu kanuna ilişkin alt mevzuata uygun olarak yürütülmesi ile ilgili usul ve esaslar ile 
+yetki ve sorumlulukları belirlemektir.
+2. KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi nezdinde uyum programı dahilindeki risk yönetimi 
+faaliyetleri kapsamında gerçekleştirilen çalışmalara ilişkin usul ve esaslar ile tüm birimleri kapsar.
+3. DAYANAK
+Bu prosedür, 5549 sayılı Suç Gelirlerin Aklanmasının Önlenmesi Hakkında Kanun ve 6415 sayılı Terörizmin 
+Finansmanının Önlenmesi Hakkında Kanun uyarınca hazırlanan Suç Gelirlerinin Aklanmasının ve Terörün 
+Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmelik’in 4’üncü, 5’inci, 7’nci, 
+11’inci, 12’nci ve 13’üncü maddelerine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Bakanlık: Hazine ve Maliye Bakanlığıdır. 
+4.2 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.3 Hizmet Riski: Yüz yüze yapılmayan işlemler, PTT iş yerinde gerçekleşen işlemler gibi hizmetler veya gelişen 
+teknolojiler kullanılarak sunulacak yeni ürünler kapsamında maruz kalınabilecek risktir.
+4.4 Kanun: 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun’dur.
+4.5 MASAK: Mali Suçları Araştırma Kurulu Başkanlığıdır.
+4.6 Müşteri Riski: Müşterinin faaliyet gösterdiği iş kolunun, meslek gruplarının yoğun nakit kullanımını, fon 
+transferlerinin kolayca gerçekleştirilmesine imkân vermesi; müşterinin ya da müşteri adına veya hesabına hareket 
+edenlerin, suç gelirlerinin aklanması veya terörün finansmanı amacıyla hareket etmesi sebebiyle PTT AŞ’nin 
+suistimal edilmesi riskidir.
+4.7 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+4.8 Risk: Sunulan hizmetlerden suç gelirlerinin aklanması ve terörün finansmanı amacıyla yararlanılması ya da 
+kanuni yükümlülüklere tam olarak uyulmaması nedeniyle PTT AŞ’nin ya da PTT AŞ personelinin maruz 
+kalabileceği mali ya da itibari zarar ihtimalidir.
+4.9 Riskli Ülkeler: Aklama ve terörün finansmanının önlenmesi konusunda yeterli düzenlemelere sahip olmayan, 
+bu suçlarla mücadele konusunda iş birliği yapmayan veya yetkili uluslararası kuruluşlarca riskli kabul edilen 
+ülkelerdir.
+4.10 Suç Gelirlerinin Aklanması (SGA): Öncül suçlardan elde edilen gelirlerin, yasa dışı kaynağını gizlemek ve 
+bu gelirleri yasal bir kaynaktan elde edilmiş gibi göstermek amacıyla yapılan her türlü işlemdir.
+4.11 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+Uyum Birimi Risk Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UYB.PR03
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+2/5
+4.12 Terörün Finansmanı (TF): 6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun’un 3. ve 4. 
+Maddesi’ne göre, suç olarak düzenlenen fiillerin gerçekleştirilmesinde tümüyle veya kısmen kullanılması amacıyla 
+veya kullanılacağını bilerek ve isteyerek belli bir fiille ilişkilendirilmeden dahi bir teröriste veya terör örgütlerine 
+fon sağlama veya toplama faaliyetidir.
+4.13 Uyum Birimi: Uyum görevlisine bağlı olarak çalışan ve uyum programının yürütülmesiyle görevli personelden 
+oluşan birimdir.
+4.14 Uyum Görevlisi: Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ve bu Kanuna dayanılarak 
+yürürlüğe konulan mevzuatla getirilen yükümlülüklere uyumu sağlamak amacıyla, PTT AŞ tarafından gerekli 
+yetkiyle donatılmış görevlidir.
+4.15 Uyum Programı: PTT AŞ bünyesinde suç gelirlerinin aklanmasının ve terörizmin finansmanının önlenmesine 
+yönelik olarak, Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Uyum Programı 
+Hakkında Yönetmelik gereği oluşturulmuş olan tedbirler bütününü teşkil eden program metnidir.
+4.16 Ülke Riski: PTT AŞ’nin; suç gelirlerinin aklanmasının ve terörün finansmanının önlenmesi konusunda yeterli 
+düzenlemelere sahip olmayan, bu suçlarla mücadele konusunda yeterli düzeyde iş birliği yapmayan veya yetkili 
+uluslararası kuruluşlarca riskli kabul edilen ülkelerden Bakanlıkça duyurulanların, vatandaşları, şirketleri ve mali 
+kuruluşları ile girecekleri iş ilişkileri ve işlemleri sebebiyle maruz kalabilecekleri risktir.
+4.17 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanmasından, yönetiminden ve etkin bir şekilde uygulanmasından Yönetim Kurulu, Uyum 
+Görevlisi ve Uyum Birimi sorumludur.
+6. UYGULAMA
+6.1 PTT AŞ’nin ürün ve hizmetlerinin, birimlerinin ve personelinin suç gelirlerinin aklanması ve terörün finansmanı 
+ile mücadelede maruz kalabileceği zarara uğrama tehlikesinin önlenmesi amacıyla müşteri, ürün/hizmet ve ülke 
+riskini esas alan “Risk Analiz” işlemleri yapılır.
+6.2 Risk analizinde; aşağıda belirtilen parametreler değerlendirilir ve düşük, orta, yüksek risk derecelerine göre risk 
+puanlaması yapılır. 
+6.2.1 Ürün/hizmet riskleri belirlenirken ve risk azaltıcı faaliyetler yapılırken aşağıdaki hususlara dikkat edilir:
+a) Ürün/hizmet için tutar bazında sınırlama olup olmadığı,
+b) Ürün/hizmet için kanal bazında sınırlama olup olmadığı,
+c) Ürün/hizmet için müşteri bazında sınırlama olup olmadığı,
+ç) Ürün/hizmet kullanımının tutar bazında onaya tabi olup olmadığı,
+d) Yapılan işlemlerin manuel ve/veya yazılım aracılığıyla takip edilip edilmediği,
+e) Sunulan ürün ve hizmetler için SGA/TF riskini dikkate alan yazılı politika/prosedürlerin olup olmadığı
+f) Sunulan ürün ve hizmetler için SGA/TF riskini dikkate alırken, uluslararası standartların kullanılıp kullanılmadığı,
+g) MASAK ve uluslararası yetkili kuruluşlarca yaptırım konularındaki mevzuatın takibi yapılarak mevcut iç 
+düzenlemelerin güncel tutulması,
+ğ) İç düzenlemelerin mevzuat değişikliğinden bağımsız en az yılda bir kez gözden geçirilmesi,
+h) Yeni ürün, hizmet, kanal vs. oluşumların mevzuat açısından uyum değerlendirmesinin yapılması,
+ı) SGA/TF eğitimlerinde riskli ürün/hizmetlerle ilgili alınması gereken tedbirlere ilişkin hususlara yer verilmesi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+Uyum Birimi Risk Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UYB.PR03
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+3/5
+i) SGA/TF kapsamında farkındalığı artırma amaçlı tebliğler ve bilgilendirmeler yapılması,
+j) SGA/TF konularında PTT AŞ iç düzenlemelerine aykırı davranılması halinde yaptırım uygulanmasına dönük 
+düzenlemelerin belirlenmesi, bu düzenlemelerin periyodik olarak gözden geçirilmesi,
+k) Uyum Birimi personelinin ürün/hizmet riskleri konusunda gerekli güncel kaynaklara ulaşabilmesi,
+l) Uyum Birimi personelinin ürün/hizmet riskleri konusunda gerekli eğitimleri ve lisansları almasının sağlanması,
+m) İzleme-kontrol faaliyetlerine ilişkin senaryoların periyodik olarak gözden geçirilmesi/güncellenmesi,
+n) Müşteri ediniminde müşteriler için kimlik tespit/teyit sürecine ilave Müşterini Tanı İlkesi (Know Your Customer) 
+çerçevesinde risk değerlendirmesi yapılması (müşterilere risk sınıflandırılmasına yönelik sorular sorularak risk 
+değerlendirmesi yapılması), müşteri ediniminde yüksek riskli değerlendirilen müşteriler için ayrıntılı durum 
+değerlendirmesi (ek bilgiler) yapılması, ek onay süreçleri uygulanması (Bir üst yönetici, Bölge Müdürlüğü, Genel 
+Müdürlük vs.),
+o) Yüksek ve çok yüksek risk derecesinde yer alan müşteri ve işlemler için riskin azaltılmasını teminen Suç 
+Gelirlerinin Aklanması ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik’in 
+Sıkılaştırılmış Tedbirler maddesinde belirtilen tedbirlerin, düşük ve orta risk derecesinde yer alan müşteri ve 
+işlemleri için ise standart süreçlerin uygulanması,
+ö) Gerçek faydalanıcının beyan edilenden farklı olduğu şüphesi oluştuğunda, gerçek faydalanıcının belirlenmesi için 
+ek çalışma yapılması,
+p) Periyodik olarak mevcut müşteri veri tabanında kara liste kontrolü yapılması,
+r) Müşteri ediniminde ve işlem öncesinde kara liste taraması yapılması,
+s) Uyum Birimi dışındaki personel tarafından müşteri işlemlerinin şüpheli bulunması durumunda Uyum Birimi’ne 
+bildirilmesi,
+ş) Resmi kurumlardan gelecek bildirimlerin incelenmesi,
+t) Sürekli iş ilişkisi kapsamında olmayan müşteri işlemleri için özel önlemler alınması.
+6.2.2 Müşteri riski belirlenirken aşağıdaki hususlara dikkat edilir:
+a) Müşterinin faaliyet gösterdiği iş kolu, 
+b) Müşterinin ya da müşteri adına veya hesabına hareket edenlerden (gerçek faydalanıcı) yüksek riskli kategorideki 
+müşterilerin belirlenmesi,
+c) Müşterinin mal varlığı dondurulan kişi ya da kurumlarla olan ilişkisi,
+ç) Müşterinin vatandaşı olduğu devlet ve para trafiği içinde olduğu ülkeler,
+d) Müşterinin ilişkili olduğu sektörler,
+e) Yaş, meslek gibi müşteriye özgü bilgiler,
+f) Müşterinin illegal bahis şüphelisi olan kişilerle, kripto varlık hizmet sağlayıcılarıyla ve temin edilen kara listelerde 
+bulunanlarla olan ilişkisi.
+6.2.3 Ülke riski belirlenirken aşağıdaki hususlara dikkat edilir:
+a) SGA/TF suçlarının önlenmesi konusunda yeterli düzenlemelere sahip olup olmadığı,
+b) SGA/TF suçlarıyla mücadele konusunda yeterli düzeyde iş birliği yapıp yapmaması veya uluslararası yetkili 
+kuruluşlarca riskli kabul edilip edilmediği,
+c) Uyuşturucu üretim-dağıtım yolları (gri alanlar) üzerinde bulunan, kaçakçılık, terör gibi suçların, yolsuzluk ve 
+rüşvetin yaygın olduğu, vergi cenneti/sınır ötesi merkez (off-shore) olarak tabir edilen ülke/bölgeler ile uyruk, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+Uyum Birimi Risk Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UYB.PR03
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+4/5
+doğum ülkesi, yerleşik olduğu ülke, kuruluş yeri, ortaklık yapısı, yetkililer, işlem tarafları vs. bağlantılı müşteri ve 
+işlemlerin belirlenmesi.
+6.3 Günün değişen koşulları göz önünde bulundurularak müşteri riski, hizmet riski ve ülke riskini esas alan risk 
+tanımlama, derecelendirme, sınıflandırma ve değerlendirme yöntemlerinde risk geliştirme faaliyetleri yapılır.
+6.4 Riskli müşterilerin, işlem veya hizmetlerinin izlenmesi ve kontrol edilmesi sağlanır, risklerin azaltılması için 
+gerekli tedbirler alınır; ilgili birimleri uyaracak şekilde rapor edilir; işlemin üst makamın onayı ile gerçekleştirilmesi 
+ve gerektiğinde denetlenmesi için uygun işleyiş ve kontrol kuralları geliştirilir. 
+6.4.1 Riskli müşterilerin, işlemlerin veya hizmetlerin izlenmesinin ve kontrol edilmesinin sağlanması, manuel olarak 
+ve/veya kara liste/ senaryo yazılımı ile gerçekleştirilir. Bu sayede işleyiş ve kontrol kuralları geliştirilir. 
+6.4.2 Risklerin azaltılması için Kanun kapsamında:
+a) PTT personeline eğitim birimi tarafından eğitim verilir (Farkındalık yaratıcı tedbir),
+b) İlgili birimler tarafından tebliğ yapılır (Önleyici tedbir),
+c) Denetim birimleri tarafından denetleme yapılır (Tespit edici tedbir).
+6.4.3 Risk analizi kapsamında yüksek/çok yüksek derecede riskli olarak belirlenen gruplara yönelik olarak aşağıda 
+belirtilen tedbirlerin bir veya birden fazlası uygulanır:
+a) Müşteri hakkında ilave bilgi edinmek ve müşteri ile gerçek faydalanıcının kimlik bilgilerini daha sık 
+güncellemek,
+b) İş ilişkisinin mahiyeti hakkında ilave bilgi edinmek,
+c) İşleme konu malvarlığının ve müşteriye ait fonların kaynağı hakkında mümkün olduğu ölçüde bilgi edinmek,
+ç) İşlemin amacı hakkında bilgi edinmek,
+d) İş ilişkisine girilmesini, mevcut iş ilişkisinin sürdürülmesini ya da işlemin gerçekleştirilmesini üst seviyedeki 
+görevlinin onayına bağlamak,
+e) Uygulanan kontrollerin sayı ve sıklığını artırmak ve ilave kontrol gerektiren işlem türlerini belirlemek suretiyle iş 
+ilişkisini sıkı gözetim altında tutmak,
+f) Sürekli iş ilişkisi tesisinde ilk finansal hareketin, müşterinin tanınmasına ilişkin esasların uygulandığı bir başka 
+finansal kuruluştan yapılmasını zorunlu tutmak,
+g) Bakanlık tarafından belirlenen diğer sıkılaştırılmış tedbirleri uygulamak.
+6.5 Risk tanımlama ve değerlendirme yöntemlerinin, risk derecelendirmesi ve sınıflandırma yöntemlerinin, örnek 
+olaylar ya da gerçekleşen işlemler üzerinden geriye dönük olarak tutarlılıkları ve etkinlikleri sorgulanır, varılan 
+sonuçlara ve gelişen koşullara göre yeniden değerlendirilir ve güncellenir.
+6.6 Risk kapsamına giren konulara ilişkin ulusal mevzuat ve uluslararası kuruluşlarca getirilen tavsiye, ilke, standart 
+ve rehberler takip edilerek gerekli geliştirme çalışmaları yapılır.
+6.7Risk izleme ve değerlendirme sonuçları yılda bir defa Yönetim Kurulu’na raporlanır.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+Uyum Birimi Risk Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+UYB.PR03
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+5/5
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+KN.030-5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun
+KN.040-6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun
+YNT.058-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum 
+Programı Hakkında Yönetmelik
+YNT.059-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanın Önlenmesine Dair Tedbirler Hakkında 
+Yönetmelik
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+3 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+2 28.07.2025 Gözden geçirme ve yönetmelik değişikliği sebebiyle revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+1 7.06.2022 Uygulamada yapılan değişikliklerden dolayı revize edilmiştir. 
+0 16.07.2018 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,328 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+YAPI DAİRE BAŞKANLIĞI 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Yapı Kontrol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR06
+İlk Yayım Tarihi
+20.06.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/5
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğü ile Genel Müdürlüğe bağlı 
+Bölge Müdürlüklerince yaptırılan her türlü yapı, tesis, onarım, bakım ve imalat işlerinin kontrolü ile görevli 
+birimlerin kuruluş ve çalışmaları, kontrol teşkilatında görev alacak mimar, mühendisler ve diğer görevlilerde 
+aranacak nitelikler ile bunların görev ve sorumluluklarına ilişkin usul ve esasları belirlemektir.
+2.KAPSAM
+Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğü ile Genel Müdürlüğe bağlı Bölge Müdürlüklerince 
+yaptırılan her türlü yapı, tesis, onarım, tadilat, bakım ve imalat işlerinin kontrolü bu prosedür hükümlerine göre 
+yapılır.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu’nun 22. maddesinin 1. fıkrası hükümlerine dayanılarak 
+hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1. İdare: İşin ihalesini yapan sözleşmeyi akdeden, Posta ve Telgraf Teşkilatı Genel Müdürlüğü ve Genel 
+Müdürlüğe bağlı Bölge Müdürlükleri,
+4.2. Kontrol Teşkilatı: İdare tarafından işin denetlenmesi için belirlenen ve yükleniciye de yazı ile bildirilen 
+kontrol amiri, kontrol şefi ve kontrol elemanlarından müteşekkil heyeti,
+4.3. Kontrol Amiri: Uygun mesleki özelliklere haiz daire başkanı, daire başkan yardımcısı, teknik müdür, yapı ve 
+teknoloji müdürü, grup başmühendisi, başmühendis veya bilgi, beceri ve tecrübe gibi yetenekler de dikkate alınarak 
+mevcut mühendis ve mimarlar arasından seçilen, kontrol teşkilatını denetim ve yönetimle yetkili ve işin tümünün 
+kontrolünden sorumlu kişiyi,
+4.4. Kontrol Şefi: Kontrol amirine bağlı olarak çalışan başmühendis, mühendis ve mimarlar arasından 
+seçilen ve işin tümünün kontrolünden sorumlu olan kişiyi,
+4.5. Kontrol Elemanı: Yapım işinin denetlenmesi hizmetlerini bizzat yapıda ve şantiye sahasında yapmak ile 
+görevli olan mimar ve mühendisleri, işin yapıldığı mahalde İdarenin yeterli sayıda mühendis ve mimarının 
+bulunmadığı durumlarda, yetkilendirilen diğer teknik elemanları,
+4.6. Kontrol Yardımcı Elemanı: İhtiyaca ve işin önemine göre kontrol teşkilatına bağlı olarak görevlendirilen 
+mühendis, mimar, tekniker, teknik amir, başteknisyen ve teknisyeni,
+4.7. Laboratuvar: İnşaat ve yapı malzemeleri ile ilgili ham madde ve mamul madde üzerinde standartlarına veya 
+teknik şartnamelerine göre ölçüm, muayene, kalibrasyon yapabilen ve diğer özelliklerini tayin eden yetkili kurum 
+veya kuruluşlardan izin almış tesisi,
+4.8. Yapı: Karada ve suda, daimî veya geçici, yeraltı ve yerüstü inşaatları ile bunların ilave, değişiklik ve 
+tamirlerini içine alan sabit ve hareketli tesisleri,
+4.9. Yapı hasarı: Kullanımdan doğan hasarlar hariç yapının fen ve sanat kurallarına aykırı, eksik, hatalı ve kusurlu 
+yapılması nedeniyle yapıda meydana gelen ve yapının kullanımını engelleyen veya yapıda değer kaybı oluşturan her 
+türlü hasarı,
+4.10. Yüklenici: Üzerine ihale yapılan gerçek veya tüzel kişiyi yahut bunların oluşturduğu ortak girişimleri,
+4.11. Şantiye Tutanakları: Sözleşme ve eki şartnameler gereğince sayılması, tartılması, ölçülmesi gereken 
+imalatların ya da mevcut imalatların durumunun belirlenmesi, teslim ya da emanet edilen malzemelerin ve 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Yapı Kontrol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR06
+İlk Yayım Tarihi
+20.06.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/5
+mahallerin tespiti, imalatlar için kullanılacak malzemelerin uygunluğunun kaydedilmesi gibi iş ve işlemler için 
+yüklenici ve kontrol teşkilatının iş yerinde birlikte imza altına aldığı tutanakları,
+ifade etmektedir.
+5.SORUMLULUKLAR
+Bu prosedürün hazırlanmasından, revizyonundan ve yönetiminden Yapı Daire Başkanlığı sorumludur. Bu 
+prosedürün uygulanmasından Yapı Daire Başkanlığı ve tüm teknik personel sorumludur.
+6.UYGULAMA
+6.1. Kontrol Teşkilatının Teşekkülü
+Kontrol teşkilatı, bir kontrol amiri ile işin büyüklük ve önemine göre yeterli sayıda kontrol şefi ve kontrol 
+elemanından oluşur. Gerektiğinde kontrol teşkilatına yardımcı olmak üzere yeterli sayı ve nitelikte kontrol yardımcı 
+elemanı görevlendirilebilir.
+Kontrol teşkilatının görevi, görevin tebliğ edilmesi ile başlar, kesin kabulün onaylandığı tarihe kadar devam eder.
+Kontrol teşkilatında görevli kişilerin sorumluluğuna birden fazla işin kontrollük görevi verilebilir.
+6.2. Kontrol Teşkilatının Görevleri
+a) Kontrol teşkilatı görevlerini fen, sanat ve sağlık kurallarına, standartlara, yürürlükteki mevzuata ve mesleki ahlak 
+kurallarına uygun ve tam olarak yerine getirmek zorundadır.
+b) Kontrol teşkilatı işyeri teslim tutanağını, yüklenici veya vekili ile birlikte imzalar. Ayrıca sözleşmesinde 
+belirtilmişse bu tutanağı üç iş günü içerisinde idarenin onayına sunar.
+c) Denetimini üstlendiği işin projesine göre gerekli olan yapım tekniklerini göz önüne alarak, işin gerektirdiği 
+malzeme ve bu malzeme ile ilgili imalatın, gerektiğinde yetkili özel veya kamu kuruluşlarına ait laboratuvarlarda 
+muayene ve deneylerini yaptırarak, sonuçların standart ve şartnamelere uygun olup olmadığını kabul eder.
+d) Yapılan her imalatın proje eki mahal listesine uygunluğunu ve İdare ile Yüklenici arasında akdedilen sözleşmede 
+belirtilen niteliklerde yapılıp yapılmadığını denetler.
+e) Yapım işlerinde kullanılacak malzemelerin ilgili teknik şartnamelere ve standartlara aykırı oldukları 
+belirlendiğinde, bunların imalatta kullanılmasına izin vermez ve bu durumu bir rapor ile İdareye bildirir.
+f) İnşaat alanında işçi sağlığı ve iş güvenliği ile çevre sağlığı ve güvenliğinin korunması için gereken tedbirlerin 
+alınıp alınmadığını kontrol eder.
+h) Kontrol teşkilatında görevli teknik personel hiyerarşik sıra esas alınmak üzere, birbirlerinin emir ve kontrolü 
+altında olup; her biri, kendisinden önce veya sonra gelen kontrol elemanının da görevlerini yapmakla yükümlüdür.
+6.3. Kontrol Amirinin Görevleri
+a) Kontrol amiri, kontrol elemanlarınca düzenlenecek her türlü belge, hesap, tutanak ve işin yürütülmesi için gerekli 
+diğer evrakın zamanında ve usulüne uygun olarak hazırlanmasını ve denetim hizmetinde çalışanların görevlerini 
+eksiksiz olarak yapmalarını titizlikle izler.
+b) İdarece verilen projeleri, mahal listesi ve detayları inceler, kendisi veya kontrol teşkilatınca görülecek eksikleri 
+saptar. Gerekli gördüğü düzeltme önerilerini yapar ve uygulama için idarenin iznini alır.
+c) Sorumluluğundaki işleri bizzat veya kontrol şefi marifetiyle yerinde inceleyerek yapılan işleri denetler ve kontrol 
+elemanlarının sorunlarını çözümler.
+d) İşi denetleyip ihzarat ve inşaatın sözleşme ve şartnamesine, fen ve sanat kurallarına uygun olarak yapılıp 
+yapılmadığını ve çalışmaların, iş programına göre süresinde işi bitirmeye yeterli olup olmadığını inceler. Yapılması 
+gerekli görülen hususlar ve alınması zorunlu önlemler hakkında kontrol şefi ve/veya kontrol mühendisi ile 
+yükleniciye gerekli direktifleri verir ve idareyi haberdar eder.
+e) Yüklenicinin çalışmalarında, bir eksiklik, kalitesizlik, uygunsuzluk, yetersizlik veya kusur gördüğü takdirde, 
+şartnamelere uygun olarak yapılmayan kusurlu imalatın düzeltilmesi veya tamamen yıkılıp yeniden yaptırılması, 
+aksayan çalışmaların hızlandırılması, yetersiz, uygunsuz şantiye personeli ve işçilerin değiştirilmesi, işçi 
+alacaklarının zamanında ödenmesini sağlamak için yasal önlemlerin aldırılması, ilgili mevzuat uyarınca işçi sağlığı 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Yapı Kontrol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR06
+İlk Yayım Tarihi
+20.06.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/5
+ve güvenliğinin sağlanması ve sözleşme ve eklerindeki hükümlere uyulması hakkında yükleniciye yazı ile bildirir ve 
+uyarılarda bulunur. Yüklenici bu uyarılara uymadığı takdirde gerekli gördüğü kısımlardaki çalışmayı bir tutanakla 
+durdurur ve durumu derhal İdareye tutanakla birlikte bildirir. Bu husustaki denetim Yüklenicinin sorumluluğunu 
+ortadan kaldırmaz.
+f) Kontrol şefi ve kontrol mühendisince yüklenici ile birlikte hakediş raporlarının zamanında, usulüne göre ve 
+noksansız olarak düzenlenmesini izler. Bunlar üzerinde gerekli incelemeyi ve düzeltmeleri yapar veya yaptırır, 
+imzalayıp onayladıktan sonra işleme konulmasını sağlar.
+g) Birim fiyatlı işlerde kesin metrajların, işin gidişatına paralel olarak çıkartılmasının sağlar. Kesin hesapların 
+zamanında tamamlanması için her türlü önlemi alır.
+h) Yeni birim fiyat oluşturulması zorunlu olan hallerde işin yapılması talimatından önce yüklenici ve kontrol 
+elemanları ile birlikte o işe ait yeni fiyat tutanağının düzenlenmesini sağlar. İdarenin onayını alır. Anlaşmazlık 
+halinde konuyu ilgili birimlere iletir.
+i) Kontrol şef ve elemanlarının süreli veya süresiz ayrılışlarında, işin yürütülmesini aksatmamak için gerekli 
+önlemleri alır.
+j) İşin bitiminde geçici kabul için gerekli işlemleri tamamlatır ve idareye teklifini yapar. Kabul raporunda saptanan 
+noksan ve kusurlu işlerin süresinde bitirilmesini sağlar ve sonucunu idareye bildirir.
+k) İnşaatta iş artış ve eksilişlerinde, bu artış ve eksilişlerin sözleşme bedeline etkisinin bulunması için gerekli 
+hesaplamaların zamanında hazırlanmasını sağlar ve idarenin onayına sunar.
+l) Sözleşme ve şartnameler gereği işin en iyi şekilde yürütülmesi ve bitirilmesi için gerekli her türlü önlemi alır, 
+kontrol şef ve elemanlarına gereken direktifleri verir.
+m) Acele ve durumu itibariyle önemli olan ve İdare menfaati bulunan hallerde kontrol teşkilatında görevli diğer 
+elemanlar İdareye doğrudan başvurabilirler.
+n) Kontrol amiri şantiyede yüklenicilerle olan yazışmaları kontrol şefiyle müştereken imzalayarak yapar. Acil 
+durumlar haricinde yükleniciye yapılacak her konudaki bildirim yazılı olarak yapılacaktır.
+6.4. Kontrol Şefinin Görevleri
+a) Kontrol şefi, kontrol amirinin yardımcısı olup, kendisine bağlı olan kontrol elemanlarının her türlü görevlerini 
+sözleşme şartname ve usulüne göre zamanında yapıp yapmadıklarını denetlemekle görevli ve sorumludur. İşin 
+niteliğine göre kontrol amirinin tayin edilmesine gerek görülmediği durumlarda, kontrol amiri için 5.3'nci maddede 
+sayılan görev ve yetkiler kontrol şefi için de geçerlidir.
+b) Kontrol elemanları arasındaki koordinasyonu sağlar.
+c) Kontrol elemanlarının düzenlediği bütün evrakı inceler gerekli düzeltmeleri yapar, kontrol amirine bildirir. 
+Kontrol şefi incelediği bütün evraklardan kontrol elemanlarından sonra ikinci derecede, yaptığı düzeltmelerden ise 
+birinci derecede sorumludur.
+d) Kontrol elemanlarının karşılaştıkları sorunları çözümler, gerekli gördüklerini kontrol amirine bildirir ve 
+direktiflerini almak suretiyle gereğini yapar veya yaptırır.
+e) Kendisine bağlı işlerin sözleşme ve eklerine, şartnamelere, fen ve sanat kurallarına ve iş programlarına uygun 
+olarak yürütülüp bitirilmesini sağlar.
+f) Kontrol amirinin yardımcısı olarak kendisine verilen görevleri yapar. Herhangi bir nedenle geçici olarak görevden 
+ayrıldığında, kontrol mühendislerinden birini verine vekil tayin eder. Kontrol amirine de bu konuda bilgi verir.
+6.5. Kontrol Elemanının Görevleri
+a) Kontrol mühendisi, kontrol amirinin / kontrol şefinin yardımcısı olup, işlerin sözleşme, şartname, fen ve sanat 
+kurallarına ve usulüne uygun zamanında yapılıp, yapmadığını denetlemekle görevli ve sorumludur. Bu sorumluluğu 
+bizzat kendisi çalışarak, işin büyüklük ve önemine göre emrine verilen kontrol yardımcıları ile diğer personelin 
+hizmetlerinden yararlanarak yapmakla görevli ve sorumludur.
+b) İşyerinde önceden saptanmış röperlerle, yeniden gereksinim duyulacak röper, eksen ve işaret kazıklarının, 
+özelliğini değiştirmeyecek biçimde korunmasını sağlar ve durumlarını uygulama proje kotu ile bağlantılı olarak 
+ataşmana geçirir.
+c) Sözleşme hükümlerine göre işyerine ait plan, kesitler, plankote ve röleveleri, işe başlamadan önce yapar, yaptırır 
+ve mevcut röperlere göre kontrol eder, plankotedeki kotlarla tabii zemin, zemin tabanı ve su seviyesi gibi kotları, 
+mevcut röperlere bağlamak suretiyle saptar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Yapı Kontrol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR06
+İlk Yayım Tarihi
+20.06.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/5
+d) İdare tarafından sözleşme eki olan şartnamelere göre müteahhide verilmesi gereken vaziyet planı, kesitler ve 
+plankoteleri, uygulama proje ve detaylarını, mevcut inşaat, malzeme, tesisat, araç ve gereçleri zamanında vererek 
+bunlarla ilgili tutanakları düzenler ve kontrol şefi aracılığı ile kontrol amirine onaylattırır.
+e) İşe başlamadan veya işin yapımı sırasında, işyerinde meydana gelecek su, kanalizasyon, elektrik, iletişim hatları, 
+gaz ve petrol boru hatları gibi engeller için gerekli önlemleri alır veya aldırır.
+f) Yükleniciye verilen, verilecek veya yüklenici tarafından düzenlenen uygulama projelerinin, yerine uygunluğunu 
+kontrol eder. Gerekli ve zorunlu gördüğü değişikliği saptayarak gerekçeleriyle birlikte kontrol şefi aracılığı ile 
+kontrol amirine bildirir.
+g) Yükleniciye verilecek her türlü evrakı teslim tarihleri yazılmak koşuluyla imza karşılığı verir veya yazı ile resmi 
+olarak gönderir.
+h) Gerekli test ve deneyleri yaparak veya yaptırarak gerekli raporlarla birlikte kontrol şefi aracılığı ile kontrol 
+amirine gönderir.
+i) Her türlü inşaat, imalat, tesisat ve ameliyatı, boyut ve şekillerine uygun, proje ve detaylarına göre eksiksiz olarak 
+yaptırır, onaylanmış projesi olmayan hiçbir işi yaptırmaz.
+j) Sözleşme hükümlerine göre, yüklenici tarafından iş programlarının süresinde düzenlenmesini sağlar, kontrol eder, 
+gerekli gördüğü düzeltmeleri yaptırır ve İdarenin onayına sunulmasını sağlar.
+k) İşlerin onaylanmış iş programlarına uygun olarak yürütülüp yürütülmediğini takip eder. Gecikmeler olması 
+halinde yükleniciye gerekli uyarılarda bulunur ve durumu kontrol şefi aracılığı ile kontrol amirine bildirir.
+l) İmalatların, sözleşme ve eklerine, şartnameler ile fen ve sanat kurallarına uygun olarak yapılıp yapılmadığını 
+sürekli olarak kontrol eder. Uygun olmayan hususları tespit edip düzeltilmesi için uyarılarda bulunur, gerekli 
+talimatları verir. Sonuç alamadığı takdirde ilgili imalatı durdurup durumu derhal kontrol şefi aracılığı ile kontrol 
+amirine bildirir.
+m) Yüklenici tarafından yapılan her türlü imalatı yerinde ölçer, projesine uygun olup olmadığını denetler. Uygun 
+olmayan hallerde yıkılıp yeniden yapılmasında fayda görülmeyeceğini düşündüğü ve bu şekli ile kalmasında sakınca 
+görmediği imalatları kesin hesapta değerlendirilmek üzere kontrol şefi aracılığı ile kontrol amirine bildirir.
+n) Kontrol işlerini sürekli yapar, işlerin devamı süresince yapacağı denetimlerle yanlışların zamanında 
+düzeltilmesini sağlar.
+o) Tutanakların düzenlenmesi için her türdeki kayıtları tutar, tutturur ve denetleyerek her kısım için başlangıç ve 
+bitiş tarihlerini saptar.
+6.6. Kontrol Elemanlarının Denetim Sınırı
+a) Kontrol amiri ve kontrol şefi işin tümünün denetiminden sorumludur. Ayrıca kontrol teşkilatında görev alan her 
+personel hakedişlerin matematiksel kontrolünden ve varsa fiyat farkının doğruluğundan sorumludur. Bununla 
+birlikte, kontrol elemanları uzmanlık alanı dahilinde kalan aşağıda belirtilen işlerin kontrolünden mesul olacaktır.
+b) Mimar;  mimari projenin ilgili mevzuata uygunluğunun ve yapının her safhasında bu projelere uygun yapılıp 
+yapılmadığının denetimini yapar.
+c)  İnşaat mühendisi veya zorunlu hallerde inşaat teknikeri/teknisyeni; zemin etütü raporuyla birlikte yapı statiği, 
+betonarme-çelik-ahşap-yığma yapı projelerinden ve yapının denetimi ile görevlidir.
+d)  Makine mühendisi veya zorunlu hallerde makine teknikeri/teknisyeni; mekanik tesisat ile ilgili proje ve yapı 
+denetimini yapar.
+e)  Elektrik mühendisi veya zorunlu hallerde elektrik teknikeri/teknisyeni; elektrik tesisat ile ilgili proje ve yapı 
+denetimini yapar.
+6.7. Diğer Hükümler
+a) Kontrol amiri, kontrol şefi, kontrol elemanı ve kontrol yardımcıları görevlendirildikleri işten sürekli olarak veya 
+işin akışını etkileyecek şekilde ayrılmaları halinde ya da işten azledilmeleri halinde, o zamana kadar iş için tutulması 
+gereken her türlü tutanak ve kayıtları ikmal etmiş olmaları şarttır. Bu evrakları yerine görevlendirilecek elemana 
+veya amirine bir tutanakla devir teslim etmesi zorunludur. O güne kadar yapılan imalatlarda tespit edilmiş olan 
+eksiklikleri tamamlamış olmaları gerekir. Personelin görevi süresince yaptığı işlerden dolayı sorumluluğu ilgili 
+kanunlar ve yönetmelikler çerçevesinde devam eder.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Yapı Kontrol Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR06
+İlk Yayım Tarihi
+20.06.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/5
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer. 
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.020-4857 sayılı İş Kanunu
+KN.022-6331 sayılı İş Sağlığı ve Güvenliği Kanunu
+KN.031-4734 sayılı Kamu İhale Kanunu
+KN.066-5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu
+YAP.FR152-Yer Teslim Tutanağı
+YAP.FR174-Rölöve Defteri
+YAP.FR175-Şantiye Defteri
+YAP.FR176-Ataşman Defteri
+YAP.FR177-Yeşil Defter
+YAP.GT.007-Yapı Kontrol Müdürlüğü Görevleri 
+YNT.096-Merkezi Yönetim Harcama Belgeleri Yönetmeliği
+YNT.097-Danışmanlık Hizmet Alımı İhaleleri Uygulama Yönetmeliği
+YNT.102-Çevre ve Şehircilik Bakanlığı Kamu Yapıları Denetim Hizmetleri Yönetmeliği
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 20.06.2019 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

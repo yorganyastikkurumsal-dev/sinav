@@ -1,0 +1,511 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+1/9
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi ve diğer mevzuata göre Yönetim 
+Kurulunun toplantı ve karar alma usulü, Yönetim Kuruluna verilen görev ve yetkilerin yetki devri ve dağılımı, 
+bunların görev, yetki ve sorumlulukları, hiyerarşik bağlılıkları ile imza yetkilerinin şirketimizde kullanılmasına 
+ilişkindir.
+2. KAPSAM
+Bu prosedür; Yönetim Kuruluna verilen görev ve yetkilerin yetki devri ve dağılımı, bunların görev, yetki ve 
+sorumlulukları, hiyerarşik bağlılıkları ile imza yetkilerinin şirketimizde kullanılmasına ilişkin usul ve esasları 
+kapsar.
+3. DAYANAK
+Bu prosedür; 6102 sayılı Türk Ticaret Kanunu’nun 359, 362, 363, 364, 374 ve 390. maddeleri, 6475 sayılı Posta
+Hizmetleri Kanunu’nun 21. maddesi, 4 sayılı Cumhurbaşkanlığı Kararnamesi’nin 389, 390. maddeleri, Posta ve 
+Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi’nin 15, 16, 17 ve 20. maddeleri, Posta ve Telgraf Teşkilatı 
+Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik ve ilgili mevzuat 
+maddelerine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Birim:  Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve
+Bölge Müdürlükleridir. 
+4.2 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Birim Sorumlusu, Başkan, 1. Hukuk
+Müşaviri, Özel Kalem Müdürü ve Daire Başkanı; Taşra Teşkilatında ise Bölge Müdürüdür.
+4.3 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.4 Esas Sözleşme: Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesidir.
+4.5 Genel Kurul: Şirket Genel Kuruludur.
+4.6 Genel Müdür: Şirket Genel Müdürüdür.
+4.7 Personel: PTT AŞ’de görev yapan tüm çalışanlardır.
+4.8 PTT İş Yeri: Acentelikler de dâhil PTT AŞ tarafından faaliyetlerini yürütmek amacıyla kurulan birimdir.
+4.9 PTT Müdürlükleri:Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan 
+müdürlüklerdir.
+4.10 Refakat Denetçisi/Müfettişi: Rehberlik ve Teftiş Başkanına yardımcı olmak üzere Merkez Büroda 
+görevlendirilen Denetçiler, Müfettişlerdir.
+4.11Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+Hazırlayan Birim Onayı 
+YÖNETİM KURULU BÜRO 
+BİRİMİ
+EYS Onayı 
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+2/9
+4.12Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.13 Teknik Müdürlükleri/Müdürlükleri (İhtisas): Taşra Teşkilatında PTT Müdürlükleri dışında kalan Bölge 
+Müdürlüklerine bağlı müdürlüklerdir.
+4.14 Yönetim Kurulu: Şirket Yönetim Kuruludur.
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanmasının ve güncellenmesinin koordinasyonundan Yönetim Kurulu Büro Birimi sorumludur.
+6. UYGULAMA
+6.1 Yönetim Kurulunun Oluşumu
+6.1.1Yönetim Kurulu 5 (beş) üyeden oluşur. Yönetim Kurulu üyeleri Genel Kurul tarafından atanır ve aynı usulde 
+görevden alınır.
+6.1.2Yönetim Kurulu karar organı olup, şirketi idare, ilzam ve idari ve adli merciler nezdinde temsil eder ve şirketin
+temsil ve idaresinden Genel Kurula karşı sorumludur.
+6.1.3Yönetim Kurulu üyelerinin görev süresi 3 (üç) yıldır. Görev süresi sona eren üyeler tekrar atanabilir. Süresi 
+dolmadan üyeliğin boşalması halinde 6102 sayılı Türk Ticaret Kanunu hükümleri uygulanır.
+6.1.4Yönetim Kurulu üyeliklerine atanacakların 657 sayılı Devlet Memurları Kanunu’nun 48’inci maddesinde yer 
+alan genel şartları haiz olması ve en az 4 (dört) yıllık yükseköğretim mezunu olmaları, kamuda ve/veya sosyal 
+güvenlik kurumlarına tabi olmak kaydıyla uluslararası kuruluşlar ile özel sektörde veya serbest olarak, alanında en 
+az 5 (beş) yıl çalışmış olmaları şarttır. Yönetim Kurulu üyeliğinin çekilme, ölüm, istifa veya herhangi bir sebeple 
+boşalması durumunda, Yönetim Kurulu, seçilme şartlarına haiz birini, geçici olarak Yönetim Kurulu üyeliğine seçip 
+ilk Genel Kurulun onayına sunar. Bu yolla seçilen üye, onaya sunulduğu genel kurul toplantısına kadar görev yapar 
+ve onaylanması halinde selefinin süresini tamamlar.
+6.1.5Hangi neden veya zorunluluk ile olursa olsun Yönetim Kurulundan izin almaksızın üst üste 3 (üç) toplantıya 
+katılmamış olan veya aralıklı da olsa bir faaliyet dönemi içerisinde yapılan toplantıların yarısına katılmamış olan 
+Yönetim Kurulu üyeleri istifa etmiş sayılırlar.
+6.2 Yönetim Kurulunun Görev, Yetki ve Sorumlulukları ile Yetki Devri
+6.2.1Yönetim Kurulu, 6102 sayılı Türk Ticaret Kanunu ile Genel Kurulun verdiği yetkiler ile Esas Sözleşmede
+verilen yetkileri kullanır ve görevleri yerine getirir.
+6.2.2Yönetim Kurulu, Genel Kurulun 6102 sayılı Türk Ticaret Kanunu, 4 sayılı Cumhurbaşkanlığı Kararnamesi, 
+6475 sayılı Posta Hizmetleri Kanunu ve ilgili kanunlarda verilen ve devredilemeyeceği belirtilenler dışındaki tüm 
+görev ve yetkilerini kullanır.
+6.2.3Yönetim Kurulu, 6102 sayılı Türk Ticaret Kanunu’nda devredilemeyeceği belirtilen görev ve yetkileri 
+dışındaki görev ve yetkilerinden uygun gördüklerini düzenleyeceği iç yönerge ile üyelerinden birine veya birkaçına 
+veya üye olmasalar dahi genel müdür, genel müdür yardımcısı veya daha alt kademe yöneticilerine bırakabilir. 
+Ancak yetki devri Yönetim Kurulunun sorumluluğunu ortadan kaldırmaz.
+6.2.4Şirket adına düzenlenecek sözleşme, senet, vekâletname ve diğer belgelerin Şirketi bağlayabilmesi için Şirket 
+ünvanı altında imza yetkisini haiz en az 2 (iki) kişi tarafından imzalanmış olması gerekir. İmzaya yetkili olanlar ile 
+imza yetki dereceleri Yönetim Kurulunca karara bağlanır ticaret siciline tescil ettirilir ve usulüne göre ilan olunur.
+6.3 Gündem ve Çağrı Usulü
+6.3.1Yönetim Kurulu toplantısı çağrısının ne şekilde yapılacağı Yönetim Kurulu kararıyla belirlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+3/9
+6.3.2Yönetim Kurulu üyeleri, e-mail, faks, telefon veya yazılı olarak toplantıya davet edilir. Ayrıca her bir Yönetim 
+Kurulu üyesi de başkandan Yönetim Kurulunu toplantıya çağırmasını yazılı olarak talep edebilir.
+6.3.3Yönetim Kurulu toplantılarına davet bütün üyelerin hazır bulunabileceği ve hazırlık yapabileceği kadar bir 
+süre önceden yapılır, işin önemi ve aciliyeti gerekli kıldığı takdirde Yönetim Kurulu hiç süre verilmeden derhal 
+toplantıya çağrılabilir.
+6.4Toplantı ve Karar Alma Usulü
+6.4.1Yönetim Kurulu ayda en az 1 (bir) defa veya Şirketin işleri gerektirdikçe üyelere önceden duyurulmak 
+suretiyle daha fazla sayıda toplanır.
+6.4.2Yönetim Kurulu toplantısı tamamen elektronik ortamda yapılabileceği gibi bazı üyelerin fiziken mevcut
+bulundukları bir toplantıya bir kısım üyelerin elektronik ortamda katılması yoluyla da icra edilebilir.
+6.4.3Yönetim Kurulu toplantıları kural olarak Şirketin merkezinin bulunduğu şehirde yapılır. Ancak, üye tam 
+sayısının çoğunluğunun muvafakati ile başka bir yerde toplantı yapılabileceği gibi üyelerden hiçbiri toplantı 
+yapılması isteminde bulunmadığı takdirde, Yönetim Kurulu kararları, Kurul üyelerinden birinin belirli bir konuda 
+yaptığı, karar şeklinde yazılmış önerisine, en az üye tam sayısının çoğunluğunun yazılı onayı alınmak suretiyle de 
+verilebilir. Aynı önerinin tüm Yönetim Kurulu üyelerine yapılmış olması bu yolla alınacak kararın geçerlilik şartıdır. 
+Onayların aynı kâğıtta bulunması şart değildir; ancak onay imzalarının bulunduğu kâğıtların tümünün Yönetim 
+Kurulu karar defterine yapıştırılması veya kabul edenlerin imzalarını içeren bir karara dönüştürülüp karar defterine 
+geçirilmesi kararın geçerliliği için gereklidir.
+6.4.4Yönetim Kurulu, en az 3 (üç) üyenin katılımı ile toplanır ve kararlarını en az 3 (üç) üyenin olumlu oyu ile alır. 
+Bu kural Yönetim Kurulunun tüm toplantı usullerinde uygulanır. Oylar eşit olduğu takdirde o konu gelecek 
+toplantıya bırakılır. İkinci toplantıda da eşitlik olursa söz konusu öneri reddedilmiş sayılır.
+6.4.5Alınan karar, Yönetim Kurulu Büro Birimince gereği sağlanmak üzere ilgisine göre ilgili Birime ve Genel 
+Müdür Yardımcılarına gönderilir.
+6.5 Yönetim Kurulu Büro Birimi
+6.5.1Yönetim Kurulunun sekretaryası, yeterli donanım, bilgi ve tecrübeye sahip personelden oluşan Yönetim 
+Kurulu Büro Birimi tarafından yürütülür.
+6.5.2Yönetim Kurulu Büro Birimi gündemin oluşturulması, kararların yazılması, ilgililere duyurulması, toplantılar 
+için gerekli yazışmaların yapılması, evrakın arşivlenmesi ve benzeri işlerin mevzuata uygun olarak yürütülmesinden 
+Yönetim Kurulu Başkanına karşı sorumludur.
+6.6Şirketin Organları
+Şirketin yetkili organları; Genel Kurul, Yönetim Kurulu ve Genel Müdürlükten oluşur. Yönetim Kurulu, Genel 
+Kurula karşı sorumlu karar organıdır.
+6.7 Ünvanlar
+399 sayılı Kanun Hükmünde Kararname eki I ve II sayılı cetvelde sayılı kadro, pozisyonlar ile İş Kanunu 
+kapsamında istihdam edilen işçiler ve PTT AŞ Pozisyon Cetvelinde yer alan ünvanlardır.
+6.8 Organizasyon Yapısı
+6.8.1Yönetim Kuruluna bağlı Birimler, doğrudan Genel Müdüre bağlı Birimler ve Genel Müdür Yardımcılarına 
+bağlı Birimlerden oluşan Merkez Teşkilatı ile Bölge Müdürlüklerinden oluşan Taşra Teşkilatı Birimleri PTT AŞ 
+organizasyon yapısını teşkil eder.
+6.8.2Organizasyon yapısını gösteren şemayı değiştirme hususunda Yönetim Kurulu yetkilidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+4/9
+6.9 Genel Müdürün Görev ve Yetkileri
+6.9.1Genel Müdür, Yönetim Kurulunun Esas Sözleşmede belirtilen görev ve yetkilerinden aşağıda sayılanlarını tek
+başına kullanır.
+a) Genel Müdür, 4 sayılı Cumhurbaşkanlığı Kararnamesi’nin ve ilgili mevzuatın Genel Müdür için öngördüğü 
+görevlerin, Yönetim Kurulu tarafından devredilen görev ve yetkilerin ve şirketin bütün idari işlemlerinin yanı sıra 
+şirketin faaliyetlerinin etkin ve sağlıklı yürütülmesinde koordinasyonu sağlamak,
+b)Şirketi, ilgili mevzuat, Genel Kurul ve Yönetim Kurulu kararları doğrultusunda yönetmek,
+c) Yönetim Kurulunca devredilmesi halinde, idare ve yargı mercilerinde ve üçüncü kişilere karşı Şirketi temsil 
+etmek ve temsil yetkisini gerektiğinde devretmek,
+ç) Şirketin sermayesi ile mali kaynaklarının, kuruluş amacına ve verimlilik esaslarına uygun şekilde kullanılmasını 
+sağlamak,
+d) Etik ilkelere uygun hareket etmek, Şirket çalışanlarının da etik ilkelere uygun şekilde iş ve işlemlerini
+yürütmelerini sağlamak,
+e) Toplu İş Sözleşmelerini imzalamak,
+f) Genel Müdür Yardımcıları arasında görev dağılımı yapmak,
+g) Personelin görevden uzaklaştırılması, görevden uzaklaştırılan personelin göreve başlatılması ve görevden
+uzaklaştırma tedbirinin uzatılmasına onay vermek,
+ğ) Genel Müdür Yardımcısı, Rehberlik ve Teftiş Başkanı, Başkan, I. Hukuk Müşaviri, Daire Başkanı, Bölge 
+Müdürü, Birim Sorumlusu, Başdenetçi, Başmüfettiş, Müşavir ünvanlı personel hariç; diğer personelin izinsiz, 
+mazeretsiz göreve gelmemesi nedeniyle sözleşmesinin feshedilmesine veya müstafi sayılmasına ve görevden 
+çekilmesine onay vermek,
+h) Bölge Müdür Yardımcılarının görevden çekilme ve izinsiz, mazeretsiz göreve gelmemesi nedeniyle 
+sözleşmesinin feshedilmesine veya müstafi sayılmasına onay vermek,
+ı) Etik Komisyonu Başkanı ve üyelerini tespit etmek,
+i) Tüm personelin disiplin cezalarının özlük dosyasından silinmesine ilişkin onay vermek, 
+j)İdari hizmet sözleşmeli ve sözleşmeli personele Başarı Belgesi, Üstün Başarı Belgesi ve Maaş Ödülü verilmesine 
+onay vermek,
+k)İş gücü alımı yetkisinin kullanımında, personel ihtiyacına göre ünvan ve sayı olarak dağılımının yapılmasına, 
+alım şekli ve sınavın yapılma usulü ile alınacak işgücünün mezun oldukları okul bölümlerinin belirlenmesine onay 
+vermek,
+l) Genel Müdür Yardımcısı, Başkan, Rehberlik ve Teftiş Başkanı, I.Hukuk Müşaviri, Daire Başkanı, Bölge Müdürü 
+ve Birim Sorumlusu hariç olmak üzere personelin atama ve nakil işlemlerine onay vermek,
+m) Personelin özel kanunları gereği başka kamu kurum ve kuruluşlarında geçici görevlendirilmelerine onay vermek,
+n)İş gücü hizmet alımına ilişkin ödeneklerin dağılımına onay vermek,
+o) Yüksek Disiplin Kuruluna başkanlık etmek ve üyelerini belirlemek, Merkez Disiplin Kurulu başkan ve üyelerini 
+belirlemek,
+ö) Yıllık eğitim plan ve programlarına onay vermek,
+p)Uluslararası düzeyde veya yurt çapında hikâye, şiir, fıkra vb. yarışmalar düzenlenmesine, ortaöğrenim veya
+yükseköğrenim düzeyinde staj programlarına onay vermek,
+r) Personelin görevde yükselme ve ünvan değişikliğine ilişkin açılacak sınavlara onay vermek,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+5/9
+s) Görevde bulunmadığı hallerde kendisine vekâlet edecek Genel Müdür Yardımcısını görevlendirmek,
+ş) Çalışma şekil, usul ve esasları belirlenmek suretiyle ihtiyaca göre geçici süreli kurul ve komisyonlar oluşturmak,
+t) Birim Üst Yöneticisi ünvanındaki personelin emeklilik işlemlerine (istek, yaş haddi, engelli ve malulen) ilişkin 
+onay vermek,
+u) Yurt dışı görevlendirmelerine onay vermek,
+ü) Merkez Teşkilatı birimlerinde boş bulunan Daire Başkan Yardımcısı, Hukuk Müşaviri, Özel Kalem Müdürü,
+Şube Müdürü ve Teknik Müdür pozisyonları için yürütme görevi veya vekâlet verilmesine onay vermek,
+v)Taşra Teşkilatı birimlerinde boş bulunan Bölge Müdür Yardımcısı pozisyonları için yürütme görevi veya vekâlet 
+verilmesine onay vermek,
+y) Müdür pozisyonunun altı ünvanlarda görev yapan personelin, diğer kurumlara nakline muvafakat vermek,
+z) Kademe ilerlemesinin durdurulması cezasının onaylanmasına karar vermek,
+aa) Milletvekili ve Mahalli İdareler seçimleri nedeniyle görevinden çekilme ile seçimlerde aday olamayan veya 
+seçimi kazanamayan personelden bu maddenin (l) bendinde belirtilen ünvanlarda görev yapanlar hariç olmak üzere 
+yeniden atanma işlemlerine onay vermek,
+bb)Şirketimizde çalışan personelin üniteler arası geçici görevlendirilmesine onay vermek,
+cc) Personelin idari hizmet sözleşmeli statüye geçişine ilişkin talepleri karara bağlamak,
+çç)  Pul satıcılıkları ve acentelik hizmetlerinin karşılığında alınacak komisyon veya diğer ödemeleri belirlemek,
+dd)  Posta pulları ve posta kartları, ilk ve özel gün zarfları ile diğer filatelik ve satış ürünlerini bastırmaya, satışa 
+çıkarmaya ve armağan etmeye karar vermek,
+ee) PTT'nin daha etkin ve verimli çalışması için personel ücreti ve diğer hususlarla ilgili performans kriterlerini 
+belirlemek.
+ff) Taşra teşkilatına bağlı işyerlerinin isimlerini vermek, değiştirmek,
+gg) Müdür ve üstü unvanlı personel dışındaki tüm personelin atama ve nakil işlemlerine onay vermek,
+ğğ) Personelin görevde yükselme ve unvan değişikliğine ilişkin açılacak sınavlara onay vermek, 
+hh) PTTKEP Kayıtlı Elektronik Posta hizmetleri tarifesinde bulunan tüm hizmetlerde, belirlenen müşterilere %50 
+indirim yapılmasına ve belirlenen müşterilerden "sms ücreti"nin alınmamasına onay vermek,
+ıı) Yurtiçinde PTT işyerlerinin açılması, kapatılması, isim değişikliği, çalışma gün ve saatlerinin belirlenmesi, 
+sınıflandırılması ve şubelerin bağlı olduğu merkezin değiştirilmesi ve acente görevlendirilmesine onay vermek,
+ii) Kurumsal kimliği, iş potansiyeli ve gönderi devamlılığı olan özel ve tüzel kişiliklere, “Yurtiçi Toplu Basılmış Kâğıt 
+İndirim Tarifesi veya Yurtiçi Toplu APS Kurye, Posta Kargosu ve Kargo Ücret İndirim Tarifesi”nde belirtilen indirim 
+oranları dışında indirim teklifinde bulunulması ve uygulamaya konulmasına onay vermek,
+jj) Turpex gönderisi olarak toplu gönderi veren müşterilere aracı firmaya ödenen hizmet bedelinin altında olmamak 
+kaydıyla yeni fiyat teklifi verilmesine onay vermek,
+kk) Açıktan personel alımlarında asgari KPSS puanlarının belirlenmesine karar vermek,
+ll) Başka kurum ve kuruluşlarda çalışan ve PTT’de görev almak isteyenler ile yeniden görev talebinde bulunanlardan 
+Müdür pozisyonunun altı unvanlarda görev yapanların taleplerini karara bağlamak,
+mm) Pozisyon normlarının tespiti, azaltılması, artırılması, branşlarının belirlenmesi ve değiştirilmesine onay vermek.
+nn) Yönetim Kurulu kararıyla verilecek diğer görevleri yerine getirmek.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+6/9
+6.9.2Genel Müdür, Yönetim Kurulunun devredilemeyeceğini belirterek verdiği yetkiler hariç, sınırlarını açıkça 
+belirlemek şartıyla, yetkilerinden bir kısmını astlarına devredebilir. Ancak, yetki devri Genel Müdürün 
+sorumluluğunu kaldırmaz.
+6.10 Genel Müdürlük
+6.10.1Genel Müdür Yardımcıları ve Birimler, Yönetim Kurulu kararıyla belirlenen görev tanımlarında verilen yetki 
+dâhilinde görevlerini yerine getirir.
+6.10.2Yönetim Kurulu Büro Birimi, Uyum Birimi, İç Denetim Birimi, İç Kontrol Birimi ve Risk Yönetimi Birimi 
+Yönetim Kuruluna, Rehberlik ve Teftiş Başkanlığı, Finans ve Muhasebe Başkanlığı, Hukuk Müşavirliği, Özel 
+Kalem Müdürlüğü, Bölge Müdürlükleri ve Genel Müdür Yardımcıları Genel Müdüre, diğer Birimler ise Genel 
+Müdür tarafından belirlenecek Genel Müdür Yardımcılarına bağlı olarak görev yaparlar.
+6.10.3Şube Müdürlükleri ve Teknik Müdürlükler, Daire Başkan Yardımcısı veya Hukuk Müşavirine; Refakat 
+Denetçisi/Müfettişi ve Denetçiler/Müfettişler, Rehberlik ve Teftiş Başkanına; Hukuk Müşavirleri I. Hukuk 
+Müşavirine; Başkan Yardımcıları, Başkana; Daire Başkan Yardımcıları ise doğrudan Daire Başkanına bağlı olarak 
+görev yaparlar.
+6.10.4Merkez Teşkilatı birimlerinde görev yapan diğer tüm personel, sıralı birim yöneticilerine bağlı ve sorumlu 
+olarak görev yaparlar.
+6.11 Bölge Müdürlükleri
+6.11.1Bölge Müdürlükleri; işletme faaliyetlerinin yürütüldüğü PTT Müdürlükleri ile İhtisas Müdürlüklerinden oluşur.
+6.11.2İhtisas Müdürlükleri, varsa Bölge Müdür Yardımcısına yok ise doğrudan Bölge Müdürüne, PTT 
+Müdürlükleri doğrudan Bölge Müdürlüğe bağlı olarak görev yapar. Bölge Müdürleri ise doğrudan Genel Müdürlüğe 
+bağlı olarak görev yaparlar.
+6.11.3Taşra Teşkilatı Birimlerinde görev yapan diğer tüm personel, sıralı Birim Yöneticisine bağlı ve sorumlu 
+olarak görev yaparlar.
+6.12 Bölge Müdürlüklerinin Görevleri
+Yönetim Kurulu’nca kabul edilen görev tanımlarına göre yürütülür.
+6.13 Personelin Görev, Yetki ve Sorumlulukları
+6.13.1Personel; görev, yetki ve sorumluluk alanlarının belirlenmesi ile iş ve işlemlerinin, tabi olduğu mevzuat ile bu 
+prosedür ve Yönetim Kurulu’nca çıkarılmış veya çıkarılacak görev tanımlarına göre yürütülmesinden sorumludur.
+6.13.2Görev, yetki ve sorumlulukların yerine getirilmesi aşamasında;
+a) Genel Müdür, Yönetim Kuruluna,
+b) Genel Müdür Yardımcıları, Genel Müdüre,
+c) Uyum Birimi, İç Denetim Birimi, İç Kontrol Birimi, Risk Yönetimi Birimi ve Yönetim Kurulu Büro Birimi, 
+Yönetim Kuruluna,
+ç) Rehberlik ve Teftiş Başkanlığı, Başkanlıklar, Hukuk Müşavirliği, Özel Kalem Müdürlüğü ve Bölge Müdürlükleri 
+Genel Müdüre,
+d)Diğer Birimler ise Genel Müdür tarafından yapılacak görev dağılımına göre ilgili Genel Müdür Yardımcısına, 
+bağlı olarak görev yapar.
+6.13.3İlgililer bu prosedürde belirtilen görev ve yetkilerin yürütülmesinden bağlı bulundukları sıralı yöneticisine
+karşı sorumludurlar.
+6.13.4Her kademedeki görevliye verilecek sorumluluğun çerçevesi, birim görev tanımları kapsamında birim 
+yöneticisi tarafından belirlenir ve ilgili personele tebliğ edilir.
+6.13.5Birimlerde  işlerin görevliler tarafından en kısa sürede, eksiksiz ve en uygun şekilde yapılması ve
+sonuçlandırılması için her görevliye verimliliği artıracak şekilde görev verilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+7/9
+6.13.6İş bölümünde, yeterlik ve güven esas alınır. Görevliler gördükleri bütün işlerin sonucundan sorumlu 
+tutulmakla beraber yetki ve sorumlulukları, her derecedeki yöneticiler tarafından sürekli olarak denetlenir. 
+Görevliler, bilgi ve belgelerin yanlış veya eksik verilmesinden, zamanında verilmemesinden, işin yapılmamasından, 
+Yönetici durumunda bulunanlar da yönetimdeki kusur ve denetimdeki noksanlıklardan dolayı sorumlu tutulurlar.
+6.13.7Herhangi bir işlemin denetlenmiş, tahkik ve kontrol edilmiş olması ilgili personelin sorumluluğunu 
+kaldırmaz.
+6.14 Vekâlet
+6.14.1Genel Müdürün kanuni izin ve geçici görev dışında görevi başında bulunmaması hallerinde, vekâlet edecek 
+Genel Müdür Yardımcısı Genel Kurul tarafından belirlenir.
+6.14.2Genel Müdür, kanuni izin ve geçici yurt dışı görev nedenleriyle görevinden ayrılması hallerinde, Genel 
+Müdür Yardımcılarından birini vekâleten görevlendirir.
+6.14.3Boş bulunan yönetici pozisyonları ya da görevlerinden çeşitli sebeplerle geçici olarak ayrılmış olan 
+yöneticilerin görevleri, atama koşullarını haiz diğer görevlilere vekâlet ettirilir.
+6.15 Emir Verme Yetkisi ve Yerine Getirilmesi
+6.15.1Personel, üstünün verdiği emri yerine getirmekle görevlidir.
+6.15.2Personel Anayasa, kanun, Cumhurbaşkanlığı Kararnamesi, tüzük ve yönetmeliklerde belirtilen esaslara 
+uymakla ve yöneticiler tarafından verilen görevleri yerine getirmekle yükümlü ve görevlerinin iyi ve doğru 
+yürütülmesinden yöneticilerine karşı sorumludurlar.
+6.15.3Personel yöneticisinden aldığı emri, Anayasa, kanun, Cumhurbaşkanlığı Kararnamesi, tüzük ve yönetmelik 
+hükümlerine aykırı görürse, yerine getirmez ve bu aykırılığı o emri verene bildirir. Yönetici emrinde ısrar eder ve bu 
+emrini yazı ile yenilerse, personel bu emri yapmaya mecburdur. Ancak emrin yerine getirilmesinden doğacak 
+sorumluluk emri verene aittir.
+6.15.4Konusu suç teşkil eden emir, hiçbir suretle yerine getirilmez; yerine getiren kimse sorumluluktan kurtulamaz.
+6.15.5Personelin iş, işlem ve eylemleri ile Şirketin zarara uğramasına sebebiyet vermesi halinde, oluşan zarar 
+kusurlu personelden rızaen veya yasal yollardan tahsil edilir.
+6.16İdari İşlemlerde İmza Usulleri
+6.16.1Merkez Teşkilatında birimler ve diğer hizmet birimleri yazışmalarını;
+a) Kendi aralarında, birim yöneticisi veya görevlendireceği birim yetkilisinin tek imzasıyla,
+b) Bölge Müdürlükleri, diğer Kamu Kurum ve Kuruluşları, gerçek ve tüzel kişilerle birim yöneticisi ve 
+görevlendireceği birim yetkilisinin çift imzasıyla, gerçekleştirir.
+6.16.2Taşra Teşkilatı yazışmalarını,
+a) Kendi aralarında, birim yöneticisi veya görevlendireceği birim yetkilisinin tek imzasıyla,
+b) Genel Müdürlük, Bölge Müdürlükleri, diğer Kamu Kurum ve Kuruluşları, gerçek ve tüzel kişilerle birim yöneticisi 
+ve görevlendireceği birim yetkilisinin çift imzasıyla, gerçekleştirir.
+6.17 Ticari İşlemlerde İmza Usulleri
+6.17.1Şirketi borçlandıran ve taahhüt altına sokan sözleşme, senet, vekâletname ve diğer belgeler, Yönetim Kurulu 
+kararıyla ilan edilmiş şirket imza sirkülerinde isimleri ile Merkez Teşkilatı ve Bölge Müdürlükleri bazında yetki 
+sınırları belirlenen en az 2 (iki) kişi tarafından Şirket ünvanı altında imzalanır.
+6.17.2Birim yöneticisi ve yetkilileri sadece bu prosedürde ve sıralı yöneticilerince belirlenen görev ve yetki alanı
+çerçevesinde Şirket ünvanı altına atacakları en az 2 (iki) imza ile borçlandırıcı işlemleri yapmaya yetkilidir.
+6.18 Temsil ve İmza Yetkisi
+6.18.1Yönetim Kurulu tarafından alınan ve alınacak kararlara göre Şirketin temsil ve ilzamına dair yetkiler 
+ilgililerine devredilebilir.
+6.18.2Adli merciler nezdinde Şirketi Genel Müdür temsil eder. Genel Müdür gerek göreceği işler için temsil 
+yetkisini sınırlarını açıkça belirtmek kaydıyla kısmen veya tamamen başkalarına devredebilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+8/9
+6.19İmza ve Paraftan Doğacak Sorumluluk
+6.19.1Personel, düzenledikleri yazı, fiş, defter, not, rapor, karar ve benzeri belgelere atmış oldukları imza ve 
+paraftan sorumludur.
+6.19.2İmza ve parafın herhangi bir işlemin tamamlanması için konulmuş olduğu yolundaki itirazlar, konulan 
+muhalefet şerhi hariç sorumluluğu kaldırmaz.
+6.20Mevzuatın Açık Olmaması Halinde Sorumluluk
+Birim yöneticileri; Yönetim Kurulu kararları, Şirketle ilgili yönetmelik, yönerge ve genelgelerin uygulanmasından 
+doğabilecek güçlük, sakınca ve aksaklıkları tespit ederek gerekçelerini de belirtmek suretiyle, bunların 
+değiştirilmesini Genel Müdürlüğe teklif edebilirler. Herhangi bir yanlışlık halinde bunlarda açıklık olmadığı veya 
+hükümlerinin yetersiz olduğu yolunda ileri sürülebilecek itirazlar sorumluluğu ortadan kaldırmaz.
+6.21 Kurul ve Komisyon Üyelerinin Sorumlulukları
+Genel Müdürlük onaylarına göre kurulan kurul ve komisyonlarda görevlendirilenler, kendilerine verilen işlerin, 
+mevzuat hükümlerine, genel esaslara göre yürütmekle sorumludur. Kurul ve komisyon kararlarına katılmayanlar 
+görüşlerini yazılı olarak gerekçeleriyle açıklarlar.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+CBK.002-4 Sayılı Cumhurbaşkanlığı Kararnamesi
+İKD.YNT01-Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel
+Hakkında Yönetmelik 
+KHK.002-399 Sayılı KHK
+KN.010-657 Sayılı Devlet Memurları Kanunu 
+KN.012-6475 Sayılı Posta Hizmetleri Kanunu 
+KN.020-4857 sayılı İş Kanunu
+KN.036-6102 Sayılı Türk Ticaret Kanunu 
+SZL.005-PTT AŞ Esas Sözleşmesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Yönetim Kurulu İşleyiş Prosedürü
+Erişilebilirlik
+Derecesi 
+Tüm Kullanıcılar
+Doküman No 
+YKB.PR01
+İlk Yayım Tarihi 
+17.07.2018
+Revizyon Tarihi 
+1.01.2026
+Revizyon No 
+3
+Sayfa Sayısı
+9/9
+11.REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+2 20.02.2025
+Yönetim Kurulu İşleyiş Prosedürünün uygulanması aşamasında ortaya 
+çıkan bir kısım eksiklik ve tereddütlerin giderilmesi talebi 
+doğrultusunda revize edilmesinin gerekliliği.
+1 27.02.2024 Şirketimiz organizasyon yapısında ve ilgili mevzuatlardaki değişiklikler
+nedeniyle revizyona ihtiyaç duyulmuştur.
+0 17.07.2018 Yeni Doküman
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,317 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+PAZARLAMA VE SATIŞ 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+1/6
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde dış müşteri memnuniyetinin ölçümüyle 
+ilgili usul ve esaslar ile yetki ve sorumlulukları belirlemektir.
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde dış müşteri memnuniyetinin ölçümlenmesi ve 
+değerlendirilmesi ile ilgili usul ve esaslar ile Posta ve Telgraf Teşkilatı Anonim Şirketi’nde yer alan tüm birimleri 
+ve çalışanları kapsar.
+3. DAYANAK
+Bu prosedür; TS EN ISO 9001 Kalite Yönetim Sistemleri Standardı 9.1.2.Müşteri Memnuniyeti başlıklı 
+“Kuruluş, ihtiyaç ve beklentilerinin ne ölçüde karşılandığına dair müşteri algılarını izlemelidir. Kuruluş, bu 
+bilginin elde edilmesi, izlenmesi ve gözden geçirilmesi için yöntemler tayin etmelidir.” maddesine dayanılarak 
+hazırlanmıştır.  
+4. TANIMLAR VE KISALTMALAR
+4.1 Anket: Dış müşterilerin Şirket hizmetleri ile ilgili düşünce ve önerileri ile iş yerlerinin ve personel 
+davranışlarının değerlendirilmesini, memnuniyet oranlarının ölçülmesini saptamak üzere yazılı olarak hazırlanmış 
+soru listeleridir.
+4.2 Birim: Komite/Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve 
+Başmüdürlükleri ifade eder.
+4.3 Dağıtım Hizmetleri Memnuniyet Anketi: Şirketin dağıtım hizmetlerinden yararlanan müşterilerin 
+beklentilerini en iyi şekilde karşılayabilmek ve memnuniyet derecelerini tespit etmek amacıyla Pazarlama ve Satış 
+Daire Başkanlığı tarafından hazırlanmış soru listesidir.
+4.4 Dağıtım Hizmetleri Müşteri Memnuniyet Anket Raporu: Dağıtım Hizmetleri Müşteri Memnuniyet Anketi 
+sonucunda elde edilen ülke geneli sonuçların analizlerini içeren metinsel ve grafiksel dokümandır.
+4.5 Dış Müşteri Memnuniyet Anket Raporu: Dış Müşteri Memnuniyet Anketi sonucunda elde edilen ülke geneli 
+sonuçların analizlerini içeren metinsel ve grafiksel dokümandır.
+4.6 Dış Müşteri Memnuniyet Anketi: Şirket hizmetlerinin tanınırlığının tespit edilmesi, iş yerlerinin ve personel 
+davranışlarının müşteriler tarafından değerlendirilmesi ile memnuniyet oranlarının ölçülmesi amacıyla hazırlanmış 
+soru listesidir.
+4.7 Dış Müşteri: Şirketin hizmetlerini kullanan kişi ve kuruluşlardır.
+4.8 EBYS: Şirketin faaliyetleri sırasında oluşan her türlü dokümantasyonun, üretiminden nihai tasfiyesine kadar 
+olan süreç içerisinde arşivlenmesini ve yönetilmesini sağlayan Elektronik Belge Yönetim Sistemi’dir.
+4.9 İmaj Anketi: Şirketin dış müşteriler nezdinde imajının belirlenmesi amacıyla Pazarlama ve Satış Daire 
+Başkanlığı tarafından hazırlanmış soru listesidir.
+4.10  İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi Raporu: İş Birlikleri Yönetimi (Kurumsal 
+Müşteri) Memnuniyet Anketi sonucunda elde edilen analizleri içeren metinsel ve grafiksel dokümandır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+2/6
+4.11  İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi: Şirketin iş birliği yaptığı kurum, kuruluş 
+ve firmalar ile hizmetlerimizi satın alan kurumsal müşterilerin beklentilerini en iyi şekilde karşılayabilmek ve 
+memnuniyet derecelerini tespit etmek amacıyla hazırlanmış soru listesidir.
+4.12  İş yeri: Şirket hizmetlerinin müşteriye sunulduğu fiziksel alandır.
+4.13  Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.14  Onay: Genel Müdürlük Makamından anket sürecinin yürütülmesi için alınan izindir.
+4.15  Özel Sektör Anket Dağıtım Listesi: İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi’nin 
+uygulanacağı, Şirket ile iş birliği yapan veya Şirket hizmetlerini satın alan firmaları gösterir listedir.
+4.16  Resmi Kurum ve Kuruluşlar Anket Dağıtım Listesi: İş Birlikleri Yönetimi (Kurumsal Müşteri) 
+Memnuniyet Anketi’nin uygulanacağı ve Şirket ile iş birliği yapan resmi kurum ve kuruluşları gösterir listedir.
+4.17  Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.18  Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.19  Üst Yönetim: Merkez teşkilatında Genel Müdür ve Genel Müdür Yardımcıları ile Daire Başkanı ve 
+yardımcılarını ifade eder.
+5. SORUMLULUKLAR
+5.1 Pazarlama ve Satış Daire Başkanlığı: Anketlerin hazırlanması ile ilgili koordinasyonu, sürecin 
+planlanmasını, taşra teşkilatında uygulanmasını, kontrol edilmesini ve sonuçların raporlanarak Üst Yönetim ile ilgili 
+birimlere sunulmasını sağlar. 
+5.2Bilişim Daire Başkanlığı: Uygulanan anketlerin girişinin yapılacağı ilgili web adresinin hazırlanması, 
+çalıştırılması ve elde edilen verilerin Pazarlama ve Satış Daire Başkanlığı’na gönderilmesini sağlar.
+5.3İlgili Daire Başkanlıkları: Anket sorularının hazırlanması aşamasında Pazarlama ve Satış Daire Başkanlığı’na 
+görüş bildirir. Ayrıca Şirketin iş birliği yaptığı kurum, kuruluş ve firmalar ile Şirket hizmetlerini satın alan kurumsal 
+müşterilerden oluşan Resmi Kurum ve Kuruluşlar Anket Dağıtım ile Özel Sektör Anket Dağıtım Listelerini 
+hazırlayarak Pazarlama ve Satış Daire Başkanlığı’na gönderir. 
+5.4 Entegre Yönetim Sistemi Daire Başkanlığı: Anket sorularının hazırlanması aşamasında Pazarlama ve Satış 
+Daire Başkanlığı’na görüş bildirir.
+5.5 Strateji Geliştirme Daire Başkanlığı: Resmi Kurum ve Kuruluşlar Anket Dağıtım Listesinde yer alan resmî 
+kurumlara, İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi’nin uygulanacağı tarih ile uygulama 
+şartlarını yazılı olarak bildirir. 
+6. UYGULAMA
+6.1 Genel
+6.1.1PTT AŞ’de dış müşteri memnuniyetini ölçmek amacıyla;
+a)Dış Müşteri Memnuniyet Anketi, 
+b)İmaj Anketi, 
+c)İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi,
+ç) Dağıtım Hizmetleri Müşteri Memnuniyet Anketi uygulanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+3/6
+6.1.2Gerekli görülmesi durumunda yukarıda adı geçen anketler dışında da anket uygulanabilir.
+6.1.3Uygulanacak anket belirlenecek yönteme göre Pazarlama ve Satış Daire Başkanlığı tarafından gerçekleştirilir. 
+6.1.4Müşteri memnuniyet ölçümü yukarıda belirlenen anketlerden biri veya birden fazlası kullanılarak yılda en az 
+bir kez yapılır.  Dış Müşteri Memnuniyeti ölçümü, Üst Yönetim onayı ile Pazarlama ve Satış Daire Başkanlığı 
+tarafından iç yöntemlerle yapılabileceği gibi FMB.PR01 Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet 
+Alımı Ödeme Prosedürü ’ne uygun olarak hizmet alımı yoluyla bağımsız kuruluşlara da yaptırılabilir.
+6.1.5Anketlerde aşağıdaki bilgilerden bir veya birden fazlası yer alır;
+a)Şirket ile çalışmaktan duyulan memnuniyet düzeyini ölçen genel memnuniyet sorusu,
+b)Hizmet kalitesini değerlendirmeye yönelik sorular,
+c)Şirket performansının yanı sıra rakip kurum/kuruluş/şirket performanslarıyla ilgili sorular.
+6.2 Dış Müşteri Memnuniyet Anketi
+6.2.1Hazırlık Aşaması 
+6.2.1.1Dış Müşteri Memnuniyet Anketi soruları ilgili Daire Başkanlıklarına gönderilerek sorular ile ilgili görüş 
+alınır.
+6.2.1.2Alınan görüşler doğrultusunda Dış Müşteri Memnuniyet Anketi’ne Pazarlama ve Satış Daire Başkanlığı 
+tarafından son şekli verilir.
+6.2.1.3Dış Müşteri Memnuniyet Anket sorularının, belirlenen tarih aralığında uygulanmasını ve veri girişlerinin 
+yapılacağı platformun hazırlanmasını teminen Pazarlama ve Satış Daire Başkanlığı tarafından onay alınır.
+6.2.1.4Alınan onaya istinaden anketin uygulanacağı ve veri girişlerinin yapılacağı platformun hazırlanmasını 
+teminen Bilişim Daire Başkanlığı’na yazı yazılır.
+6.2.2 Uygulama Aşaması
+Dış Müşteri Memnuniyet Anketi hazırlanan platform aracılığıyla internet üzerinden onayda belirtilen süreler 
+içerisinde uygulanır.
+6.2.3Değerlendirme ve Raporlama Aşaması
+6.2.3.1  Dış Müşteri Memnuniyet Anketi ile ilgili uygulama süresi sonunda Bilişim Daire Başkanlığı tarafından 
+anket verileri Pazarlama ve Satış Daire Başkanlığı’na iletilir.
+6.2.3.2  Dış Müşteri Memnuniyet Anketi verilerinin Pazarlama ve Satış Daire Başkanlığı tarafından Türkiye geneli 
+analizleri yapılır. Yapılan analiz sonuçlarıyla ilgili değerler hesaplanarak grafik ve tablolar hazırlanır.
+6.2.3.3 Hazırlanan grafik ve tablolar analiz edilerek yorumlanır ve Dış Müşteri Memnuniyet Anketi Raporu 
+oluşturulur.
+6.2.4Sonuçların İlgili Birimlere Duyurulması Aşaması
+6.2.4.1Hazırlanan Dış Müşteri Memnuniyet Anket Raporları (Türkiye geneli) ilgili 
+Birim ve Daire Başkanlıklarına/Pazarlama ve Satış Daire Başkanlığı bünyesinde bulunan şube müdürlüklerine/taşra 
+teşkilatına EBYS üzerinden gönderilir. Gönderilen raporlarda ilgili birimlerin gerekli iyileştirmeleri yapmaları için 
+öneriler bulunur.
+6.2.4.2Dış Müşteri Memnuniyet Anketi için yukarıda belirtilen işlem sırası Dağıtım Hizmetleri Müşteri 
+Memnuniyet Anketi ve İmaj Anketi için de geçerli olup Dağıtım Hizmetleri Müşteri Memnuniyet Anketi için farklı 
+olan hususlar aşağıda sıralanmıştır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+4/6
+6.3 Dağıtım Hizmetleri Müşteri Memnuniyet Anketi
+6.3.1Hazırlık Aşamasında;
+Dağıtım Hizmetleri Müşteri Memnuniyet Anketi’nin hazırlık aşamaları Dış Müşteri Memnuniyet Anketi’nin 
+uygulama aşamaları ile aynıdır. 
+6.3.2Değerlendirme ve Raporlama Aşamasında: 
+6.3.2.1Dağıtım Hizmetleri Müşteri Memnuniyet Anketi yazısında belirtilen süre sonunda, sonuç verileri veri 
+girişinin yapıldığı platformdan elde edilir. 
+6.3.2.2Dağıtım Hizmetleri Müşteri Memnuniyet Anketi’nin değerlendirme ve raporlama aşamaları Dış Müşteri 
+Memnuniyet Anketi’nin değerlendirme ve raporlama aşamaları ile aynıdır. 
+6.3.3Sonuçların İlgili Birimlere Duyurulması Aşamasında:
+Dağıtım Hizmetleri Müşteri Memnuniyet Anketi’nin sonuçların ilgili birimlere duyurulması aşamaları Dış Müşteri 
+Memnuniyet Anketi’nin aşamaları ile aynıdır.
+6.4İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi:
+6.4.1Hazırlık Aşamasında:
+6.4.1.1İlgili Daire Başkanlıklarına, iş birliği yapılan kurum, kuruluş ve firmalar ile Şirket hizmetlerini satın alan 
+kurumsal müşterilerin iletişim bilgilerinin talep edildiği yazı gönderilir.
+6.4.1.2İlgili Daire Başkanlıklarından alınan liste doğrultusunda Resmi Kurum ve Kuruluşlar Anket Dağıtım Listesi 
+ve Özel Sektör Anket Dağıtım Listesi oluşturulur.
+6.4.1.3İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi soruları hazırlanır. İş Birlikleri Yönetimi 
+(Kurumsal Müşteri) Memnuniyet Anketi soruları ilgili Daire Başkanlıklarına ve Entegre Yönetim Sistemi Daire 
+Başkanlığına gönderilerek sorular ile ilgili görüş alınır.
+6.4.1.4Alınan görüşler doğrultusunda İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi’ne 
+Pazarlama ve Satış Daire Başkanlığı tarafından son şekli verilir.
+6.4.1.5İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi soruları, Resmi Kurum ve Kuruluşlar Anket 
+Dağıtım Listesi ile Özel Sektör Anket Dağıtım Listesi’nin belirlenen tarih aralığında uygulanması ve veri 
+girişlerinin yapılacağı platformun hazırlanmasını teminen onay alınır.
+6.4.1.6Alınan onaya istinaden anketin uygulanacağı ve veri girişlerinin yapılacağı platformun hazırlanmasını 
+teminen Bilişim Daire Başkanlığı’na yazı yazılır.
+6.4.1.7Anketin resmi kurum ve kuruluşlarda duyurulmasını teminen Pazarlama ve Satış Daire Başkanlığı, ekinde 
+Resmi Kurum ve Kuruluşlar Anket Dağıtım Listesi bulunan ve anketin uygulanacağı tarih ile uygulama şartlarını 
+bildiren yazıyı Strateji Geliştirme Daire Başkanlığı’na gönderir.
+6.4.1.8Strateji Geliştirme Daire Başkanlığı tarafından Resmi Kurum ve Kuruluşlar Anket Dağıtım Listesi’nde yer 
+alan resmi kurumlara anketin uygulanacağı tarih ile uygulama şartlarını bildirir yazı yazılır.
+6.4.1.9Pazarlama ve Satış Daire Başkanlığı tarafından Özel Sektör Anket Dağıtım Listesi’nde yer alan firmalara 
+anketin uygulanacağı tarih ile uygulama şartlarını bildirir yazı imzalı olarak elektronik posta veya faks yolu ile 
+gönderilir.
+6.4.2 Uygulama Aşaması
+İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi, onayda belirtilen süreler içerisinde Resmi Kurum
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+5/6
+ve Kuruluşlar Anket Dağıtım ve Özel Sektör Anket Dağıtım Listeleri’nde yer alan resmi kurum, kuruluşlar ile özel 
+sektörde faaliyet gösteren firmalar tarafından doldurulur.
+6.4.3Değerlendirme ve Raporlama Aşamasında: 
+6.4.3.1İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi uygulama süresi bittikten sonra Bilişim 
+Daire Başkanlığı tarafından anket verileri Pazarlama ve Satış Daire Başkanlığı’na iletilir.
+6.4.3.2İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anketi verileri analiz edilerek grafik ve tablolar 
+hazırlanır.
+6.4.3.3Hazırlanan grafik ve tablolar analiz edilerek yorumlanır ve İş Birlikleri Yönetimi (Kurumsal Müşteri) 
+Memnuniyet Anket Raporu oluşturulur.
+6.4.4Sonuçların İlgili Birimlere Duyurulması Aşamasında:
+Hazırlanan İş Birlikleri Yönetimi (Kurumsal Müşteri) Memnuniyet Anket Raporu ilgili Birimlere yazı ile 
+gönderilir.
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+FMB.PR01-Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Ödeme Prosedürü
+STD.002-TS EN ISO 9001 Kalite Yönetim Sistemi Standardı
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+2 12.07.2024 Referans doküman (EYS.PR 09 Veri Analiz Prosedürü) iptal 
+edildiğinden dokümanda değişiklik yapılmıştır.  
+1 20.07.2023
+Prosedürde yer alan iş akış süreçlerindeki değişiklikler nedeniyle söz 
+konusu iş ve işlemlerde revizyona ihtiyaç duyulmuştur. Doküman 
+hazırlama prosedürü EYS.PR.01'e göre dokümanda olması gereken 
+dayanak ve onay maddeleri eklenmiştir. 
+0 11.07.2018 Yeni Doküman 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Dış Müşteri Memnuniyeti Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR01
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+12.07.2024
+Revizyon No
+2
+Sayfa Sayısı
+6/6
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

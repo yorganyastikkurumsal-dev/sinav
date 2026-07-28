@@ -1,0 +1,361 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+PAZARLAMA VE SATIŞ 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+1/6
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde pazar araştırması çalışmaları ile ilgili usul ve 
+esaslar ile yetki ve sorumlulukları belirlemektir.
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde pazar araştırması çalışmaları ve süreçleri ile ilgili usul 
+ve esasları ile Posta ve Telgraf Teşkilatı Anonim Şirketi’nde tüm birimleri ve çalışanları kapsar.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu’nun “Kurumun Posta Sektörüne İlişkin Görev ve Yetkileri” 
+başlıklı “Posta sektöründeki gelişmeleri takip etmek, bu sektörün gelişimini teşvik etmek amacıyla gerekli 
+araştırmaları yapmak veya yaptırmak, bu konularda ilgili kurum ve kuruluşlarla iş birliği hâlinde çalışmak ve 
+raporlar hazırlamak” maddesine dayanılarak hazırlanmıştır. 
+4.TANIMLAR VE KISALTMALAR
+4.1 Anket: Dış müşterilerin Şirket hizmetleri ile ilgili düşünce ve önerileri ile işyerlerinin ve personel 
+davranışlarının değerlendirilmesini, memnuniyet oranlarının ölçülmesini saptamak üzere yazılı veya online olarak 
+hazırlanmış soru listeleri.
+4.2 Birim: Komite/Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve 
+Başmüdürlükleri ifade eder.
+4.3 Hizmet İşleri Kabul Tutanağı: Muayenesi sonrasında teknik şartname ile sözleşmeye uygun şekilde teslim 
+edilen iş için düzenlenen tutanak. 
+4.4 Kalitatif Yöntem: Araştırma konusu olan kurum, kavram, marka, ürün veya hizmetler hakkında, hedef kitlenin 
+veya tüketicilerin düşünce, tutum, eğilim, duygu ve alışkanlıklarını küçük örneklemeler kullanarak ve detaylı veri 
+toplayarak derinlemesine anlamayı amaçlayan araştırma yöntemi.
+4.5 Kantitatif Yöntem: Araştırma konusu bireylerin konu hakkındaki davranışlarını gözlem, deney ve test yoluyla 
+nesnel bir şekilde ölçmek ve sayısal verilerle açıklama yöntemi.
+4.6 Masabaşı Araştırması: Masabaşı araştırması, indeksler, online dergiler, değerlendirmeler ve arama motorları 
+aracılığıyla hedef pazara ait bilgi toplama işi.
+4.7 Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.8 Odak Grup Çalışması: Belirli bir konu çerçevesinde, seçilmiş katılımcılar grubunun ayrıntılı bilgi ve fikirlerini 
+belirlemek amacıyla yapılandırılmış özel bir grup görüşmesi tekniği.
+4.9 Onay: Genel Müdürlük Makamından pazar araştırması çalışmasının yürütülmesi için alınan izin.
+4.10 PESTEL Analizi: İşletmenin faaliyet gösterdiği çevredeki büyük resmin görülmesine ve bu çevrede işletme 
+için fırsat ve tehdit olarak algılanabilecek olan faktörlerin tespit edilmesine yardımcı olan analiz.
+4.11 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.12 Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.13 Teknik Şartname: Alınacak ürün ya da hizmetin teknik özelliklerinin yer aldığı doküman.
+4.14 Üst Yönetim: Merkez teşkilatında Yönetim Kurulu Başkanı/Genel Müdür ile Genel Müdür Yardımcıları ile 
+Birim Üst Yöneticilerini; taşra teşkilatında ise Başmüdürleri ifade eder.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+2/6
+4.15 Yüklenici: İşi üstlenecek firma.
+5.SORUMLULUKLAR
+5.1 Pazarlama ve Satış Daire Başkanlığı: Ulusal ve uluslararası pazarlarda, hedef pazarın tespitine yönelik 
+pazarlama fonksiyonu kapsamına giren her türlü pazar araştırması çalışmasının yapılması/yaptırılması, 
+koordinasyonu, araştırmanın raporlanması ve ilgili birimlere duyurulması iş ve işlemlerinden sorumludur.
+5.2 Satınalma Daire Başkanlığı: Dışarıdan temin edilecek pazar araştırması hizmet alımından sorumludur. 
+5.3 Finans ve Muhasebe Başkanlığı: Yükleniciye teslim ettiği işin karşılığında kesmiş olduğu faturanın 
+ödenmesinden sorumludur. 
+6.UYGULAMA
+6.1 Pazar Araştırması Kararı
+Pazar araştırması çalışmaları Pazarlama ve Satış Daire Başkanlığı Pazar Araştırması Şube Müdürlüğü tarafından 
+yürütülür. Çalışmalar, araştırmanın Şirket içinden veya satın alma yoluyla yapılma durumu aşağıdaki hususlar 
+bakımından değerlendirilerek belirlenir:
+a) Üst yönetim talimatı
+b)Araştırmanın konusu
+c)Araştırmanın kapsamı
+ç)  Araştırmanın süresi
+d)Araştırmanın özel uzmanlık gerektirip gerektirmediği
+e)Araştırmanın maliyeti
+f) Personelin yetkinliği
+g)  Araştırma raporunun kullanılacağı alan
+ğ)  Durumun aciliyeti
+6.2 Pazar Araştırması Konuları
+a) Hedefler ve stratejilerin belirlenmesi çalışmalarına yönelik araştırmalar,
+b) Ulusal ve uluslararası pazarlarda, hedef pazarların tespitine yönelik araştırmalar,
+c)Şirket faaliyet ve görev alanlarına (Posta, kargo, kurye, turpex, PTTbank hizmetleri, Elektronik hizmetler vb.) 
+yönelik araştırmalar,
+ç)  İl bazlı veya bölgesel araştırmalar,
+d) Yeni ürün ve hizmetlere ilişkin araştırmalar,
+e) Tüketici davranışlarına yönelik araştırmalar,
+f) Rakip işletmelerin aktivite, ürün-hizmet grupları, yapısal ve fiyat hareketlerine yönelik araştırmalar,
+g)Şirket itibarına yönelik araştırmalar pazar araştırmasına konu olabilir. 
+6.3Şirket İçerisinden Pazar Araştırması Yapılması
+6.3.1 Pazarlama ve Satış Daire Başkanlığı tarafından araştırmanın konusu, kapsamı, süresi, yöntemi ve ilgili 
+Başkanlık/Başmüdürlük/personel bilgilerini içeren bir onay alınır.
+6.3.2 Araştırma yöntemi olarak kantitatif yöntemlerden anket yönteminin uygulanması durumunda PAZ. PR01 Dış 
+Müşteri Memnuniyeti Yönetim Prosedürüne göre araştırma konusuna, kapsamına ve süresine uygun olarak işlem 
+yapılır.
+6.3.3 Araştırmada kalitatif yöntemlerin uygulanmasına karar verilmesi halinde masabaşı araştırması, odak grup 
+çalışması ve PESTEL analizi yöntemlerinden bir veya birkaçı seçilerek çalışma başlatılır.
+6.3.3.1 Masabaşı Araştırması
+6.3.3.1.1 Masabaşı araştırması, indeksler, online dergiler, değerlendirmeler ve arama motorları aracılığıyla hedef 
+pazara ait bilgi toplama işidir. Genelde masabaşı araştırmaları potansiyel müşteriler, aracılar ve rakipler hakkında
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+3/6
+bilgi toplamak için kullanılır.
+6.3.3.1.2 Masabaşı araştırma yönteminde öncelikle hedef pazar seçilir, ardından hedef pazar potansiyelinin 
+ölçümüne gidilerek ön bilgilere ulaşılır.
+6.3.3.1.3 Masabaşı araştırmasında aşağıdaki hususlara dikkat edilir;
+a) Neyin nerede aranması gerektiği belirlenerek kaynak listesi oluşturulur. Arama motorları bu kaynakları sağlar.
+b) Kaynak materyaller anlaşılır kılınır.
+c) İhtiyaç duyulan doğru bilgiler belirlenerek internette büyük miktardaki bilgilerden en uygun olanı seçilir.
+6.3.3.2 Odak Grup Çalışması
+6.3.3.2.1 Belirli bir konu çerçevesinde, seçilmiş katılımcılar grubunun ayrıntılı bilgi ve fikirlerini belirlemek 
+amacıyla yapılandırılmış özel bir grup görüşmesi tekniğidir. Görüşme kişilerin duygu ve düşüncelerini, yaşantılarını, 
+bakış açılarını açığa çıkarmak amacıyla soru sorma ve özetleme teknikleri kullanılarak bir uzman tarafından 
+yönetilir. Çalışmada bireylerin görüşlerini, başkalarının görüşlerini de dikkate alarak rahatça ifade etmeleri yolu ile 
+yüksek nitelikli veri toplanır.
+6.3.3.2.2 Küçük tüketici gruplarını bir araya getirerek, mal veya malın tanıtımı gibi konularda ayrıntılı görüşmeler 
+yoluyla bilgi sağlamayı amaçlayan bir yöntemdir. Yöntemin amacı algıları, hisleri ve tüketicinin mal, hizmet veya 
+karşısına çıkan fırsatları nasıl düşündüğü ve değerlendirdiği konusunda fikir edinmek, saptamalar yapmaktır.
+6.3.3.2.3 Grup tercihen 6 ila 8 kişiden oluşmaktadır. Duruma göre 10-12 kişiden de oluşabilir. Oturumu yöneten bir 
+moderatör ve bir de yardımcı asistan bulunmalıdır.
+6.3.3.2.4 Rahat bir ortamda, grup baskısı, sosyal beğeni ve onaylanma gibi engellerin aşılmış olması ve böylelikle 
+katılımcıların gerçek algı, duygu ve düşüncelerine ulaşılması gerekmektedir. İdeal olarak katılımcıların birbirlerini 
+hiç tanımamaları, birbirleri hakkında fikir sahibi olmamalarının gerektiğine inanılmaktadır.
+6.3.3.2.5 Odak grup görüşmesi 4 aşamada şekillendirilir. Bunlar;
+6.3.3.2.5.1 Araştırmacı, araştıracağı konu ile ilgili kavramsal ve kuramsal çerçeveyi oluşturur ve buna göre planını 
+yapar.
+6.3.3.2.5.2 Bu aşamada;
+a) Kimlerle görüşüleceği,
+b) Neden o kişilerin seçildiği,
+c) Seçilen kişilerin ortak özelliklerinin neler olması gerektiği,
+ç) Görüşmede hangi başlıklar olması gerektiği
+d) Hangi soruların hangi sırayla sorulması gerektiği ve nedeni sorularına yanıt aranır.
+6.3.3.2.5.3 Odak grup görüşmesinin zamanı, yeri ve görüşme sırasında not alacak gözlemci belirlenir. Belirlenen 
+yerde ve zamanda odak grup görüşmesi başlatılır.
+6.3.3.2.5.4 Görüşme sonrasında; gözlemcinin tuttuğu kısa notlar ve ses kayıtlarının çözümlenmesi (kullanılmışsa) 
+grubun içinde bulunduğu sosyal ortamın özellikleri de dikkate alınarak yapılır. Daha sonra katılımcıların konu ile 
+ilgili bazı ilginç cümleleri de alınarak çalışma raporlaştırılır.
+6.3.3.2.6 Ortalama bir oturum, konuyla ilgili duygu ve düşünceler tekrarlanmadan ortaya konacak şekilde, iki ila üç 
+saatte toparlanmalıdır.
+6.3.3.2.7 Oturum sırasında genel sorularla başlanıp giderek daha ayrıntılı sorulara geçilir. Oturum sonuna 
+gelindiğinde, konuşulmuş olan ana temalar kısaca özetlenir. Yanlış anlamalar önlenir ve son sözler alınır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+4/6
+6.3.3.2.8 Odak grup çalışmalarında öznel veriler değerlidir. Tutanaklarda yer alan veriler içerik analizinden geçirilir. 
+Katılımcılar arasındaki mutabakat, ortak yapı, temalar ve bu temaların altında yer alan ayrıntılı örneklerin sentezi 
+yapılarak raporlanır.
+6.3.3.3 PESTEL Analizi
+6.3.3.3.1 PESTEL analizi pazarlamada kullanılan dış çevredeki etkileşimlere bakılarak yapılan bir analiz 
+çeşididir.
+a) Bir şirketin içinde bulunduğu pazarın incelemesi,
+b) Bir ürünün içinde bulunduğu pazarın incelenmesi,
+c)  Bir markanın içinde bulunduğu pazardaki durumu,
+ç)İşletmenin yerel bir iş birimi, ya da bir departmanı,
+d) Yeni bir pazara girme ya da yeni bir marka çıkarma gibi stratejik bir karar,
+e)Olası bir satın alma,
+f)Olası bir ortaklık,
+g)  Bir yatırım fırsatı durumunda PESTEL analizi yapılır.
+6.3.3.3.2 PESTEL analizi, politik, ekonomik, sosyo-kültürel, teknolojik, çevresel ve yasal yönlerden dış çevreyi 
+inceleyen bir analizdir. PESTEL analizi, işletmenin faaliyet gösterdiği çevredeki büyük resmin görülmesine ve bu 
+çevrede işletme için fırsat ve tehdit olarak algılanabilecek olan faktörlerin tespit edilmesine yardımcı olan bir analiz 
+aracıdır.
+6.3.3.3.3 Analiz sırasında kullanılan pazar, analiz edilecek olan ürün, işletme, marka, fikir, iş birimine göre 
+tanımlanmalıdır. 
+6.3.3.3.4 PESTEL Analizinin Faktörleri 
+a) Politik Faktörler
+i.İlgili yasalar
+ii. Vergi sistemi
+iii.Dış ticaret düzenlemeleri
+iv. Hükümet politikaları
+v. Mevcut hükümetin durumu
+vi. Devletin müdahalesi
+vii.Uluslararası ilişkiler
+b) Ekonomik Faktörler 
+i. Dünyadaki genel ekonomik durum
+ii. Ekonomik büyüme
+iii. Para ve kredi kaynakları
+iv. Faiz oranları
+v. Döviz kurları
+vi. Enflasyon oranı
+vii.İşsizlik oranları
+viii. Harcanabilir gelir
+ix. Gelir dağılımı
+c) Sosyo-Kültürel Faktörler 
+i. Kültürel yapı
+ii. Nüfus artış oranı
+iii.Eğitim durumu
+iv.Yaş dağılımı
+v.Doğum artış oranı ve ortalama ömür
+vi. Sosyal hareketlilik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+5/6
+vii.Çalışma ve boş zaman eğilimleri
+viii.Yaşam tarzı değişiklikleri
+ix. Yeni ihtiyaç ve istekler
+x. Tüketici eğilimleri
+ç) Teknolojik Faktörler 
+i. ARGE çalışmaları
+ii. IT kullanımı
+iii.İnternet kullanımı
+iv. Otomasyon
+v. Teknoloji teşvikleri
+vi. Teknolojik gelişme hızı
+vii. Teknoloji transferleri
+d) Çevresel Faktörler 
+i. Çevresel etki
+ii. Çevre ile ilgili yasal düzenlemeler
+iii. Enerji tüketimi
+iv.İklim değişikliği
+v.Atıkların imha edilmesi
+e) Yasal Faktörler 
+i.İş Kanunu
+ii. Sosyal Güvenlik Kanunu
+iii. Rekabet Kanunu
+iv.Uluslararası anlaşmalar
+6.4Satın Alma Yoluyla Pazar Araştırması Yapılması
+6.4.1 Araştırma yapılacak konu, kapsamı ve süresi üst yönetim tarafından belirlenir.
+6.4.2 Çalışmanın başlatılması için onay alınır. 
+6.4.3 Gerekli görüldüğü takdirde yaptırılacak işin içeriği, yöntemi vb. konularda ilgili birimlerden görüş  alınır.
+6.4.4 Alımı yapılacak pazar araştırması işinin teknik şartnamesi hazırlanır ve SAT.PR04 PTT AŞ Mal ve Hizmet 
+Alımı Prosedürüne uygun olarak işlem yapılır.
+6.4.5 Teknik şartnamenin uygunluğunun kontrolü, işin takibinin yapılabilmesi ve ödeme için gerekli olan Hizmet 
+İşleri Kabul Tutanağı’nın düzenlenmesi amacıyla Pazarlama ve Satış Daire Başkanlığınca ilgili dairelerin 
+Başkanları ve/veya Başkan Yardımcılarından oluşan bir Muayene ve Kabul Komisyonu kurulur.
+6.4.6 Yüklenici teknik şartnamede belirtilen süre ve şartlara uygun olarak işi teslim eder ve Hizmet İşleri Kabul 
+Tutanağı taraflarca imzalanır.
+6.5 Pazar Araştırması Rapor Sonucunun Değerlendirilmesi ve Sunulması 
+6.5.1 Araştırma raporu istenildiğinde Üst Yönetime sunulmak üzere sunum, rapor vb. sonuç çıktıları dijital ortamda 
+ve basılı olarak hazır bulundurulur.
+6.5.2 Muayene ve Kabul Komisyonu tarafından onaylanan raporlar gerekli görüldüğü takdirde ilgili birimlere yazı 
+ile gönderilir.
+6.5.3 Dijital ve fiziki ortamda arşivleme işlemleri Devlet Arşiv Hizmetleri Hakkında Yönetmelik’e göre 
+gerçekleştirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Dokümanın Adı
+Pazar Araştırması Uygulama Prosedürü 
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PAZ.PR02
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+13.05.2024
+Revizyon No
+1
+Sayfa Sayısı
+6/6
+7.ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+PAZ.PR01-Dış Müşteri Memnuniyeti Yönetim Prosedürü
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 13.05.2024 Uygulamada yaşanan aksaklıklar nedeniyle doküman revize 
+edilmiştir.  
+0 11.07.2018 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

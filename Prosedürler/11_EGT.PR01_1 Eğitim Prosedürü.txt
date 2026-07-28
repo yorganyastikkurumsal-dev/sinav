@@ -1,0 +1,221 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+EĞİTİM DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Eğitim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EGT.PR01
+İlk Yayım Tarihi
+6.02.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/4
+1.AMAÇ
+Bu prosedürün amacı, Şirketimiz çalışanlarının mesleki bilgi ve becerilerini geliştirmek, hizmet yetkinliklerini ve 
+verimliliklerini artırmak, görev değişikliklerine hazırlanmaları için uygulanacak hizmet içi eğitim ve çalıştay 
+ilkelerini, planlama esaslarını, uygulanmasını ve değerlendirme usullerini belirlemektir.
+2.KAPSAM
+Bu prosedür hükümleri; PTT ile bağlı şirketlerinde görev alan tedarikçi ve alt işveren statüsü dahil her statü ve 
+kademede görev yapan çalışan ile bu çalışanlar için gerçekleştirilecek eğitim faaliyetlerini kapsar. 
+3.DAYANAK
+Bu prosedür, 657 sayılı Devlet Memurları Kanunu’nun 214. maddesine, Posta ve Telgraf Teşkilatı Anonim 
+Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik’in 76. maddesine dayanılarak 
+hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.2 Eğitici: Eğitim Müdürlüklerinde ve Eğitim Birimlerinde yürütülen eğitim ve seminer programlarında öğretici 
+olarak görevlendirilen çalışandır.
+4.3 Eğitim: Bireyin düşünce ve davranışlarında plan ve program dahilinde istendik yönde kalıcı değişiklik meydana 
+getirme sürecidir.
+4.4 Eğitim Belgesi: Eğitim sonunda yapılan sınavlarda başarılı olan katılımcılara verilen belgedir.
+4.5 Eğitim Müdürlüğü Yöneticisi: Eğitim Müdürlüklerinde, Müdürlük görevini yürüten çalışandır.
+4.6 Eğitimler Kitabı: Eğitim Daire Başkanlığı himayesinde/koordinatörlüğünde yürütülen eğitim ve seminerlerin 
+adları, amaçları, süreleri, katılımcı sayıları, katılma koşulları ile müfredat programlarını gösteren dokümandır.
+4.7 Eğitim Kurulu: Genel Müdür veya görevlendireceği Genel Müdür Yardımcısı Başkanlığında Eğitim Daire 
+Başkanı ile ilgili Daire Başkanlarının/Birim Sorumlularının Şirketin genel eğitim politikalarını, hedeflerini ve 
+ihtiyaçlarını belirleyen, bununla ilgili faaliyetleri denetleyen kuruldur.
+4.8 Eğitim Yöneticileri: Eğitim faaliyetlerini planlayan, bu faaliyetlerin takibini, yürütülmesini, kontrolünü ve 
+değerlendirilmesini sağlayan çalışandır.
+4.9 Hizmet İçi Eğitim: Çalışanın kurumsal verimlilik ve etkinliğinin artırılmasına yönelik bilgi, beceri ve 
+davranışlarının geliştirilmesini hedef alan eğitimdir. 
+4.10 Hizmet İçi Eğitim Faaliyetleri: Şirketimiz hizmet alanlarındaki tüm çalışanların, görevlerini en iyi şekilde 
+yapmalarını sağlamak amacıyla düzenlenen eğitim ve eğitim faaliyeti kapsamındaki seminer, konferans, panel vb.  
+faaliyetlerdir.
+4.11 Kartopu Yöntemi: Eğiticilik niteliğine sahip çalışanların, eğiticinin eğitimine alınarak görev yaptıkları 
+birimlerdeki diğer çalışanlara yönelik eğitim vermelerini sağlamak suretiyle görev konusuyla ilgili mevzuat ve 
+uygulama bilgilerinin mümkün olan en kısa sürede ilgili birimlere ulaştırılmasını hedef alan bir işbaşı eğitim 
+yöntemidir.
+4.12 Katılım Belgesi: Belli bir plana bağlı olmakla birlikte bitiminde sınav vb. başarı değerlendirme yöntemi 
+uygulanmayan eğitim etkinliklerine katılan katılımcılara verilen belgedir.
+4.13 Mesleki Yeterlilik: Ulusal meslek standartlarının oluşturulduğu, mesleki ve teknik eğitim/öğretim 
+programlarının bu standartlara göre hazırlandığı ve iş gücünün eğitim sonrasında belgelendirildiği bir sistemdir.
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Eğitim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EGT.PR01
+İlk Yayım Tarihi
+6.02.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/4
+4.14 PTT: Posta ve Telgraf Teşkilatı Anonim Şirketidir. 
+4.15 PTT Eğitim Müdürlüğü: Eğitim Daire Başkanlığınca hazırlanan eğitim planı kapsamında eğitimlerin sınıf 
+ortamında yürütüldüğü birimlerdir.
+4.16 Seminer: Belli bir konu hakkında problem saptama, çözüm yolları arama, araştırma ve değerlendirme yapmak 
+amacıyla grup çalışması şeklinde gerçekleştirilen, sonunda başarı değerlendirmesi zorunlu olmayan, eğitim 
+faaliyetidir.
+4.17 Seminer Belgesi: Seminer sonunda katılımcılara verilen belgedir.
+4.18 Şirket: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.19 Şirket Dışı Eğitim: PTT dışında, alanında uzman kişi veya kurumlardan temin edilen eğitimlerdir.
+4.20 Şirket İçi Eğitim: PTT çalışanlarına yönelik olarak alanında uzmanlaşmış çalışanlar tarafından yürütülen 
+eğitimlerdir.
+4.21 Uzaktan Eğitim: Şirket çalışanlarının ihtiyaç duyduğu eğitimlerin gelişen teknolojiye de uyum sağlayarak 
+sanal ortamda görüntüleyebileceği öğretim platformudur.
+5.SORUMLULUKLAR
+Eğitim prosedürünün uygulanması Eğitim Daire Başkanlığı, Birimler ve Eğitim Müdürlerinin yetki ve 
+sorumluluğundadır. 
+6.UYGULAMA
+6.1 Hizmet İçi Eğitim 
+Hizmet içi eğitimler; hazırlanan plan dahilinde eğitim müdürlüklerinde yürütülen yüz yüze ve uzaktan yapılan 
+eğitimleri, yeni başlayan çalışanlara verilen temel eğitimleri, şirket dışı eğitimleri ve işbaşı eğitimlerini kapsar.
+Hizmet İçi Eğitimin İlkeleri
+Hizmet içi eğitimde hedeflenen amaca ulaşılması için aşağıdaki ilkelere uyulur;
+- Eğitimler, Şirketin temel hizmet alanları için belirlenen hedefler ve rekabet stratejileri doğrultusunda tespit edilen 
+eğitim ihtiyaçlarına uygun olarak çalışanların, kurum aidiyeti duygusunun geliştirilmesi, göreve bağlılığının ve 
+görevi ile ilgili yetkinliğinin artırılması amaçları gözetilerek süreklilik içinde gerçekleştirilir.
+- Hizmet içi eğitimler, Eğitim Daire Başkanlığınca hazırlanan plan ve program dahilinde yürütülür.
+-Yöneticiler, çalışanların fırsat eşitliği çerçevesinde, eğitim programlarına katılmaları ve yetişmeleri için gerekli 
+tedbirleri alır.
+- Eğitimden beklenen sonuçlara ulaşılıp ulaşılamadığının belirlenmesi için eğitim etkinlikleri sırasında ve bitiminde 
+sınav, anket, gözlem ya da mülakat yoluyla değerlendirme yapılır.
+- Değerlendirme sonuçlarına ve yeni eğitim ihtiyaçlarına göre eğitim programları geliştirilir.
+- Eğiticinin sürekli olarak gelişimini sağlamak amacıyla eğiticinin eğitimine yönelik etkinlikler gerçekleştirilir.
+- Çalışanların görev alanına uygun konularda eğitime katılmaları sağlanır.
+- Kartopu yöntemi ile işbaşı eğitimlerinin Şirketin tüm işyerlerinde etkin bir şekilde uygulanması sağlanır.
+- Eğitim ihtiyacının özelliğine uygun olarak gerektiğinde yurtiçi ve yurt dışındaki tüm kurum ve kuruluşlarla 
+işbirliği yapılır.
+- Katılımcıların; dersi aksatmaları, derse hiç girmemeleri, yerine başka birinin imza atması ve şirket tarafından 
+belirlenen prosedür, talimat ve kurallara uygun davranmaması halinde gerekli idari veya disiplin işlemleri uygulanır.
+6.2 Şirket İçi Eğitim
+PTT çalışanlarının, görevleriyle ilgili iş ve işlemlerde yetkinliklerinin arttırılmasına yönelik bilgi, beceri ve 
+davranışlarının geliştirilmesi için Şirket imkanlarıyla gerçekleştirilen eğitimlerdir.
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Eğitim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EGT.PR01
+İlk Yayım Tarihi
+6.02.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/4
+6.2.1 Yıllık Plan ile Eğitim Müdürlüklerinde Verilen Eğitimler
+Eğitimler kitabında tanımlanmış eğitim ya da seminerlerin yıllık eğitim planına uygun olarak Eğitim 
+Müdürlüklerinde nasıl uygulanacağı EGT.TL08 Şirketiçi Eğitim Talimatında açıklanmıştır.
+6.2.2 Temel Eğitim ve Birim İşbaşı Eğitimleri
+PTT’de göreve yeni başlayan çalışanlara verilen göreve hazırlık temel eğitimi ve birim işbaşı eğitimlerinin nasıl 
+uygulanacağı EGT.TL02 İşbaşı Eğitim Uygulama Talimatında açıklanmıştır. 
+6.3 Şirket Dışı Eğitim
+Diğer kurum ve kuruluşlardan ve/veya eğitim ve danışmanlık firmalarından hizmet alımı yoluyla temin edilen şirket 
+dışı eğitimlerin uygulama süreci EGT.TL03 Şirket Dışı Eğitim Talimatında açıklanmıştır.
+6.4 İşbaşı Eğitim
+PTT’de planlı ve plansız olarak mevzuat, proje vb. konularda hizmet gereği belirlenen ihtiyaçlara göre uygulamalı 
+olarak işyerlerinde veya ilgili birimlerce temin edilen eğitim ortamında verilen işbaşı eğitimlerin nasıl uygulanacağı 
+EGT.TL02 İşbaşı Eğitim Uygulama Talimatında açıklanmıştır.
+6.5 Diğer Faaliyetler
+Eğitim faaliyetleri kapsamında;
+- Eğitim kitabında veya uzaktan eğitim içeriğinde bulunan ders notu, kitap, sunum, süreli-süresiz yayın, belgesel, 
+kurumu tanıtıcı ve bilgilendirici fiziksel ve dijital ortamda hazırlanan film, video, vb. materyallerin 
+hazırlanması/hazırlatılması ve bunlardan ekonomik değer elde edilmesi,
+- www.pttkitap.com internet adresinden kitap ve kırtasiye ürünleri satış faaliyetlerinin yürütülmesi, bununla ilgili 
+faaliyetleri yürütmek amacıyla kuruluş oluşturulması, 
+- Şirketimizde ve şirketimiz dışında istihdam edilen bazı mesleklerin mesleki standartlarını oluşturarak mesleki 
+yeterlilik belgesi verilmesi ve ekonomik değer elde edilmesi çalışmaları yürütülür. 
+6.6 Kayıtların Tutulması
+Bu prosedürde belirtilen tüm dokümanlar, Eğitim Birimleri tarafından Devlet Arşiv Hizmetleri Hakkında 
+Yönetmelik ve Standart Dosya Planında belirtilen hükümlere uygun olarak muhafaza edilir.  
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+EGT.TL02-İşbaşı Eğitim Uygulama Talimatı
+EGT.TL03-Şirket Dışı Eğitim Talimatı
+EGT.TL08-Şirket İçi Eğitim Talimatı
+EGT.TL09-Uzaktan Eğitim Talimatı
+EGT.TL10-Göreve Hazırlık ve Oryantasyon Eğitim Uygulama Talimatı
+İKD.YNT01-Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel 
+Hakkında Yönetmelik
+KN.010-657 sayılı Devlet Memurları Kanunu
+KN.027-3308 sayılı Mesleki Eğitim Kanunu
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Eğitim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EGT.PR01
+İlk Yayım Tarihi
+6.02.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/4
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 6.02.2019 Yeni Doküman

@@ -1,0 +1,186 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan:
+HUKUK MÜŞAVİRLİĞİ
+Süreç Sahibi:
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+EYS Onayı
+ENTEGRE YÖNETİM SİSTEMİ 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+Onaylayan / İdari
+YÖNETİM KURULU
+Doküman No
+HUK.PR02.0 4.04.2019
+1/5
+Dokümanın Adı:
+İNCELEME VE DEĞERLENDİRME KURULU (İNDEK) PROSEDÜRÜ
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+HUK.PR02
+İlk Yayın Tarihi
+4.04.2019
+Revizyon Tarihi
+4.04.2019
+Revizyon No:
+0
+Sayfa Sayısı:
+1/5
+REVİZYON TARİHÇESİ
+Revizyon 
+No
+Revizyon 
+Tarihi Açıklama
+0 4.04.2019  
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman No
+HUK.PR02.0 4.04.2019
+2/5
+1. AMAÇ
+Bu Prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından çıkartılacak yönetmelik, yönerge, 
+prosedür ve talimatlar ile Genel Müdür tarafından incelenmesine gerek görülen düzenleme taslaklarının 
+hukuka, genel mevzuata, kurum mevzuatına ve işletme gereklerine uygunluğu hususunda gerekli inceleme ve 
+değerlendirmenin yapılması amacıyla kurulan, İnceleme ve Değerlendirme Kurulu’nun görev, çalışma usul ve 
+esasları ile yetki ve sorumluluklarını belirlemektedir.  
+2. KAPSAM
+Bu Prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından çıkartılacak yönetmelik, yönerge, prosedür 
+ve talimatlar ile Genel Müdür tarafından incelenmesine gerek görülen düzenleme taslaklarını kapsar.
+3.TANIMLAR VE KISALTMALAR
+3.1 Birim: Başkanlık, Müşavirlik, Daire Başkanlığı ve Birimlerini,
+3.2 EBYS: Elektronik Belge Yönetim Sistemini,
+3.3 Genel Müdürlük: Şirketin yetkili ve sorumlu yürütme organını,
+3.4 QDMS: EYS Yazılımını,
+3.5 EYS: Entegre Yönetim Sistemini,
+3.6 Kurul/İNDEK: İnceleme ve Değerlendirme Kurulu’nu,
+3.7 Süreç Sahibi: Süreci en üst seviyede yöneten, sürecin performansından sorumlu kişiyi,
+3.8 Şirket/PTT A.Ş: Posta ve Telgraf Teşkilatı A.Ş. Genel Müdürlüğünü,
+3.9 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğü Yönetim Kurulunu, 
+İfade eder.
+4.SORUMLULUKLAR
+4.1 Hukuk Müşavirliği
+İNDEK toplantılarının hazırlanması ve yönetiminden Hukuk Müşavirliği sorumludur.
+4.2 EYS Daire Başkanlığı
+Bu prosedürün hazırlanması ve yönetiminden üst yönetim adına EYS Daire Başkanlığı sorumludur. EYS Daire 
+Başkanlığı tüm doküman revizyon ve yayımlanma taleplerinin EYS standartlarına göre uygunluğunu gözden 
+geçirerek uygun olan dokümanları İNDEK’e sunmak üzere EYS prosedürünü başlatarak Hukuk Müşavirliğine 
+iletmekten sorumludur.
+4.3.  Birimler; görev alanlarına ilişkin yönetmelik, prosedür ve talimatlar ile Genel Müdür tarafından 
+İNDEK’te incelenmesine gerek görülen düzenleme taslaklarını hazırlayarak 5.4.9 maddesindeki usulle Hukuk 
+Müşavirliğine göndermekten sorumludurlar.
+4.4. Kurulun Teşekkülü: Yönetim Kurulunca kurulmasına karar verilen İnceleme ve Değerlendirme Kurulu; 
+Genel Müdür’e bağlı olup, İNDEK’te görüşülmesi teklif edilen idari ve düzenleyici işlemi teklif eden Birimin 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman No
+HUK.PR02.0 4.04.2019
+3/5
+bağlı olduğu Genel Müdür Yardımcısı başkanlığında; Genel Müdür’e doğrudan bağlı birimlerin düzenlemeleri 
+ile birden fazla Birimi ilgilendiren düzenlemelerde Genel Müdürün uygun gördüğü Genel Müdür Yardımcısı 
+başkanlığında;
+a) Rehberlik ve Kontrol Hizmetleri Daire Başkanı
+b) I. Hukuk Müşaviri,
+c) Konunun özelliğine göre ilgili Birimlerin Başkanlarından/Sorumlularından oluşur.
+4.5. İnceleme ve Değerlendirme Kurulunun raportörlük ve sekreterya işleri Hukuk Müşavirliğince yürütülür.
+5.  UYGULAMALAR
+5.1. Kurulda yapılacak görüşmelerin konusu; Şirketçe çıkartılacak yönetmelik, yönerge, prosedür ve talimatlar 
+ile Genel Müdür tarafından incelenmesine gerek görülen düzenleme taslakları olup, bunun dışındaki konular 
+Kurulda görüşülemez. 
+5.2 Kurulun Görevleri
+5.2.1  İnceleme ve Değerlendirme Kurulunun Görevleri;
+5.2.1.1 Şirketçe çıkartılacak yönetmelik, yönerge, prosedür ve talimatlar ile Genel Müdür tarafından 
+incelenmesine gerek görülen düzenleme taslaklarının hukuka, genel mevzuata, Şirket mevzuatına ve işletme 
+gereklerine uygunluğu yönünden gerekli inceleme ve değerlendirmeyi yapmak,
+5.2.1.2  Kurulda alınan kararları Genel Müdürlük Makamına sunmaktır.
+5.3. Konuların İnceleme ve Değerlendirme Kurulu’na İletilmesi
+5.3.1 Birimlerce İnceleme ve Değerlendirme Kurulunda görüşülmesi önerilen konu, ayrıntıları da belirtilerek 
+Makam Onay’ına sunulur.
+5.3.2 Önerilen konunun Makamca İNDEK’de incelenmesine gerek görülmesi halinde, süreç sahipleri veya 
+süreç sahiplerinin görevlendirdiği personel tarafından, QDMS üzerinden Doküman Hazırlama ve Yönetimi 
+Prosedüründe belirtilen standartlara göre hazırlanan taslak doküman standartlara uygunluğunun ve formatın 
+kontrolü için Entegre Yönetim Sistemi Daire Başkanlığına gönderilir. EYS Dairesi Başkanlığı tarafından 
+yönetim sistemleri standartlarına göre yeterliliği kontrol edilir ve uygun görülenler süreç sahibi tarafından 
+İNDEK’de görüşülmek üzere EBYS Sisteminden bir yazı ekinde word formatında Hukuk Müşavirliğine 
+gönderilir.
+ 
+5.3.3 Makamca Kurul’da görüşülmesine karar verilen ve 5.4.9’a göre hazırlanan metin Hukuk Müşavirliğince, 
+İnceleme ve Değerlendirme Kurulu Başkanına iletilir.
+5.4 Toplantı Yöntemi
+5.4.1 Toplantılarla ilgili hususlar;
+5.4.2 I.Hukuk Müşaviri tarafından organize edilen, İnceleme ve Değerlendirme Kurulu, Kurul Başkanının 
+belirleyeceği yer, gün ve saatte toplanır.
+5.4.3 Kurul Başkanınca gün ve saati belirlenen toplantılar; Hukuk Müşavirliğince ilgili dairelere bildirilir ve 
+belirlenen gün ve saatte başlar. İnceleme ve Değerlendirme Kurulu toplantılarında gündem dışı konu 
+görüşülemez.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman No
+HUK.PR02.0 4.04.2019
+4/5
+5.4.4 İnceleme ve Değerlendirme Kurulu üyeleri raporlu, kanuni izinli veya başka bir yerde görevli olmadıkça 
+toplantıya katılmak zorundadırlar.
+5.4.5   İNDEK üyelerinin raporlu,  kanuni izinli veya başka yerde görevli olmaları halinde yerlerine bakanlar 
+üye olarak Kurula çağırılırlar.
+5.4.6  İnceleme ve Değerlendirme Kurulu, Başkan ve üyelerin tam sayısıyla toplanır. Kararlar oy çokluğuyla 
+alınır. Oylarda eşitlik olması halinde başkanın bulunduğu taraf çoğunluğu sağlamış sayılır.
+5.4.7 Karara muhalif kalan üye gerekçesini yazılı olarak karara yazar ve imzalar.
+5.4.8 Teklifin kabul edilmesi halinde, son şekli verilen metnin sistemden çıktısı alındıktan sonra her bir 
+sayfanın sol alt köşesine Birimin kaşesi basılıp Birim sorumlusu tarafından paraflandıktan ve birinci sayfası 
+imzalandıktan sonra EBYS’den hazırlanan bir yazı ekinde fiziki olarak Hukuk Müşavirliğine gönderilir. 
+Teklifin kabul edilmemesi durumunda ise gerekçesi ile birlikte ilgili Birime yazı ekinde iade edilir.
+5.4.9 Teklifte değişiklik yapılması uygun görülür ise söz konusu değişiklikler toplantı esnasında karar altına 
+alınır ve ilgili Birim tarafından, QDMS sisteminde bulunan taslak metin üzerinde gerekli değişiklikler 
+yapılarak son şekli verilen metnin sistemden çıktısı alındıktan ve her bir sayfanın sol alt köşesine Birimin 
+kaşesi basılıp Birim sorumlusu tarafından paraflandıktan sonra EBYS’den hazırlanan bir yazı ekinde fiziki 
+olarak Hukuk Müşavirliğine gönderir.
+5.5 Karar Defteri ve Kararlar
+5.5.1  Karar defteri, İNDEK’de alınan kararların yazıldığı defterdir.
+5.5.2 Karar defteri Hukuk Müşavirliğinde muhafaza edilir.
+5.5.3 Kararlar her sene 1’den başlamak üzere sıra numarası alır ve karar defterine yazılır.
+5.5.4 Toplantıda alınan kararlar tutanak altına alınır ve İNDEK Kararına yazılarak toplantıya katılan üyelere 
+imza ettirilir. İNDEK Kararının aslı karar defterine yapıştırılır.
+5.5.5 İmzalanan kararlar Hukuk Müşavirliğince hazırlanacak bir üst yazı ekinde ve dosyasıyla birlikte Kurul 
+Başkanına sunulur.
+5.5.6 Kurul Başkanı, kararları üst yazı ve eki tüm belgeleriyle birlikte Yönetim Kuruluna sevk edilmek üzere 
+Genel Müdürlük Makamına sunar. Makam Onayının aslı da İNDEK Karar Defterine yapıştırılır.
+5.5.7 Yönetim Kurulu tarafından onaylanan metin,  Hukuk Müşavirliğince bir yazı ekinde gereği için ilgili 
+Birime, bilgi için Rehberlik Kontrol Hizmetleri Daire Başkanlığına ve QDMS’ de yayınlanmak üzere EYS 
+Daire Başkanlığına gönderilir. 
+5.5.8 Kararlar Hukuk Müşavirliğinde muhafaza edilir.
+6. YÜRÜRLÜK
+Bu prosedür yayınlandığı tarihte yürürlüğe girer.
+7. YÜRÜTME
+Bu prosedürü Yönetim Kurulu yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman No
+HUK.PR02.0 4.04.2019
+5/5
+8. REFERANS DOKÜMANLAR:
+EYS.FR20-Toplantı Tutanağı
+EYS.PR01-Doküman Hazırlama ve Yönetimi Prosedürü
+HUK.FR04-İndek Karar Tutanağı Formu
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

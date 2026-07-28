@@ -1,0 +1,286 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+SATINALMA DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Dokümanın Adı
+Dahili Sigorta İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+5
+Sayfa Sayısı
+1/5
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatında bulunan maddi 
+duran varlıklar kapsamındaki menkul ve gayrimenkul kıymetlerle, kiracısı olduğu menkul ve gayrimenkuller ve 
+bunlara dair hak ve menfaatlerin, risklere karşı teminat altına alınmasında uygulanacak usul ve esasları 
+düzenlemektedir.
+2.KAPSAM
+Bu prosedür Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatındaki maddi duran varlıklar 
+kapsamındaki menkul ve gayrimenkul kıymetlerle, kiracısı olduğu menkul ve gayrimenkuller ve bunlara dair hak ve 
+menfaatlerini kapsar.
+3.DAYANAK
+Bu prosedür Vergi Usul Kanunu’nun 328. maddesine dayanılarak hazırlanmıştır
+4.TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.2 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.3 Dahili Sigorta: Posta ve Telgraf Teşkilatı Anonim Şirketinin sahibi veya kiracısı olduğu menkul ve 
+gayrimenkuller ve bunlara dair hak ve menfaatlerin Posta ve Telgraf Teşkilatı Anonim Şirketi bünyesinde bir fon 
+oluşturulmak suretiyle risklere karşı teminat altına alınması.
+4.4 Dahili Sigorta Fonu: Posta ve Telgraf Teşkilatı Anonim Şirketi bütçesinden ayrılan parasal karşılığı.
+4.5 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.6 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Merkez Teşkilatıdır.
+4.7 Maddi Duran Varlıklar: Posta ve Telgraf Teşkilatı Anonim Şirketi kendi ihtiyaçlarında kullanılmak üzere 
+temin ettiği tahmini kullanma ömrü bir yıldan fazla olan ve yıpranmaya aşınmaya veya kıymetten düşmeye maruz 
+bulunan İdaremiz hesaplarında kayıtlı menkul ve gayrimenkul varlıklarıdır.
+4.7 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+4.8 PTT Müdürlükleri: Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan 
+müdürlüklerdir.
+4.9 Sürücü: Ünvanı şoför olanlar ile ünvanı şoför olanların dışında olup, motorlu taşıtları sürmek üzere 
+görevlendirilen ve/veya hizmet alımı yöntemiyle çalışanlar dahil görev yapan personeli.
+4.10 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.11 Taşıt: 2918 sayılı Karayolları Trafik Kanunu’nda tanımlanan araçlar.
+4.12 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+5.SORUMLULUKLAR
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+Dahili Sigorta İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+5
+Sayfa Sayısı
+2/5
+Bu prosedürün yürütülmesi ve takip edilmesinden Satınalma Daire Başkanlığı, uygulanmasından ise Finans ve 
+Muhasebe Başkanlığı ve Bölge Müdürlükleri sorumludur.
+6.UYGULAMA
+6.1 Dahili Sigorta Fonunun Kapsamı, Yetki Sınırları, İstisnalar
+6.1.1 Dahili sigorta fonunun kapsamı aşağıdaki gibidir;
+a) Yangın, sel gibi doğal afetler, terör gibi olağanüstü haller, hırsızlık, suyolu, karayolu ve demiryollarında taşıma ve 
+her türlü olay sonucunda menkul ve gayrimenkullerde meydana gelebilecek zararlar,
+b) Menkulün çalınması durumunda; yapılan takibat sonucunda altı ay içinde bulunamadığı takdirde, menkulün 
+ikame bedeli,
+c) Menkul ve gayrimenkulün herhangi bir aksam ve parçanın çalınması veya çalınmaya teşebbüs edilmesi 
+sonucunda meydana gelen zararlar.
+6.1.2 Dahili sigorta fonundan karşılanacak bedelin ödenmesine dair yetki sınırları;
+Dâhili sigorta fonundan karşılanacak bedelin ödenmesine dair yetki sınırları Finans ve Muhasebe Başkanlığınca, 
+terkin ve gider yetkisi kapsamında yapılan tebliğin bir no.lu maddesinde gösterilen limitler dâhilin de yapılır.
+6.1.3 Aşağıda belirlenen haller dahili sigorta kapsamı dışındadır:
+a) Tarla, arsa, yol, kaldırım, park ve bahçeler ile halen inşaat halinde olup, kat’i kabule kadar mesuliyetleri 
+müteahhitlere ait olan bina,
+b) Taşıtın, 2918 sayılı Karayolları Trafik Kanunu hükümlerine göre gerekli sürücü belgesi olmayan kişilerce 
+kullanılması sonucunda meydana gelen zarar,
+c) Sürücünün taşıtı alkollü içki, uyuşturucu veya keyif verici maddelerin etkisi altında iken kullanması nedeniyle 
+yapmış olduğu kazalar ile güzergâh dışında kullanılmasından doğan zarar.
+6.2 Olay Sonrası Yapılacak İşlemler
+6.2.1 Olayın İhbarı
+6.2.1.1 Olay, ilgililer tarafından en seri şekilde Birim Yöneticisine ve olayla ilgili adli mercilere bildirilir. Birim 
+Yöneticisince; olayın büyümesini önleyici söndürme ve kurtarma gibi tedbirler alınarak, mahalli kolluk kuvvetleri 
+ile iş birliği sağlanır ve zarar tespiti yapılarak olay, ilgili Birim Yöneticisi tarafından en geç yirmi dört saat içinde 
+telefon, faks ve benzeri haberleşme araçları ile ilgisine göre;
+a) Taşıtlarda; Destek Hizmetleri ve Ulaşım Daire Başkanlığına,
+b) Diğer menkullerde; Satınalma Daire Başkanlığına,
+c) Gayrimenkullerde; Yapı Daire Başkanlığına bildirilir.     
+6.2.1.2 Meydana gelen olay trafik kazası ise sürücü veya diğer görevlilerce derhal en yakın kolluk kuvvetlerine ve 
+amirine bildirilir.
+6.2.1.3 Birim Yöneticisi; kaza ekspertiz raporu, kaza tespit tutanağı, ve alkol tespit tutanaklarının düzenlenmesi 
+sağlanır. Bu belgelere dayalı olarak, ilgili merciler nezdinde kazaya karışan taşıt sürücülerinin kusur oranları ile 
+taşıtlarda meydana gelen zarar bedelinin tespiti sağlanır.
+6.2.1.4 Birim Yöneticisi, 2918 sayılı Karayolları Trafik Kanunu ve Karayolları Trafik Yönetmeliği’nde belirtilen 
+önlemleri alır veya alınmasını sağlar.
+6.2.1.5 Can kaybı ile sonuçlanan olaylarda durum bağlı bulunulan hukuk birimine de bildirilir.
+6.2.2Olayın Tespiti ve Tutanağa Bağlanması
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+Dahili Sigorta İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+5
+Sayfa Sayısı
+3/5
+6.2.2.1Olayı müteakip meydana gelen zararın tespiti için olay yeri aynen korunur.
+6.2.2.2Olayla ilgili tespit tutanağı düzenlenir ve varsa ilgili resmi mercilerin raporlarının tasdikli suretleri tespit 
+tutanağına eklenir.
+6.2.3 Olay Sonrası Menkullerle İlgili Yapılacak İşlemler
+6.2.3.1 Zarar gören menkule veya kıymete ait zarar bedeli Bölge Müdürlüğü yetkisi dahilinde ise bedeli dahili 
+sigorta fonundan karşılanarak, zarar gören menkul taşıt ise onarımı yaptırılarak sonucundan Satınalma Daire 
+Başkanlığına bilgi verilir. Olay ile ilgili bilgi ve belgeler Bölge Müdürlüğünde muhafaza edilir.
+6.2.3.2 Zarar gören menkul kıymete veya idare taşıtına ait onarım bedelinin Bölge Müdürlüğünün yetkisini aşması 
+halinde, olay hakkında düzenlenen tutanak ve ekleri ile olaya ait diğer tüm bilgi ve belgeler Satınalma Daire 
+Başkanlığına gönderilir.
+6.2.3.3 Satınalma Daire Başkanlığı mütalaasıyla birlikte Finans ve Muhasebe Başkanlığına intikal ettirilir. Bu 
+prosedürün 6.1.2 maddesinde belirtilen yetkili makamın onayı alınmak suretiyle ilgili dairesine ve Bölge 
+Müdürlüğüne gerekli bildirim yapılır.
+6.2.4 Olay Sonrası Gayrimenkullerle İlgili Yapılacak İşlemler
+6.2.4.1Zarar gören gayrimenkule ait zarar bedeli Bölge Müdürlüğünün yetkisi dâhilinde ise bedeli dâhili sigorta 
+fonundan karşılanmak suretiyle zarar telafi edilerek sonucundan Yapı Daire Başkanlığına bilgi verilir. Olay ile ilgili 
+bilgi ve belgeler Bölge Müdürlüğünde muhafaza edilir.
+6.2.4.2Gayrimenkule ait zarar bedelinin karşılanmasını teminen bedelin Bölge Müdürlüğünün yetkisini aşması 
+halinde, olay hakkında düzenlenen tutanak ve ekleri ile olaya ait diğer tüm bilgi ve belgeler Yapı Daire Başkanlığına 
+gönderilir.
+6.2.4.3Yapı Daire Başkanlığı mütalaasıyla birlikte Finans ve Muhasebe Başkanlığına intikal ettirilir. Finans ve 
+Muhasebe Başkanlığı tarafından, prosedürün 6.1.2 maddesinde belirtilen yetkili makamın onayına sunulur. Onay 
+sonucuna göre ilgili dairesine ve Bölge Müdürlüğüne gerekli bildirim yapılır.
+6.2.5 Trafik Kazası Sonucu Hurdaya Ayrılan Taşıt Bedelinin Tespiti
+Trafik kazası sonucunda hurdaya ayrılacak taşıt bedelinin tespitinde, Türkiye Sigorta ve Reasürans Şirketleri 
+Birliğince yayımlanan yılına ait motorlu kara taşıtları kasko değerleri listesindeki bedel emsal alınır. Bu listede yer 
+almayan taşıtların emsal bedeli, biriminde oluşturulacak heyet tarafından tespit edilir.
+6.3 Zararın Karşılanması
+6.3.1Zararın Karşılanmasında Usul
+Bu prosedürün 6.1.3 maddesinde belirtilen istisnalar hariç olmak üzere;
+a) PTT AŞ’nin sahibi olduğu maddi duran varlıklar ile kiracısı olduğu menkul ve gayrimenkul kıymetlerle bunlara 
+dair hak ve menfaatlerinde yangın, sel gibi doğal afetler, terör gibi olağanüstü haller, hırsızlık, suyolu, karayolu ve 
+demiryollarında taşıma ve her türlü olay sonucunda meydana gelen zarar dâhili sigorta fonundan karşılanır. Ayrıca 
+olayın sorumlusunun olmaması veya bulunamaması hallerinde meydana gelen zarar dâhili sigorta fonundan 
+karşılanır.
+b) Olay sonucunda meydana gelen maddi zarar ve ölüm, yaralanma, maluliyet gibi bedensel bütünlüğü bozan 
+zararlar nedeniyle açılan davaların PTT aleyhine sonuçlanması halinde, hüküm altına alınan maddi ve manevi 
+tazminatlar varsa kusur oranında olayın sorumlusuna ait olup, dâhili sigorta fonundan karşılanmaz.
+c) Trafik kazası sonucunda meydana gelen ölüm, yaralanma, maluliyet gibi bedensel bütünlüğü bozan zararlar 
+nedeniyle açılan davaların PTT aleyhine sonuçlanması halinde, hüküm altına alınan maddi tazminatların limitler 
+dâhilinde taşıtımızın kayıtlı bulunduğu sigorta şirketinden tahsili sağlanır. Limitleri aşan kısım ve manevi 
+tazminatlar kusur oranında sürücünün sorumluluğunda olup, dâhili sigorta fonundan karşılanmaz.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+Dahili Sigorta İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+5
+Sayfa Sayısı
+4/5
+ç) Maddi hasarlı trafik kazalarında Zorunlu Karayolları Mali Sorumluluk (Trafik) Sigortası kapsamında karşı 
+taraftan alınamayan zarara ilişkin bedel ile Zorunlu Karayolları Mali Sorumluluk (Trafik) Sigortası uygulanmayan 
+ve muhatabın bulunmadığı veya belli olmadığı kazalarda sürücü kusurlu bulunduğu takdirde, kusuru oranında 
+idaremizce ödenen hasar bedelinin %20’ si sürücüye rücu edilmek üzere PTT AŞ bütçesinden, bakiyesi ise dahili 
+sigorta fonundan karşılanır. Sürücüden rücuen alınacak bedel, brüt aylıklarının %5’ inden az olmamak kaydıyla, 
+Birim Yöneticisi tarafından tespit edilecek aylık taksitlerle tahsil olunur.
+d) Maddi hasarlı trafik kazalarında maddi hasarın tespiti ve denetimi Bölge Müdürlüklerince yapılır.
+6.3.2 Fondan Yapılacak Ödemelerde Usul
+6.3.2.1 Dahili sigorta fonundan Bölge Müdürlüğünün yetkisindeki harcamalar Finans ve Muhasebe Başkanlığından 
+izin alınarak Bölge Müdürlüklerince yapılır ve sonucu Finans ve Muhasebe Başkanlığına bildirilir
+6.3.2.2 Merkezde yapılacak harcamalar Finans ve Muhasebe Başkanlığınca yapılır.
+6.3.2.3 Dahili sigorta fonunun takibi Finans ve Muhasebe Başkanlığınca yapılır.
+6.3.2.4 Maddi hasarlı trafik kazalarında aracın satış değerinin %55 ve üzerinde bir miktarda onarım masrafı 
+bulunduğunun tespiti halinde hurdaya ayırma işlemi uygulanır.
+6.3.2.5 Fondan yapılacak ödemeler Finans ve Muhasebe Başkanlığı yetkisindedir
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.014-2918 sayılı Karayolları Trafik Kanunu
+KN.029-213 sayılı Vergi Usul Kanunu
+YNT.041-Karayolu Taşıma Yönetmeliği
+11. REVİZYON BİLGİLERİ
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+Dahili Sigorta İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR01
+İlk Yayım Tarihi
+17.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+5
+Sayfa Sayısı
+5/5
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+5 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+4 3.01.2024 Prosedürde yer alan Finans ve Muhasebe Daire Başkanlığı ifadeleri Finans 
+ve Muhasebe Başkanlığı olarak güncellenmiştir. 
+3 19.06.2023 Güncellenmesine ihtiyaç duyulmuştur. 
+2 17.03.2020
+Şirketimiz dağıtım hizmetlerinde çalışan firma elemanlarının Şirketimize 
+ait araçları kullanmasına ilişkin olarak Dahili Sigorta Prosedürünün;             
+"Tanımlar ve Kısaltmalar" başlıklı 4. maddesinin 4.12. bendinde; 
+"Sürücü: Unvanı şoför olanlar ile unvanı şoför olanların dışında olup, 
+motorlu taşıtları sürmek üzere görevlendirilen ve/veya hizmet alımı 
+yöntemiyle çalışanlar dahil görev yapan personeli ", denilmektedir.    
+Bahse konu sürücü tanımına uymasına rağmen taşeron firma bünyesinde 
+Başmüdürlüklerimiz ve bağlı işyerlerinde şoför olarak çalışan firma 
+personeli  adı geçen Prosedürün “Zararın karşılamasında usul” başlıklı 
+5.3.1 maddesinin (d) bendi kapsamında yer almadığı için, taşeron firma 
+elamanı olarak çalışan işçilere Şirketimize ait araçlar 
+kullandırılamadığından Başmüdürlüklerimizin dağıtım işlerinde 
+aksamalar yaşanması nedeniyle revizyon ihtiyacı doğmuştur. 
+1 28.01.2019
+Destek Hizmetleri ve Ulaşım Daire Başkanlığı'nın 18.09.2018 tarih ve 5174 
+sayılı yazılarına istinaden Dahili Sigorta Prosedürü 4. Tanımlar ve 
+Kısaltmalar başlıklı 4.12 Sürücü: Unvanı şoför olanlar ile unvanı  şoför 
+olanların dışında olup, taşıt sürme yetki belgesine sahip motorlu taşıtları 
+sürmek üzere görevlendirilen ve hizmet alımı yöntemiyle çalışanlar dahil 
+görev yapan personeli 
+0 17.07.2018 Yeni Doküman 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

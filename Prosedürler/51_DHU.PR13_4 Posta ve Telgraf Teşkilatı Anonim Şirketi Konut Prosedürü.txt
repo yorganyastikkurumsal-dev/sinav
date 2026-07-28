@@ -1,0 +1,660 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+DESTEK HİZMETLERİ VE 
+ULAŞIM DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+1/11
+1. AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi’ne ait konutların; edinilmesi, tahsis şekli, oturma 
+süresi ve tahliyesi ile kira, bakım, onarım ve yönetimine ilişkin hususları düzenlemektir.
+2. KAPSAM
+Bu prosedür, inşa ettirme, satın alma ve kiralama suretiyle Şirkete konut sağlanması ve sağlanan bu konutlardan 
+personelin yararlandırılmasını kapsar.
+3. DAYANAK
+Bu prosedür; 6475 sayılı Posta Hizmetleri Kanunu 21. maddesinin 6. fıkrası, Posta ve Telgraf Teşkilatı Anonim 
+Şirketi Esas Sözleşmesinde yer alan “Yönetim Kurulunun Görev ve Yetkileri” başlıklı 16. maddesinin 1. fıkrasının i 
+bendi ile yine Esas Sözleşmenin 3. maddesinin 3. fıkrasının d bendine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Bölge Müdürlüğü: Posta ve Telgraf Teşkilatı Anonim Şirketinde Bölge Müdürü tarafından yönetilen birimdir.
+4.2 Demirbaş Eşya ve Mefruşat Tutanağı Formu: Konutu teslim alan kişi ile teslim eden Bölge Müdürlüğü 
+yetkili birimlerince düzenlenen konut ve konutta yer alan demirbaşları gösteren belgedir.
+4.3 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.4 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Merkez Teşkilatıdır.
+4.5 İl Merkezi: Bulunduğu ilin merkez ilçeleridir.
+4.6 Konut: Tahsis, yararlanma şekil ve şartları Şirketçe belirlenmek suretiyle personelin yararlanması 
+amacıyla Şirket tarafından edinilmiş meskendir.
+4.7 Konutu Geri Alma Tutanağı Formu: Konutu teslim eden kişi ile teslim alan Bölge Müdürlüğü yetkili 
+birimlerince düzenlenen konut ve konutta yer alan demirbaşları gösteren belgedir.
+4.8 Merkez: Posta ve Telgraf Teşkilatı Anonim Şirketi Merkez Teşkilatının bulunduğu ildir.
+4.9 Merkez Konut Tahsis Komisyonu: Bu prosedür çerçevesinde Ankara il merkezindeki konutların tahsisini 
+yapan komisyondur.
+4.10 Personel: Posta ve Telgraf Teşkilatı Anonim Şirketi'nde; 399 sayılı Kanun Hükmünde Kararname eki I ve II 
+sayılı cetvele tabi olan, 375 sayılı Kanun Hükmünde Kararnamenin ek 27’nci maddesi kapsamında idari hizmet 
+sözleşmesi ile istihdam edilen ve 4857 sayılı Kanuna göre istihdam edilen çalışanlardır.
+4.11 PTT AŞ/Şirket: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.12 Şartlı Tahsis: Boş konut bulunması ancak görev ve sıra tahsisli olarak konut talep eden personel bulunmaması 
+halinde konutun belirlenen şartlarda geçici olarak tahsis edilmesidir.
+4.13 Taşra: Şirketin Genel Müdürlük birimleri dışındaki tüm birimlerdir.
+4.14 Taşra Konut Tahsis Komisyonu: Bu prosedür çerçevesinde Merkez Konut Tahsis Komisyonu görev alanı 
+dışındaki konutların tahsisini yapan komisyondur.
+4.15 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+4.16 Yönetici: Konut blok veya gruplarında, Şirketçe veya oturanlarca karşılanan yakıtın temin, tedarik ve dağıtımı 
+dışındaki müşterek hizmetlerin düzenli bir şekilde yürütülmesi için, konut tahsis edilenler tarafından kendi 
+aralarından seçilen kişi veya kişilerdir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+2/11
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanmasından, yönetiminden ve uygulanmasından Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığı, konutların temininden, tadilatından, kiraya verilmesinden, satışından, satın alınmasından, inşa 
+ettirilmesinden ve tamiratından Yapı Daire Başkanlığı, konutlarla ilgili iş ve işlemlerin yürütülmesinden ilgili Bölge 
+Müdürlüğü, Ankara il merkezinde bulunan konutların tahsisinden Merkez Konut Tahsis Komisyonu, Ankara il 
+merkezi dışında ve diğer Bölge Müdürlüklerindeki konutların tahsisinden Taşra Konut Tahsis Komisyonları 
+sorumludur.
+6. UYGULAMA
+6.1 Konut Edinme Yöntemleri ve Tahsis Komisyonları
+6.1.1 Şirketin Konut Edinme Yöntemleri 
+Şirket, Yönetim Kurulu kararı ile inşa, satın alma veya kiralama yöntemleri ile konut edinir. İhtiyaç olması halinde 
+konut talebi; 
+a) Genel Müdürlükte; Destek Hizmetleri ve Ulaşım Daire Başkanlığının konut talebi üzerine Yapı Daire 
+Başkanlığınca,
+b) Bölge Müdürlüklerinde; Bölge Müdürlüğünün konut talebi, Destek Hizmetleri ve Ulaşım Daire Başkanlığının   
+uygun görüşü üzerine Yapı Daire Başkanlığınca, Yönetim Kurulu onayı alınarak Genel Müdürlükte Yapı Daire 
+Başkanlığınca, Bölge Müdürlüklerinde ise Bölge Müdürlüğü Yapı ve Teknoloji Müdürlüğünce gereği sağlanır.
+6.1.2 Konut Tahsis Komisyonları
+6.1.2.1 Konutların tahsisi amacı ile konut tahsis komisyonları kurulur.
+6.1.2.2 Merkez Konut Tahsis Komisyonu; bu prosedür çerçevesinde Ankara il merkezindeki konutların tahsisini 
+yapmak amacıyla Destek Hizmetleri ve Ulaşım Daire Başkanlığının bağlı olduğu Genel Müdür Yardımcısı 
+Başkanlığında Destek Hizmetleri ve Ulaşım Daire Başkanı, İnsan Kaynakları Daire Başkanı, Yapı Daire Başkanı ile 
+il bazında yetkili sendika temsilcisinden oluşur. Komisyondaki Daire Başkanlarının yedek üyeleri ilgili Daire 
+Başkan Yardımcılarıdır.
+6.1.2.3 Taşra Konut Tahsis Komisyonu; bu prosedür çerçevesinde Merkez Konut Tahsis Komisyonu görev alanı 
+dışındaki konutların tahsisini yapmak amacıyla Destek Hizmetleri ve Ulaşım Müdürlüğünden sorumlu Bölge Müdür 
+Yardımcısı başkanlığında, Destek Hizmetleri ve Ulaşım Müdürü, Yapı ve Teknoloji Müdürü, İnsan Kaynakları 
+Müdürü ve ilgili konutun bulunduğu il bazında yetkili sendika temsilcisinden oluşur. Komisyonun yedek üyeleri ise 
+Bölge Müdürünün uygun göreceği iki birim sorumlusudur.
+6.1.3 Konut Tahsis Komisyonlarının Toplanması ve Çalışma Esasları
+6.1.3.1 Komisyonlar üye tam sayısı ile toplanır ve konut tahsisi isteğinde bulunanlar ile konut tahsisine hak 
+kazandığı anlaşılanların durumunu tetkik eder. Komisyonlarca, konut tahsisine hak kazananlar için gerekçeli bir 
+karar alınır. Konut tahsis kararları, oy çokluğuyla alınır. Merkez konut tahsis komisyon kararları Genel Müdürün, 
+taşra konut tahsis komisyon kararları ise Bölge Müdürünün onayı ile kesinleşir. Karar ayrıca tutulacak bir "Karar 
+Defteri"ne yazılır ve bir örneği konut tahsis dosyasında saklanır. 
+6.1.3.2 Konut tahsis komisyonunun yazışma işleri, konut tahsis işlemlerini yürüten birimce görevlendirilen personel 
+tarafından yürütülür. 
+6.2 Konutların Türleri, Dağıtımı, Tahsisi, Usul ve Esasları
+6.2.1 Konutların Türleri
+Konutlar, tahsis esasına göre iki gruba ayrılır;
+a) Görev tahsisli konutlar: Personelin görevinin önemi, özelliği, Şirkete yararlılığı ile yetki ve sorumlulukları göz 
+önünde bulundurularak bu prosedüre ekli (Ek-1) Görev Tahsisli Personel Listesinde belirtilen ünvanlara tahsis 
+edilen konutlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+3/11
+b) Sıra tahsisli konutlar: Bu prosedüre ekli (Ek-2) Puanlama Cetveli dikkate alınarak 6.2.3 maddede belirtilen usul 
+ve esaslara göre tahsis edilen konutlar. 
+6.2.2 Görev Tahsisli Konutların Tahsisi
+6.2.2.1 Görev tahsisli konutlar, prosedür eki (Ek-1) listedeki sıralama esas alınarak yetkili tahsis komisyonu 
+tarafından tahsis edilir.
+6.2.2.2 Konut tahsis talebinde bulunanlar, Ek-1'de yer alan listede belirtilen sıralama esas alınarak, bu prosedüre ekli 
+(Ek-2) puanlama cetvelindeki esaslara ve ünvan gruplarına göre kendi aralarında puanlamaya tabi tutulur.
+6.2.2.3 Görev tahsisli konutta oturmakta iken, ünvanı değişen personelin yeni ünvanı prosedüre ekli (Ek-1) listede 
+mevcut ise kendisi için tekrar tahsis kararı alınmaz. Atama kararı, son duruma göre tahsis kararı yerine geçer.
+6.2.2.4 Görev tahsisli konutta oturmakta iken, ünvanı değişen personelin yeni ünvanı prosedüre ekli (Ek-1) listede 
+mevcut değil ise; daha önce sıra tahsisli olarak konutlardan faydalanmayanlar, atandıkları tarih esas alınmak 
+suretiyle tahsis şekli sıra tahsisliye dönüştürülür ve ilgili 5 (beş) yıl süre ile sıra tahsisli olarak oturmaya devam eder. 
+Bununla birlikte ilgili daha önce sıra tahsisli olarak 5 (beş) yıldan az konuttan faydalanmış ise atanma kararı son 
+konut tahsis kararı yerine geçeceğinden sıra tahsisli olarak oturduğu süre 5 (beş) yıla tamamlanır ve süresi bitiminde 
+konutu tahliye eder. Ancak ilgili daha önce sıra tahsisli olarak konuttan 5 (beş) yıl faydalanmış ise konutu 6.5.1 
+maddesine göre tahliye eder. 
+6.2.2.5 Bölge Müdürleri için Bölge Müdürlüğünün bulunduğu ilde görev tahsisli bir adet konut ayrılır. Ancak, konut 
+ayrıldığı halde, bu göreve atama yapılamadığı veya ilgili tarafından kullanımından vazgeçildiği hallerde boş bulunan 
+konutlar, Bölge Müdürünün talebi söz konusu oluncaya kadar görev veya sıra tahsisli hak sahiplerine komisyonca 
+şartlı olarak tahsis edilebilir.
+6.2.2.6 Konutta oturan Bölge Müdürü veya Bölge Müdür Yardımcısına farklı bir bölgeye atanması durumunda 
+öncelikli olarak atandığı bölgede konut tahsis edilir. Ancak Bölge Müdürünün veya Bölge Müdür Yardımcısının 
+oturmakta olduğu konutun müsait olması durumunda Genel Müdür Onayı ile göreve atandığı bölgedeki konuttan 
+feragat etmek koşulu ile konutta oturma hakkı verilebilir.
+6.2.3 Sıra Tahsisli Konutların Tahsis Şekli 
+6.2.3.1 Sıra tahsisli konutlar, prosedüre ekli (Ek-2) Puanlama Cetveli esas alınmak suretiyle, sıralamaya tabi 
+tutularak yetkili konut tahsis komisyonunca hak sahiplerine tahsis edilir. Hak sahiplerinin puanlarının eşit olması 
+halinde, hizmet süresi fazla olana, hizmet süresi de eşit ise yetkili konut tahsis komisyonunca ad çekme yoluyla 
+konut tahsis edilir.
+6.2.3.2 Konutların herhangi bir nedenle boşalması halinde fiilen boşaldığı tarihten itibaren en geç 30 (otuz) gün 
+içinde prosedür hükümlerine göre hak sahiplerine tahsis edilir.
+6.2.3.3 Konutta oturma süresini tamamlamadan konutu boşaltanlara, daha önce oturduğu süreden arta kalan süreyi 
+tamamlamak üzere puanlama esas alınarak konut tahsis edilebilir. 
+6.2.4 Konut Tahsis Talebi ve Değerlendirilmesi 
+6.2.4.1 Konut tahsisini talep eden personel, her yılın Kasım ayı içerisinde Birleşik Destek Hizmetleri Sistemi 
+(BDHS) üzerinden istenilen bilgileri doğru ve eksiksiz şekilde doldurarak başvuru formunun çıktısı ile bağlı 
+bulunduğu en yakın sicil amirine başvurur. Ayrıca bu forma ilgilinin kendisine, eşine ve kanunen bakmakla 
+yükümlü olduğu çocuklarına ait ayrı ayrı e-devlet üzerindeki güncel “Tapu Bilgileri Sorgulama” sayfasının çıktısı 
+eklenir, bu belgeyi eklemeyenlerin müracaatları kabul edilmez.
+6.2.4.2 Amir tarafından, beyanname tetkik edilerek, yetkili konut tahsis komisyonlarına sunulmak üzere, konut 
+tahsis işlemlerini yürüten ilgili birime gönderilir. 
+6.2.4.3 Merkez Teşkilatında Destek Hizmetleri ve Ulaşım Daire Başkanlığı, Taşra Teşkilatında ise Destek 
+Hizmetleri ve Ulaşım Müdürlükleri, personelin beyannamedeki beyan eksiklik veya farklılıklarının düzeltilmesini 
+sağlar ve beyannamedeki bilgiler doğrultusunda Ek-2’de yer alan puanlama cetveline göre gerekli değerlendirmeleri 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+4/11
+yaparak görev tahsisli listeler görev ünvanına ve puanına, sıra tahsisli listeler ise toplam puan sırasına göre ayrı ayrı 
+olacak şekilde düzenlenerek personele duyurulur.
+6.2.4.4 Genel Müdür Onayı ile her takvim yılı içerisinde bulunduğu ildeki konut sayısının yüzde yirmisini 
+geçmeyecek şekilde, mücbir sebeplerden ötürü veya ilgilinin uygun görülecek mazeretine binaen, prosedürün Ek-1 
+listesinde yer alan görev tahsisli ünvan grubundaki personele görev tahsisli olarak, bu ünvanların dışındaki personele 
+ise sıra tahsisli olarak konut tahsis edilebilir.
+6.2.4.5 Naklen atama ile il dışına veya il merkezi dışında bulunan ilçeye tayin olan, ilk defa göreve atanan veya 
+mücbir sebeplerle ara dönemde yeni müracaata ihtiyaç duyan personel ile sıra tahsisli ünvanda iken yıl içerisinde 
+görev tahsisli bir ünvana atanan personelin göreve başlamasını müteakip en geç 1 (bir) ay içerisinde yapacağı konut 
+müracaatları kabul edilerek değerlendirilmeye alınır ve listeye eklenir.
+6.2.4.6 Konut müracaat döneminde görevden uzaklaştırma, tutukluluk, ücretsiz izin, rapor veya mücbir sebepler 
+nedeniyle müracaatta bulunamayan personelin göreve başladığı tarihten itibaren en geç 1 (bir) ay içerisinde yapacağı 
+konut müracaatı kabul edilir. Puanlaması yapılarak o yılın konut talep listesinde gösterilir. Belirtilen durumlar 
+haricinde personelin ara dönemde yapacağı konut müracaatları kabul edilmez.
+6.2.4.7 Eşlerden her ikisi de aynı dönemde ayrı ayrı konut talebinde bulunabilirler, puanlama listesinde sırası gelen 
+eş konuta giriş yaptığında sıralamada bulunan diğer eşe ayrıca konut tahsisi yapılmaz.
+6.2.4.8 Her ikisi de Şirketimiz personeli olan eşlerden biri, Şirketimize ait konutlarda oturmakta iken diğer eş konut 
+müracaatında bulunamaz. Konutta oturma süresinin beşinci yılında olan personelin eşi, konut başvurusunda 
+bulunabilir ve sırası gelmesi halinde tahsis kararı alınır.
+6.2.4.9 Kendisine konut tahsis edilen veya tahsis edilmeden sıralamadan kendi isteği ile sarfınazar eden personele, o 
+tahsis dönemi içinde konut tahsis edilmez. Ancak sırada bekleyen personel kalmaması/olmaması nedeniyle boş 
+konut bulunması halinde, personel talep ederse müracaatı tekrar değerlendirmeye alınır.
+6.2.4.10 Hâlihazırda konutta ikamet eden personel, bulunduğu merkez, bölge, il veya ilçe ayrımı yapılmaksızın 
+ayrıca başka bir konut için başvuruda bulunamaz.
+6.2.4.11 Konutta oturmakta iken deprem, yangın, sel, doğal afetler vb. durumlar gibi kişinin kendisinden 
+kaynaklanmayan sebeplerle Yapı Daire Başkanlığı veya ilgili kamu kurumlarınca denetimleri yapılarak oturulamaz 
+raporu verilen konutu tahliye eden personele, talep etmesi durumunda konut talep sıralamasında bekleyen 
+personelden önce, kalan süresini tamamlamak üzere tahsis yapılır, yapılan konut tahsisinden sarfınazar eden 
+personele tekrar öncelik tanınmaz.
+6.2.4.12 Personelin görev mahalli il merkezi ise il merkezindeki konutlara, il merkezi dışında bulunan ilçede ise 
+yalnızca görev yaptığı ilçedeki konutlara başvuruda bulunabilir. Ancak personelin görev yaptığı il merkezi dışındaki 
+ilçede konut bulunmaması halinde aynı ilde bulunan diğer konutlara müracaat edebilecek olup görev mahalli il 
+merkezi olan personel il merkezinde konut bulunmaması halinde ise aynı ilde bulunan diğer konutlara müracaat 
+edebilir. Görev mahalli İstanbul ili olan personel, bağlı bulunduğu Bölge Müdürlüğünün yetkisi içinde İstanbul 
+ilinde bulunan konutlara başvuru yapabilir.
+6.2.5 Beyannamedeki Değişiklikler 
+Konut tahsis talebinde bulunan personel; mevcut durumunda veya talebinde bir değişiklik olduğu takdirde, 
+değişiklik tarihinden itibaren en geç 1 (bir) ay içinde, değişikliği gösteren belgeler ile birlikte ek bir beyanname ile 
+durumunu konut tahsisine yetkili birime intikal ettirilmek üzere amirine bildirir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+5/11
+6.2.6 Konut Tahsisinin Bildirilmesi 
+6.2.6.1 Konut tahsis komisyon kararı, tahsisin yapıldığı tarihten itibaren en geç 5 (beş) gün içinde, görevli birim 
+tarafından konut tahsis edilen personelin görev yaptığı birime bildirilir. Bu birim tarafından ilgili personele tebliğ 
+edilir. 
+6.2.6.2 Konut tahsis kararının tebliğinden itibaren 10 (on) gün içerisinde, belgelenebilir meşru mazeret dışında 
+DHU.FR05 Konut Giriş Tutanağı Formu imzalamak ve konutu teslim almak üzere yetkili birime başvurmayan hak 
+sahibinin konut tahsis kararı iptal edilir.
+6.2.6.3 Konutun tadilat, tamirat veya herhangi bir nedenle konut tahsis edilen kişiye süresinde teslim edilememesi 
+halinde, konutta oturma süresi ve konut kira tahakkuku Şirketin konutu teslim ettiği tarihten itibaren başlar. 
+6.2.7 Konutların Teslimi ve Konutlara Giriş 
+6.2.7.1 Konut tahsis edilen kişiye yetkili birimce, DHU.FR05 Konut Giriş Tutanağı Formu ve DHU.FR02 Demirbaş 
+Eşya ve Mefruşat Tutanağı Formu düzenlenir. Söz konusu formların aslı konut tahsis dosyasında saklanır ve bir 
+örneği de kişiye verilir. 
+6.2.7.2 DHU.FR05 Konut Giriş Tutanağı Formu kira sözleşmesi yerine geçer.
+6.2.7.3 Konut tahsis edilmeden ve tahsis kararı alınmadan konutun anahtarı teslim edilmez ve konuta girilemez. 
+6.2.7.4 Kendisine konut tahsis edilen personel, meşru mazeret dışında, DHU.FR05 Konut Giriş Tutanağı Formunu 
+imzalamasına rağmen 1 (bir) ay içinde konuta taşınmadığı takdirde, konut tahsis kararı iptal edilir. 
+6.2.8 Konutlarda Oturma Süreleri 
+6.2.8.1 Görev tahsisli konutlarda, tahsise esas olan görevin devamı süresince oturulabilir. 
+6.2.8.2 Sıra tahsisli konutlarda oturma süresi 5 (beş) yıldır. Kendisi, eşi veya aile yardımı ödeneğine müstahak 
+çocuğunun yüzde kırk ve üzeri engelli olduğunu yetkili sağlık kurullarından alınan rapor ile belgelendirenler için bu 
+süre 6 (altı) yıldır.
+6.2.8.3 Aynı yerde veya ayrı ayrı yerlerde sıra tahsisli olarak toplamda 5 (beş) yıl ve üzeri konutta oturma hakkını 
+kullanan personel, prosedürde belirtilen oturma süresini tamamlamış sayılır. Sıra tahsisli konutlarda oturma 
+süresinin tamamlanmasından sonra, boş konut olması veya sırada bekleyen talepli personel bulunmaması halinde, 
+belli bir süre verilmeksizin talep eden personel oluncaya kadar şartlı olarak konutta oturmasına izin verilebilir. 
+6.2.8.4 Sıra tahsisli konutta 5 (beş) yıllık oturma süresi dolan personelin oturduğu konutu talep eden personel yok 
+ise ilgilinin tahsis şekli şartlı tahsise çevrilir ve konutta şartlı olarak oturmaya devam eder ancak söz konusu konutu 
+talep eden başka bir personel olması halinde konutlarda şartlı olarak oturan personel arasında oturma süresi en fazla 
+olandan başlamak üzere, tebliğ tarihinden itibaren 1 (bir) ay içinde konut boşalttırılır.
+6.2.9 Boş Kalan Konutların Şartlı Tahsisle Değerlendirilmesi 
+6.2.9.1 Boş konut bulunması, sıra ve görev tahsisli konut talebinde bulunan personel bulunmaması halinde öncelikle 
+daha önce konutta oturmuş olsa bile Şirket personeline, Şirket personeli olmaması halinde ise PTT AŞ İştiraklerinde 
+çalışanlara, diğer kamu kurum ve kuruluşlarına, kamu sermayeli şirketlerde çalışan personele ve PTT AŞ 
+emeklilerine konut şartlı olarak tahsis edilebilir. Ancak bu tahsis süresi hiçbir zaman 12 (on iki) aydan az olamaz.
+6.2.9.2 Şartlı olarak tahsis edilmiş olan konuta girmek için müracaatta bulunan personel olduğu takdirde şartlı olarak 
+konutta oturanlardan diğer kurum personelinden ve oturma süresi en fazla olandan başlamak üzere, tebliğ tarihinden 
+itibaren en geç 1 (bir) ay içinde konut boşalttırılır. 
+6.2.9.3 Uzun süre talep görmeyen ve atıl durumda bulunan Şirkete ait konutların lojman olarak kullanılma imkânı 
+bulunmadığı durumlarda, bu konutlar ilgili Bölge Müdürlüğünün talebi ile Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığının uygun görmesi halinde lojman statüsünden çıkarılarak işletme hizmetlerine tahsis edilir ya da söz 
+konusu konutlar Bölge Müdürlüğünün talebi Destek Hizmetleri ve Ulaşım Daire Başkanlığının uygun görüş 
+vermesiyle Yapı Daire Başkanlığınca piyasa koşullarında kiraya verilir veya satışı yapılır. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+6/11
+6.2.10 Aylık Kira Bedelinin Tespit ve Tahsili 
+6.2.10.1 Konutların aylık kira bedeli KDV hariç olmak üzere her yıl Resmî Gazete’de yayımlanan Milli Emlak 
+Genel Tebliğine göre belirlenir.
+6.2.10.2 Konutların aylık kira bedeli konutun brüt yüzölçümünün en fazla 120 m2 sine kadar tahsil edilecek olup 120 
+m2 den fazlası dikkate alınmayacaktır. 
+6.2.10.3 Kira bedeli konutun teslim tarihinden itibaren hesaplanarak müteakip ayın maaş bordrosunda gösterilmek 
+suretiyle tahsil edilir. 
+6.2.10.4 Kira tahakkukunu yapan birim tarafından, kendilerine konut tahsis edilen personelin adı ve soyadı, görevi 
+ile aylık toplam kira miktarını gösteren cetvelin onaylı bir örneği, her ay personelin maaş bordrosunun düzenlendiği 
+ve ödemenin yapıldığı birimlere verilir. 
+6.2.10.5 Aylık kira bedelinin ve yan giderlerin alınmadığının tespiti halinde bu bedel öncelikle kiracıdan tahsil 
+edilir, tahsil edilememesi durumunda kirayı ve yan giderleri tahsil etmeyen tahakkuk memuru ve görevlilerden 
+rücuen tahsil edilir.
+6.2.10.6 Konutun ayrı sayacı yoksa su, elektrik, havagazı ve doğalgaz bedeli olarak aylık kira bedeline ilave 
+edilecek miktarlar, Şirketin yetkili personelince tespit edilecek gerçek bedel üzerinden tahakkuka ilave edilerek 
+tahsil edilir. Bu miktarın tespit edilemediği durumlarda Bölge Müdürlüğünce oluşturulacak komisyonun 
+belirleyeceği ortalama emsal bedelleri, aylık kira bedeli ile birlikte tahsil edilir.
+6.3 Konutların İşletme, Bakım ve Onarım Giderlerinin Karşılanması
+6.3.1 Şirketçe Karşılanacak İşletme, Bakım ve Onarım Giderleri
+Bu prosedüre göre personele tahsis amacıyla ayrılan konutların;
+ a) 6098 sayılı Türk Borçlar Kanunu’nun 302 ve 303. maddelerindeki yükümlülüklerle konutların olağan 
+kullanılmasından doğan temizlik ve kullanımdan kaynaklanan asansör ve kalorifer onarım giderleri dışında kalan 
+asansör, kalorifer, ana duvarlar, çatı, koridor gibi ortak yerlerin bakımı, korunması ve onarımı ile ilgili giderleri, 
+b) Ortak alanların gerektiğinde boya ve badana giderleri, Şirketçe karşılanır. 
+6.3.2 Konut Tahsis Edilenler Tarafından Karşılanacak Giderler
+6.3.2.1Bu prosedüre göre ayrılan konutların; 
+a) Her türlü ısınma giderleri konutun brüt yüzölçümleri oranına göre oturanlar tarafından karşılanır.
+b)Konutların kapıcı, bahçıvan, kaloriferci, elektrikçi gibi hizmet personelinin giderleri konut tahsis edilenler 
+tarafından konut sayısına bölünerek karşılanır.
+c) Ortak kullanım alanlarında kullanılan (kalorifer, hidrofor ve asansör gibi ortak kullanım alanları dâhil) 
+aydınlatma, elektrik, su, gaz, otomat, diyafon vb. çeşitli ihtiyaçların karşılanması için gerekli olan giderler, ortak 
+kullanım alanları için ayrı sayaç var ise konut tahsis edilenler tarafından konut sayısına bölünerek karşılanır.
+ç) Ortak kullanım alanlarında kullanılan (kalorifer, hidrofor ve asansör gibi ortak kullanım alanları dâhil) 
+aydınlatma, elektrik, su, gaz, otomat, diyafon vb. çeşitli ihtiyaçların karşılanması için gerekli olan giderler, ortak 
+kullanım alanları için sayaçların ayrı olmaması halinde ise Resmi Gazete’de yayınlanan Milli Emlak Genel 
+Tebliğinde açıklanan aylık her bir metrekare için belirlenen  bedeller üzerinden konutta oturanlarca karşılanır.
+d) Kırılan camların takılması, bozulan muslukların değiştirilmesi veya tamir edilmesi gibi küçük bakım ve onarım 
+giderleri ile kötü kullanımdan dolayı meydana gelen zarar ve ziyan giderleri kiracı tarafından karşılanır. 
+6.3.2.2 Bu prosedüre göre personele tahsis amacıyla ayrılan konutların; işletme, bakım, onarım giderleri hakkında 
+hüküm bulunmayan hallerde Milli Emlak Genel Tebliğinde yer alan hükümler doğrultusunda işlemler 
+gerçekleştirilecektir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+7/11
+6.4 Yakıt İhtiyacının Tespiti, Temini ile Tedarik ve Dağıtımı
+6.4.1 Hizmet binalarıyla aynı ısınma sistemini kullanan Şirket mülkiyetinde olan veya tamamı kiralanan konutların 
+bir önceki yılın ortalama yakıt gideri göz önünde bulundurularak cari yılın yaklaşık yakıt gideri hesaplanarak yeteri 
+kadar ödenek bütçeye konulur ve ihtiyaca göre dağıtımı sağlanır. 
+6.4.2 Konutta oturanlardan yakıt bedelinin tahsili bir önceki yıl aynı konutta harcanan yakıt bedeli esas alınarak, 
+hesaplanacak aylık yakıt gideri yıl içerisinde konutta oturanlardan aylık olarak tahsil edilir. Mayıs ayı sonunda 
+kesinleşen toplam yakıt giderini karşılayacak şekilde Şirket ile oturanlar arasında mahsuplaşma yapılır. 
+6.5 Konuttan Çıkma ve Çıkarılma 
+6.5.1 Konuttan Çıkma 
+a) Sıra tahsisli konutlarda oturanlar, 5 (beş) yıllık oturma süresinin bitiminden itibaren 1 (bir) ay içinde, 
+b) Konutta oturma süresini doldurmasına rağmen konut talep eden başka personel olmaması nedeniyle şartlı 
+oturmaya devam edenler, konuttan çıkması için Şirket tarafından yapılan tebligat tarihinden itibaren 1 (bir) ay 
+içinde, 
+c) Bu prosedürün 6.2.9.1 maddesine göre şartlı tahsis yapılanların konuttan çıkması için Şirket tarafından yapılan 
+tebligat tarihinden itibaren 1 (bir) ay içinde, 
+ç) Emeklilik, istifa, başka bir ile nakil ve her ne şekilde olursa olsun Şirketle ilişiği kesildiği tarihten itibaren 2 (iki) 
+ay içinde, 
+d) Konutlarda oturmakta iken vefat eden personelin ailesi, vefat tarihinden itibaren 6 (altı) ay içinde,
+e) Tahsis yapıldıktan sonra konutta oturma şartlarına haiz olmadığı anlaşılanlar, kendilerine yapılan tebligat 
+tarihinden itibaren 2 (iki) ay içinde,
+f) Staj, kurs, askerlik, ücretsiz izin, tedavi amacıyla görevlerinden geçici olarak ayrılanların aileleri, normal oturma 
+süresini tamamladıkları tarihten sonra 1 (bir) ay içinde, konutları boşaltmak ve anahtarlarını yetkili birime vermek 
+zorundadır.
+6.5.1.1 Konutta oturanların durumunda, konutun boşaltılmasını gerektiren bir değişiklik olması halinde, personelin 
+bağlı bulunduğu amirince, değişiklik tarihinden itibaren en geç 10 (on) gün içinde bir yazı ile ilgili birime bildirilir. 
+6.5.1.2 Konutu boşaltması gerektiği tarihten en az 2 (iki) ay önce konutu boşaltamayacağına ilişkin geçerli bir 
+mazeret belirterek süre uzatma talep eden personelin mazeretinin kabul edilmesi durumunda, bir defaya mahsus 
+olmak üzere 6 (altı) aya kadar Konut Tahsis Komisyonunca süre uzatımı verilebilir. 
+6.5.1.3 6.5.1.2 maddesine göre süre uzatım talebi uygun görülen personel, cari yıla ait ödediği konut kira bedelinin, 
+ilk 3 (üç) ay için 2 (iki) katı, daha sonraki 3 (üç) ay için ise 4 (dört) katı kira bedeli öder ve süre uzatımı bitiminde 
+6.5.1 Konuttan Çıkma başlığı altında yer alan ilgili maddeye göre konutu tahliye eder. 
+6.5.1.4 6.2.8 Konutlarda Oturma Süreleri ve 6.5.1 Konuttan Çıkma başlıkları altında yer alan ilgili maddeye göre 
+konutta oturma süresi dolan, süre uzatım talebi uygun görülmeyen, konutta oturma hakkı sona ermesine rağmen 
+konutu tahliye etmeyenler ile konutun boşaltılması kendisine tebliğ edilmesine rağmen konutu boşaltmayanlar 
+herhangi bir tebligata gerek kalmaksızın konutu tahliye edene kadar geçen süreler için cari yıla ait brüt asgari ücretin 
+1,5 katı kira öder. Bu şekilde oturulan süreler 6.2.8 ve 6.5.1 başlıkları altında belirlenmiş olan sürelerin uzatılması 
+sonucunu doğurmaz ve oturanlar yönünden bir hak teşkil etmez.
+6.5.2 Konuttan Çıkarılma 
+6.5.2.1 Konutlar, 6.2.8 ve 6.5.1 başlıkları altında belirlenmiş süreler sonunda boşaltılmaz ise tahsise yetkili makam 
+tarafından, ilgili mülki amirliğine başvurulur. Bu başvuru üzerine konut, başka bir bildirime gerek kalmaksızın, 
+kolluk kuvveti kullanılarak, bir hafta içinde zorla boşalttırılır. Zorla boşalttırılmaya karşı, idareye ve yargı 
+mercilerine yapılacak başvuru, boşalttırma işleminin icra ve infazını durdurmaz. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+8/11
+6.5.2.2 Kendilerine tahsis yapılmadan konutları işgal edenler, Yapı Daire Başkanlığı veya ilgili kamu kurumlarınca 
+denetimleri yapılarak dayanıksız ve oturmaya elverişli olmadığı tespit edilen ve tahliyesi için kendisine tebliğ 
+edilmesine rağmen konutu boşaltmayanlar, tahsis yapıldıktan sonra gerçeğe aykırı beyanda bulunduğu anlaşılanlar 
+ile prosedürün 6.7.2’nci maddesinde belirtilen kurallara uymayanlar yönetici veya kiracılar tarafından konutlardan 
+sorumlu birime bildirilir. Kendisine yapılan yazılı uyarılara rağmen bu davranışlarında ısrar ettiği tutanakla tespit 
+edilenler hakkında da 6.5.2.1 madde hükmü uygulanır.
+6.6 Konutların Teslim Alınması 
+6.6.1 Kendisine konut tahsis edilen kişi, oturma süresi sonunda konutu teslim aldığı haliyle temiz, tam ve sağlam 
+olarak teslim etmek zorundadır.
+6.6.2 Kendisine konut tahsis edilen kişi, DHU.FR03 Konutu Geri Alma Tutanağı Formunu imzalayarak konutun 
+anahtarını ilgili birime teslim etmedikçe konuttan çıkmış sayılmaz. Teslim sırasında konutta bulunan DHU.FR02 
+Demirbaş Eşya ve Mefruşat Tutanağı Formu idarece kontrol edilir ve noksansız teslim alınır. 
+6.6.3 Kendisine konut tahsis edilen kişi, elektrik, su, doğalgaz, kira ve aidat borçlarını kapatarak, konutun kendisine 
+teslim edildiği haliyle tahliye günü eksiksiz olarak teslim etmek zorundadır. Konuttan çıkışta konuta ait eksiklikler, 
+DHU.FR03 Konutu Geri Alma Tutanağı Formunda belirtilir. 
+6.6.4 6.6.3 maddesinde belirtilen borçları ödemeyen veya eksik ödeyen kişiye en yakın birim amiri vasıtasıyla 10 
+(on) gün içinde borçlarını ödemesi tebliğ edilir. 10 (on) gün içinde ödenmeyen borçlar, personelin maaşından 
+kesilmek suretiyle veya icra yolu ile tahsil edilir. 
+6.7 Konutların Yönetimi ve Oturanların Uyması Gereken Kurallar
+6.7.1 Konutların Yönetimi
+6.7.1.1 Şirketin konut blok veya konutlarda oturanların kendi aralarından birer yıl süreyle ve yeteri kadar seçeceği 
+yöneticiler (Yönetici seçilememesi durumunda konutun bağlı olduğu Bölge Müdürlüğü tarafından kura çekme 
+yöntemi ile yönetici belirlenir.) aşağıda belirtilen görevleri yaparlar.
+a) Konutların kapıcı, bahçıvan, kaloriferci, elektrikçi gibi hizmet personeli ile ortak kullanım alanlarının aydınlatma, 
+elektrik, su, gaz, otomat ve benzeri giderlerini brüt yüzölçümleri oranına göre konutta oturanlardan tahsil etmek. 
+b) Konutların işletme, bakım ve onarım işleri için gerektiğinde Şirketin ilgili birimine teklifte bulunmak.
+c) Bahçe, otopark düzenlemesi ve konutların korunması hususlarında Şirketin ilgili birimine teklifte bulunmak. 
+ç) Müşterek kullanıma ve yararlanmaya tahsis edilen alanların, kiracılar tarafından özel amaçları için kullanılmasını 
+önlemek. 
+6.7.1.2 Şirketimiz ilgili yapı birimince yılda en az bir defa konutların ortak kullanım alanlarının bakım, onarım ve 
+tesisatların durumu kontrol edilerek, herhangi bir eksikliğin tespiti halinde ise giderilmesi sağlanacaktır. Söz konusu 
+eksiklikler giderilmediği takdirde bu husus yönetici tarafından yazılı olarak konutlarla ilgi birime bildirilecek olup 
+bu yazının bir örneği dosyasında muhafaza edilecektir. 
+6.7.2 Konutlarda Oturanların Uyması Gerekli Kurallar 
+Kendisine konut tahsis edilen kiracılar, konutta oturdukları süre içinde aşağıda belirtilen esaslara uymak 
+zorundadırlar. 
+a) Konut sakinlerinin huzur ve sükûnunu bozucu genel ahlak ve değerlerini zedeleyici tutum ve davranışlarda 
+bulunamazlar. 
+b) Yönetici tarafından tespit edilen, konutların iyi kullanılması, korunması ve tahribatın önlenmesi ile ilgili 
+önlemlere titizlikle uyarlar. 
+c) Konutların tamamını veya bir bölümünü, başkalarına devredemezler veya kiraya veremezler. 
+ç) Konutların mimari durumunda ve iç tesisatlarında, Şirketten izin almadan değişiklik yapamazlar. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+9/11
+d) Konutun bir bölümünde veya bahçede kümes yapamazlar ve ahır hayvanları ile köpek besleyemezler. 
+e) Konutta oturanlar, Şirketçe yapılması uygun görülen onarımların yapılmasına engel olamazlar ve meşru bir 
+mazeret olmadıkça tarihini erteleyemezler. 
+f) Konutta oturanların Şirketin muvafakatini almadan yaptıkları onarım giderleri ödenmez. 
+g) Kendilerine konut tahsis edilenler konuta ait elektrik, su, gaz vb. gibi hizmetlerin abonelik işlemlerini kendi adına 
+yaptıracak, konuttan çıkarken de kapatacaklardır. 
+6.7.3 Aylıksız Personel 
+Aylıksız olarak başka kurumlarda görevlendirilen personel, görevli oldukları sürece Şirketten konut talebinde 
+bulunamaz. Ancak, Şirkete ait konutlarda oturmakta iken aylıksız olarak başka kurumlarda görevlendirilen personel 
+oturma süresi içerisinde konutta oturmaya devam eder. 
+6.8 Geçici ve Son Hükümler 
+6.8.1 Görev mahalli İstanbul ili olan ve konutta oturmaya devam eden personel, oturduğu konutun bağlı olduğu 
+Bölge Müdürlüğü ile görev yaptığı Bölge Müdürlüğünün farklı olması durumunda konutta oturma süresi 
+tamamlanıncaya kadar konutta oturmaya devam eder. 2026 ve daha sonra gelen yıllarda yapılacak konut 
+tahsislerinde 6.2.4.12 maddesi hükümleri geçerlidir.
+6.8.2 Tahsis için gerekli puanın hesaplanmasında Ek-2 puanlama cetveli geçerlidir.
+6.9 Hüküm Bulunmayan Haller 
+Konut blok veya gruplarının müşterek hizmet ve giderlerinin karşılanması ile ilgili olarak bu prosedürde 
+belirtilmeyen hususlarda 634 sayılı Kat Mülkiyeti Kanunu hükümleri uygulanır.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+DHU.FR02-Demirbaş Eşya ve Mefruşat Tutanağı Formu
+DHU.FR03-Konutu Geri Alma Tutanağı Formu
+DHU.FR05-Konuta Giriş Tutanağı Formu
+KHK.002-399 Sayılı KHK
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.020-4857 sayılı İş Kanunu
+KN.029-213 sayılı Vergi Usul Kanunu
+KN.037-6098 sayılı Türk Borçlar Kanunu 
+KN.062-634 sayılı Kat Mülkiyet Kanunu
+SZL.005-PTT AŞ Esas Sözleşmesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+10/11
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+4 10.03.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+3 1.01.2026 Birim isimlerindeki güncelleme nedeniyle revizyon ihtiyacı duyulmuştur. 
+2 9.12.2024 Değişiklik ihtiyacı nedeniyle revizyon yapılmıştır.   
+1 31.03.2023 Söz konusu prosedür ile ilgili değişiklik ihtiyacı nedeniyle revizyon 
+başlatılmıştır. 
+0 2.11.2018 Yeni Doküman 
+ 
+Ek-1: Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü Görev Tahsisli Konut Tahsis Edilecek Ünvanlar.
+MERKEZ TEŞKİLATI
+Sıra No Ünvanlar
+1 Genel Müdür
+2 Yönetim Kurulu Üyesi
+3 Genel Müdür Yardımcısı
+4 Rehberlik ve Teftiş Başkanı/Başkan
+5 I. Hukuk Müşaviri
+6 Daire Başkanı
+7 Başdenetçi/Başmüfettiş
+8 Denetçi/Müfettiş
+9 Başkan Yardımcısı/Daire Başkan Yardımcısı/Hukuk Müşaviri/Birim Sorumlusu
+10 Özel Kalem Müdürü/Şube Müdürü/Teknik Müdür
+11 Müşavir
+12 Grup Başmühendisi/Başmühendis
+13 Denetçi Yardımcısı
+14 Avukat
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR13
+İlk Yayım Tarihi
+2.11.2018
+Revizyon Tarihi
+10.03.2026
+Revizyon No
+4
+Sayfa Sayısı
+11/11
+TAŞRA TEŞKİLATI
+Sıra No  Ünvanlar
+1 Bölge Müdürü
+2 Bölge Müdür Yardımcısı
+3 Başdenetçi/Başmüfettiş
+4 Denetçi/Müfettiş
+5 Müdür/Teknik Müdür
+6 Başmühendis
+7 Avukat
+Ek-2: Puanlama Cetveli 
+1. Personelin, herhangi bir sosyal güvenlik kuruluşuna tabi olarak çalıştığı hizmet süresinin her yılı için (+5) puan, 
+2. Personelin, kendi adına daha önce konuttan yararlandığı her yılı için (-3) puan, 
+3. Personelin, eşi için (+10) puan, 
+4. Personelin, kanunen bakmakla yükümlü olduğu çocuklarının her biri için (+5) puan, 
+5. Personelin, kendisinin, eşinin ve kanunen bakmakla yükümlü olduğu çocuklarının konutun bulunduğu il ve 
+ilçenin sınırları içinde oturmaya elverişli konutu bulunması durumunda her konut için (-30) puan, 
+6. Personelin kendisinin, eşinin ve kanunen bakmakla yükümlü olduğu çocuklarının başka il veya ilçelerde 
+oturmaya elverişli konutu bulunması durumunda her konut için (-20) puan,
+7. Konut Tahsis Talep Beyannamesini kasıtlı olarak eksik veya yanlış doldurduğu tespit edilenlerin yanlışları 
+düzeltildikten sonra hesaplanan toplam puanlarından (-30) puan,
+8. Yüzde kırk ve üzerinde engelli olduğunu yetkili sağlık kurullarından alınan rapor ile belgelendiren engelli 
+personel ile kanunen bakmakla mükellef bulunduğu ve konutta birlikte oturacağı her bir engelli aile ferdi (eş ve 
+çocuk dahil) için (+ 40) puan,
+9. Gaziler ile şehit yakınlarının (eş, çocuk, anne, baba ve kardeş) her biri için (+ 40) puan eklenir.
+Not: Cetvelin (1.) ve (2.) maddelerindeki yılların ay ve gün olarak tespit edilen bakiyelerinin puan değeri, oranlama 
+yoluyla hesaplanarak, toplam puanlamada dikkate alınır. 
+Cetvelin (5.) ve (6.) maddelerinde belirtilen evin hisseli olması durumunda anılan maddelerdeki puanlardan ilgilinin 
+hissesi oranında (-) puan düşülür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,214 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan:
+DESTEK HİZMETLERİ VE 
+ULAŞIM D. BŞK.
+Süreç Sahibi:
+DESTEK HİZMETLERİ VE 
+ULAŞIM D. BŞK. DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM SİSTEMİ 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+Onaylayan / İdari
+GENEL MÜDÜR
+Doküman No
+DHU.PR02.1 19.03.2019
+1/6
+Dokümanın Adı:
+Tesis ve Çevre Temizliği Prosedürü
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+DHU.PR02
+İlk Yayın Tarihi
+11.07.2018
+Revizyon Tarihi
+19.03.2019
+Revizyon No:
+1
+Sayfa Sayısı:
+1/6
+REVİZYON TARİHÇESİ
+Revizyon 
+No
+Revizyon 
+Tarihi Açıklama
+1 19.03.2019
+3. Tanımlar ve kısaltmalar kısmı alfabetik sıraya göre tekrar 
+düzenlendi.  4. Sorumluluklar:bu prosedürün uygulanmasından ve 
+kontrolünden tesisin birim yöneticisi,Prosedür gereğinin yapıldığının 
+genel kontrolünden ise Destek Hizmetleri ve Ulaşım birim sorumludur 
+(şeklinde değiştirildi.)  5.1.1. de eleman yerine personel olarak 
+değiştirildi.  5.2.10...temizlik arabası uygun korunaklı bir ortamda 
+muhafaza edilecektir diye değiştirildi.  5.5.1. de PTT A.Ş.'ce yerine 
+PTT A.Ş. tarafından  diye yazıldı.  Noktalama işaretleri tekrar kontrol 
+edilerek gerekli görülen yerlerde düzeltmeler yapıldı.   
+0 11.07.2018  
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman No
+DHU.PR02.12/619.03.2019
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman No
+DHU.PR02.13/619.03.2019
+1. AMAÇ
+Bu Prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinin hizmetlerinin yürütüldüğü
+tesislerin ve çevresinin temizliğinin yapılması ile ilgili kuralları belirlemektir.
+2. KAPSAM
+Bu Prosedürün kapsamı; Posta ve Telgraf Teşkilatı Anonim Şirketinin hizmetlerinin yürütüldüğü
+tesisleri ve çevresinin temizliğini kapsar.
+3.TANIMLAR VE KISALTMALAR
+3.1 Birim Amiri: Hizmetin yürütüldüğü işyerinin en üst amiri.
+3.2 Kontrol Teşkilatı: Tesis ve çevresinde yapılacak temizlik uygulamalarının “Tesis ve Çevre
+Temizliği Prosedürüne” göre uygunluğunu kontrol eden kişi veya kişiler.
+3.3 Tesis ve Çevre: Şirket faaliyetlerinin yürütüldüğü (Acentelikler hariç) işyerleri ve müştemilatı.
+3.4 Temizlik Firma Personeli: Temizlik işini yapan yüklenicinin çalıştırdığı kişi/kişiler.
+3.5Şirket/PTT A.Ş.: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.SORUMLULUKLAR
+Bu Prosedürün uygulanmasından ve kontrolünden tesisin Birim Yöneticisi, Prosedür gereğinin yapıldığının 
+genel kontrolünden ise Destek Hizmetleri ve Ulaşım Birimleri sorumludur.
+5.UYGULAMA
+5.1 Genel Temizlik Kuralları
+5.1.1.İşyerleri Temizlik Personeli Güvenlik Talimatına göre temizlik personellerinin çalışması sağlanmalıdır.
+5.2 Temizlik Yapılırken Dikkat Edilecek Hususlar
+5.2.1Temizlik hizmetleri yerine getirilirken TSE standartlarına uygun malzemeler kullanılacaktır.
+5.2.2Bez ve kova renkleri kullanım alanına göre belirlenecektir.
+5.2.3Temizlik yapılırken kullanılacak kimyasal temizlik malzemeleri kapalı ortamlarda bulundurulacak ve 
+üzerlerinde ne olduğuna dair işaret bulunacaktır.
+5.2.4Temizlik işi yapılmaya başlamadan önce eksik malzemeler varsa tamamlanacaktır.
+5.2.5Temizlik her zaman temiz alandan, kirli alana doğru yapılacaktır.
+5.2.6Paspas, mop, toz bezi gibi tüm temizlik bezleri kirlendikçe değiştirilecek, kirli bezle temizlik işlemine
+devam edilmeyecektir.
+5.2.7İş bitiminde, temizlik yapmada kullanılan malzemeler temizlenerek belirlenen yerde usulüne uygun 
+olarak muhafaza edilecektir.
+5.2.8Temizlik işlemi sırasında uygun eldiven giyilecek, işlem bitiminde eldiven çıkarıldıktan sonra el hijyeni 
+sağlanacaktır.
+5.2.9Tuvalet temizliği için kullanılan eldivenler ve malzemeler diğer alanların temizliğinde kesinlikle
+kullanılmayacaktır.
+5.2.10Temizlik malzemeleri ve temizlik arabası uygun korunaklı bir ortamda muhafaza edilecektir.
+5.2.11Yüzey temizliği için tüy bırakmayan temizlik bezleri kullanılacaktır.
+5.2.12Kirlenen bezler sıcak su ve deterjanla yıkanıp kurutulduktan sonra kullanılacaktır.
+5.2.13Temizliğe başlamadan önce çalışma alanına uyarı levhaları konulacaktır.
+5.3 Temizlik Sırasında Alınacak Önlemler
+5.3.1İş Sağlığı ve Güvenliği Mevzuatı gereği alınması gereken tüm önlemler alınacaktır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman No
+DHU.PR02.14/619.03.2019
+5.3.2Temizliğe başlamadan önce çalışma alanına uyarı levhaları konulacaktır.
+5.3.3Islak zemin temizliği yapılırken gerekli güvenlik tedbirleri alınacak, uyarı levhaları konulacak ve ıslak
+zeminler kurumadan uyarı levhaları kaldırılmayacaktır.
+5.3.4Temizlik sırasında kullanılan malzemeler geçişleri engelleyecek şekilde bırakılmayacaktır.
+5.3.5Temizlik personeli, temizlik araç ve gereçlerini kullanım talimatına uygun kullanacaktır.
+5.3.6Temizlik sırasında, tehlikeli kimyasal temizlik malzemesi kullanılacaksa işe uygun eldiven ve maske
+kullanılacaktır.
+5.3.7Dış cephe temizliği yapılırken emniyet kemeri kullanılacaktır.
+5.3.8Tuvalet ve lavabo temizliklerinde ayrı fırçalar kullanılacak, bu fırçalar başka yüzey temizliklerinde 
+kesinlikle kullanılmayacaktır.
+5.4 Temizlik Hizmetlerinde Çalıştırılacaklarla İle İlgili Hususlar
+5.4.1Temizlik hizmetlerinde çalışanların tehlike sınıfına uygun Temel İş sağlığı ve Güvenliği Eğitimi ile işbaşı 
+eğitimi almaları sağlanacaktır. Söz konusu eğitimleri mevzuatında belirtilen şartlar ve sürelere uygun olarak 
+tekrar almaları sağlanacaktır.
+5.4.2Çalışanların, temizlik yaparken PTT A.Ş. tarafından uygun görülen kıyafetle çalışmaları ve söz konusu
+kıyafetlerin düzgün ve temiz bulundurulması sağlanacaktır.
+5.4.3PTT A.Ş. tarafından konulmuş olan kurallara uyulması sağlanacaktır.
+5.4.4Temizlik hizmetlerinde çalışanlar, tabi oldukları mevzuat çerçevesinde Birim Amirinin belirleyeceği
+yerde çalıştırılacaktır.
+5.4.5Temizlik hizmetlerinde çalışanlar iş programında belirtilen görevlerde ve ilgili mevzuatta belirlenen
+çalışma sürelerine uygun olarak çalıştırılacaktır.
+5.5 Temizlik Programı
+5.5.1Temizlik, hazırlanacak programa göre yapılır. Temizlik hizmetlerinin hizmet alımı yoluyla yaptırılması 
+durumunda ise yüklenici tarafından hazırlanan ve PTT A.Ş. tarafından onaylanan programa göre yaptırılacaktır.
+5.6 Temizlik Yapılacak Yerler ve Zamanı
+Posta ve Telgraf Teşkilatı Anonim Şirketi iş yerlerinde bulunan;
+5.6.1Genel çalışma alanları (ofisler, PTT Merkez ve Şubeleri ile Pttmatik, Pttkargomat)
+5.6.2Koridor ve merdivenler,
+5.6.3Lavabo ve tuvaletler,
+5.6.4Asansörler,
+5.6.5Kazan dairesi,
+5.6.6Misafirhane,
+5.6.7Yemekhane,
+5.6.8Ana sistem odası (Server odası) ve Kesintisiz güç kaynağı odası
+5.6.9Şirketimiz tesis ve müştemilatına ait yukardaki yerlerde duruma göre günlük ve haftalık temizlik
+yaptırılır.
+5.7 Günlük Yapılacak Temizlik
+5.7.1Çöp kovaları boşaltılır,
+5.7.2Odalar havalandırılır,
+5.7.3Zeminler uygun yöntemle ile süpürülür ve/veya mop ile tozu alınır ve paspas yapılır,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman No
+DHU.PR02.15/619.03.2019
+5.7.4.Masaların yüzeylerinin tozu, yüzeyin özelliğine uygun bez ile temizlenir,
+5.7.5Sehpa, koltuk, sandalye, dolap ve raf1arı, resim ve panolarının uygun malzeme ile tozları alınır,
+5.7.6Ana sistem odası (Server odası) ve kesintisiz güç kaynağı odası: Bu yerlerin sorumlusunun gözetiminde; 
+elektrik süpürgesi ile süpürülür, sistem ünitelerinin ve güç kaynağı dolaplarının tozları hafif nemli toz bezi ile 
+alınır,
+5.7.7Jeneratör alanı: elektrik süpürgesi ile süpürülür, Jeneratörün tozları hafif nemli toz bezi ile alınır.
+5.7.8Kazan /Kalorifer Dairesi, zemini yıkanarak temizlenir.
+5.7.9Bilgisayar ve donanımlarının, aydınlatma sistemlerinin, prizlerin dış yüzey temizlikleri, elektrikli
+araçların temizliği ile ilgili kurallara dikkat edilerek yapılır.
+5.7.10Kapı, cam, duvar ve fayanslarda lekeler varsa temizlenir.
+5.7.11Pencere pervazlarının, kapıların tozu alınır.
+5.7.12Büro tipi perdelerin tozları alınır.
+5.7.13Klima ve havalandırma ünitesinin tozu alınır.
+5.7.14Lavabo, klozet, tuvalet taşları ve pisuarlar kurallarına uygun olarak temizlenir.
+5.7.15Aynalar tekniğine uygun silinir.
+5.7.16El kurutma makinesinin, elektrik düğmelerinin ve prizlerinin tozu alınır.
+5.7.17Binaların çevresi düzenli olarak kontrol edilir, gereklilik durumuna göre çöp kovaları ve ayaklı kül
+tabloları dökülür, gerektiğinde zemin süpürülür ve yıkanır.
+5.7.18Yemekhanenin servis sonrasında zeminleri süpürülür, paspaslanır, çöp ve yemek atıkları uzaklaştırılır.
+5.8.Haftalık Yapılacak Temizlik
+5.8.1Varsa balkon temizlenir.
+5.8.2Tavan ve duvarlar silinir.
+5.8.3Camlar, kapılar silinir.
+5.8.4Koltuklar vakumlanır ve kirlilik durumuna göre yıkanır.
+5.8.5Tüm eşyalar ayrıntılı olarak temizlenir, varsa leke ve kirler uygun malzeme ile çıkartılır.
+5.8.6Cila gerektiren eşyaların cilalama işlemi yapılır.
+5.8.7Perdeler cinsine uygun şekilde temizlenir.
+5.8.8Klima ve havalandırma ünitelerinin temizliği yapılır.
+5.8.9Zeminler, özelliğine uygun temizlik malzemesi ile temizlenerek arındırılır.
+5.8.10 Fayanslar yıkanır.
+5.8.11 Havalandırma ve aydınlatma üniteleri temizlenir.
+5.8.12 Lavabo, klozet, tuvalet taşları ve pisuarlar uygun temizlik malzemesi ile temizlenerek arındırılır.
+5.8.13 Zeminler, özelliğine uygun olarak makineleri ile temizlenip parlatılır.
+5.8.14 Tuvaletlerde kullanılan fırçalar uygun malzeme ile arındırılır.
+5.8.15 Pttmatik, Pttkargomat ve Mektup Atma Kutularının dış yüzeyleri uygun temizlik malzemeleri ile 
+temizlenir.
+5.8.16 Yemekhanenin inox tezgâhları, zeminleri sıcak su ile yıkanır. Masa örtüleri yıkanır ve ütülenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman No
+DHU.PR02.16/619.03.2019
+6. YÜRÜRLÜK
+Bu Prosedür yayınlandığı tarihte yürürlüğe girer.
+7. YÜRÜTME
+Bu Prosedürü Genel Müdür yürütür.
+8. REFERANS DOKÜMANLAR:
+DHU.FR09-Lavabo ve Tuvalet Temizlik Kontrol Formu
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

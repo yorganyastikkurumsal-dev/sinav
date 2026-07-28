@@ -1,0 +1,284 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+LOJİSTİK DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Lojistik Hizmetler İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+LOJ.PR01
+İlk Yayım Tarihi
+14.05.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/5
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından yürütülen lojistik faaliyetlere ilişkin usul 
+ve esaslar ile görev, yetki ve sorumlulukları düzenlemek, lojistik hizmet kapsamında taşıma işleri organizatörü olarak 
+her türlü mal, ürün ve hizmetlerin ticari amaçlı alım ve satımları ile tedarik ve organizasyonuna ilişkin tüm süreci 
+yönetmek, takip etmek ve lojistik faaliyetlerin düzenli ve müşteri beklentisini karşılar düzeyde gerçekleştirilmesini 
+sağlamaktır.
+2.KAPSAM
+Bu prosedür; lojistik hizmet işletme şartlarının belirlenmesi, bu alandaki faaliyetlerin yürütülmesine ilişkin süreçleri, 
+tedarik veya işin gördürülmesine yönelik düzenlemeleri, organizasyonu, sorumluluk ve yaptırımları merkez 
+teşkilatında Lojistik Daire Başkanlığını, taşra teşkilatında ise Bölge Müdürlüğü bünyesindeki lojistik iş ve 
+işlemlerinin yürütüldüğü Müdürlük ve servisler ile PTT iş yerleri ile bu alandaki görevlileri kapsar.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu’nun Faaliyet Konuları ve Nitelikleri başlıklı 22. Maddesi ile Posta 
+ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesinin Amaç ve Faaliyet Konuları başlıklı 3. Maddesine göre 
+hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1Altyapı: Posta ve Telgraf Teşkilatı Anonim Şirketine ait veya kullanımında bulunan bina, tesis, taşıt, araç, gereç, 
+donanım, yazılım ve benzeri her türlü hak, kaynak ve imkânı,
+4.2 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlüklerini,
+4.3 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanını, Başkanı, 1. Hukuk Müşavirini, Daire Başkanını, 
+Birim Sorumlusunu ve Özel Kalem Müdürünü; Taşra Teşkilatında ise Bölge Müdürünü,
+4.4 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürlerini,
+4.5 Bölge Müdürlüğü: Posta ve Telgraf Teşkilatı Bölge Müdürlüğünü,  
+4.6 Daire Başkanı: Posta ve Telgraf Teşkilatı Anonim Şirketi Lojistik Daire Başkanını,
+4.7 Daire Başkanlığı: Posta ve Telgraf Teşkilatı Anonim Şirketi Lojistik Daire Başkanlığını,
+4.8 Fiyat Teklifi: Lojistik emtia taşıma veya lojistik hizmet karşılığı müşteriden talep edilen bedeli,
+4.9 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürünü,
+4.10 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğünü,
+4.11 Genel Müdür Yardımcısı: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdür Yardımcısını,
+4.12İstekli: İşe teklif veren gerçek veya tüzel kişileri,
+4.13 Lojistik: Müşterinin ihtiyaçlarını karşılamak üzere her türlü ürün, servis hizmeti ve bilgi akışının başlangıç 
+noktasından tüketildiği son noktaya kadar olan tedarik zinciri içindeki hareketinin, etkili ve verimli bir şekilde 
+planlanması, uygulanması taşınması ve kontrol altında tutulması hizmetleri bütününü veya bir bölümünü,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Lojistik Hizmetler İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+LOJ.PR01
+İlk Yayım Tarihi
+14.05.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/5
+4.14 Lojistik Emtia: Lojistik hizmet zinciri kapsamında bir veya daha fazla hizmetin talep edilmesi sonucu işleme 
+tabi tutulan posta gönderisi ve kargo dışında kalan madde, mal, ürün, eşya veya yükü,
+4.15 Merkez Teşkilatı: Şirketin Genel Müdürlük birimlerini,
+4.16Paydaş: PTT AŞ, Müşteri ve Tedarikçi/Altyüklenici veya Tedarikçiler/Altyüklenicilerden oluşan tarafları,
+4.17 PTT İştirakleri: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulan ve/veya ortak olunan Şirketleri,
+4.18 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarını, 
+4.19Sözleşme: PTT AŞ, tedarikçi ve müşteri arasında imzalanan yazılı mukaveleyi,
+4.20Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini,
+4.21 Tarife Belirleme Yetkilisi: PTT AŞ’nin lojistik faaliyetlerine ilişkin ücret belirleme yetkisine sahip Kurulunu 
+ve bu konuda yetki devri yapılmış personelini,
+4.22Taşıma İşleri Organizatörü: Yük taşımacılığı alanında ilgili mevzuat uyarınca yetki belgesi veya faaliyet izni 
+almış gerçek veya tüzel kişilerin imkân, kabiliyet ve kapasitelerini kullanarak kendi nam ve hesabına yük taşıması 
+yaptırarak taşıma faturası veya sözleşmesi düzenleyen, taşıma ile ilişkili depolama, paketleme, etiketleme, 
+ambalajlama, sipariş yönetimi, gümrük, sigorta, dağıtım vb. lojistik işlemleri gerçekleştiren bir veya birden fazla 
+taşıma türü kullanarak taşımacılık ve lojistik hizmetlerini sunmayı meslek edinen ve Bakanlık tarafından yetki belgesi 
+verilen gerçek ve tüzel kişileri,
+4.23Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimlerini,
+4.24 Tedarik: Ticari amaçlı her türlü alım ve satım işini sağlama eylemini,
+4.25 Tedarikçi/Altyüklenici: Talep edilen ürün, mal veya hizmet işini sağlayan kişi veya kuruluşu,
+4.26 Uyuyan Sözleşme: Uyuyan anlaşma/sözleşme bir veya daha çok idare ile bir veya daha çok istekli arasında 
+akdedilen ve belli bir dönem süresince ihtiyaç doğdukça karşı tarafa yapılacak ikaz bildirimi ile uygulaması yapılacak 
+mal ve/veya hizmet alımına ilişkin şartları belirleyen anlaşma / sözleşmeyi,
+4.27 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulunu, 
+ifade eder.
+5.SORUMLULUKLAR
+Bu prosedürün hazırlanması ve yönetiminden Lojistik Daire Başkanlığı, uygulamasından ise lojistik hizmetlerin 
+yürütülmesi aşamasındaki görevli tüm birim, servis ve personel sorumludur.
+6.UYGULAMA
+6.1 Talep
+6.1.1Resmi yazı, e-posta, faks, telefon ve benzeri yollarla PTT AŞ’ye iletilen veya EKAP, ihale yayın sayfaları, 
+potansiyel müşterilerin web sayfaları üzerinden yapılan araştırma ya da müşteri görüşme faaliyetleri sonucu elde 
+edilen lojistik faaliyetlere ilişkin isteklerin kapsamı ve istekte bulunan kişi, kurum, kuruluşlar ilgili birimlerce 
+incelenir.
+6.1.2Lojistik hizmet zinciri kapsamında müşteri talebi ile ilgili olarak; ilgili birim veya servis tarafından 
+değerlendirilir ya da talebin yurt içi veya yurt dışı oluşuna göre PAZ.FR13 Yurt İçi Lojistik Fırsat Bildirim Formu 
+veya PAZ.FR14 Yurt Dışı Lojistik Fırsat Bildirim Formu doldurularak değerlendirilmek üzere ilgili birim veya 
+servise en kısa yoldan aktarılır.
+ 6.2 Taleplerin Değerlendirilmesi ve Altyapı Tedariki
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Lojistik Hizmetler İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+LOJ.PR01
+İlk Yayım Tarihi
+14.05.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/5
+6.2.1Varsa tazminat istek ve cezai yaptırımlar başta olmak üzere müşterinin lojistik hizmet talepleri, ilgili birim 
+veya servis tarafından ayrıntılı olarak değerlendirilir. Taleplerinin karşılanabileceği yönünde bir kanaatin oluşması 
+halinde; müşterinin resmi yazı, sözleşme veya şartnamede belirttiği ve taraflarca da mutabık kalınan hususlar 
+doğrultusunda sözleşme imzalama veya lojistik hizmet temini ya da hizmet alımı cihetine gidilir.
+6.2.2Lojistik hizmet maliyeti; işin potansiyeline, lojistik emtianın taşınacağı mesafeye, süreye, çıkış ve varış 
+noktasına, istenen ilave hizmetlere (Elleçleme, depolama, paketleme, etiketleme, gümrükleme vs.) göre her müşteri 
+için ayrı ayrı olmak üzere Merkez ve Taşra Teşkilatındaki ilgili birimlerce değerlendirilir.
+6.2.3Lojistik Daire Başkanlığı veya diğer Genel Müdürlük birimlerince alınan lojistik müşteri talepleri gerek 
+duyulması halinde Bölge Müdürlüklerine tevdi edilebilir.
+6.2.4Talep edilen lojistik hizmetin öncelikle PTT AŞ’nin mevcut araç, gereç ve personeliyle karşılanıp 
+karşılanmayacağı değerlendirilir.
+6.2.5Lojistik hizmet maliyetinin belirlenmesi amacıyla; işin özelliği itibariyle bir veya birden fazla taşıma şekli, yurt 
+içi ve dışı operasyon, depolama ve depo yönetimi gerektirmesi gibi nedenlerle ilgili birimce aynı iş kapsamında piyasa 
+araştırması yöntemiyle bir veya birden fazla tedarikçiden hizmet alımı yapılabilir.
+6.2.6PTT AŞ’nin mevcut altyapısı ile müşteri talebinin karşılanamayacağı kanaatine varılması durumunda 
+SAT.PR04 PTT AŞ Mal ve Hizmet Alımı Prosedürü ile İhale Yetkilileri ve Parasal Yetki Sınırları hususundaki 
+Yönetim Kurulu Kararları çerçevesinde mal ve/veya hizmet alımı yapılır.
+6.2.7Afet vb. mücbir sebep durumlarında Şirketimizin sorumluluğu olan sözleşmelere ilişkin yükümlülüklerin 
+yerine getirilmesi amacıyla, Şirketimizin karlılığı göz önünde bulundurularak piyasa araştırması yapılmaksızın 
+tedarikçi/alt yüklenici temin işlemi yapılabilir. Yapılan işlemlerde elektronik ortamda alınan bilgiler geçerli sayılır.
+6.2.8Mal ve/veya hizmet alımı yapılırken müşterinin PTT AŞ’den beklentileri, özel istek, yaptırım, ceza ve tazminat 
+hükümleri, tedarikçilerden hizmet alımı için hazırlanan sözleşme ve şartnamelere aynen yansıtılır.
+6.3 Mal/Hizmet Temin ve/veya Sunum İşlemlerinde Genel Hususlar
+6.3.1Kamu kurum ve kuruluşları ile diğer gerçek ve/veya tüzel kişilere mal ve/veya hizmet satımı ile, bunlar 
+tarafından yapılan ihalelere ilişkin olarak; teklif verme, artırma veya eksiltme, pazarlığa iştirak etme, teminat verme, 
+sözleşme imzalama sözleşmeyi tadil/tasfiye etme, ile feshetme iş ve işlemleri, FMB.YG01 Posta ve Telgraf Teşkilatı 
+Anonim Şirketi Yönetim Kurulu Temsil ve İlzam İç Yönergesinde Merkez ve taşra teşkilatı için ayrı ayrı belirtilen 
+limitler dahilindeki yetkili kişiler tarafından yapılır.
+6.3.2Yapılacak olan lojistik hizmet kapsamının uyuyan sözleşme/sözleşme gerektirmesi durumunda aynı iş 
+kapsamında bir veya birden fazla tedarikçi ile daha önceden imzalanmış uyuyan sözleşmeye/sözleşmeye veya ilgili 
+işe uygun yeni imzalanacak uyuyan sözleşmeye/sözleşmeye göre işin yürütülmesi sağlanır.
+6.3.3PTT AŞ ile müşteri ve alt yükleniciler arasındaki sözleşmelerin imzalanma sırası, mal ve/veya hizmet alımının 
+büyüklüğüne, müşterinin kamu kurum ve kuruluşları ile diğer gerçek ve/veya tüzel kişilik olup olmadığına, mal 
+ve/veya hizmet alımının direkt sözleşme veya ihale yöntemiyle gerçekleşeceğine ya da uyuyan sözleşme kapsamında 
+işin gördürülmesine bağlı olarak sözleşme imzalama yetkilisi tarafından imzalama sırasına karar verilir.
+6.3.4Operasyon sürecinin her aşaması titizlikle takip edilerek faaliyet sonucunda müşteri bilgilendirilir ya da talebe 
+bağlı olarak periyotlar halinde müşteriye raporlama yapılır.
+ 6.3.5Müşteri sözleşmesi kapsamında gerekli başvurular yapılarak hizmet bedeli müşteriden tahsil edilip, tahsil 
+edilen tutarların Lojistik Hizmet Gelirleri kalemleri bazında muhasebeleştirilmesi sağlanır.
+6.3.6Tedarikçi sözleşmeleri kapsamında hizmet bedel ödemelerinin zamanında tedarikçilere ödemeleri sağlanarak 
+ödenen tutarlar ilgili gider kalemleri bazında muhasebeleştirilir.
+6.4 Hizmet Bedeli ve Tarife
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Lojistik Hizmetler İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+LOJ.PR01
+İlk Yayım Tarihi
+14.05.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/5
+6.4.1Bu prosedürde izah edildiği şekilde yapılan hizmet alımlarında; maliyet analizi yapılarak ve rekabet şartları 
+göz önünde bulundurularak tespit edilen giderler üzerine bir kâr oranı eklenmek suretiyle müşteriye verilecek teklif 
+ilgili birim veya servisçe belirlenir.
+6.4.2PTT AŞ tarafından yürütülen lojistik hizmetler, müşteri talepleri doğrultusunda gerçekleştirildiğinden ve bu 
+talepler de çok fazla değişkenlik arz ettiğinden sabit bir fiyat tarifesi yerine talep edilen her bir lojistik hizmet için 
+ayrı ayrı veya hizmetin tamamı için ilgili birimlerce fiyatlandırma çalışması yapılması esastır.
+6.5 Hizmet Bedelinin Tahsili ve Ödenmesi
+6.5.1Müşteri ile yapılan sözleşme kapsamında aksine bir hüküm bulunmadığı sürece lojistik hizmet bedeli peşin 
+olarak alınır.
+6.5.2Tedarikçiden/Alt yükleniciden alınan hizmet bedelinin ödemesi iş bitiminde paydaşlar ile mutabakat 
+sağlanması akabinde FMB.PR01 Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Ödeme Prosedürüne 
+göre yapılır.
+6.6 Bildirim ve Tebligat
+6.6.1Bildirim ve tebligatlar; imza karşılığı elden, alma haberli posta gönderisi ile elektronik ortamda (KEP, EKAP, 
+e-posta vb.) ve faksla yapılabilir. Tebligat usulünün seçiminde PTT AŞ yetkilidir.
+6.6.2Alma haberli posta gönderisi ile yapılan tebligatlarda, fiili tebliğ tarihi esas alınır. KEP hariç elektronik ortamda 
+veya faks ile yapılan tebligatlarda ise bildirim tarihi tebliğ tarihi sayılır.
+6.6.3Bu prosedürde hüküm bulunmayan hallerde yapılacak tebliğler hakkında Tebligat Kanunu hükümleri, sürelerin 
+hesabında ise Türk Borçlar Kanunu hükümleri uygulanır.
+6.7 Kapsam Dışı Alımlar
+SAT.PR04 PTT AŞ Mal ve Hizmet Alımı Prosedürünün Kapsam Dışı Alımlar maddesine göre yapılır.
+6.8 Hüküm Bulunmayan Haller
+Bu prosedürde hüküm bulunmayan hallerde, PTT AŞ’nin menfaatleri dikkate alınmak suretiyle ilgili mevzuat 
+uygulanır. Uygulamada, tip şartname ve sözleşme tasarıları ile standart form düzenlenmesinde SAT.PR04 PTT AŞ 
+Mal ve Hizmet Alımı Prosedüründe yapılan düzenlemeler kıyasen kullanılabilir.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+FMB.PR01-Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Ödeme Prosedürü
+FMB.YG01-Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulu Temsil ve İlzam İç Yönergesi
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.037-6098 sayılı Türk Borçlar Kanunu 
+KN.042-7201 sayılı Tebligat Kanunu
+PAZ.FR13-Yurt İçi Lojistik Fırsat Bildirim Formu
+PAZ.FR14-Yurt Dışı Lojistik Fırsat Bildirim Formu
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+SZL.005-PTT AŞ Esas Sözleşmesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Lojistik Hizmetler İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+LOJ.PR01
+İlk Yayım Tarihi
+14.05.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/5
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur.    
+0 14.05.2024 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

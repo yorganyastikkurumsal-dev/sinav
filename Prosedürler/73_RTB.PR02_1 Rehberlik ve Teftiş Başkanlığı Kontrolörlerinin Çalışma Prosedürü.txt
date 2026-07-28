@@ -1,0 +1,778 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+REHBERLİK VE TEFTİŞ 
+BAŞKANLIĞI REHBERLİK 
+VE TEFTİŞ BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/13
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığı bünyesinde görev 
+yapan Kontrolörlerin; atanma koşulları, görev, yetki ve sorumlulukları ile çalışma usul ve esaslarını belirlemektir.
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığı bünyesinde görev yapan 
+Kontrolörlerin; atanma koşulları, görev, yetki ve sorumlulukları ile çalışma usul ve esaslarını kapsar.
+3. DAYANAK
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesinin 16. maddesinin 1. fıkrasının (j) bendine 
+dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Başkan: Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanıdır.
+4.2 Başkanlık: Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığıdır.
+4.3 Bölge Müdürlüğü: Posta ve Telgraf Teşkilatı Anonim Şirketi Bölge Müdürlükleridir. 
+4.4 Denetçi: Posta ve Telgraf Teşkilatı Anonim Şirketinin Rehberlik ve Teftiş Başkanı, Başdenetçisi, Denetçisi ve 
+yetkili Denetçi Yardımcıları, ayrıca 399 sayılı KHK’nın 1 sayılı cetveline tabi Başmüfettiş, Müfettişleridir. 
+4.5 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.6 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğüdür.
+4.7 Kontrolör: Posta ve Telgraf Teşkilatı Anonim Şirketi Rehberlik ve Teftiş Başkanlığına bağlı olarak, teftiş, 
+inceleme ve soruşturma işlerinde çalıştırılan Kontrolörlerdir. 
+4.8 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+5. SORUMLULUKLAR
+5.1. Başkanlığın Görevi 
+5.1.1. Başkanlık, PTT'ye bağlı işyerlerinde Genel Müdürün onayıyla, Kontrolörlere teftiş, inceleme ve soruşturma 
+yaptırır.
+5.1.2. Başkanlık, teftiş, inceleme ve soruşturma emirlerini doğrudan Kontrolörlere bildirir, bu durumu Bölge 
+Müdürlüğüne de ayrıca bildirir. 
+5.2 Rehberlik ve Teftiş Başkanının Görev ve Yetkileri 
+5.2.1 Kontrolörlerin teftiş programlarını hazırlamak, Genel Müdürün onayını aldıktan sonra Kontrolörlere 
+duyurulmasını ve programın uygulanmasını sağlayıp, izlemek, soruşturma yapmakla görevlendirmek, 
+sonuçlandırılmasını takip etmek,
+5.2.2 Kontrolörlerin çalışmalarını genel olarak kontrol etmek,
+5.2.3 Kontrolör tarafından düzenlenen ve Başkanlığa gelen raporları inceletmek, esas ve yönteme ilişkin hata ile 
+noksanlıkların giderilmesini ve tamamlanmasını sağlamak, işyerlerinin hizmetlerine ilişkin eleştiri, düşünce ve 
+önerilerini Genel Müdüre sunmak, sonucunu izlemek,
+5.2.4 Kontrolörlerin, en iyi biçimde yetişmelerini sağlamak için eşliğinde çalışacakları Denetçileri seçmek ve 
+çalışma esaslarını saptamak,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/13
+5.2.5 Kontrolörleri, gereğine göre bağımsız, gereğine göre Denetçi veya diğer Kontrolörlerle birlikte çalıştırmak,
+5.2.6 Gerektiğinde kontrolörlerin bireysel performanslarını ölçmek,
+İle yükümlü ve yetkilidir.
+5.3 Kontrolörlerin Görev ve Yetkileri 
+5.3.1 Kontrolörler, PTT'ye bağlı işyerlerinde;
+a) Hizmetlerin mevzuata ve emirlere uygun yürütülüp yürütülmediği, personelin görev ve yükümlülüklerini yerine 
+getirip getirmediği hususlarında; teftiş, inceleme ve soruşturma yaparak sonucu hakkında rapor düzenlemek,
+b) İşlemlerini denetlediği personelin verim, bilgi ve yetenekleri hususunda bilgi edinmek, gerektiğinde haklarında 
+"İnceleme Raporu" hazırlamak,
+c) Hata ve noksanlıkların düzeltilmesi çarelerini araştırmak, raporlarında bu konulara ilişkin önerilere yer vermek,
+ç) İşletme çalışmalarının ekonomik gereklere uygun olarak, verimli ve akılcı bir düzende yürütülmesi yanında, 
+Genel Müdürlük çalışma ilkelerinin iş yerlerinde benzer biçimde uygulamasını sağlamak,
+d) Herhangi bir şekilde öğrendikleri, kanunlara ve mevzuata aykırı işlem ve davranışları Başkanlığa bildirmek, 
+alacakları talimat üzerine soruşturma yapmak, soruşturma onayı almaya sürenin elverişli olmaması durumunda 
+derhal soruşturmaya başlamak,
+e) Teftiş, inceleme veya soruşturmaya başlamadan önce, görevlerinden izinli ayrılmış personelin, izinleri bitmeden 
+görevlerine başlamaları iş bakımından zorunlu görüldüğü takdirde, durumu personelin en yakın birim amirine 
+bildirmek,
+f) Yetkili makamca verilecek emir üzerine diğer çalışmaları yapmak,
+g) Başkanlıkça düzenlenen teftiş, inceleme ve soruşturma kılavuzunda belirtilen şekilde teftiş, inceleme ve 
+soruşturma yapmak,
+İle görevli ve yetkilidirler.
+5.3.2 Kontrolörlerin bu yetkileri kullanabilmeleri ya da bağımsız olarak görev yapabilmeleri, belirli bir yetişme 
+süresinin sonunda, kendilerine Başkanlıkça yazılı yetki verilmesiyle mümkündür.
+5.4 PTT Personelinin Yükümlülüğü 
+PTT personelinden; 
+5.4.1 Bölge Müdürleri;
+a) Kontrolörlerin çalışma düzenini ve etkinliklerini kontrol etmek,
+b) Kontrolörlerin aylık iş ve hesap çizelgelerini incelemek, işlemlerini tamamlamak,
+c) Kontrolörlerce yapılan inceleme ve soruşturma işleri hakkında, Başkanlığa her üç ayda bir örneğine uygun tablo 
+halinde, çalışma raporlarını göndermek.
+5.4.2 Yöneticiler;
+a) Teftiş, inceleme ve soruşturma ile görevlendirilen kontrolöre işlerinin gereğine uygun bir şekilde yürütülebilmesi 
+için, görevleri süresince çalışabilecekleri uygun bir yeri tahsis etmek, görevine ilişkin gereksinimlerini ve isteklerini 
+yerine getirmek ve gerekli diğer önlemleri almak,
+b) Teftiş defteri ile en son iki teftişe ait raporları ve bunlarla ilgili bildirimleri istendiğinde vermek, yerine atananlara 
+imza karşılığı devir ve teslim etmek,
+c) Hastalık ve bunun gibi zorunlu haller dışında, yıllık izin, nakil, kurs gibi personelin görevden ayrılmasını 
+gerektiren durumlarda kontrolörün yazılı iznini almak, izin kullanmaya başlamış personeli, kontrolörün talimatı 
+üzerine göreve çağırmak,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/13
+5.4.3 İlgili personel;
+a) Para ve para hükmündeki kâğıtlar ile ambar depolarında bulunan ayniyat ve bunlarla ilgili gizli de olsa tüm belge 
+ve defterleri, ilk talepte kontrolöre göstermek, saymasına ve incelemesine yardımcı olmak,
+b) Kontrolörün, gerekli gördüğü evrak, kayıt ve belgelerin, kontrolörlük mührü ve imzasıyla onaylanmış suretlerini 
+yerine koymak koşuluyla asıllarını veya suretlerini vermek,
+c) Kontrolör tarafından sorulan sözlü ve yazılı soruları cevaplandırmak,
+İle yükümlüdürler ve bu yükümlülüklerini hiçbir şekilde geciktiremezler.
+6. UYGULAMA 
+6.1 Kontrolörlerin Görev Merkezi
+6.1.1 Devamlı teftiş, inceleme ve soruşturmaları yürütebilmek amacıyla; Ankara, İstanbul (Avrupa), İstanbul 
+(Anadolu), İzmir, Konya, Adana, Kayseri, Samsun, Elazığ, Diyarbakır, Trabzon, Van, Erzurum, Antalya, Bursa, 
+Zonguldak, Sivas, Gaziantep illerinde çalışma merkezleri kurulmuştur.
+6.1.2 Başkanın teklifi ve Genel Müdürün onayı ile yeni çalışma merkezleri kurulabilir, mevcut merkezler iptal 
+edilebilir.
+6.1.3 Kontrolörlerin özlük haklarının takibi, çalışması karşılığındaki tüm ödemeleri, hizmetini sürdürebilmesi için 
+gerekli olan çalışma yeri, malzeme gibi tüm ihtiyaçtan çalışma merkezinin Bölge Müdürlüğü tarafından karşılanır.
+6.2 Kontrolörlüğe Giriş, Giriş Sınavı Koşulları, Sınavlarla İlgili Diğer İşlemler, Kontrolörlerin 
+Görevlendirilmesi, Uyacakları Hususlar ile Görevden Uzaklaştırma, İşlerin Süresinde Bitirilememesi ve 
+Devri 
+6.2.1 Kontrolörlüğe Giriş
+6.2.1.1 Kontrolör olabilmek için giriş sınavını kazanmak şarttır. 
+6.2.1.2 Sınavın açılmasına, Rehberlik ve Teftiş Başkanlığının önerisi ve Genel Müdürün onayı ile karar verilir.
+6.2.2 Kontrolörlük Giriş Sınavı Koşulları
+Giriş sınavına katılabilmek için;
+a) Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel Hakkında 
+Yönetmeliğin İşe Alınmada Aranacak Genel Şartlar başlıklı ilgili maddesinde sayılan nitelikleri taşımak.
+b) Sicil, karakter, sağlık durumu ve temsil yeteneği bakımından göreve alınmasına engel hali bulunmamak,
+c)Üniversitelerin en az dört yıllık lisans eğitimi veren Siyasal Bilgiler, Hukuk, İktisat, İşletme ve İktisadi ve İdari 
+Bilimler Fakülte ve Yüksek Okulları ile bunlara denkliği yetkili Makamlarca kabul edilen en az dört yıl süreli yurt 
+içi ve yurt dışındaki fakülte veya yüksekokullardan birini bitirmiş olmak,
+ ç) Kontrolörlük giriş sınavına daha önce en çok iki defa katılmış olmak,
+6.2.3 Giriş Sınavının İlanı
+6.2.3.1 Başkanlık, giriş sınavının açılış tarihini, yapılacağı yerleri, giriş koşullarını ve istenilecek belgeleri, Resmî 
+Gazete’de, Cumhurbaşkanlığınca belirlenen kurumun ve Şirketin internet sayfasında ayrıca ilgili PTT birimlerinde 
+uygun görülecek şekilde ilan edilmesini sağlar. 
+6.2.3.2 İlanlar, sınav tarihinden en az bir ay önce yapılır.
+6.2.3.3 Adayların başvuru ve kayıt süresi, sınavların başlama tarihinden en çok 15 gün öncesine kadar devam edecek 
+şekilde belirlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/13
+6.2.4 Giriş Sınavının Şekli ve Yerleri
+6.2.4.1. Bu esaslarda aranan koşullara sahip adaylar, yazılı ve sözlü olmak üzere iki sınava tabi tutulurlar.
+6.2.4.2. Başkanın teklifi, Genel Müdürün onay vermesi halinde, yazılı sınav ÖSYM'ye veya bir üniversiteye 
+yaptırılabilir.
+6.2.4.3. Yazılı sınavda başarılı olmayanlar sözlü sınava alınmaz.
+6.2.4.4. Başkanın teklifi, Genel Müdürün onayı ile sadece PTT çalışanlarının katılabileceği şekilde de sınav 
+yapılabilir. Bu şekilde yapılacak olan sınavın onayında, sınavın şekli ve yerleri de belirtilir. Sadece PTT 
+çalışanlarının katılacakları Kontrolörlük giriş sınavının tarihi, yapılacağı yerler, giriş koşulları, istenilecek belgeler, 
+PTT web sayfası ile PTT işyerlerinde ilan olunur. PTT çalışanlarının katılacakları Kontrolörlük giriş sınavı için on 
+sekiz yaşını tamamlamış ve giriş sınavının yapıldığı yılın Ocak ayının 1. günü itibariyle kırk yaşından gün almamış 
+olmaları gerekir.
+6.2.5 Giriş Sınavının Konuları
+Giriş sınavı aşağıda gösterilen konulardan yapılır.
+a) Hukuk (Anayasa, Ceza, İdare, Ticaret, Medeni ve Borçlar Hukukunun Genel Esasları),
+b) Ekonomi (Makro ve Mikro Ekonomi),
+c) Maliye (Genel Maliye Teorisi ve Politikası, Türk Vergi Kanunlarının Esasları, Bütçe Tekniği),
+ç) Muhasebe (Genel Muhasebe, Bilanço Analizi). 
+6.2.6 Sınav Kurulu
+6.2.6.1 Giriş sınavını yapacak olan Sınav Kurulu; Başkanın teklifi, Genel Müdürün onayı ile Başkanın veya 
+görevlendireceği bir Başdenetçinin başkanlığında, Başkanlıkta görevli dört denetçinin katılımıyla oluşur.
+6.2.6.2 Ayrıca iki yedek üye seçilir.
+6.2.7 Sınav Notlarının Değerlendirilmesi ve Sınav Sonrası İşlemler
+6.2.7.1 Giriş sınavlarındaki tam not; yazılı sınav gruplarından ayrı ayrı ve sözlü sınavda ise tek olmak üzere 100'dür.
+6.2.7.2 Yazılı sınavı başarmış sayılabilmek için yazılı sınav gruplarından alınan notlardan her birinin 50’den aşağı 
+olmaması gerekir.
+6.2.7.3 Yazılı sınavda başarılı olanlar Başkanlıkça bir yazı ile sözlü sınava davet edilir.
+6.2.7.4 Sözlü sınavda 6.2.5 maddesinde sayılan konulardan hazırlanan sorular sorulur. Ayrıca, adayların zekâ, 
+kavrama hızı, ifade yeteneği, hal ve hareketleri gibi kişisel özellikleri de göz önünde tutulur.
+6.2.7.5 Giriş sınavını başarmış sayılmak için giriş sınav notunun 60’dan az olmaması gerekir. Giriş sınav notu, yazılı 
+sınav ortalaması ile sözlü sınav notu toplamının ikiye bölünmesi ile bulunur.
+6.2.7.6 Sınavda başarı gösterenlerin sayısı kadro sayısından fazla olursa, giriş sınav notu üstün olanlar tercih edilir. 
+Giriş sınav notunun eşitliği halinde, sözlü sınav notu üstün olan aday öncelik kazanır. Diğerleri için sınav sonuçları 
+kazanılmış hak sayılmaz.
+6.2.7.7 Sınav sonuçları, sınav kurulu tarafından tutanakla belirlenir. Giriş sınavını kazananlara Başkanlık tarafından 
+gerekli tebligat yapılır.
+6.2.7.8 Giriş sınavını kazananların atanmaları, sınav başarı sırasına göre yapılır.
+6.2.8 Görevlendirme 
+6.2.8.1 Kontrolörler, Başkandan aldıkları talimatla teftiş, inceleme ve soruşturma görevini yürütürler.
+6.2.8.2 Kontrolörler, Başkanlıktan aldıkları görevin sonuçlarını Başkanlığa bildirirler.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/13
+6.2.8.3 Kontrolörler çalışma merkezlerinde, doğrudan Bölge Müdürüne bağlı olarak çalışırlar. Bölge Müdürü 
+tarafından Kontrolöre doğrudan, Kontrolörün yetkisi dahilinde olacak şekilde inceleme ve soruşturma görevi 
+verilebilir.
+6.2.8.4 Kontrolörlere, gereğine göre diğer yerlerdeki Bölge Müdürleri tarafından da, Başkanlığın bilgisi ile inceleme 
+ve soruşturma görevi verilebilir.
+6.2.8.5 Kontrolörlere, Bölge Müdürlerince verilmiş olan görevin sonuçları, Kontrolörlükçe doğrudan ilgili Bölge 
+Müdürlüğüne bildirilir, gereği ilgili Bölge Müdürlüğünce sonuçlandırılır.
+6.2.9 Kontrolörlerin Uyacakları Hususlar 
+6.2.9.1 Kontrolörler mevzuatta öngörülen yetkilerini tam olarak kullanmaktan, görevlerini noksansız ve zamanında 
+yerine getirmekten yürürlükteki mevzuat çerçevesinde sorumludurlar.
+6.2.9.2 Kontrolörler bulundukları yerlerde, görev ve sıfatlarının gerektirdiği saygınlık ve güven duygusunu sarsacak 
+nitelikte davranışlarda bulunamazlar. Yürütmeye müdahale edemezler. İnceledikleri belgeler üzerinde açıklama, 
+ekleme ve düzeltme yapamazlar. Elektronik, manyetik ve benzeri bilgi işlem ortamlarındaki bilgi ve kayıtları 
+değiştiremez ve silemezler. Şirket personeli ile sosyal ilişkilerin gerektirdiği hususlar dışında özel ilişki tesis 
+edemezler. Teftiş edecekleri ve incelemeye gidecekleri yerleri, yapacakları işleri ve görevleri nedeniyle edindikleri 
+gizli bilgi ve belgeleri açıklayamazlar. Kontrolörler meslek ahlakına ve etik ilkelere uygun davranırlar.
+6.2.10 Görevden Uzaklaştırma 
+6.2.10.1 Kontrolörler;
+a) Devletin güvenliğine, anayasal düzene ve bu düzenin işleyişine, milli savunmaya ve devlet sırlarına karşı suç 
+işlemek, casusluk, zimmet, irtikâp, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, güveni kötüye kullanma, hileli iflas, 
+ihaleye fesat karıştırma, edimin ifasına fesat karıştırma, suçtan kaynaklanan malvarlığı değerlerini aklama veya 
+kaçakçılık gibi yüz kızartıcı bir suçtan dolayı haklarında soruşturma açılmasına lüzum görülmesi,
+b) Denetim ve soruşturmanın önemli derecede güçleştirilmesi,
+c) İş yerinde kişilere ve mallara karşı ağır zararda bulunacağı hakkında kuvvetli işaretler bulunması,
+ç) Kasayı ve depoları saydırmaktan, para, para hükmündeki evrak, senet, ayniyat ile bunların kayıt ve hesaplarını, 
+defter ve kayıtları göstermekten veya sorulan sorulara kanuni bir sebep olmaksızın cevap vermekten kaçınılması,
+d) Herhangi bir nedenden dolayı tutuklanması,
+e) Göreviyle ilgili hakkında ceza soruşturması veya kovuşturması açılması,
+Hallerinde, görevden uzaklaştırılması gereken personel için gerekçelerini belirtmek suretiyle durumu 
+görevlendirmeyi yapan Makama bildirirler.
+6.2.10.2 Gereği, görevlendirme yapan Makam tarafından sağlanır. Görevlendirmeyi yapan Makam, Bölge 
+Müdürlüğü ise durumu Başkanlığa ayrıca bilgi mahiyetinde sunar.
+6.2.11 İşlerin Süresinde Bitirilememesi ve Devri 
+6.2.11.1 İşlerin süresinde bitirilememesi veya devrinde aşağıda belirtilen hususlara uyulur.
+a) Kontrolörler, kendilerine verilen işleri belirtilen süreler içerisinde bitirirler. Süresinde bitirilemeyeceği anlaşılan 
+işler hakkında, Başkanlığa zamanında yazılı bilgi verip alacakları talimata göre hareket ederler.
+b) Kontrolörlere verilen işin devredilmemesi esastır. Kontrolörler ellerindeki işleri, Başkanlığın yazılı emri veya 
+izniyle başka bir kontrolöre devredebilirler.
+c) Devredilecek işler için devri yapacak olan kontrolör tarafından 3 nüsha olarak hazırlanacak "devir tutanağı"nda 
+devredilen işin ne olduğu, ne kadarının incelemeye tabi tutulduğu, olay hakkında ne gibi görüş ve kanaate varıldığı 
+yazıldıktan sonra, işe ait bütün belgeler ek dizi pusulasıyla birlikte, işi devralana imza karşılığı teslim edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/13
+6.2.11.2 Devir tutanağının ve dizi pusulasının ikinci nüshası; devreden Kontrolör tarafından, Başkanlığa bir yazı ile 
+gönderilir. Üçüncü nüsha tutanak devredende kalır.
+6.3 Kontrolörlerin Atanması, Yetiştirilmesi, Kıdemi, Güvencesi 
+6.3.1 Kontrolörlerin Atanması
+6.3.1.1 Giriş sınavında başarılı olan adaylar, Genel Müdür tarafından Kontrolör olarak atanırlar. Kendileri ile dört 
+aylık deneme sözleşmesi imzalanır. Bu süre sonunda haklarında düzenlenen değerlendirme raporu olumlu olanlar ile 
+takip eden cari yılsonuna kadar idari hizmet sözleşmesi imzalanır. Müteakip sözleşmeler herhangi bir şekilde 
+sözleşme fesih kararı alınmadığı sürece yenilenmiş sayılır. 
+6.3.2 Kontrolörlerin Yetiştirilmesi 
+6.3.2.1 Kontrolörlerin yetiştirilmesinde;
+a) PTT mevzuatı ve genel mevzuatın PTT ile ilgili yönleri ile PTT işletmeciliği konularında; görgü ve mesleki 
+bilgileri kazandırmak, teftiş, inceleme, soruşturma esas ve yöntemlerini, rapor yazma tekniğini öğretmek, bu 
+konulardaki alışkanlık ve yeteneklerini geliştirmek, 
+b) Bilimsel çalışma ve araştırma alışkanlığını kazandırmak,
+c) Tutum ve davranışlarını, Kontrolörlük mesleğinin gerektirdiği niteliklere göre geliştirmek, 
+Esas alınmalıdır.
+6.3.3 Kontrolörlerin Yetiştirilme Program
+6.3.3.1 Kontrolörlüğe atananlar aşağıdaki programa göre yetiştirilirler:
+a) Birinci Dönem Çalışmaları; Başkanlıkça, teftiş, inceleme, araştırma ve soruşturma ile ilgili yürürlükteki 
+mevzuatın öğretilmesi amacıyla hizmet içi eğitim şeklinde düzenlenir ve süresi 2 aydır.
+b) İkinci Dönem Çalışmaları; Kontrolörlerin yetişmeleri amacıyla denetçiler refakatinde yaptıkları teftiş, inceleme 
+ve soruşturma çalışmalarından oluşur ve bu dönem 10 aylık bir süreyi kapsar.
+c) Kontrolörler, refakatinde çalıştıkları Denetçinin denetimi ve gözetimi altında görev yaparlar.
+ç) Grup Başkanları programlarını, mevzuat ve uygulamasının, teftiş ve soruşturma yöntemlerinin yeteri derecede 
+öğrenilmesini sağlayacak şekilde düzenler ve uygularlar.
+d) Üçüncü Dönem Çalışmaları; birinci ve ikinci dönem çalışmalarını başarı ile bitirenlerin yanında çalıştıkları 
+denetçilerin görüşleri de alınarak, Başkanlıkça, Kontrolörlere 4 ay süreli olarak re'sen teftiş, inceleme ve soruşturma 
+yapma yetkisi verilebilir.
+e) Yetiştirilme döneminde, yanında çalıştıkları Denetçiler tarafından, çalışma tutum ve davranışları, mesleki 
+bilgileri, çalışkanlıkları, nitelikleri, liyakatleri hakkında her üç ayda bir, gerektiğinde daha kısa sürede gizli rapor 
+düzenlenerek Başkanlığa gönderilir.
+6.3.4 Staj Döneminde Başarısız Olma
+6.3.4.1. Eğitim döneminin herhangi bir aşamasında başarılı olamayanlar ile refakat çalışmaları sonuçlarına ve almış 
+oldukları sicil raporlarına göre başarı gösteremeyeceği anlaşılanlar veya tutum ve davranışları itibariyle bu görevi 
+yapamayacak nitelikte görülenler, önceki unvanlarına veya durumuna uygun pozisyona atanırlar.
+6.3.5 Kontrolör Kıdemi
+6.3.5.1 Kontrolörlükte kıdem, kontrolör olarak geçen hizmet süresine göre, hizmet süresi eşit olduğu takdirde 
+memuriyet süresine göre saptanır.
+6.3.5.2 Kontrolörlük görevinden ayrıldıktan sonra yeniden kontrolörlüğe dönenler, kıdem bakımından dönemlerinin 
+sonuna alınırlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/13
+6.3.6 Görevden Ayrılan Kontrolörlerin Yeniden Göreve Başlama Koşulları 
+6.3.6.1 Görevlerinden istifa suretiyle veya naklen ayrılan kontrolörlerin yeniden kabulleri, ayrı bulundukları süre 
+içerisinde kanuni yönden hüküm giymemiş olmak, disiplin yönünden ise Ücret Kesimi ya da daha üst bir ceza 
+almamış bulunmak koşuluyla Yönetim Kurulunun onayına bağlıdır.
+6.3.7 Kontrolörlük Güvencesi
+6.3.7.1 Kontrolörler kendi istekleri dışında veya ifa ettikleri hizmetlerin gerekleriyle bağdaşmayan sıhhi, ahlaki ve 
+mesleki yetersizlikleri tespit edilmedikçe, görevden alınamaz ve diğer idari görevlere atanamazlar.
+6.3.7.2 Sıhhi, ahlaki veya mesleki gibi yetersizlik hallerinin, olumsuz tutum veya davranışlarının; yargı kararı, sağlık 
+kurulu raporu, denetçi raporu gibi belgelerle ortaya konulması gerekir.
+6.4 Kontrolörlerin Çalışma Esasları 
+6.4.1 Genel Esas
+6.4.1.1. Kontrolörler, Başkanlığa bağlı olarak teftiş, inceleme ve soruşturma işleriyle görevlendirilirler. Görev 
+yaptıkları Bölge Müdürlüğünde de doğrudan Bölge Müdürüne bağlı olarak, inceleme ve soruşturma ile 
+görevlendirilebilirler.
+6.4.2 Grup Halindeki Çalışmalar
+6.4.2.1 Belirli konuların inceleme ve soruşturmasına ya da belirli bir çalışma devresine ilişkin teftiş, inceleme ve 
+soruşturma programının uygulamasına birden fazla kontrolör görevlendirildiğinde, gruptaki Kontrolörlerin en 
+kıdemlisi grup başkanı olur.
+6.4.3. Grup Başkanının Görevi
+6.4.3.1 Grup başkanlığını üstlenen kıdemli kontrolör kendisine verilen görevi yapmakla birlikte, eşliğinde 
+bulunanların çalışmasını, verilen program veya emirlere göre en çok verim alınmasını olanaklı kılacak biçimde 
+düzenlemek ve izlemekle yükümlüdür. İşin saptanan süre içerisinde bitirilmesi grup başkanı tarafından sağlanır.
+6.4.3.2 Teftiş, inceleme ve soruşturma nedeniyle, iş yerleri ile diğer makam ve kişilerle yapılacak yazışmalar grup 
+başkanının imzasıyla yapılır.
+6.4.4 Denetçilerle Kontrolörlerin Birlikte Çalışmaları Halinde Yapılacak İşler
+6.4.4.1. Teftiş, inceleme ve soruşturma için gidilen yerlerde, Denetçilerle Kontrolörlerin görev gereği bir arada 
+çalışmaları halinde, grup başkanı Denetçi olacağından Rehberlik ve Teftiş Prosedürüne göre işlem yapılır.
+6.4.5 Kontrolörler ile Diğer Personelin Birlikte Çalışmaları
+6.4.5.1 Kontrolörlerin görevli bulunduğu yerlerde inceleme ve soruşturma ile görevlendirilen personel, kontrolörce 
+sakınca görülmediği takdirde ve çalışmaları hakkında Kontrolöre bilgi vermek koşuluyla görev yaparlar.
+6.4.6 Kontrolörlerin Haberleşme Biçimi
+6.4.6.1 Kontrolörler; teftiş, inceleme ve soruşturma çalışmaları ile ilgili olarak çeşitli kurum ve makamlarla 
+ilişkilerinde, gereğine göre doğrudan doğruya veya Başkanlık aracılığı ile ya da Bölge Müdürlüğü aracılığı ile 
+haberleşme yaparlar.
+6.4.6.2 Belgenet ile haberleşme esas olmakla birlikte, mümkün olmaması halinde faks ya da telefon kullanılabilir.
+6.4.6.3 Kontrolörler; Başkanlıktan aldıkları görevler için görevli gittikleri yerlere varışlarını aynı gün, hareketlerini 
+ise 24 saat önce Başkanlığa, Bölge Müdürlüğünden aldıkları görevler için ise Bölge Müdürlüğüne bildirirler. Bu 
+haberleşmelerin gizlilik içerdiği durumlarda, gizliliğin mutlaka korunacak şekilde yapılması zorunludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/13
+6.5 Teftiş İnceleme ve Soruşturma 
+6.5.1 Teftiş Programının Hazırlanması ve Uygulanması
+6.5.1.1 Teftiş programları, esas olarak her yıl Rehberlik ve Teftiş Başkanlığınca hazırlanan Yıllık Çalışma Plan ve 
+Programı kapsamında, "Turne" ve "Turne Dışı" teftiş esasına göre yürütülür. Teftiş edilecek birimlerin 
+saptanmasında; birimlerin iş hacmi ve niteliği, çalışmalarının yeterlik ve verimliliği, teftiş gördüğü en son tarih ve 
+kontrolör mevcudu gibi hususlar dikkate alınır. Ayrıca, yıllık programın hazırlanmasında, önceki yıl 
+denetimlerinden elde edilen bilgilerden de yararlanılır. Teftiş programları, Genel Müdürün onayına sunulur. 
+6.5.1.2 Buna göre; görev yerlerinin bulunduğu iller ile bu yerlerin belediye hudutları içindeki birimlerinin teftişi 
+"Turne Dışı" teftiş esasına göre; bu ile bağlı ilçe ve yerleşim merkezlerindeki işyerleri ile diğer ünitelere bağlı 
+işyerlerinin teftişi ise "Turne" teftişi esasına göre yapılır.
+6.5.1.3 Turne ve turne dışı teftiş ve inceleme programlarında uygulama esasları da belirtilir.
+6.5.1.4. Genel Müdür tarafından onaylanan programlar, Kontrolörlere uygulama tarihinden en az 15 gün önce 
+gönderilir.
+6.5.1.5. Kontrolörlere yukarıda açıklanan esaslara göre her yıl iş durumu gözetilerek, 3 ay süreli turne teftişi 
+yaptırılır. Bu süre zorunlu durumlarda Başkanlıkça uzatılabilir.
+6.5.1.6 Kontrolörler; Başkanlığa gönderilen programda belirtilen turneye başlama ve bitiş tarihlerine uymak ve 
+programlarını tamamlamak zorundadırlar. Teftiş ve incelemeler zorlayıcı nedenlerin yazılı olarak Başkanlığa 
+bildirilmesi koşulu ile verilecek onay gereğince, programda belirtilen süre sonunda kesilebilir. Bu durumda hangi 
+konulara bakılamadığı da teftiş raporunda ayrıntılı şekilde gösterilir.
+6.5.2 Teftişin Başlangıcı ve Yöntemi 
+6.5.2.1 Teftiş, aksine bir emir verilmedikçe bir önceki teftiş tarihinden itibaren başlar.
+6.5.2.2 Teftiş, mevzuata ve Başkanlıkça hazırlattırılan "Kılavuz"lara göre, tarama ya da sondaj yöntemiyle yapılır.
+6.5.2.3 İşlemlerin, kuruluşun önemli derecede zarar ve gelir kaybına neden olacak biçimde hatalı görülmesi veya 
+yolsuzluk bulunması durumunda teftiş; hatalı veya yolsuzluk saptanan konularda ve özellikle bununla ilgili 
+personelin işe başladığı tarihten itibaren tarama yöntemiyle yapılır.
+6.5.2.4. Teftişlerde suç unsuruna rastlanılmamışsa en fazla 5 yıl öncesine inilir.
+6.5.3 Teftiş Yeri ve Sırası
+6.5.3.1 Teftişin, teftiş edilen iş yerinde yapılması, raporların yerinde düzenlenmesi ve programda gösterilen yerlerin 
+sırasıyla teftiş edilmesi esastır.
+6.5.3.2 Ancak zorunlu hallerde, Başkanlıktan önceden izni alınmak koşuluyla başka bir iş yerinde teftiş yapılabilir 
+ve Başkanlığa önceden bilgi verilerek programdaki teftiş edilecek yerlerin sırası değiştirilebilir.
+6.5.4 Teftiş Raporu
+6.5.4.1 Kontrolörler teftiş ettikleri PTT Müdürlükleri için, işletme ile muhasebe ve finansman işleri teftiş raporu 
+düzenlerler. Teftiş raporlarında yer alan hususlar, Dairelerin görev alanları dikkate alınarak konu başlıkları itibariyle 
+gruplandırılır.
+6.5.4.2 Teftiş raporlarındaki eleştirilerin dayanağı, kanun, tüzük, yönetmelik, genelge, yönerge ve diğer ilgili 
+mevzuattır.
+6.5.4.3 Teftiş raporlarının teftiş mahallinde düzenlenmesi esastır. Zorunlu hallerde Başkanlığın yazılı onayı ile teftiş 
+raporlarının görev merkezinde düzenlenmesi mümkündür.
+6.5.5 Teftiş Raporlarının Kapsamı 
+6.5.5.1 Teftiş raporlarında;
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/13
+a) Teftiş edilen müdürlük, birim veya servisin adı ve teftişin başladığı tarih,
+b) Bir önceki teftişin hangi tarihte ve kim tarafından yapıldığı,
+c) Teftiş edilen müdürlük, birim veya servis amirinin adı, soyadı, sicil numarası ile hangi tarihten itibaren o görevde 
+bulunduğu,
+ç) Eleştirilen ve takdir edilen işlemlerle, nedenleri,
+d) Eleştirilen işlerden bazıları müdürlük, birim veya servisten ayrılan memur ve amirlerin çalıştıkları döneme ait ise, 
+kusurlu işin yapıldığı tarih ile bu personelin ad ve soyadları, sicil numaraları ve halen nerede görev yaptıkları,
+e) Önceki teftişte eleştirilmiş olan kusur ve noksanlıkların ne dereceye kadar düzeltildiği, henüz düzeltilmemiş 
+olanlar varsa bunların hangi nedenlerden ileri geldiği,
+f) Grup halinde yapılan teftişlerde hangi işlemlerin hangi kontrolör tarafından teftiş edildiği,
+g) Teftişin bitirildiği tarih ile teftişi yapanların adları, soyadları ve unvanları, gibi bilgilerin belirtilmesi zorunludur. 
+6.5.5.2 Ayrıca teftiş sırasında tespit edilen ve soruşturmaya gerek görülmeyen işletme aksaklıklarına ilişkin olarak 
+uyarma ve kınama cezası verilmesi gereken hallerde, kontrolör tarafından sorumlu personelin usulünce yazılı 
+savunması alınarak, rapora ait ek görüşte disiplin cezası önerisinde bulunulabilir.
+6.5.6 Teftiş Raporlarının Göreceği İşlemler
+6.5.6.1 Kontrolörler tarafından düzenlenen teftiş raporları, teftiş defterine kaydedilerek teftişi yapılan yerin amirine 
+imza karşılığı verilir.
+6.5.6.2 Raporlar, teftiş edilen memur ve amirleri tarafından süresi içinde yanıtlanarak Kontrolöre iade edilir.
+6.5.6.3 Cevapları alınan raporlar, teftiş edilen Müdürlüğün bağlı olduğu üst makama gönderilir. Bu makamlar, 
+raporları inceledikten sonra aldıkları önlemleri, yaptıkları bildirileri ve görüşlerini belirtmek suretiyle, Kontrolöre 
+iade ederler. Kontrolörler ek görüşleri ile birlikte raporları en kısa sürede bir yazı ile Başkanlığa gönderirler.
+6.5.6.4 Teftiş gören personelin cevap ve teminatı ile bağlı olduğu üst makamın yaptığı bildiride noksanlık bulunması 
+durumunda, raporlar Başkanlığa gönderilmeden bu noksanlıkların giderilmesi sağlanır.
+6.5.6.5 Teftiş edilen kısımlarla ilgili olarak rapor düzenlenmesine gerek bulunmadığında, durum Başkanlığa 
+gönderilen yazıda açıklanır.
+6.5.7 Teftiş Raporlarının Cevap Süresi
+6.5.7.1. İlgililerce, teftiş raporlarının özenli ve düzenli olarak yanıtlanması ve en geç on beş gün içinde kontrolöre 
+geri verilmesi zorunludur. Bu süre zorlayıcı nedenler karşısında Kontrolörler tarafından uzatılabilir. 
+6.5.8 Teftiş Raporlarına Genel Müdürlükte Uygulanacak İşlemler 
+6.5.8.1 Kontrolörler tarafından işlemi tamamlanarak Başkanlığa gönderilen raporlar, Başkanlık tarafından şekil ve 
+esas yönünden incelendikten sonra ilgili Dairelere gönderilir. Daireler raporları en geç bir ay içinde inceleyip, 
+gereğine göre alınan önlemleri ve teftiş gören birimlere yapılan bildirileri de belirtmek suretiyle, Başkanlığa yazı ile 
+cevap verirler. Bu süre zorlayıcı nedenler karşısında uzatılabilir.
+6.5.8.2 Dairelerin görüş, önlem ve bildirilerini kapsayan raporlar, Başkanlıkta görevli Denetçilerce görülerek varsa 
+Dairelerce yapılan tebliğler Kontrolörlere iletilir.
+6.5.8.3 Kontrolörler Genel Müdürlük Dairelerince yapılan işlemlerde ve bildirilerde noksanlık veya mevzuata 
+aykırılık görürlerse, bu yönü ayrı bir yazı ile açıklayıp tamamlayıcı görüşlerini Başkanlığa sunarlar.
+6.5.9 İnceleme Raporlarının Kapsamı 
+6.5.9.1 İnceleme Raporları;
+a) Başkanlıkça incelenmesi bildirilen konular,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/13
+b) Yürürlükteki, kanun, tüzük, yönetmelik, genelge ve emirler ile bunların uygulanmasında görülen aksaklık ve 
+noksanlıklar, aksaklıkların düzeltilmesi, noksanlıkların giderilmesi yolları, yeniden konulması gereken hüküm ve 
+yöntemler hakkında görüş ve öneriler,
+c) Teftişlerde, öncelikle ve doğruca Genel Müdürlüğe duyurulmasında yarar görülen hususlar,
+ç) Yakınma ve ihbarlar üzerine yapılan incelemeler sonucunda, soruşturmayı gerektirir bir durum bulunmaması,
+İle ilgili olarak düzenlenir.
+6.5.10 Soruşturma Açılmasını Gerektiren Nedenler
+6.5.10.1 Soruşturma; Şirket hizmetlerinin gereği gibi yürütülmesini sağlamak amacı ile mevzuatın emrettiği 
+görevleri yurt içinde veya dışında yerine getirmeyen, uyulması zorunlu kılınan hususları yapmayan, yasakladığı 
+işleri yapan, kanunlara göre suç sayılan işlem ve eylemlerde bulunan personel hakkında disiplin, idari ve yasal 
+sorumlulukların belirlenmesi için açılır. 
+6.5.11 Soruşturma Açılma Biçimi ve Yetkisi  
+6.5.11.1 Genel Müdürlükçe gerekli görülenler hakkında soruşturma açılabileceği gibi;
+a)Soruşturmayı gerektiren eylem ve olayın teftiş ve inceleme sırasında öğrenilmesi,
+b)Kimliği belli kimse tarafından açık imzalı ve maddi dayanağı bulunan ihbar ve yakınma mektubu alınması,
+Hallerinde Kontrolör tarafından durum Başkanlığa bildirilerek, Başkanlıkça verilecek talimat doğrultusunda 
+belirlenen yetki sınırları dahilinde soruşturma açılabilir.
+6.5.11.2 Soruşturma açılsın veya açılmasın, kontrolörler aldıkları ihbarları değerlendirerek düşünceleri ile birlikte 
+Başkanlığa veya gereğine göre bağlı olduğu Bölge Müdürlüğüne bildirirler.
+6.5.11.3 Kontrolöre, Bölge Müdürü tarafından da inceleme veya soruşturma görevi verilebilir.
+6.5.12 Soruşturmanın Kuruluş Dışında Diğer Resmi Kuruluşlar Personelini de İlgilendirmesi
+6.5.12.1 Kontrolörler soruşturma sırasında, diğer resmi kuruluş görevlilerinin suçla ilgili olduğu kanısına varırlarsa, 
+kuruluşlarınca da haklarında gerekli işlemin yapılmasını sağlamak amacıyla, olayın ilgili kuruluşa bildirilmesini 
+Genel Müdürlükten, gereğine göre Bölge Müdürlüğünden isteyebilirler. 
+6.5.13 Kontrolörlerin Soruşturma Yapabileceği Personel
+6.5.13.1 Kontrolörler, Müdür ve alt unvanlı tüm personel hakkında soruşturma yapabilirler. 
+6.5.14 Soruşturma Raporlarının Düzenlenme Biçimi ve Kapsamı
+6.5.14.1 Soruşturma raporları; Başlangıç, Konu, İnceleme ve Soruşturma, Çözümleme ve Tartışma ile Sonuç 
+bölümlerini kapsar.
+a) Başlangıç Bölümünde; Soruşturmaya başlama nedeni, soruşturmayla ilgili emri veya ihbar ve yakınmanın tarih ve 
+sayısı,
+b) Konu Bölümünde; Soruşturma nedenini oluşturan olay, eylem, ihbar ve yakınmanın özü,
+c) İnceleme ve Soruşturma Bölümünde; incelenen belge ve kayıtların konuya ilişkin özetleri ve bunlardan rapora 
+ekleneceklerin ek sıra numaraları, kimlerin sorgularının yapıldığı, anlatımların öz olarak; suçlama, doğrulama, 
+savunma, görgü ve bilgi gibi kanıt değeri taşıyan yönleri ve ek sıra numaraları,
+ç) Çözümleme ve Tartışma Bölümünde; olaylarla kanıtlar çözümlenip tartışılarak, kusur tarihi, kusurun öğrenildiği 
+tarih ile zaman aşımı tarihi göz önünde bulundurulmak suretiyle, yasal, disiplinsel ve yönetimsel yönlerden varılan 
+sonuçlarla ilgili gerekçeler,
+d) Sonuç Bölümünde; konunun hiçbir duraksamaya yer vermeyecek şekilde tüm yönleri ile özeti, ilgililer hakkında 
+yasal kovuşturmaya gerek olup olmadığı, eylemin yasal niteliği, eylem ve kusurun disiplin cezalarından hangisini 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+11/13
+ilgilendirdiği ve ilgili mevzuatındaki disiplin cezalarına ilişkin maddeleri, yapılan inceleme ve soruşturma 
+sonucunda, eylem kanıtlanamadığı takdirde, ilgili hakkında kovuşturmaya gerek olmadığı, olayın niteliğine göre, 
+kusurlu veya suçlu personel hakkında yönetimsel önlem veya karar alınması gerekiyorsa, bunların neler olduğu, 
+herhangi bir işlem yapılmasına gerek yoksa, bu hususun açık olarak yazılması,
+Gerekir.
+6.5.14.2Yasal kovuşturma yapılması isteği ile düzenlenen basit ve nitelikli zimmet, irtikap, rüşvet, alım satıma fesat 
+karıştırmak, evrakta sahtekarlık, hırsızlık, dolandırıcılık, kaçakçılık, iftira, kargo/kurye ve mektuplara tecavüz 
+suçlarıyla ilgili soruşturma raporları doğruca Cumhuriyet Başsavcılığına, raporun yeteri kadar nüshası da 
+Başkanlığa, diğer suçlarla ilgili ve yasal kovuşturma yapılması isteği ile düzenlenen soruşturma raporları ise gereği 
+yapılmak üzere Başkanlığa gönderilir.
+6.5.14.3 Soruşturma raporunun aslı ve ekleri ilgili Cumhuriyet Başsavcılığına ayrı bir yazıya eklenerek gönderilir. 
+Savcılığa verilen/gönderilen raporun posta alındısı ya da teslime ilişkin belge Başkanlığa gönderilen rapora eklenir.
+6.5.15 Personelin Sorgusu
+6.5.15.1 Soruşturmalarda, bilgisine başvurulması gereken personel yüz yüze sorguya çekilir. Sorgu tutanakları 
+birbirini izleyen sayfa numarası taşır. Duruma göre sorgu yazı yazılarak da yapılabilir.
+6.5.15.2 Başka yerde bulunanların sorgusu, o yerdeki soruşturma elemanı veya personelin amiri aracılığıyla 
+yapılabilir. İstinabe talimatı sorgulamayı yapacak personele doğruca gönderilir.
+6.5.15.3 Kusurlu veya tanık olarak dinlenmesine gerek görülenlerden, halen PTT'de çalışmayanların sorgusunun da 
+yüz yüze yapılması çareleri araştırılır. Bunlar ifade vermekten kaçındıkları takdirde, durum bir tutanakla saptanır ve 
+raporda belirtilir.
+6.5.16 Rapor Düzeni
+6.5.16.1 Teftiş, inceleme ve soruşturma raporları; amacı sağlayacak ölçüde kısa, açık, kazıntı ve silintisiz olarak 
+düzenlenir.
+6.5.16.2 Rapor ve ekleri numaralanıp kontrolörlük mührü ile mühürlenerek, raporlara rapor eklerini gösterir bir ek 
+dizi listesi konulur.
+6.5.16.3 İnceleme ve soruşturma raporları, konularına göre ilgili olduğu dairelere yetecek nüsha çıkarılmak suretiyle 
+hazırlanır.
+6.5.16.4 Düzenlenen teftiş, inceleme ve soruşturma raporlarının bir nüshası kontrolörde kalır.
+6.5.16.5 Düzenlenen teftiş, inceleme ve soruşturma raporlarına ait bildirilerden Başkanlıkça uygun görülenler 
+Kontrolöre gönderilir.
+6.5.17. Kasa Yoklama İşlemi
+6.5.17.1 Teftiş programlarında gösterilen kasa yoklamalarının sonucu ile ilgili olarak "Muhasebe ve Finansman 
+İşleri Teftiş Raporu" düzenlenir. İnceleme ve soruşturma görevleri ile gidilen müdürlük ve birimlerde, işin niteliği 
+kasa işlemlerini ilgilendirdiği veya kuşkulu bir durum görüldüğünde kasa yoklaması yapılır. Gerektiğinde durum 
+Başkanlığa bildirilerek, alınacak emre göre, ilgili işlemler ayrıntılı olarak da incelenebilir. 
+6.5.18 Raporların İncelenmesi
+6.5.18.1 Teftiş, inceleme ve soruşturma raporları Başkan tarafından görevlendirilecek refakat denetçilerince yöntem 
+ve esas bakımından incelenir. 
+6.5.18.2 Bu inceleme sonucuna göre;
+a) İnceleme ve soruşturma raporlarında hata ve noksanlıklara rastlanan kontrolörler Başkanlıkça uyarılarak, raporun 
+Başkanlık görüşü ile Genel Müdüre sunulması ya da tamamlanması ve düzeltilmesi için bir nüshası alıkonularak 
+rapor aslı ve eklerinin kontrolöre geri gönderilmesi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+12/13
+b) İnceleme ve soruşturma raporlarının uygun bulunduğu takdirde Genel Müdüre sunulması, teftiş raporlarının ilgili 
+dairelere sevk edilmesi, 
+Sağlanır.
+6.6 Mali Hükümler
+6.6.1 Kontrolörlerin Hak Edişleri
+6.6.1.1 Kontrolörler, aylıklarını banka aracılığı ile gündelik ve zorunlu giderlerini ise kredi cüzdanlarını göstererek 
+PTT veznelerinden çekle alırlar. 
+6.6.1.2 Aylık tahakkuk etmedikçe alınamaz.
+6.6.1.3 Gündelikler ile zorunlu giderler, bir ay içinde tahakkuk edecek tutarı geçmemek üzere, avans olarak 
+çekilebilir.
+6.6.1.4 Görev için alınmış olan avansın yol giderlerini ve o ay içinde tahakkuk edecek gündelikler tutarını geçip 
+geçmediği, ayın son günü hesaplanarak, alınan paranın hak edilen miktardan fazla olduğu anlaşıldığı takdirde, fazla 
+miktar bulunulan yer veznesine yatırılır.
+6.6.1.5. Ayın son günü yolda geçirilmiş ise, bu işlem varış gününü izleyen ilk iş günü içinde yapılır. Bu durum 
+dışında bir aydan diğer aya borç kalanı ve yılsonlarında ne borç, ne alacak kalanı devredilemez.
+6.6.1.6 Kontrolörlerin, her türlü özlük haklarıyla ilgili iş ve işlemleri, sicil cüzdanları, dosyaları gibi çalışma 
+durumlarıyla ilgili tüm işlemleri; ilgili Bölge Müdürlüğünce sağlanır ve takip edilir.
+6.6.2 Kredi Limitleri
+6.6.2.1 Kontrolörlerin kredi cüzdanı ile bir ay içinde alabilecekleri para tutarı, Başkanlık tarafından saptanarak kredi 
+cüzdanlarında gösterilir. Bu durum, Rehberlik ve Teftiş Başkanı tarafından imza edilerek onanır.
+6.6.2.2 Kontrolörlerce kredi limitlerinden fazla para çekilemez.
+6.6.3 Hak Edişlerin Hesaplanma Biçimi
+6.6.3.1 Kontrolörler; aylık hesap durumlarını "Kontrolör İş ve Hesap Cetveli"nin ilgili yerlerinde gösterirler.
+6.6.3.2 Bir aya ait Çalışma-Hesap Çizelgelerinin en geç ertesi ayın ilk haftası içinde Bölge Müdürlüğüne 
+gönderilmesi zorunludur.
+6.7 Çeşitli, Geçici ve Son Hükümler
+6.7.1 Çalışma Çizelgesi ile İnceleme ve Soruşturma Faaliyetlerini Gösterir Tablo 
+6.7.1.1 Kontrolörler, çalışma durumlarını her ay sonunda düzenleyecekleri "Kontrolör İş ve Hesap Cetveli"nin ilgili 
+yerlerinde gösterirler. Bu çizelgede hafta tatili, resmî tatile rastlayan, yolda geçen, sağlık ve yıllık izin günleri de 
+işaret edilmek suretiyle, nerede ve hangi işlerin yapıldığı kısaca gösterilir.
+6.7.1.2 Kontrolörler, kendileri tarafından yürütülen inceleme ve soruşturma faaliyetlerini, her ay olarak, uygun 
+görülen tabloya kaydetmek suretiyle, devam eden ayın ilk haftası içerisinde doğrudan Başkanlığa gönderirler.
+6.7.2 Görev Yerinden Ayrılma
+6.7.2.1 Kontrolörler hafta ve resmi tatil günleri dışında, özürlerinin derecesi ne olursa olsun, Bölge Müdüründen izin 
+almadan görev yerinden ayrılamazlar.
+6.7.2.2 Başkanlıkça kendilerine görev verilen Kontrolörlerin görevlerini tamamlamadan izinli olarak ayrılmaları 
+Rehberlik ve Teftiş Başkanının onaması ile olanaklıdır. 
+6.7.3 Yazışma, Kayıt ve Dosyalama Düzeni
+6.7.3.1 Kontrolörlere, Genel Müdürlük Dairelerince çıkartılan genelge, tebliğ ve diğer mevzuat, Başkanlıkça 
+Belgenet üzerinden gönderilir. Belgenet üzerinden gönderilen bu mevzuat Kontrolörlere tebliğ edilmiş sayılır. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+Rehberlik ve Teftiş Başkanlığı Kontrolörlerinin Çalışma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+RTB.PR02
+İlk Yayım Tarihi
+15.11.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+13/13
+6.7.4 Teftiş Kurulu Kontrolörleri ile Muhasebe Kontrolörlerinin Çalışmaları 
+6.7.4.1 Geçici Madde 1- Teftiş Kurulu Kontrolörleri ile Muhasebe Kontrolörlerinin, 6475 sayılı Posta Hizmetleri 
+Kanununun Geçici 5 ve 6. maddeleri hükmüne göre, özlük hakları ve mevcut statüleri saklı kalmakla birlikte, tabi 
+oldukları mevzuatına göre istihdamlarına, Rehberlik ve Teftiş Başkanlığına bağlı olarak devam olunur.
+6.7.4.2 Bu personel, PTT'de çalışmalarına devam ettikleri sürece, çalışmaları Rehberlik ve Teftiş Başkanlığınca 
+yönetilir. Yasal özlük hakları dışındaki; görev, yetki ve sorumlulukları ile çalışma esas ve usulleri gibi diğer tüm 
+hususlar yönünden, PTT Teftiş Kurulu Kontrolörleri Yönetmeliğine aykırılığı bulunmayan, bu esaslarda belirtilen 
+tüm hükümlere tabidirler.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+RTB.FR04-Kontrolör İş ve Hesap Cetveli
+RTB.PR01-Rehberlik ve Teftiş Prosedürü
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur.  
+0 15.11.2021 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

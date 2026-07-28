@@ -1,0 +1,876 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+DEĞERLİ KAĞITLAR DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+1/15
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından yürütülen pul ve diğer değerli kâğıt 
+faaliyetine ilişkin usul ve esaslar ile görev, yetki ve sorumlulukları belirlemektir.
+2.KAPSAM
+Bu prosedür, pul emisyonu, emisyon programının hazırlanması, değerli kağıtlara basılacak konuların belirlenmesi 
+ile pul ve pul baskılı diğer değerli kağıtların basımı, stoklanması, dağıtımı, satışı, sürşarj edilmesi, değiştirilmesi, 
+toplatılması, imhası ile kullanımına ilişkin düzenlemeleri kapsar.
+3.DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu, 6698 sayılı Kişisel Verilerin Korunması Kanunu, 5846 sayılı 
+Fikir ve Sanat Eserleri Kanunu, 30479 sayılı Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer 
+Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi’ne dayanılarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Anma Pulu: Bir olay, konu veya kişileri anmak, tanıtmak amacıyla bastırılan, seri veya blok şeklindeki posta 
+pullarıdır.
+4.2 Anma Bloku: Üst üste, yan yana, zımbalı veya zımbasız olarak bir veya birden çok posta pulunu kapsayan 
+pullarıdır.
+4.3Basımevi: Her türlü filatelik ürünün basım işlemlerinin gerçekleştirildiği PTT Matbaası veya piyasada basım 
+işi yapan iş yerleridir.
+4.4Basım Onayı: Bir değerli kâğıdın baskı provaları üzerine "Basılması Uygundur" ibaresi yazılması veya bu 
+deyimi taşıyan bir kaşe basılması, tarih yazılıp Daire Başkanı tarafından imzalanarak onaylanması ve basımına izin 
+verilmesi işlemidir.
+4.5Baskı Örneği: Tekli örneğe uygun olarak hazırlanan bir tabaka pulun, basıma esas teşkil eden zımbalı veya 
+zımbasız örnekleri ile diğer değerli kâğıtlar ve filatelik ürünlerin orijinal tasarımlarına uygunluğunun kontrol 
+edileceği örnekleridir.
+4.6Baskı Provası: Pulların basım evresinde asıl renk elde edilene kadar yapılan bir veya birkaç renkten oluşan 
+deneme baskı örnekleridir.
+4.7 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim 
+Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürdür.
+4.8 Birim Yöneticisi: Merkez Teşkilatında Şube/Teknik Müdürleri, Taşra Teşkilatında ise Teknik Müdürleri/ 
+Müdürleri (İhtisas) ve PTT Müdürleridir.
+4.9 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.10 Daire Başkanı: Posta ve Telgraf Teşkilatı Anonim Şirketi Değerli Kağıtlar Daire Başkanıdır.
+4.11 Daire Başkanlığı: Posta ve Telgraf Teşkilatı Anonim Şirketi Değerli Kağıtlar Daire Başkanlığıdır.
+4.12Değer: Değerli kâğıtların üzerlerinde rakam, harf veya simge ile gösterilen ve bunların satışına esas olan 
+bedeldir.
+4.13Değerli Kâğıt: Postada kullanılan, değeri üzerinde gösterilen her türlü pul ile üzerinde pul veya pul baskısı 
+bulunan; zarfları, posta kartlarını, maksimum kartları ile ilkgün, özelgün ve özeltarih damgalı zarflardır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+2/15
+4.14 Ek Değerli Anma Pulu: 7127 sayılı Munzam Değerli Posta Pulları Çıkarılmasına Dair Kanun gereğince ek 
+değer konularak yılda iki defa bastırılan anma posta pullarıdır.
+4.15 Fersude: Pulların ve diğer değerli kâğıtların basımı, zımbalanması, taşınması ya da muayenesi sırasında tespit 
+edilen hatalı pul ve diğer değerli kâğıtlardır.
+4.16 Filateli: Pul ve posta ile ilgili materyallerin koleksiyonculuğudur.
+4.17 Filatelist: Pul ve posta ile ilgili materyallerin koleksiyonculuğunu yapan kişilerdir.
+4.18 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.19 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğüdür.
+4.20 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri 
+yürütmek üzere kurduğu hizmet noktalarıdır.
+4.21 Kesin Tespit ve İmha Komisyonu: Pul ve diğer değerli kâğıtların basımı, zımbalanması, kesimi, taşınması 
+ve muayenesi sırasında ortaya çıkan fersudelerin kesin sayısının tespiti ve bunların imhası için görevlendirilen 
+komisyondur.
+4.22 Maksimum Kart: Üzerinde taşıdığı pul ile aynı konuda tasarım bulunan, görselin bulunduğu yüze konuya 
+ilişkin pul yapıştırılarak aynı konuda filatelik damga ile damgalanan posta kartlarıdır.
+4.23 Muayene Kurulu: Basımı tamamlanan pul ve diğer değerli kâğıtların onaylı baskı provalarına uygun olup 
+olmadıklarını inceleyip fersudeleri ayırmak üzere oluşturulan kuruldur.
+4.24 Perforaj: Pulların birbirinden kolay ayrılabilmeleri için aralarının zımbalanması işlemidir.
+4.25 Pul Basımı Kontrol Kurulu: Pul ve diğer değerli kâğıtların basımı için gerekli olan değerli kâğıt 
+niteliğindeki her türlü malzemeye nezaret eden ve muhafazasından sorumlu olan; baskı onayı alınmış pul ve diğer 
+değerli kâğıtların baskı provalarına uygun olarak basımını kontrol eden kuruludur.
+4.26 Pul Baskılı Posta Kartı (Antiye): Üzerlerinde herhangi bir konuda tasarım ve postada alınacak ücreti 
+gösteren pul baskısı yer alan posta kartlarıdır.
+4.27 Pul Baskılı Zarf: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından çıkarılan, üzerinde postada alınacak 
+ücreti gösteren pul baskısı bulunan zarflardır.
+4.28 Pul Emisyonu: Bir pulun satışa çıkarılmasıdır.
+4.29 Pul Emisyon Programı: Pulların konusunu, satışa çıkış tarihini, tirajlarını ve değerlerini gösteren yıllık 
+programdır.
+4.30 PTT Müdürlükleri: Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan 
+müdürlüklerdir.
+4.31 Pul: Posta ücretlerinin ödenmesinde veya filatelik amaçlı biriktirilmesinde kullanılmak üzere bastırılan 
+sürekli ve resmî posta pulları, anma pulları, ek değerli anma pulları ile kişisel pullardır.
+4.32 Pul Objesi: Pul tasarımında kullanılabilecek fotoğraf, logo ve benzeri öğeleri üzerinde taşıyan dijital veya 
+orijinal kompozisyon tasarımıdır.
+4.33 Resmî Posta Pulu: Genel bütçeye giren dairelerle katma ve özel bütçeli dairelerin, belediyelerin ve bunlara 
+bağlı idare ve kurumların postaya verdikleri her türlü posta gönderilerinin posta ücretlerinin ödenmesinde 
+kullanılmak üzere tedavüle sunulan, şahıslarca kullanılamayan pullardır.
+4.34Sayım Kurulu: Basım ve muayene işlemleri biten pul ve diğer değerli kâğıtların, sayılarak teslim alınması 
+için oluşturulan kuruldur.
+4.35 Seri: Aynı ad altında ve aynı gün tedavüle çıkarılan bir veya birden çok posta pulunun her değerinden oluşan 
+takımdır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+3/15
+4.36 Sürekli Posta Pulu: Posta ücretlerinin ödenmesinde kullanılması amacıyla ihtiyaca göre bastırılan pullardır.
+4.37Sürşarj: Değerli kâğıtların değerini ve/veya konusunu değiştirmek amacıyla üzerlerine yeni yazılar, rakamlar 
+veya motifler basılması işlemidir.
+4.38Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.39 Tekli Örnek: Onaylanmış pul objesine uygun olarak, pul kağıdı üzerine basılmış renkli örneğini,
+4.40 Tiraj: Değerli kâğıtların baskı sayısıdır.
+4.41 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+4.42Zımba (Perforaj): Pulların birbirinden kolay ayrılabilmeleri için aralarına açılan deliklerdir.
+5.SORUMLULUKLAR
+Bu prosedürün uygulanmasından, Değerli Kâğıtlar Hizmetlerinde görev alan tüm çalışanlar sorumludur.
+6.UYGULAMA
+6.1 Pul Emisyonu, Programının Hazırlanması, Taslağı, Onaylanması, Pul Objelerinin Belirlenmesi
+6.1.1 Pul Emisyonu ve Diğer Değerli Kâğıtlar 
+6.1.1.1Pul Emisyonunun hazırlanması; konuların seçimi ve seçilen konuların her biri için hangi değerlerde pul 
+bastırılacağının bunların tirajları ile satışa çıkarılacakları tarihlerin belirlenmesi çalışmalarını kapsar.
+6.1.1.2Tedavüle çıkarılacak pulların konuları ve satışa çıkış tarihleri, Daire Başkanlığı tarafından taslak olarak 
+hazırlanır. Bu çalışmalar bir önceki yıl sonuna kadar sonuçlandırılır. Hazırlanan taslak Genel Müdür onayına 
+sunulur.Diğer değerli kâğıtların; kamu kurum ve kuruluşları, Türkiye Filateli Dernekleri Federasyonu, vakıf, 
+dernek, üniversite ve benzeri kuruluşlardan gelen talepler de göz önünde bulundurularak basımına, tirajına, satış 
+bedellerinin belirlenmesine, satışa sunulacak Şirket iş yerlerine ve tedavül tarihlerine Daire Başkanlığı tarafından 
+karar verilir. 
+6.1.2 Emisyon Programının Hazırlanması
+6.1.2.1Emisyona alınacak konular belirlenirken;
+a)Yıl içerisinde yapılan araştırmalar sonucu tespit edilen, ülkemizi ilgilendiren önemli konular ile kurum ve 
+kuruluşların kuruluş veya önemli olayların yıl dönümlerine,
+b)Şirketin üye olduğu uluslararası organizasyonlarca önerilen konulara,
+c) Tarih, kültür ve tabiat varlıklarına,
+ç) Türk el sanatlarına,
+d) Turizm ile ilgili konulara,
+e) Çevre ile ilgili konulara,
+f) Çocuk ve gençlik ile ilgili konulara,
+g) Spor temalarına,
+ğ) Gelecekte gerçekleşecek önemli olaylara,
+h) Diğer ülkelerle birlikte çıkarılmasına karar verilen konulara,
+ı) Tematik konulara,
+i) Dünya pulculuğundaki gelişmelere göre belirlenen konulara,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+4/15
+j) Bakanlıklar, Genel Müdürlükler gibi kamu kurum ve kuruluşları, Türkiye Filateli Dernekleri Federasyonu, vakıf, 
+dernek, üniversite ve benzeri kuruluşlar ile gerçek kişilerden gelen önerilere,
+yer verilir.
+6.1.2.2Emisyon pullarının değerleri belirlenirken; Posta ve Telgraf Ücret Tarifesine uygunluğu, tüketilme ve stok 
+durumları, işletmenin ihtiyacı gibi hususlar göz önünde tutularak Daire Başkanlığı onayı ile belirlenir.
+6.1.2.3Emisyon pullarının tirajları belirlenirken; serilerde kaç değer olacağı, hangi pulların ek değerli olacağı, 
+tüketilme ve stok durumları, işletmenin ihtiyacı gibi hususlar göz önünde tutularak Daire Başkanlığı onayı ile 
+belirlenir.
+6.1.2.4Emisyon pullarının tarihleri belirlenirken; pulun konusu geçmiş olaylarla ilgili ise olayın yıl dönümü, ilk 
+defa ele alınan bir konu ise olayın gerçekleşeceği gün, diğer pulların tarihleri emisyon programına göre belirlenir.
+6.1.2.5Resmî ve sürekli posta pullarının konu, değer, tiraj ve tarihlerine emisyon programında yer verilmez. 
+Resmî ve sürekli posta pullarının emisyon değerleri, tirajları ve tarihleri, işletmenin ihtiyacı ve stok durumu göz 
+önünde bulundurularak Daire Başkanlığı onayı ile belirlenir.
+6.1.3 Pul Emisyon Taslağı
+6.1.3.1Pul Planlama Şube Müdürlüğüne ulaşan teklifler ile daha önceki yıllarda gelip süresi içerisinde 
+değerlendirilmesi gereken konular listelenerek Pul Emisyon Hazırlama Komisyonuna sunulur.
+6.1.3.2Pul Emisyon Hazırlama Komisyonu, Pul Planlama Şube Müdürlüğünün bağlı bulunduğu Daire Başkan 
+Yardımcısının Başkanlığında, Pul Planlama Şube Müdürü ile bir çalışan, Filateli ve Abone İşleri Şube Müdürü ile 
+bir çalışan olmak üzere toplam beş kişiden oluşur. Komisyon tarafından listede yer alan konular değerlendirilerek 
+emisyonda yer alacak pul konularını ve satışa çıkarılacakları tarihleri gösteren bir taslak hazırlanır.
+6.1.3.3Pul emisyon taslağında, uluslararası filatelik uygulamalar ve pulların filatelik değerleri açısından tematik 
+konular başta olmak üzere Şirket tarafından uygun görülecek on beş farklı konuya ilave olarak, beklenmedik 
+önemli olaylar ve Hükümetçe uygun görülecek konular için on konu olmak üzere en çok yirmi beş konuya yer 
+verilir.
+6.1.4 Pul Emisyonunun Onaylanması
+6.1.4.1Pul Emisyon Hazırlama Komisyonunca hazırlanmış olan pul emisyonunda yer alan konular Genel Müdür 
+onayıyla yürürlüğe girer. Pul emisyonundan çıkarılacak veya sonradan ilave edilecek konular için Daire Başkanlığı 
+onayı gerekir.
+6.1.4.2Yürürlüğe giren Pul Emisyon Programı, Pul emisyon programında yapılan değişiklikler, resmî ve sürekli 
+posta pullarının tedavüle çıkarılması; ilgili kurum ve kuruluşlara, Bölge Müdürlüklerine ve bağlı PTT işyerlerine, 
+yurt içindeki ve yurt dışındaki abonelere, yurt dışı acentelere, basın ve yayın kuruluşlarına, Türkiye Filateli 
+Dernekleri Federasyonuna bağlı filateli ile ilgili kulüp ve derneklere, kamuoyuna yazılı olarak veya Şirket internet 
+siteleri ile sosyal medya hesaplarından duyurulur.
+6.1.4.3İhtiyaç halinde, pul emisyon programında yer verilmiş olan pulların emisyon adı, satışa çıkarılış tarihleri, 
+değerleri ve tirajlarında Daire Başkanlığı onayı ile değişiklik yapılabilir.
+6.1.5 Pul Objelerinin Belirlenmesi
+6.1.5.1Pul objelerinin hazırlanmasında kullanılacak doküman, pul çıkarma önerisi kabul edilen kurum ve 
+kuruluşlardan, gerçek kişilerden, üniversitelerden, basın, yayın kuruluşlarından ve yarışma yolu ile de sağlanabilir.
+6.1.5.2Gerekli hallerde pul objesinin hazırlanması işi uygun görülecek gerçek ve tüzel kişilere sipariş edilebilir. 
+Pul objeleri, sipariş edilen görseller arasından seçilir. Eserin, pula basılacak nitelikte olup olmadığı hususunda 
+gerek duyulduğunda uzman kişilerden ve ilgili akademik çevrelerden görüş alınabilir. Bir pul için birden fazla pul 
+objesi sipariş edilebilir. Sipariş edilen pul objeleri için Daire Başkanlığının teklifi ve Genel Müdür onayı ile 
+belirlenen tasarım ücreti ödenerek kullanılacak objenin telif hakları alınır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+5/15
+6.2Basım, Muayene ve Sayım Kurulları    
+6.2.1 Kurullara İlişkin Genel Hükümler  
+6.2.1.1Pul Basımı Kontrol, Muayene ve Sayım Kurullarında görev alacak çalışanlar; Değerli Kağıtlar Depo Şube 
+Müdürlüğünce Daire Başkanlığından alınacak onaya istinaden üçer aylık periyotlar halinde öncelikle Değerli 
+Kağıtlar Depo Şube Müdürlüğü çalışanlarından olmak üzere Daire Başkanlığı çalışanları arasından görevlendirilir. 
+Kurullarda görevlendirilen çalışanın izin, rapor vb. durumlarında Daire Başkanlığından onay alınarak Kurullarda 
+gerekli değişiklikler yapılır. Kurulda başkanlığı, varsa unvanlı, yoksa Daire Başkanlığının uygun göreceği çalışan 
+yürütür.
+6.2.1.2Pul Basım, Muayene ve Sayım Kurullarında görevli çalışan zorunlu hallerde, görev süresi bitmese dahi 
+Daire Başkanlığınca değiştirilebilir veya uzatılabilir.
+6.2.1.3Pul Basım, Muayene ve Sayım Kurullarının görev ve sorumluluklarının gereği gibi yerine getirilmesi 
+Değerli Kağıtlar Depo Şube Müdürlüğünce takip ve kontrol edilir.
+6.2.1.4Kurul üyelerine pul basımının aksatılmadan yürütülmesi için pul basımının yapıldığı günlerde başka iş 
+verilemez. Ancak pul baskısı yapılmayan günlerde ilgililere Sayım Kurulları hariç görev tanımlarındaki diğer 
+görevler verilebilir.
+6.2.2 Pul Basımı Kontrol Kurulu Görev, Yetki ve Sorumlulukları
+6.2.2.1Kurul, tedavüle sunulacak değerli kâğıtların ve özel tasarım kişisel pulların basımında görev yapar, tercihen 
+matbaacılık eğitimi almış en az üç kişiden oluşur.
+6.2.2.2Üyelerin görev yeri basımevidir. Kurul, basımevinin mesai saatleri içinde görev yapar. Ancak, işin 
+gerektirdiği durumlarda çalışma saatleri artırılabilir. Kurul üyelerinin görev süreleri gerekli görüldüğü hallerde 
+Daire Başkanlığınca uzatılabilir.
+6.2.2.3Kurul, baskı işlerine ilişkin yazışmaları Değerli Kâğıtlar Depo Şube Müdürlüğü üzerinden yapar.  Pul 
+Planlama Şubesi Müdürlüğü, basımı yapılacak pul objesi ile diğer değerli kağıtların basımına esas olacak 
+materyalleri doğrudan Pul Basımı Kontrol Kurulu bilgisi dahilinde baskı işlemlerinin PTT Matbaasında 
+gerçekleştirilmesi durumunda söz konusu materyali matbaa personeline verir.
+6.2.2.4Basımın birden fazla basımevinde yapılması halinde her basımevi için ayrı bir Kurul oluşturulur.
+6.2.2.5Kurul; değerli kâğıtların bu prosedür hükümlerine, basımın piyasadan yapılması halinde teknik şartnamede 
+belirtilen hususlara ve onaylanan örneğe uygun olarak basılmasından, basım işi için verilen pul kâğıdının teslim 
+alınmasından ve muhafaza edilmesinden ayrıca onaylanmış örneğe uygun basım elde edilinceye kadar basılan ayar 
+ve renk denemesi tabakaları ile basım sırasında makineden çıkan bozuk, yırtık ve kusurlu tabakalara kimsenin el 
+süremeyeceği, güvenilir bir yerde korunmasından, basılan değerli kâğıtların çalınmasından veya herhangi bir yerde 
+unutulmasından, kaybedilmesinden Basımevi ile birlikte sorumludur.
+6.2.2.6Kurul, basılan pullar ile diğer değerli kâğıtların basımı, kesimi, zımbalanması, zarflanması, paketlenmesi 
+ile seri numarası konulacak pulların numaralanması gibi işlemlerin bu prosedüre uygun yapılıp yapılmadığını 
+kontrol etmekle ve basımevinde güvenliği ihlal eden durumların önlenmesi ve basımın tam bir güvenlik içinde 
+yapılması için gerekli önlemleri almak, varsa sakıncalı durumu Daire Başkanlığına bildirmekle yükümlüdür.
+6.2.2.7Kurul, basım işinin piyasadan yapılması halinde gün içerisinde basım ve zımba için pul kâğıtlarını 
+basımevi yetkilisine verir. Gün sonunda basım ve zımbada oluşmuş fersudeler ile basılan pul tabakalarını basımevi 
+tarafından bu iş için yazılı olarak görevlendirilen kişi/kişilerden imza karşılığı Günlük Çalışma Tutanağı tanzim 
+edilerek teslim alır.
+6.2.2.8Kurul, basım işinin PTT Matbaasında yapılması halinde basım ve zımba aşamasında oluşmuş fersudeler ile 
+basılan pul tabakalarının baskıya verilmiş pul kâğıtları ile denkleştirilmesinden sorumludur. Basım işinin 
+gerçekleşmesi sırasında gerçekleşen olumsuz durumlar kayıt altına alınarak Daire Başkanlığına bildirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+6/15
+6.2.2.9Kurul; baskısı tamamlanmamış olmakla birlikte basım ve zımba aşamalarından geçen pulları, Pul/Değerli 
+Kağıt Teslim Tutanağı düzenleyerek peyderpey Muayene Kuruluna teslim edebilir. Bu durumda fersudeler her 
+teslimatta tutanağın ilgili bölümü doldurularak teslim edilir.  
+6.2.2.10Pulların basımı tamamlandığında Günlük Çalışma Tutanağı’nda yer alan kayıtların teslim alınan pul 
+kâğıtları ile denkliği sağlanır. Basım işinin bitiminde pullar ile diğer değerli kâğıtların, baskıya esas olan kalıp, 
+film, dijital kayıtları Sayım Kurulunun görevi tamamlandığında tekrar kullanılmaması için Pul Basımı Kontrol 
+Kurulu nezaretinde imha edilir.
+6.2.2.11Tekli ve/veya Baskı örnekleri basım işlemleri sonunda düzenlenecek tutanak ile Değerli Kağıtlar Depo 
+Şube Müdürlüğüne teslim edilir.
+6.2.2.12Kurul, basımevinde yeterli güvenliği sağlanmış odada görev yapar. Ayrıca basım işinde kullanılacak 
+değerli kâğıtların da muhafazası için yeterli güvenliği sağlanmış bir mekân tahsis edilir. Tahsis edilen mekânın 
+açılıp kapanması Kurul elemanları ile basımevi tarafından bu iş için görevlendirilen kişi/ kişilerin huzurunda 
+yapılır.
+6.2.3 Pul Basımı Kontrol Kurulunca Düzenlenecek Belgeler
+6.2.3.1Kurulca;
+a) Değerli Kağıtlar Depo Şube Müdürlüğünce pul basım işinde kullanılacak pul kâğıtlarının teslim alınması ile 
+basımevine girişi kayıtlarına ilişkin Kağıt Teslim Tutanağı, 
+b) Günlük basım çalışmaları ile sağlam ve fersude pulları gösteren Günlük Çalışma Tutanağı, 
+c) Baskısı tamamlanmamış olmakla birlikte basım ve zımba aşamalarından geçen pullar ile diğer değerli kâğıtların 
+peyder pey Muayene Kuruluna teslimi sırasında Pul/Değerli Kâğıt Teslim Tutanağı,
+ç) Basımevine teslim edilen, basımda kullanılan, basım sonrası sağlam ve fersudeye ayrılan kâğıtların 
+denkleştirilmesini gösteren Pul Basımı Kontrol Kurulu Genel İcmal Tablosu,
+düzenlenir.
+6.2.3.2Basım işi bittiğinde, değerli kâğıt basımına ilişkin düzenlenen kayıtların bir nüshası Değerli Kağıtlar Depo 
+Şube Müdürlüğüne, bir nüshası Pul Planlama Şube Müdürlüğüne, basım işinin piyasadan yapılması halinde bir 
+nüshası basımevine teslim edilir.   Bir nüshası da Pul Basımı Kontrol Kurulunca muhafaza edilir.
+6.2.3.3Değerli Kağıtlar Depo Şube Müdürlüğüne gönderilen kayıtlardan sırasında Pul/Diğer Değerli Kâğıt Teslim 
+Tutanağının imzalı bir örneği Müdürlükçe, basım işinin piyasadan yapılması halinde Satınalma Dairesi 
+Başkanlığına gönderilir.
+6.2.4 Muayene Kurulunun Görev, Yetki ve Sorumlulukları 
+6.2.4.1Kurul, tedavüle sunulacak değerli kâğıtların ve özel tasarım kişisel pulların muayenesinde görev yapar ve 
+en az üç kişiden oluşur.
+6.2.4.2Basım işlemleri tamamlanan değerli kâğıtlar ile fersudeleri Pul Basımı Kontrol Kurulunca Muayene 
+Kuruluna teslim edilir. Basım işinin piyasadan yapılması halinde basımevi yetkilisi değerli kâğıtlar ile fersudeleri 
+Pul Basımı Kontrol Kurulu nezaretinde teslim eder.
+6.2.4.3Kurul, basım işlemleri tamamlanan değerli kâğıtları baskı örneği ile karşılaştırarak teker teker muayene 
+eder. Renkleri ve diğer nitelikleri bakımından baskı örneğinden farklı olanlar ile yırtık, bozuk ve zedelenmiş 
+bulunanlar, hiç zımbalanmamış veya zımbası noksan pulları kapsayan tabakaları, kusurlarını üzerinde işaretleyerek 
+tespit eder.
+6.2.4.4Kurul üyeleri, muayene ettiği değerli kâğıtların ambalajı üzerini paraflayarak kontrol edildiğini onaylar.  
+Gün sonunda muayene edilen pul ve fersudeleri ile diğer değerli kâğıtlar kayıt altına alınır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+7/15
+6.2.4.5Değerli kâğıtların muayenesi tamamlandığında Muayene İşlemleri Çizelgesi ile gelen değerli kâğıtlar ile 
+fersudelerin denkliği sağlanarak Pul/Diğer Değerli Kâğıt Muayene ve Sayım Tutanağı ile Sayım Kuruluna teslim 
+edilir.
+6.2.4.6Baskı örnekleri muayene işlemleri sonunda düzenlenecek tutanak ile Değerli Kağıtlar Depo Şube 
+Müdürlüğüne teslim edilir.
+6.2.4.7Muayeneden geçen değerli kâğıtlarda sonradan görülecek kusurlardan Muayene Kurulu sorumludur.
+6.2.5 Muayene Kurulunca Düzenlenecek Belgeler
+Muayene kurulunca;
+a) Pul Basımı Kontrol Kurulunun kontrolünde basımı tamamlanan pulların Muayene Kuruluna girişinin kayıt altına 
+alınması amacı ile her pul için ayrı ayrı olmak üzere Pul/Değerli Kâğıt Teslim Tutanağı,
+b) Günlük muayene çalışmaları ile sağlam ve muayene bozuğu pulları gösteren Muayene İşlemleri Çizelgesi,
+c) Muayenesi biten pulların Sayım Kuruluna tesliminde Pul/Değerli Kâğıt Muayene ve Sayım Tutanağı,
+düzenlenir.
+6.2.6 Sayım Kurulunun Görev, Yetki ve Sorumlulukları
+6.2.6.1 Kurul, tedavüle sunulacak değerli kâğıtların sayımında görev yapmak üzere Değerli Kağıtlar Depo Şube 
+Müdürlüğü tarafından, biri veznedar olmak kaydı ile en az üç kişiden oluşturulur.
+6.2.6.2 Kurul; baskı örneğine uygun Muayene Kurulundan gelen değerli kağıtları teslim alır. Tedavüle sunulan tüm 
+değerli kağıtlar için Pul Planlama Şube Müdürlüğünce bildirilen tirajın tamamlanmasını sağlar. Pul Planlama Şube 
+Müdürlüğünce konuya ilişkin gerekli duyurular yapılır. Sayılarak teslim alınan değerli kağıtlar özelliğine göre 
+paket yapılarak etiketlenir.
+6.2.6.3 Kurul, teslim aldığı değerli kâğıtlar karşılığında düzenlenen Pul/Diğer Değerli Kağıtlar Muayene ve Sayım 
+Tutanağının bir örneğini Daire Başkanlığına bildirir.
+6.2.6.4 Kurul üyeleri, teslim alınan değerli kâğıtlarda sonradan görülecek eksikliklerden sorumludur.
+6.2.6.5 Kurul, Muayene Kurulundan teslim aldığı özel tasarım kişisel pulları sayarak ilgili birime teslim eder.
+6.3 Pul ve Diğer Değerli Kâğıtların Basım Aşamaları
+6.3.1 Baskıya Esas Teşkil Edecek Malzemeler
+a) Pulların basımı öncesinde Basım İşleri Şube Müdürlüğünce bildirilen tabakaya sığan pul adedine göre Pul 
+Planlama Şube Müdürlüğünce basım işi için belirlenen tiraja göre renk ayarlamaları, deneme baskıları, kesim ve 
+zımbalama gibi işler ile baskıda yırtılan, bozulan ve kirlenenleri de karşılayacak miktarda gerekli pul kâğıdı Daire 
+Başkanlığı onayına istinaden belirlenir. Belirlenen pul kâğıdı Değerli Kağıtlar Depo Şube Müdürlüğünce Pul 
+Basımı Kontrol Kurulu nezaretinde kullanır.
+b)  Basımevine verilen pul kâğıtlarının başka bir amaçla kullanılmasından Basımevi ve Pul Basımı Kontrol Kurulu 
+müştereken sorumludur.
+c) Basılacak pul objesi ile diğer değerli kâğıtlara ait tasarımların çeşitli tekniklere göre baskı yapılabilmesi için 
+gerekli olan dijital kayıt, film, kalıp gibi çeşitli işlemler Pul Basımı Kontrol Kurulunun denetiminde yapılır. Bu 
+işlemlere ilişkin baskıya esas teşkil edecek malzemeler Pul Basımı Kontrol Kurulunca basım işleri sona erinceye 
+kadar güvenli bir ortamda saklanır.
+ç) Basım süresince baskıya esas teşkil edecek her türlü malzemenin basımevi ve Pul Basımı Kontrol Kurulunca 
+alınıp verilmesi aşamaları her defasında düzenlenecek ve taraflarca imzalanacak tutanakla sağlanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+8/15
+6.3.2 Örneklerin Hazırlanması ve Onaylanması
+6.3.2.1 Basımevi kendisine verilen orijinal pul objesi ve diğer değerli kâğıt tasarımlarına ait uygun renkli örnekler 
+hazırlar, bu amaçla istenilen rengi bulmak için deneme baskıları yapar.
+6.3.2.2 Basımevince orijinal pul objesine uygun olarak birden fazla tekli ve/veya baskı örneği elde edilebilir. Daire 
+Başkanlığınca gerekli incelemeler yapılarak varsa düzeltilmesi istenen hususlar bu örnekler üzerinde gösterilir ve 
+uygun görülen tekli ve/veya baskı örnekleri Daire Başkanı tarafından onaylanır.
+6.3.2.3 Onaylanan tekli ve/veya baskı örneği uygun görülen her pul için ayrı ayrı olmak üzere üçer tabaka 
+hazırlanır. Bu tabakalar ile dijital basım tekniği hariç başka bir teknikle baskı yapılması halinde renk basım sırasına 
+göre üçer tam tabaka ara renk örneği, kontrol ve basım onayı için Pul Basımı Kontrol Kurulu tarafından Daire 
+Başkanlığına getirilir.
+6.3.2.4 Basım işleminin her aşamasında pul ve diğer değerli kâğıt örnekleri kontrol ve basım onayı için Pul Basımı 
+Kontrol Kurulu tarafından Daire Başkanlığına getirilir.
+6.3.2.5 Baskı örnekleri incelenip uygun görüldüğü takdirde Daire Başkanı tarafından tabakalar imzalanmak 
+suretiyle basım onayı verilir. Pulların basımı onaylı tabakalara uygun olarak yapılır.
+6.3.2.6 Onaylanmak üzere getirilen pul ve örnekleri beğenilmediği takdirde gerekçesi üzerine yazılarak bir tabakası 
+Pul Basımı Kontrol Kuruluna geri verilir, ikisi gerekçelerin düzeltilmesi amacıyla alıkonulur. Basımevi, belirtilen 
+hususları dikkate alarak yeniden örnek hazırlar. Yeni örnek beğenildikten sonra uygun bulunmayan örnekler PTT 
+Pul Müzesine teslim edilmek üzere Pul Planlama Şube Müdürlüğüne iade edilir.
+6.3.2.7 Verilen tasarıma uygun diğer değerli kağıtlar için üç adet örnek baskı hazırlanır. Bu örnekler kontrol ve 
+basım onayı için Pul Basımı Kontrol Kurulu tarafından Daire Başkanlığına getirilir.
+6.3.2.8 Onaylanmak üzere getirilen diğer değerli kâğıt örnekleri beğenilmediği takdirde gerekçesi üzerine yazılarak 
+bir örneği Pul Basımı Kontrol Kuruluna geri verilir, iki adedi gerekçelerin düzeltilmesi amacıyla alıkonulur. 
+Basımevi, belirtilen hususları dikkate alarak yeniden örnek hazırlar. Yeni örnek beğenildikten sonra uygun 
+bulunmayan örnekler Pul Basımı Kontrol Kuruluna iade edilir.
+6.3.2.9 Beğenilip onaylanmış olan ve pulun satışa çıkacak son haline ait pul örneklerinden bir tabakası, buna göre 
+basıma geçilmek üzere Pul Basımı Kontrol Kuruluna, ikinci tabakası Muayene Kuruluna gönderilir. Üçüncü tabaka 
+ise kesin tespit ve imha komisyonunca imha işleminin bitimine kadar Pul Planlama Şube Müdürlüğünde muhafaza 
+edilir.
+6.3.2.10 Beğenilip onaylanmış olan diğer değerli kâğıt örneklerinden bir adedi, buna göre basıma geçilmek üzere 
+Pul Basımı Kontrol Kuruluna, bir adedi Muayene Kuruluna gönderilir. Örneklerin bir adedi ise PTT Pul Müzesine 
+gönderilmek üzere imha işleminin bitimine kadar Pul Planlama Şube Müdürlüğünde muhafaza edilir.
+6.3.2.11 Basılmasına karar verilen değerli kâğıtların basım, muayene, sayım, teslim ve dağıtım işlemleri bu 
+prosedür çerçevesinde yürütülür.
+6.3.3 Basım ve Zımba İşlemleri
+6.3.3.1 Pullar ve diğer değerli kağıtlar onaylanmış baskı örneklerine uygun olarak basılır. Pul Basımı Kontrol 
+Kurulu baskı örnekleri olmadan pul ve diğer değerli kağıtların basımına izin vermez. Pullar ve diğer değerli 
+kâğıtlar satışa çıkacak son haline ait baskı örnekleri onaylandıktan sonra onaylı baskı örneklerine uygun olarak 
+basılır ve zımbalanır.  Pul Basımı Kontrol Kurulu baskı örnekleri olmadan pul ve diğer değerli kâğıtların basımına 
+izin vermez. Ancak gerekli hallerde Daire Başkanlığının onayı ile pulların baskı ve zımba işlemleri her aşamadaki 
+baskı örneklerine uygun olarak ayrı ayrı gerçekleştirilir. 
+6.3.3.2 Pul Basımı Kontrol Kurulu pul basımında kullanılacak ve baskıya esas teşkil edecek her türlü malzeme ile 
+kâğıdı sayarak basımın piyasadan yapılması halinde basımevi yetkilisine teslim eder. Pul Basımı Kontrol Kurulu 
+pul basımına ilişkin her türlü iş ve işlemleri basımevi yetkilisi ile birlikte koordineli olarak yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+9/15
+6.3.3.3 Pul basımının PTT Matbaasında yapılması halinde Pul Basımı Kontrol Kurulu pul basımında kullanılacak 
+kâğıtları sayarak baskıya verir, pul basımına ilişkin her türlü iş ve işlemleri takip ederek kâğıt denkliğini sağlayarak 
+basıma esas teşkil edecek her türlü malzemeye ilişkin işlemleri yürütür.
+6.3.3.4 Basım süresince baskıya esas teşkil edecek her türlü malzemenin basımevi ve Pul Basımı Kontrol 
+Kurulunca alınıp verilmesi aşamaları her defasında düzenlenecek ve taraflarca imzalanacak tutanakla sağlanır.
+6.3.3.5 Pul ve diğer değerli kâğıtların basımı sırasında baskıya ara verilmesi hallerinde baskı makinesinin özelliğine 
+göre belirlenecek bir yöntemle kontrol dışı baskı yapılmasını önleyecek önlemlerin alınmasından Pul Basımı 
+Kontrol Kurulu sorumludur.
+6.3.3.6 Pul Basımı Kontrol Kurulunca baskısı tamamlanan pul tabakaları sayılarak zımbalanmak üzere teslim edilir. 
+Zımba işlemi tamamlanan pullar ile basımı tamamlanan diğer değerli kâğıtların sayımı ve kesimi yapılarak 
+Muayene Kuruluna götürülür.
+6.3.3.7 Pullar ve diğer değerli kâğıtlar basılırken bu prosedürde yer alan hususlara uyulur.
+6.3.4 Basım İşinin Bitiminde Yapılacak İşler
+6.3.4.1 Pul Basımı Kontrol Kurulunca, basımevine verilen kâğıt adedi ile basımevi tarafından basılan pul ve 
+fersude adedi toplamı karşılaştırılarak muvazene yapılır, durum bir tutanakla tespit edilir.
+6.3.4.2 Kesin Tespit ve İmha Komisyonu oluşturularak fersudelerin imhası için gerekli iş ve işlemler yürütülür.
+6.3.4.3 Pul Basımı Kontrol Kurulu ile basımevi tarafından, baskı makinesi ile pul ve diğer değerli kâğıtların 
+basımına esas teşkil eden tüm malzemelerin özelliğine göre belirlenecek bir yöntemle basım işinde kullanılan her 
+türlü materyal imha edilerek gerekli kayıtlar tutulur.
+6.3.4.4 Basılan pullara ait pul objesi, baskı örnekleri, basım işinin yürütülmesi sırasında düzenlenen kayıtları 
+kapsayan dosyalar ve Pul Basımı Kontrol Kurulu sorumluluğunda bulunan her türlü doküman ile değerli kâğıtların 
+örnekleri, Değerli Kağıtlar Depo Şube Müdürlüğüne tutanakla teslim edilir. Basım sırasında ortaya çıkan baskı 
+bozukları ise bu prosedürde yer alan hükümlere göre imha edilir.
+6.4 Değerli Kâğıtların Diğer Devlet Basımevlerinde ve Yabancı Ülkelerde Basımı
+6.4.1 Devlet basımevlerinde bastırılacak olan değerli kâğıtların basımı, kontrolü, muayenesi, sayımı ve imhası ile 
+ilgili olarak uygulanacak işlemler taraflarca belirlenir.
+6.4.2 Bastırılan değerli kâğıtların basım kontrolü bu basımevlerinde mevcut kontrol kurulları tarafından sağlanır. 
+Kontrol için yeterli sayıda Şirket çalışanı görevlendirilir ve görevlerini bu basımevinde uygulanan basım 
+kurallarına göre yaparlar.
+6.4.3 Yabancı ülkelerdeki basımevlerinde bastırılan değerli kâğıtların basımı, kontrolü, muayenesi, sayımı, imhası 
+ve teslimi ile ilgili olarak uygulanacak işlemler taraflarca belirlenir.
+6.4.4 Bastırılan değerli kâğıtların basım kontrolü, basımevlerinde mevcut kontrol kurulları tarafından sağlanır. 
+Gerektiğinde kontrol için yeterli sayıda Şirket çalışanı veya Elçiliğimizden bir memurun basımın yapıldığı 
+basımevinde görevlendirilmesi ilgili makamlardan talep edilebilir. İlgililer görevlerini bu basımevinde uygulanan 
+kurallara göre yaparlar.
+6.4.5 Yabancı ülkelerde basılan değerli kâğıtların ithal, muayene ve sayım işlemleri ilgili mevzuat ve diğer 
+düzenlemelere göre yapılır.
+6.4.6 Yabancı ülke basımevlerinde basılarak gelen değerli kâğıtların gümrükleme ve ithal işlemleri Satınalma Daire 
+Başkanlığı veya taraflarca belirlenen şartlarda gerçekleştirilir.
+6.5 Değerli Kâğıtların Dağıtılması, Stoklanması, Satışı, Geçerlilik ve Satış Süreleri
+6.5.1 Değerli Kâğıtların Dağıtılması
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+10/15
+6.5.1.1 Değerli kâğıtların dağıtımı, Daire Başkanlığınca belirlenen miktarlara göre Değerli Kağıtlar Depo Şube 
+Müdürlüğü tarafından sağlanır.
+6.5.1.2 Değerli Kağıtların dağıtımı Bölge Müdürlükleri tarafından yapılır.
+6.5.1.3 Bölge Müdürlükleri ihtiyaç duydukları değerli kâğıtları, Değerli Kağıtlar Depo Şube Müdürlüğü 
+stoklarından karşılanmak üzere talep eder.
+6.5.2 Değerli Kâğıtların Stoklanması
+Basılan değerli kâğıtların stoklanmasından, Bölge Müdürlüğü stoklarının takibinden, ihtiyaç fazlası pulların 
+tespitinden ve Bölge Müdürlükleri arası aktarılmasından Değerli Kâğıtlar Depo Şube Müdürlüğü sorumludur. 
+Stoklara ilişkin aylık gerçekleşmelere ait istatistiki veriler, her ayın ilk haftası içerisinde Daire Başkanlığına 
+bildirilir.
+6.5.3 Değerli Kâğıtların Satışı  
+6.5.3.1 Değerli kâğıtlar, tedavül tarihinde bütün PTT işyerlerinde aynı zamanda satışa çıkarılır. Ancak; bazı değerli 
+kâğıtların satışı Daire Başkanlığı onayı ile belirlenecek bir veya birden çok işyerinde gerçekleştirilebilir.
+6.5.3.2 Değerli kâğıtların ücretleri prensip olarak peşin alınır. Ayrıca gerektiğinde ücretler posta çeki hesabına 
+yatırılarak, Şirket tarafından belirlenen Banka hesaplarına yatırılabilir veya kredi kartı ile de tahsil edilebilir.
+6.5.3.3 Değerli kâğıtların belirtilen tarihte satışa çıkarılması için Bölge Müdürlükleri gerekli önlemleri alır.
+6.5.3.4 Değerli kâğıtlar tedavül tarihinden önce kesinlikle satışa çıkarılmaz.
+6.5.3.5 Ulusal ve Uluslararası yarışmalar hariç olmak üzere pul ve filatelik ürünlere ait görseller yazılı ve görsel 
+basında, sosyal medya mecralarında tedavül tarihinden önce kamuoyu ile paylaşılamaz. Zorunlu hallerde söz 
+konusu görseller tedavül tarihinden önce Genel Müdür izni ile kamuoyu ile paylaşılabilir.
+6.5.3.6 Değerli kâğıtların abone usulü ile satılması Filateli İşletme Prosedürü hükümlerine göre yapılır.
+6.5.4 Değerli Kâğıtların Geçerlilik ve Satış Süreleri
+6.5.4.1 Tedavülden kaldırılma tarihleri belirlenen pullar hariç bu Prosedüre göre satışa çıkarılacak değerli kâğıtlar 
+postada sürekli geçerlidir.
+6.5.4.2 Anma pulları, sürekli ve resmî posta pulları tükeninceye kadar satışta kalır. Pulların tedavüle çıkarılışları ve 
+kaldırılışları ilgililere duyurulur.
+6.5.4.3 Gerektiğinde değerli kâğıtların tedavülden kaldırılmasına veya sürşarj edilmesine Genel Müdür yetkilidir. 
+Tedavülden kaldırılan değerli kâğıtlar Genel Müdür onayı ile belirlenen usulde imha edilir.  
+6.6 Kesin Tespit ve İmha Komisyonu, Fersudelerin İmhası
+6.6.1 Kesin Tespit ve İmha Komisyonu Görev, Yetki ve Sorumlulukları
+6.6.1.1 Komisyon; Değerli Kağıtlar Depo Şube Müdürlüğü koordinatörlüğünde; Pul Planlama Şubesi 
+Müdürlüğünden, Basım İşleri Şube Müdürlüğünden, Pul Basımı Kontrol Kurulundan, Muayene Kurulundan, 
+Muhasebe ile Posta ve Kargo Hizmetleri Daire Başkanlıklarından birer çalışan ile oluşturulur. Komisyon 
+Başkanlığı Başkanlıkça belirlenir. Basım işinin Satınalma Daire Başkanlığınca piyasadan yapılması durumunda 
+Komisyona Satınalma Daire Başkanlığından bir çalışan ilave edilir.
+6.6.1.2 Komisyon, mesai saatleri içinde görev yapar. İmha işlemleri sonuna kadar görevleri devam eder ve bu süre 
+içerisinde başka hiçbir iş verilemez.
+6.6.1.3 Komisyon, yılda en az iki defa toplanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+11/15
+6.6.1.4 Komisyon, imhası yapılacak her pul için; fersudeleri, sağlam pul adetlerini, Pul Planlama Şube 
+Müdürlüğüne verilen örnekler ile baskıya verilen kâğıt miktarlarının denkliğini sağlayarak, fersude olarak 
+ayrılanların imha işlemlerini gerçekleştirmekle ve gerekli evrakları tanzim etmekle yükümlüdür.
+6.6.1.5 Komisyon, imhası yapılacak diğer değerli kâğıtlar için baskıdan çıkan adet ile fersude olarak ayrılanların 
+denkliğini sağlayarak fersude olarak ayrılanların imha işlemlerini gerçekleştirmekle ve gerekli evrakları tanzim 
+etmekle yükümlüdür.
+6.6.1.6 Komisyon; kâğıt denkliğini sağlamadan fersudelerin imhasına izin vermez. İşin devamı süresince 
+fersudelerin kimsenin el süremeyeceği güvenilir bir yerde korunmasından sorumludur.
+6.6.1.7 Komisyon, imha işlemlerinin tam bir güvenlik içinde yapılması için gerekli önlemleri alır varsa sakıncalı 
+durumu Daire Başkanlığına bildirir.
+6.6.1.8 Şirket imha işlerini, görev yapan komisyon üyelerini, gerektiğinde teknik ve tahkik elemanları veya Daire 
+Başkanlığı elemanları vasıtasıyla inceletip kontrol ettirebilir.
+6.7 Fersudelerin İmhası  
+6.7.1 Fersudelerin imhası için Kesin Tespit ve İmha Komisyonu oluşturulur.
+6.7.2 İmhası yapılacak her değerli kâğıt için; 6.6.1’inci madde hükümlerine göre işlem yapılarak fersude olarak 
+ayrılanların imha işlemleri gerçekleştirilir. 
+6.7.3 İmha İşlemi; her bir pul en az iki defa kesilmek suretiyle hiçbir pul sağlam kalmayacak hale getirilerek 
+gerçekleştirilir.
+6.7.4 İmha sonrası oluşan pul kırpıntıları çuvallara doldurulup komisyon huzurunda ağızları bağlanarak Değerli 
+Kağıtlar Depo Şube Müdürlüğüne teslim edilir.
+6.7.5 Değerli Kağıtlar Depo Şube Müdürlüğünde muhafaza edilen kırpıntı pul kağıtları ilgili mevzuata göre işlem 
+görür.
+6.7.6 Değerli Kağıtlar Depo Şube Müdürlüğünce; pullara ait yazışmalar ve tutanaklar ile basım işine ilişkin her 
+türlü bilgi belge ve dokümanlar Pul Planlama Şube Müdürlüğüne, pul basım işinin piyasadan yapılması halinde 
+Satınalma Daire Başkanlığına da gönderilir. Pul Planlama Şube Müdürlüğüne gönderilen dokümanlara Pul Basımı 
+Kontrol ve Muayene Kurullarından teslim alınan tekli ve baskı örnekleri ile diğer değerli kağıtların baskı örnekleri 
+ilave edilir.
+6.7.7 Pul Planlama Şube Müdürlüğünce tekli ve/veya baskı örnekleri Müdürlükte bulunan tekli ve/veya baskı 
+örneği ve ara renk örnekleri ile diğer değerli kağıtların baskı örnekleri birleştirilir ve PTT Pul Müzesinde muhafaza 
+edilmek üzere Müze Şube Müdürlüğüne teslim edilir.
+6.8 Pulların Kullanımına İlişkin Hükümler
+6.8.1 Pulların Posta Gönderilerinde Kullanımı ve İptali
+6.8.1.1 Pullar, posta gönderilerine genel olarak göndericiler tarafından, kayıtlı gönderilerin pulları ise gişe 
+memurlarınca yapıştırılır. Bununla birlikte pulları göndericiler tarafından yapıştırılmış olan kayıtlı gönderiler de 
+kabul edilebilir.
+6.8.1.2 Pullar gönderinin alıcı adresi bulunan ön yüzünün sağ üst köşesine yapıştırılır. İlkgün, özelgün ve özeltarih 
+damgalı zarfların üzerlerine tamamlayıcı değerde pul yapıştırılması halinde bu şart aranmaz. Bu amaçla yapıştırılan 
+pullara ilkgün, özelgün ve özeltarih damgaları tatbik edilmez. Pullar, o güne ait tarih damgası ile iptal edilir.
+6.8.1.3 Ücret karşılığında Posta gönderilerine yapıştırılan pullar ile diğer değerli kâğıtlar, PTT işyerleri ile tarih 
+damgası kullanmalarına Şirket tarafından izin verilenler tarafından tarih damgası ile iptal edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+12/15
+6.8.1.4 Tarih damgaları hiçbir şekilde kullanıldıkları günden önceki ve sonraki günlere ait tarihlerle basılamaz.
+6.8.1.5 Pulların posta gönderilerine yapıştırılma ve iptal edilme şekilleri prosedür eki dokümanda gösterildiği 
+şekilde uygulanır. 
+6.8.1.6 Pullar, haber isteme, geri alma, adres değiştirme, başka yere yollama veya ödenmesi şart koşulan bedelin 
+değiştirilmesi, ücreti eksik ödenmiş gönderiler üzerine eksik ücretin tamamlanması amacıyla ücret tahsilinde ve 
+ücret tamamlanmasında da kullanılır.
+6.8.1.7 Filatelik amaçlı damgaların kullanımına ilişkin usul ve esaslar Filateli İşletme Prosedüründe düzenlenmiştir.
+6.8.2 Geçerli Sayılmayan Pulların Gönderilere Ücret Alma ve Ödeme Makinesi Tatbik Edilmesi
+Aşağıda sayılan pullar ile ücret alma ve ödeme makinesi tatbikleri;
+a) Üzerinde iptal izi bulunan veya iptal izi bulunabilecek büyüklükte bir parçası eksik pullar,
+b) İki veya daha fazla parçaya ayrılmış pullar,
+c) Posta gönderisinin her iki tarafından görülecek şekilde kıvrılarak yapıştırılmış pullar,
+ç) Gönderiler üzerinden kesilerek, sökülerek, ilave zamk maddesi kullanılarak başka gönderilere yapıştırılan pullar 
+ile ücret alma veya ödeme makineleri tatbikleri,
+d) Tedavül tarihinden önce satışa çıkarılmış pullar,
+e) Daha önce kullanılmış pullar,
+f) Pul şeklinde olduğu halde Şirketin çıkarmadığı veya taklit ve tağyir edilmiş pullar ile ücret alma veya ödeme 
+makineleri tatbik ve damgaları,
+ücret ödenmesinde geçerli sayılmaz.
+6.8.3 Geçerli Sayılmayan Pul ve Tatbiklere Uygulanacak İşlemler
+6.8.3.1 Geçerli sayılmayan pullara ilişkin iş ve işlemler PTT AŞ değerli kâğıt hizmetinden sorumlu Daire 
+Başkanlığı tarafından yürütülür. Geçerli Sayılmayan Ücret Alma ve Ödeme Makinesi Tatbiklerine ilişkin iş ve 
+işlemler ise PTT AŞ posta hizmetinden sorumlu Daire Başkanlığı tarafından yürütülür.
+6.8.3.2 Geçerli sayılmayan pul ve tatbikler hakkında aşağıda belirtilen işlemler uygulanır.
+a) Geçerli sayılmayan pullar ve tatbikler taşıyan mektup ve posta kartlarının, göndericileri biliniyorsa ücretleri 
+geçerli pullarla tamamlattırılır, bilinmiyorsa bu pullar renkli kalemle bir çerçeve içine alınıp yan tarafına 0 (sıfır) 
+rakamı konularak ücreti alıcılarından iki kat alınmak üzere takse işlemine tabi tutulur ve varış yerine gönderilir.
+b) Geçerli sayılmayan pulları taşıyan mektup postası gönderileri varış yerlerine yollanmayıp biliniyorsa 
+göndericilerine geri verilir. Aksi halde elde kalmış gönderi işlemine tabi tutulur.
+c) Kayıtlı gönderi ücretleri geçerli pullarla tamamlatılmadan ileri sevk edilmez, sevk edilmişse ücreti kusurlu 
+çalışandan tahsil edilir.
+ç) Tedavüle çıkarılmamış veya daha önce kullanılmış pullar geçerli sayılmamakla birlikte bu pulları taşıyan 
+gönderiler varış yerlerine yollanır ve alıcılarına aşağıda belirtildiği şekilde teslim edilir;
+d) Tedavüle çıkarılmamış pulları taşıyan gönderilerin posta ücretleri bu pulların vaktinden önce kullanılmasına 
+neden olanlardan alınır.
+-Tedavüle çıkarılmamış pulları taşıyan gönderiler dağıtıcılara kayıtlı verilerek alıcılarına zarf veya kuşakları ya da 
+pullu kısımları alındıktan sonra teslim edilir. Dağıtım sonunda bu gönderilere ait zarf, kuşak veya kesilmiş pullu 
+parçalar dağıtıcılardan alınıp PTT Müdürleri tarafından imha edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+13/15
+-Söz konusu pulları taşıyan zarf kuşak veya kesilmiş pullu parçaların alıcı tarafından geri verilmek istenmemesi 
+halinde gönderi PTT Müdürlüğüne getirilerek üzerindeki pulun görseli ve değeri tamamen görünmeyecek şekilde 
+iptal edilerek diğer gönderiler gibi dağıtılır. 
+-Daha önce kullanılmış pullar, pul şeklinde olduğu halde Şirketin çıkarmadığı veya taklit ve tağyir edilmiş pul, 
+ücret alma veya ödeme makineleri tatbik ve damgalarını kullananlar hakkında Türk Ceza Kanunu Hükümlerine 
+göre kovuşturma yapılmak üzere bu tür pul taşıyan posta gönderilerinin durumları bir tutanakla tespit edilir.
+-Bu posta gönderileri çıkış yerinde görülür ve göndericisi belli olursa tutanağın bir örneği ile birlikte o yer 
+Cumhuriyet Savcılığına teslim edilir.
+-Bunlar çıkış yerlerinden başka bir yerde görülür ve göndericisi belli olursa, çıkış yeri Cumhuriyet Savcılığına 
+verilmek üzere tutanağın bir nüshası ile birlikte çıkış PTT Müdürlüğüne gönderilir.
+-Göndericileri belli olmayan bu tür posta gönderileri, aşağıda belirtilen işlem yapılmak üzere yine tutanağın bir 
+örneğiyle birlikte varış PTT Müdürlüğüne gönderilir.
+-Böyle bir gönderiyi gören veya yukarda belirtildiği şekilde kendisine gönderilmiş olan varış PTT Müdürlüğü 
+alıcıyı çağırtarak gelen gönderinin ücretini (2) iki kat olarak tahsil ettikten ve göndericinin ad ve adresini bir 
+tutanakla saptadıktan sonra gönderinin zarf veya kuşağını alıkoyarak içini alıcıya teslim eder. Bu gönderi kart ise 
+yazılarını okutup kartı alıkoyar. Bunlar Cumhuriyet Savcılığına teslim edilmek üzere tutanağın bir örneğiyle 
+birlikte çıkış PTT Müdürlüğüne gönderilir. Alıcı (2) iki kat ücreti vermez veya göndericinin ad ve adresini 
+bildirmek istemezse veya pullu zarf kuşak veya kartı veremeyeceğini bildirirse, gönderi kendisine verilmeyerek 
+olduğu gibi Cumhuriyet Savcılığına teslim edilmek üzere yine tutanağın bir örneğiyle birlikte çıkış PTT 
+Müdürlüğüne gönderilir.
+-Resmî Dairelerce pullanarak postaya verilmiş olan gönderiler üzerinde kullanılmış, taklit veya tağyir edilmiş 
+pulların görülmesi halinde bu tür gönderiler postaya verenin imzası da alınarak bir tutanakla tespit edildikten sonra 
+gönderiler, tutanağın bir örneğiyle birlikte gönderici dairenin en yüksek amirine, yargı kuruluşlarından verilenler 
+Cumhuriyet Savcılığına bir yazı ile gönderilerek Türk Ceza Kanunu’na göre kovuşturma yapılması istenir.
+-Söz konusu pulları kullananların posta pulu satıcısı veya PTT Acentesi olduğu anlaşılırsa haklarında yukarda 
+açıklanan işlem uygulanmakla birlikte bunların işlerine son verilerek durum Genel Müdürlüğe bildirilir.
+-Daha önce kullanılmış pullarla taklit veya tağyir edilmiş pul ve tatbikler yurt dışına kabul edilmiş olan posta 
+gönderileri üzerinde görülürse, bunlardan üzerinde gönderici ad ve adresi olanlar hakkında yukarda yazılı işlemler 
+uygulanır. Gönderici ad ve adresi bulunmayanlar ile yurt dışından gelmiş olanlar hakkında Dünya Posta Birliği 
+Sözleşmesi ve İcra Tüzüğü hükümleri gereğince işlem yapılır.
+6.8.4 Satılan Pulların Değiştirilmesi
+6.8.4.1 Satılan pullar para ile değiştirilmez. Ancak, ek değerli olanların dışındakiler aşağıdaki şartlarla başka 
+pullarla değiştirilebilir;
+a) Geçerlikten kaldırılmasına Genel Müdür onayı ile karar verilen anma pulları ile sürekli ve resmî posta pulları 
+Daire Başkanlığının izni ile aynı türden pullarla değiştirilir veya pul karşılığı ücret ödeme makinelerine avans 
+olarak bağlanabilir. Ancak söz konusu pulların değiştirilebilmesi veya ücret ödeme makinelerine avans olarak 
+bağlanabilmesi için Daire Başkanlığı gerekli yetkiyi Bölge Müdürlüklerine bırakabilir.
+b) Kişisel pul ve ek değerli anma pulları hariç geçerlikteki anma pulları ile sürekli ve resmî posta pulları Daire 
+Başkanlığının izni ile aynı tür başka değerdeki pullarla değiştirilebilir veya pul karşılığı ücret ödeme makinelerine 
+avans olarak bağlanabilir. Ancak söz konusu pulların değiştirilebilmesi veya ücret ödeme makinelerine avans 
+olarak bağlanabilmesi için Daire Başkanlığı gerekli yetkiyi Bölge Müdürlüklerine bırakabilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+14/15
+c) Resmî dairelerin ellerindeki resmî posta pullarının sürekli posta pullarıyla veya sürekli posta pullarının resmî 
+posta pullarıyla değiştirilmesi istekleri kabul edilmez. Ancak, resmî dairelerden statüsü değişenlerin ellerindeki 
+resmî posta pullarının sürekli posta pullarıyla, özel hukuk kurallarına göre yönetilmekte iken statüleri değişen 
+kuruluşların ellerindeki geçerlilikteki sürekli posta pulları ise resmî posta pullarıyla değiştirilebilir. 
+6.8.4.2Resmî dairelerin pul değiştirme isteklerinin yazılı olarak yapılması zorunludur.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+CBK.002-4 sayılı Cumhurbaşkanlığı Kararnamesi
+DKD.FR56-Pul/Değerli Kağıt Teslim Tutanağı
+DKD.FR59-Günlük Çalışma Tutanağı
+DKD.FR60-Kağıt Teslim Tutanağı
+DKD.FR61-Muayene İşlemleri Çizelgesi
+DKD.FR62-Pul/Değerli Kağıt Muayene ve Sayım Tutanağı
+DKD.PR01-Filateli İşletme Prosedürü
+DKD.TB06-Pul Basımı Kontrol Kurulu Genel İcmal Tablosu
+KN.006-5237 sayılı Türk Ceza Kanunu
+KN.008-6698 sayılı Kişisel Verilerin Korunması Kanunu
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.053-5846 sayılı Fikir ve Sanat Eserleri Kanunu
+KN.054-7127 sayılı Munzam Değerli Posta Pulları Çıkarılmasına Dair Kanun
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+2 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+1 14.12.2020
+Yeni bir anlayış ile değişen günün şartları, iş ve işlemlerdeki hareket 
+kabiliyeti, işlerin hızlı gerçekleştirilmesi ve Başmüdürlüklere Pul Değişim 
+Yetkisi verilebilmesi amacı ile revize işlemleri gerçekleştirilmiştir. Fiili 
+uygulamaya ilişkin yetkiler düzenlenmiştir. 
+0 16.07.2018 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 15 ====================
+
+Doküman Adı
+Değerli Kağıtlar İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DKD.PR04
+İlk Yayım Tarihi
+16.07.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+15/15
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

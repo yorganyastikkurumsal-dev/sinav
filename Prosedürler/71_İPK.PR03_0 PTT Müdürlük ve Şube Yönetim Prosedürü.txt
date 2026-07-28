@@ -1,0 +1,415 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+İŞ YERİ PLANLAMA VE 
+KURULUM DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+1/7
+1. AMAÇ
+Bu prosedür, müdürlük ve şubelerin açılması, kapatılması, statüsünün değiştirilmesi, yapacağı işlemler, çalışma 
+saatleri, yönetim ve denetimine ilişkin esasları belirlemek amacıyla hazırlanmıştır.
+2. KAPSAM
+Bu prosedür Posta ve Telgraf Teşkilatı Anonim Şirketinin müdürlük ve şubelerinin açılması, kapatılması, statüsünün 
+değiştirilmesi, yapacağı işlemler, çalışma saatleri, yönetimi ve denetimine ilişkin süreçleri ile merkez ve taşra 
+teşkilatını kapsar.  
+3. DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu, Evrensel Posta Hizmetleri Yönetmeliği ile Posta ve Telgraf 
+Teşkilatı Anonim Şirketi Esas Sözleşmesine dayanılarak hazırlanmıştır.  
+4. TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlüğüdür.
+4.2 Bölge Müdürlüğü: Posta ve Telgraf Teşkilatı Anonim Şirketi Bölge Müdürlüğüdür.
+4.3 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğüdür.
+4.4 Lokal: Büyükşehir statüsünde olan illerde ilçe belediyesi sınırları içerisinde kalan ve yerleşim özellikleri 
+bakımından kaymakamlığın bulunduğu mahal ile bütünlük arz eden yerler ile büyükşehir olmayan illerde il belediyesi 
+ve ilçe belediyeleri sınırlarını kapsamaktadır.
+4.5 Lokal Dışı Müdürlük: Lokal sınırlar dışında hizmet veren ve gerektiğinde hizmet özelliğine göre isimlendirilen 
+ve müdür tarafından idare edilen PTT iş yeridir.
+4.6 Lokal Dışı Şube: Lokal sınırlar dışında bir PTT Müdürlüğüne bağlı olarak fiziken müdürlükten ayrı bir yerde 
+hizmet veren ve gerektiğinde hizmet özelliğine göre isimlendirilen PTT iş yeridir. 
+4.7 Lokal Dışı Şube Şefliği; Lokal sınırlar dışında bir PTT Müdürlüğüne bağlı olarak fiziken müdürlükten ayrı bir 
+yerde hizmet veren, gerektiğinde hizmet özelliğine göre isimlendirilen ve bağlı olduğu müdürlüğünün kontrolünde 
+çalışan ve şef tarafından yönetilen PTT iş yeridir.
+4.8 Lokal Müdürlük: Lokal sınırlar dahilinde hizmet veren ve gerektiğinde hizmet özelliğine göre isimlendirilen ve 
+müdür tarafından idare edilen PTT iş yeridir.
+4.9 Lokal Şube: Lokal sınırlar dahilinde bir PTT müdürlüğüne bağlı olarak fiziken müdürlükten ayrı bir yerde hizmet 
+veren ve gerektiğinde hizmet özelliğine göre isimlendirilen PTT iş yeridir.
+4.10 Lokal Şube Şefliği: Lokal sınırlar dahilinde bir PTT müdürlüğüne bağlı olarak fiziken müdürlükten ayrı bir 
+yerde hizmet veren, gerektiğinde hizmet özelliğine göre isimlendirilen ve bağlı olduğu müdürlüğünün kontrolünde 
+çalışan ve şef tarafından yönetilen PTT iş yeridir.
+4.11 Şirket/ PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.12 PTT Acenteliği: PTT tarafından faaliyet konuları ile ilgili, sınırları özel hukuk hükümlerine göre belirlenen 
+sözleşmelere dayanılarak gerçek ya da tüzel kişilere hizmet gördürülen PTT iş yeridir.
+4.13 PTT İş yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+4.14 PTT Müdürlük: Lokal Müdürlük ile Lokal Dışı Müdürlüktür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+2/7
+4.15 PTT Şubesi: Lokal Şube ve Lokal Dışı Şubedir.
+4.16 PTT Şube Şefliği: Lokal Şube Şefliği ile Lokal Dışı Şube Şefliğidir.
+4.17 Şube Personeli: Şubede görevlendirilen her ünvandaki personelidir.
+4.18 Şube Sorumlusu: Bir personelli şubede bu personel, birden fazla personelli şubelerde müdürünün 
+görevlendirdiği personel, şef bulunan şubelerde ise şeftir.
+4.19 Yönetim Kurulu: PTT AŞ Yönetim Kuruludur.
+5. SORUMLULUKLAR
+Bu prosedürde yer alan; 
+5.1 PTT müdürlük/PTT şube/PTT şube şefliklerine ilişkin genel prensipler, PTT müdürlüklerinin yapılandırılması, 
+PTT müdürlüğü açılacak yerler, PTT müdürlük, PTT şube şefliği ve PTT şubelerinin kapatılması hususlarının 
+hazırlanması ve yönetiminden İş Yeri Planlama ve Kurulum Daire Başkanlığı ile Posta ve Kargo Operasyonları Daire 
+Başkanlığı;  
+5.2 PTT şube/ PTT şube şefliklerinin yapılandırılması, PTT şube/şube şefliği açılabilecek yerler,
+PTT şubelerinin dönüştürülmesi, PTT müdürlüklerinin PTT şube şefliğine veya PTT şubesine dönüştürülmesi, PTT 
+acenteliklerinin PTT şubesine dönüştürülmesi hususlarının hazırlanması ve yönetiminden İş Yeri Planlama ve 
+Kurulum Daire Başkanlığı;
+5.3 PTT müdürlüğü, PTT şube şefliği ve PTT şubelerinin çalışma saatleri hususunun hazırlanması ve yönetiminden 
+ise iş yerinin kurulum aşamasındaki ilk mesaisi İş Yeri Planlama ve Kurulum Daire Başkanlığı, belirlenen ilk 
+mesaiden sonraki süreçte gerekli değişiklik ve güncellemelerden Posta ve Kargo Operasyonları Daire Başkanlığı ile 
+Pttbank Daire Başkanlığı,  
+5.4 PTT müdürlük/PTT şube/PTT şube şeflikleri binaları, PTT müdürlük/PTT şube/PTT şube şefliği gereksinimlerinin 
+sağlanması, PTT müdürlük/ PTT şube/ PTT şube şefliğinin yönetimsel ilişkisi, PTT şube/ PTT şube şefliklerinin 
+denetiminin amacı, PTT şubesi/ PTT şube şefliklerinin denetiminin kimler tarafından yapılacağı, PTT şubesi/ PTT 
+şube şefliklerinin denetiminin zaman ve süresi, PTT şubesi/ PTT şube şefliklerinin denetiminin ne şekilde yapılacağı, 
+denetim dışında PTT şubeleri/ PTT şube şefliklerinin takip ve kontrolü, PTT şubeleri/ PTT şube şefliklerinin 
+olağanüstü denetimi, PTT şubesi/ PTT şube şefliklerinin denetimi sonunda rapor düzenlenmesi, PTT müdürlük/ PTT 
+şube/ PTT şube şefliğinin yapacakları veya yapmayacakları işlemlerin saptanması, personelinin görev süresi,  
+personelin tavır ve hareketleri, haberleşme gizliliği ve güvenliği hususlarının hazırlanması ve yönetiminden ilgili 
+birimler,
+5.5 Uygulanmasından tüm PTT çalışanı sorumludur.    
+6. UYGULAMA
+6.1 PTT Müdürlük/PTT Şube/PTT Şube Şefliklerine İlişkin Genel Prensipler
+6.1.1 PTT müdürlük, PTT şube şefliği ve PTT şubesi açılmasında, Evrensel Posta Hizmet Yükümlülüğü ile karlılık 
+ve verimlilik ilkeleri yanında, bu iş yerleri için elverişli bir iş yerinin sağlanabilmiş olması ve PTT müdürlük, PTT 
+şube şefliği ve PTT şubesi açılacak yerin bağlı bulunduğu idari yerleşme yeriyle olan ulaşım olanakları göz önünde 
+bulundurulur.
+6.1.2 PTT müdürlük, PTT şube şefliği ve PTT şubesinin yapılandırılması, açılması ve kapatılması, statülerinin 
+değiştirilmesi ile ilgili olarak Bölge Müdürlüğünün teklifi ve İş Yeri Planlama ve Kurulum Daire Başkanlığının uygun 
+görüşü üzerine Yönetim Kurulu tarafından gerekli kararlar alınır.
+6.1.3 Posta/Kargo İşleme, Posta/Kargo Dağıtım, Posta/Kargo Dağıtım ve Toplama, Posta/Kargo İşleme ve Dağıtım 
+Müdürlüğü ile Kargo PTT şube şefliği ve Kargo PTT şubesinin yapılandırılması, açılması ve kapatılması, statülerinin 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+3/7
+değiştirilmesi ile ilgili olarak Bölge Müdürlüğünün teklifi ve Posta ve Kargo Operasyonları Daire Başkanlığının 
+uygun görüşü üzerine Yönetim Kurulu tarafından gerekli kararlar alınır.
+6.2 PTT Müdürlüklerinin Yapılandırılması
+6.2.1 Hizmet özelliğine göre belirlenen değişik ünvan ve sayıdaki kadro/pozisyondaki personel ile hizmet verilir. 
+6.2.2 Hizmet özelliğine göre, PTT Müdürlüğü, Posta/Kargo İşleme Müdürlüğü, Posta/Kargo Dağıtım Müdürlüğü, 
+Posta/Kargo Dağıtım ve Toplama Müdürlüğü, Posta/Kargo İşleme ve Dağıtım Müdürlüğü şeklinde isimlendirilirler.
+6.2.3 PTT müdürlüklerine hizmet özelliğine göre isim verilmesine ve değiştirilmesine Genel Müdürlük tarafından 
+karar verilir.
+6.2.4 Verilen hizmetin niteliğine göre; işlem adetleri, bağlı şube, şube şefliği, acentelik ve Pttmatik sayısı ile hizmet 
+verilen yerin sosyo-ekonomik konumu, mülki taksimatı, gelir miktarı, kabul trafiği, dağıtılan gönderi miktarı, çalışan 
+personel sayısı, iş yerinin ana ve tali posta hattındaki konumu gibi hususlar göz önünde bulundurulmak suretiyle PTT 
+müdürlükleri sınıflandırılır.
+6.3 PTT Şube/PTT Şube Şefliklerinin Yapılandırılması 
+6.3.1 Hizmet özelliğine göre belirlenen değişik ünvan ve sayıda kadro/pozisyondaki personel ile hizmet verirler.
+6.1.3.2 Hizmet özeliğine göre; PTT şubesi/şube şefliği, PTT Posta/Kargo şubesi/şube şefliği şeklinde isimlendirilirler.
+6.3.3 PTT şube ve/veya PTT şube şefliklerine hizmet özelliğine göre isim verilmesine ve değiştirilmesine Genel 
+Müdürlük tarafından karar verilir.
+6.4 PTT Müdürlüğü Açılacak Yerler
+6.4.1 Hizmet niteliğine göre açılmasında ihtiyaç ve yarar görülen yerlerde PTT müdürlüğü veya lokal PTT müdürlüğü 
+açılabilir.
+6.5 PTT Şube/ Şube Şefliği Açılabilecek Yerler
+6.5.1 Hizmetin özelliğine göre ihtiyaç ve yarar duyulan veya hizmetin acentelik marifetiyle yürütülmesi uygun 
+bulunmayan yerleşim yerlerinde ya da Evrensel Hizmet Yükümlülüğü kapsamında sürekli, mevsimlik veya geçici 
+olarak PTT şube ve/veya PTT şube şefliği açabilir.
+6.6 PTT Şubelerin Dönüştürülmesi 
+6.6.1 PTT şubeleri aşağıdaki hallerde PTT şube şefliğine veya PTT müdürlüğüne dönüştürülebilir;
+a)İşlem hacmi yüksek ve/veya birbirine yakın mesafede hizmet veren en az iki şubenin merkezi bir yerde 
+birleştirilmesi suretiyle PTT şube şefliğine veya PTT müdürlüğüne dönüştürülebilir.
+b)İşlem hacmi yüksek ve/veya PTT müdürlüğüne uzak olması sebebiyle kontrol zafiyeti teşkil eden PTT şubeleri de 
+kontrol ve denetimin daha etkin yapılabilmesi amacıyla PTT şube şefliğine veya PTT müdürlüğüne dönüştürülebilir.
+c) Hizmet açısından özellik arz eden yerlerdeki PTT şubeleri veya lokal şubeler, PTT şube şefliğine/PTT 
+müdürlüğüne veya lokal PTT şube şefliğine/lokal PTT müdürlüğüne dönüştürebilir.
+6.7 PTT Müdürlüklerinin PTT Şube Şefliğine veya PTT Şubesine Dönüştürülmesi
+6.7.1 Daha önce açılmış olup, sonradan meydana gelen değişiklikler nedeniyle varlığında ve devamında gerek ve 
+zorunluluk bulunmayan hal ve yerlerdeki PTT müdürlükleri PTT şube şefliğine veya PTT şubesine dönüştürülebilir.
+6.8 PTT Acenteliklerinin PTT Şubesine Dönüştürülmesi
+6.1.8.1 Yapılan inceleme sonucu yerel gereksinimleri karşılayamadığı saptanan yerler ile hizmetin PTT şubesi olarak 
+verilmesinde kamu yararı görülen yerlerdeki PTT acentelikleri kapatılarak bu yerlerde PTT şubesi açılmasına dair 
+karar alınabilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+4/7
+6.9 PTT Müdürlük, PTT Şube Şefliği ve PTT Şubelerinin Kapatılması 
+6.1.9.1 İş ve işlem trafiği düşük olan veya sürekli zarar eden, hizmetinin devamına gerek duyulmayan veya faaliyetini 
+sürdürmesine engel teşkil eden durumları bulunan PTT müdürlüğü, PTT şube şefliği ve PTT şubeleri geçici ya da 
+sürekli olarak kapatılabilir.
+6.10 PTT Müdürlüğü, PTT Şube Şefliği ve PTT Şubelerinin Çalışma Saatleri 
+6.10.1 PTT müdürlüğü, PTT şube şefliği ve PTT şubelerinin çalışma saatleri Yönetim Kurulunca belirlenir. Şube 
+personeli tarafından günde bir kez yapılacak olan dağıtım hizmetinin saat ve süresi, şubenin çalışma saatleri içerisinde 
+olmak üzere, bağlı olduğu PTT müdürlüğünce belirlenir.
+6.11. PTT Müdürlük/PTT Şubesi/PTT Şube Şeflikleri Binaları
+6.11.1 PTT müdürlük/PTT şube/PTT şube şefliğinin çalışabilmesi için elverişli iş yerlerinin sağlanması, kiralanması, 
+kira bedellerinin ödenmesi, binalarının ısıtma ve aydınlatma giderleri de dahil diğer tüm giderler PTT müdürlüğünün 
+bağlı bulunduğu Bölge Müdürlüğünce veya PTT şube/PTT şube şefliğinin bağlı olduğu PTT müdürlüğünce karşılanır.
+6.12 PTT Müdürlük/PTT Şube/PTT Şube Şefliği Gereksinimlerinin Sağlanması
+6.12.1 PTT Müdürlük/PTT Şube/PTT Şube Şefliği çalışmalarının aksaksız olarak sürdürülmesini sağlamak amacıyla 
+her türlü:
+a)Eşya, malzeme ve maddi duran varlıklar,
+b)İşletmeye ilişkin her türlü alet, edevat, kırtasiye malzemeleri,
+c) Temizlik, ısıtma ve aydınlatma malzemesi,
+PTT müdürlüğünün bağlı bulunduğu Bölge Müdürlüğünce veya PTT şube/PTT şube şefliğinin bağlı olduğu PTT 
+müdürlüğünce karşılanır. 
+6.12.2 Birinci fıkrada belirtilenlerle 5.1.11.’inci maddede öngörülen işlemlere ilişkin her türlü ödenek temini, kasa 
+ve mahsup muameleleri gibi muhasebe kayıt ve işlemleri PTT müdürlüğünün bağlı bulunduğu Bölge Müdürlüğünce 
+veya PTT şube/PTT şube şefliğinin bağlı olduğu PTT müdürlüğünce yapılır.
+6.13 PTT Müdürlük/PTT Şube/PTT Şube Şefliğinin Yönetimsel İlişkisi
+6.13.1 PTT müdürlük/PTT şube/PTT şube şefliğinin yönetimine ilişkin her türlü emir ve talimat, bağlı bulunduğu 
+Bölge Müdürlüğünce veya PTT müdürlüğünce yazılı olarak verilir, müdürlük ve şube personeli bu emirleri aynen 
+yerine getirmekle ve bu emirleri muntazam bir şekilde saklamakla yükümlüdür. Bu emir ve talimatların PTT 
+müdürlüğünce yerine getirilip getirilmediği Bölge Müdürlüğünce, PTT şube/PTT şube şefliğince yerine getirilip 
+getirilmediği ise bağlı bulunduğu PTT müdürlüğünce yıl içinde iki defa görevlendirilecek bir personel tarafından 
+kontrol edilir. Kontrol sonucu düzenlenen raporun aslı Bölge Müdürlüğünde, bir nüshası ise PTT müdürlüğünün 
+gelen evrak dosyasında saklanır.  
+6.13.2 PTT şube/PTT şube şefliğine verilen görevler şube personeli tarafından yapılır ve PTT şube/PTT şube 
+şefliğinin yönetiminden şube sorumlusu sorumludur.
+6.14 PTT Şube/PTT Şube Şefliklerinin Denetiminin Amacı
+6.14.1 PTT şubeleri/PTT şube şefliklerinin denetimindeki amaç, PTT şubesi/PTT şube şefliklerince yürütülmekte 
+olan işlemlerin mevzuata uygun şekilde ve istenilen düzeyde yürütülmesini sağlamaktır.
+6.15.2 Bu denetimler sonunda görülen aksaklıkların giderilmesi için alınacak önlemler ve yapılacak uyarıların 
+yanında, şube personelinin mesleki bilgisini arttıracak öğretici açıklamalarda bulunularak yetiştirilmesini sağlamak 
+temel amaçtır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+5/7
+6.15 PTT Şubesi/PTT Şube Şefliklerinin Denetiminin Kimler Tarafından Yapılacağı
+6.15.1 PTT şubesi/PTT şube şefliklerinin denetiminin, bağlı bulunduğu PTT müdürü tarafından yapılması esastır. 
+Ancak müdürü bu denetim görevini, varsa şefi ya da görevlendireceği bir personel marifetiyle de yaptırabilir.
+6.16 PTT Şubesi/PTT Şube Şefliklerinin Denetiminin Zaman ve Süresi
+6.16.1 PTT şubeleri, Bölge Müdürlüğünce yapılacak programa göre yılda en az dört kez denetlenir. Bölge 
+Müdürlüğünce yapılan program PTT şubesi/PTT şube şefliklerinin bağlı bulunduğu PTT müdürlüğüne "Kişiye Özel" 
+işaretli bir yazı ile bildirilir.
+6.16.2 PTT şubesi/PTT şube şefliklerinin denetimleri bir günde tamamlanır. Daha uzun zamanın gerekmesi halinde 
+gerekçe bildirilerek Bölge Müdürlüğünden ona göre talimat alınır.
+6.16.3 Lokal şubeler, Bölge Müdürlüğünden izin alınmasına gerek olmadan olağan denetim dışında da sık sık 
+denetlenir. Ayrıca, denetimi yapan kişi, denetimin konusu, tarihi ve süresi kayıt altına alınır.
+6.17 PTT Şubesi/PTT Şube Şefliklerinin Denetiminin Ne Şekilde Yapılacağı
+6.17.1 PTT şubesi/PTT şube şefliklerinin işlemlerinin denetlenmesi, incelenen konuya ilişkin mevzuat hükümlerine 
+göre ve şubedeki mevcut kayıtlar üzerinden yapılır. Görülen aksaklıkların ilgili kayıtlar üzerine işaretlenmek, 
+imzalanmak ve ayrıca şube personeline öğretici açıklamalarda bulunmak suretiyle giderilmesi ve tekrarına yer 
+verilmemesi için gerekli önlemlerin alınması sağlanır. PTT şubesi/PTT şube şefliklerindeki denetim sonunda 
+düzenlenecek raporun bir nüshası şube gelen evrak dosyasına konur.
+6.18 Denetim Dışında PTT Şubeleri/PTT Şube Şefliklerinin Takip ve Kontrolü
+6.18.1 PTT şubeleri/PTT şube şeflikleri, 5.1.16’ncı maddede öngörülen denetimler dışında da bağlı bulundukları 
+müdürleri veya onun görevlendireceği bir yetkili tarafından:
+a)İşlemlerin doğruluğu, günlük, haftalık ve aylık dönemlerde PTT müdürlüğüne getirilen veya getirttirilen belgeler 
+üzerinden,
+b) Mesai saatleri içerisinde dağıtım saatleri dikkate alınarak şubenin açık olup olmadığı ise telefonla takip ve kontrol 
+edilir. Bu denetimlerin sonunda, PTT şubesi/PTT şube şefliklerinin yerinde incelenmesini gerektirecek bir yön 
+görülürse durum Bölge Müdürlüğüne bildirilir ve alınacak emre göre hareket edilir.
+c) Bölge Müdürlüğü kendisine bağlı tüm PTT iş yerlerini, öngörülen denetimler dışında istediği zaman 
+görevlendireceği bir personel tarafından gizli müşteri adı altında altı aylık dönemler halinde senede iki defa olmak 
+üzere incelettirir. İnceleme sonrasında tanzim olunacak olan rapor Bölge Müdürlüğüne sunulur.
+6.19 PTT Şubeleri/PTT Şube Şefliklerinin Olağanüstü Denetimi
+6.19.1 PTT şubeleri/PTT şube şefliklerinin bağlı bulunduğu PTT müdürlüğünün teftişi sırasında teftiş ve soruşturma 
+yöntemlerine göre denetleneceği gibi yolsuzluk veya usulsüzlük ihbarı ile kuşku doğurucu yakınmalar üzerine de 
+Bölge Müdürlüğünün talimatı uyarınca olağanüstü denetime tabi tutulur.
+6.20 PTT Şubesi/PTT Şube Şefliklerinin Denetimi Sonunda Rapor Düzenlenmesi
+6.20.1 Denetim sonunda, denetimi yapan tarafından bir rapor düzenlenir. Bu raporda;
+a)Yapılan sayıma göre para ve pul mevcutlarının kayıtlara uygun olup olmadığı,
+b) Bekleyen ödeme şartlı gönderilerin sayısının uygun olup olmadığı, 
+c)Şube işlemleri ile ilgili her türlü defter, formül ve kayıtların usulüne göre işlenmiş olup olmadığı,
+ç) Hangi işlemlerin tek tek veya sondaj suretiyle denetime tabi tutulduğu,
+d)İşyerinin gereği gibi temiz ve düzenli tutulup tutulmadığı,
+e) Her türlü dosya, kayıt ve evrakın düzenli bir şekilde bulunup bulunmadığı,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+6/7
+f)Yanlış, düzensiz veya mevzuata aykırı bir durumla karşılaşılmış olup olmadığı, karşılaşılmış ise bunların 
+giderilmesi veya düzeltilmesi için ne yolda işlem yapıldığı ve tekrar edilmemesi için ne gibi önlemler alındığı ayrıntılı 
+olarak belirtilir.
+6.20.2 Denetim sonunda, denetimi yapan tarafından düzenlenen rapora Ödeme Şartlı Gönderiler Sayım Tutanağı 
+eklendikten sonra raporun aslı Bölge Müdürlüğüne gönderilir, bir örneği müdürlüğündeki dosyasında, üçüncü örnek 
+ise 5.1.17’nci maddede belirtildiği gibi PTT şubesi/PTT şube şefliklerinin gelen evrak dosyasında saklanır.
+6.21 PTT Müdürlük/PTT Şube/PTT Şube Şefliğinin Yapacakları veya Yapmayacakları İşlemlerin Saptanması
+6.21.1 PTT müdürlük/PTT şubeleri/PTT şube şefliklerince PTT hizmetlerinden hangilerinin halka sunulacağı ve 
+hangi tür hizmetlerin yapılamayacağı Genel Müdürlükçe saptanır. Saptanan bu hizmetler, PTT müdürlük ve PTT 
+şubeleri/PTT şube şefliklerinin tümü için geçerli olabileceği gibi, özelliği göz önünde tutularak bazı PTT müdürlük 
+ve PTT şubeleri/PTT şube şefliklerinde bir kısım PTT hizmetlerinin yaptırılmaması veya bazı hizmetlerin ilaveten 
+yaptırılması Genel Müdürlüğün yetkisindedir.
+6.22 PTT Müdürlüğü Gişeleri ile PTT Şubesi/PTT Şube Şefliği Hesaplarının Muhasebeleştirilmesi
+6.22.1 PTT müdürlüğü gişeleri ile PTT şubeleri/PTT şube şefliklerince elde edilen gelirler ile tahsil edilen veya 
+ödenen her türlü para, PTT müdürlüğü gişeleri ve PTT şubeleri/PTT şube şefliklerince düzenlenen kayıtlara göre 
+bağlı bulunduğu PTT müdürlüğü hesaplarında muhasebeleştirilir.
+6.23 Personelin Görev Süresi
+6.23.1 PTT müdürlük ve PTT şube/PTT şube şefliği personeli belirlenen dağıtım saatleri dışında, şube çalışma 
+saatlerine uygun olarak şubeyi açık tutmak ve görevinin başında bulunmak zorundadır. Herhangi bir nedenle bu 
+durumun aksaması halinde durum müdürüne bildirilir. 
+6.24 Personelin Tavır ve Hareketleri
+6.24.1 PTT müdürlük ve PTT şube/PTT şube şefliği personeli, görev başında iken ağırbaşlı davranmak, kılık ve 
+kıyafetlerini istenilen şekil ve temizlikte tutmak, iş sahipleriyle olan ilişkilerinde ölçülü, nazik ve ciddi davranmak 
+zorundadır. Personel çalışma saatleri içinde ilgisi veya gereği olmayan yerlerde bulunamaz veya oturamazlar.
+6.24.2 PTT müdürlük ve PTT şube/PTT şube şefliği personeli, iş yeri içinde veya dışında teşekküle ait her türlü araç, 
+gereç ve malzemeyi temiz tutmak, bozulanları mümkün ise onarmak veya onarılmasını sağlamakla yükümlüdür.
+6.25 Haberleşme Gizliliği ve Güvenliği
+6.25.1 PTT müdürlük ve PTT şubeleri/PTT şube şeflikleri tarafından görülen işlere, bu iş yerlerinde görevlendirilen 
+personelden başka kimse el süremez. Görevli, yetkili veya ilgili personel dışındaki kimselerin iş yerindeki servislere 
+veya halka açık olmayan kısımlara girmelerine izin verilmez.
+6.25.2 PTT müdürlük ve PTT şube/PTT şube şefliği personelinin, kişilerin her türlü haberleşme ilişkilerini açığa 
+vurmaları, mektupları açmaları, açık dahi olsa içlerinde ne bulunduğunu araştırmaları veya haberleşme kağıtlarında 
+ki yazılarla telgraf ve telefon haberleşmeleri hakkında üçüncü kişilere (gönderici ile alıcıdan veya bunların tayin et-
+tikleri vekillerin dışındaki kişilere) bilgi vermeleri yahut herhangi birine bunları yapmaya imkân bırakmaları yasaktır.
+6.25.3 PTT müdürlük ve PTT şube/PTT şube şefliği personeli, iş bu maddenin 1.ve 2. fıkralarda yer alan 
+yükümlülüklerin dışında 24.03.2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında yer alan 
+hükümlere uymakla da sorumludur
+6.26 Genel hükümlerin uygulanması
+6.26.1 Bu prosedürde bulunmayan veya yeteri kadar açıklık olmayan hallerde genel hükümler ile yürürlükteki diğer 
+mevzuat hükümleri uygulanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+PTT Müdürlük ve Şube Yönetim Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İPK.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+7/7
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+8.1 Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+8.2 Bu prosedür yayımlandığında İPK.PR02 İşyerleri Merkez ve Şubeleri Yönetim Prosedürü yürürlükten kalkar.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+İPK.FR02-İş Yeri Teklif Formu
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+PKH.PR10-Posta ve Kargo Hizmetleri İşletme Prosedürü
+YNT.078-Evrensel Posta Hizmetleri Yönetmeliği
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+0 1.01.2026 Yeni Doküman 
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

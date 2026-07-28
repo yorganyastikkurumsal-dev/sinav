@@ -1,0 +1,608 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+POSTA VE KARGO 
+OPERASYONLARI DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR03
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+1/9
+1. AMAÇ
+Bu prosedürün amacı, yurt içi ve yurt dışı telgraf hizmetlerinin yürütülmesine ilişkin süreçleri belirlemektir.
+2. KAPSAM
+Bu prosedür, yurt içi ve yurt dışına iletilen ve buralardan gelen telgrafların kabul, iletim, dağıtım ve teslimine ilişkin 
+süreçleri kapsar.
+Bu prosedür Merkez Teşkilatında Posta ve Kargo Operasyonları Daire Başkanlığını, Taşra Teşkilatında Bölge 
+Müdürlüğü bünyesinde posta ve kargo hizmetlerinin yürütüldüğü ilgili birimleri ve tüm PTT iş yerlerini kapsar.
+3. DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu ile 406 sayılı Telgraf ve Telefon Kanunu, 15/07/2018 tarihli ve 
+30479 sayılı Resmi Gazetede yayınlanan Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve 
+Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi, 21/07/2014 tarihli görev sözleşmesi, 03/06/2014 
+tarih ve 29019 sayılı Resmi Gazete’de yayınlanan Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği, Posta 
+Hizmetlerinin Sunulmasına İlişkin Yönetmelik, Posta Sektöründe İdari Yaptırımlar Yönetmeliği, Evrensel Posta 
+Birliği Kararları, yabancı idareler ile yapılan ikili anlaşmalar ve PKO.PR01 Posta ve Kargo Hizmetleri İşletme 
+Prosedürü hükümlerine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Acele Telgraf: Alıcısına Kabul saatinden itibaren altı saat içerisinde teslim edilmesi gereken telgrafı,
+4.2 Alıcı: Telgrafın, üzerindeki açık ad ve adrese teslimi istenen gerçek veya tüzel kişiler ile telgrafı almaya hakkı 
+veya yetkisi bulunan kişilerin tümünü,
+4.3 BA: Bizzat alıcısına teslim edilecek telgrafı,
+4.4 BGS: Belirtilen gün ve saatte teslimi istenen telgrafı,
+4.5 CT: Cevaplı telgrafı,
+4.6 E-Telgraf: PTT internet adresi aracılığıyla kabulü yapılan telgrafı,
+4.7 E-Telgraf Abonesi: Kimlik bilgileri, abonelik sözleşmesiyle sistemde tanımlanan gerçek veya tüzel kişiyi,
+4.8 Evrensel Yerleşim Birimi: Bucak, belde, köy ile büyükşehir statüsünde olan illerde, ilçe belediye sınırları 
+içinde kalan ve yerleşim özellikleri bakımından kaymakamlığın bulunduğu yer ile bütünlük arz etmeyen 
+mahallelerin idari sınırlarını,
+4.9 Fakstel: Faks cihazı bulunan telefon abonelerince PTT iş yerlerindeki fakslara iletilen telgrafı,
+4.10 Fonotel: PTT çağrı merkezinin telefonla aranması suretiyle yazdırılan telgrafı,
+4.11 Merkez Teşkilatı: Şirketin Genel Müdürlük birimlerini,
+4.12 Müdürlük: Taşra Teşkilatında ihtisas müdürlükleri dışında kalan müdürlükleri,
+4.13 Normal Telgraf: Alıcısına kabul saatinden itibaren yirmi dört saat içerisinde teslim edilmesi gereken telgrafı,
+4.14 Özel Telgraf: Resmi daireler dışında kalan gerçek ve tüzel kişiler tarafından çekilen telgrafı,
+4.15 Posta Abone Kutusu: Adlarına gelen gönderi ve telgraflarını, PTT iş yerinden almak isteyenlere kiraya 
+verilmek üzere PTT iş yerlerine konulan kutuları,
+4.16 Postrestant İşaretli Telgraf: Alıcının müracaatıyla PTT iş yerinde teslim edilen yurt dışı telgrafı,
+4.17 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri 
+yürütmek üzere kurduğu hizmet noktalarını,
+4.18 PTT İş Yerinde Teslim İşaretli Telgraf: Alıcının müracaatıyla PTT iş yerinde teslim edilen yurt içi telgrafı,
+4.19 Resmi Telgraf: Resmi kuruluşlar tarafından çekilen mühürlü ve antetli kâğıda yazılmış gönderici makamlarca 
+imzalanmış telgrafı, 
+4.20 Servis Telgrafı: Göndericisi PTT olan telgrafı,
+4.21 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’ni,
+4.22 Telgraf: Elektronik haberleşme şebekeleri üzerinden cihazlar aracılığıyla iletilen yazılı metni,
+4.23 Telgraf Alındısı: Telgrafın, PTT iş yeri tarafından kabul edildiğini gösterir belgeyi,
+İfade eder.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+2/9
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanması ve yönetiminden Posta ve Kargo Operasyonları Daire Başkanlığı, uygulanmasından ise 
+posta hizmetlerinin yürütülmesinin her aşamasında görevli tüm personel ve bu kapsamdaki tüm birimler sorumludur.
+6. UYGULAMA
+6.1 Telgrafın Yazılması
+6.1.1 Telgraf; özel hizmet işareti, adres, metin ve imza olmak üzere 4 (dört) kısımdan oluşmakla birlikte, 
+göndericiler telgraflarına özel hizmet işareti ve imza koyup koymamakta serbesttir.
+6.1.2 Resmi telgraflar hakkında bu prosedürün 6.13 üncü maddesine göre işlem yapılır.
+6.1.3 Bu prosedürün 6.3 üncü maddesinin kapsamı dışındaki telgraflarda gönderici adresinin yazılma zorunluluğu 
+yoktur.
+6.1.4 Telgraflar, Latin harfleri ve Arap rakamlarıyla olmak kaydı ile yabancı dilde de yazılabilir.
+6.1.5 Telgraf metninde bilinen bir kelimenin hatalı yazıldığı görülürse, gönderici bilgilendirilir. Gönderici tarafından 
+düzeltme yapılmaz ise olduğu gibi kabul edilir, personel tarafından düzeltme yapılmaz. Düzeltme işlemi gönderici 
+tarafından yapılır ise bu durum telgrafın arkasına şerh edilerek imzalanır.
+6.2 Suç Unsuru Bulunan Telgraflar
+6.2.1 PTT görevlilerince telgrafların kabulü esnasında, suç unsuru bulunduğu kanaatine varılması halinde, 
+göndericinin kimlik tespiti yapılarak varış yerine iletilir ve bu durum mahalli Cumhuriyet Savcılığına bildirilir.
+6.2.2 PTT görevlilerince telgrafın kabulden sonraki herhangi bir aşamasında, suç unsuru bulunduğu kanaatine 
+varılması halinde durum mahalli Cumhuriyet Savcılığına bildirilir.
+6.2.3 Birinci ve ikinci fıkralarda belirtilen durumlarda telgraf alıcısına teslim edilir.
+6.3 Kimlik Tespiti
+6.3.1 Aşağıda belirtilen telgraflar, kimlik tespiti yapılmak ve imzası alınmak suretiyle PTT iş yerinde kabul edilir.
+a) Alıcısının maddi ve manevi yararı veya zararı olması muhtemel telgraflar,
+b) Genel ahlak ve adaba aykırı telgraflar,
+c) Hakaret, tehdit ve suç isnadı içeren telgraflar,
+ç) Devletin emniyeti, genel asayiş ve huzuru bozucu telgraflar,
+d) Ait olduğu dilde normal manasında kullanılmayan kelime, tabir, rakam ve harf gruplarını içeren veya uydurma 
+yahut normal manayı ifade etmeyen kelimeler ile gizli bir manayı ifade eden rakamlar ve kodlu yazılmış telgraflar,
+e) Metni yabancı dille yazılmış telgraflar.
+6.3.2 Göndericiler adına telgrafı gişeye verenler ile toplu imza atmak suretiyle telgraflarını gişeye verenler 
+kimliklerini ispat etmeye, adresini yazmaya ve imzasını atmaya mecburdurlar.
+6.3.3 Bu madde kapsamında telgraf çekmek isteyen ancak kimliğini vermek istemeyen, telgrafını imzalamayan ve 
+gönderici adresi yazmak istemeyenin telgrafı kabul edilmez.
+6.3.4 Kimlik ispatı, fotoğraflı nüfus cüzdanı/kimlik kartı, sürücü belgesi, pasaport, avukat kimlik belgesi veya 
+bunların yerine geçen usulüne uygun bir resmî belge göstermek suretiyle yapılır.
+6.3.5 T.C. kimlik numarası veya gösterilen belgenin seri numarası, verildiği tarih ve resmi kurumun ismi telgrafın 
+arka kısmına yazılır.
+6.3.6 PTT e-telgraf abonesi olanlar ile e-devlet üzerinden telgraf gönderen müşterilerin kimlik bilgileri tanımlanmış 
+olduğundan ayrıca kimlik tespiti yapılmaksızın her türlü telgrafı kabul edilir.
+6.4 İhtirazi Kayıtla Kabul Edilecek Telgraflar
+6.4.1 Aşağıda belirtilen telgraflar ihtirazi kayıtla kabul edilir.
+a) Varış iş yerinin mesaisinin bitiminden altı saatten az süre kalmış ise acele telgraflar,
+b) Adresleri alıcının yalnız ad ve soyadını kapsayan telgraflarla, adresleri yeterli olmayan telgraflar,
+c) Büyük şehirlerde oturanlar adına yazılıp adreslerinde mahalle, cadde, sokak isimleri ile kapı, daire ve kat 
+numaraları bulunmayan ve kabulünde ısrar edilen telgraflar,
+ç) Askeri ve sivil okullarla, askeri birlik, cezaevleri ve hastane gibi yer adreslerine çekilen telgraflar,
+d) Posta abone kutusu adresine çekilen telgraflar,
+e) Evrensel yerleşim birimi varışlı telgraflar,
+f) Tatil günleri kapalı bulunan adreslere çekilen telgraflar,
+g) Resmi daire adreslerine mesaisinin bitiminden önceki altı saat içinde ve mesai başlangıcına altı saatten fazla 
+zaman olması halinde çekilen acele telgraflar,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+3/9
+ğ) BGS özel hizmet işareti olan ve yirmi dört saatten az süre bulunduğu durumlarda normal telgraflar, altı saatten az 
+süre bulunduğu durumlarda acele telgraflar.
+6.4.2 Bu madde kapsamında kabul edilecek telgrafların göndericileri, telgraflarının kabulünden önce gecikme 
+ihtimali hakkında bilgilendirilir. Ayrıca telgrafın altına veya arka kısmına “Gecikmeden PTT Sorumlu Değildir” 
+açıklaması yazılarak göndericiye veya telgrafı getirene imzalattırılır. Bu tür telgrafların fonotel, fakstel ve internet 
+aracılığı ile gönderilmek istenmesi halinde, göndericiler yazılı veya sözlü olarak uyarıldıktan sonra kabul işlemi 
+yapılır. Uyarının zamanı ve kiminle görüşüldüğü hakkında telgraf metninin arkasına şerh düşülür.
+6.5 Kelime Sayımı ve Ücretlendirme
+6.5.1 Ücretlendirmede özel hizmet işareti, alıcı adresi ve metin bölümlerinde yer alan yazı, rakam ve işaretler kelime 
+sayımına dahil edilerek ücret tarifesine göre ücretlendirilir.
+6.5.2 Özel hizmetlerin her biri bir kelime sayılır.
+6.5.3 Kelimenin doğru yazılıp yazılmadığına ve imla kurallarına uygun olup olmadığına bakılmaksızın, bir araya 
+getirilmiş on karakteri geçmeyen yazı, rakam ve işaret grubu bir kelime olarak değerlendirilir, on karakteri geçmesi 
+halinde ise her on karakter ve kesri bir kelime sayılır.
+6.5.4 Bir telgrafın asgari ücreti 10 (on) kelime ücretinden az olamaz. Telgraf ücretine esas teşkil eden kelime sayısı 
+10 (on) kelimeden az olsa dahi 10 (on) kelime ücreti alınır.
+6.5.5 Gönderici adı soyadı ve unvanı kelime sayımına dahil edilir.
+6.5.6 Gönderici, adresinin karşı tarafa iletimini istiyorsa adres kelime sayımına dahil edilir.
+6.5.7 BGS özel hizmetli telgraflarda, kelime sayımına 10 kelime ilave edilir.
+6.5.8 CT özel hizmetli telgraflar kabul işlemi esnasında işaretlenen özel hizmetler dahil olmak üzere toplam ücretin 
+iki katı olarak ücretlendirilir.
+6.5.9 Postrestant veya PTT iş yeri teslimli (özel hizmetli) işaretli telgraflardan özel hizmet ücreti alınmaz.
+6.5.10 Acele telgraflardan normal telgraf ücretinin iki katı ücret alınır.
+6.5.11 Birden fazla adresli telgraflarda, adreslere göre her telgraf ayrı ayrı ücretlendirilir.
+6.5.12 Bizzat alıcısına teslimli (BA) özel hizmetli telgraflardan ayrıca tarifesinde belirtilen özel hizmet ücreti alınır.
+6.6 Telgraf Ücretlerinin Tahsili
+Telgraf ücretleri genel kural olarak peşin alınır. Ücretler, özel hizmet ücretleri dâhil ücret tarifesine göre tahakkuk 
+eden toplam ücreti; nakit, bankalar tarafından ihraç edilen banka kartları, kredi kartları veya ilgili kanunlarca izin 
+verilen ya da verilecek diğer ödeme araçları, posta çeki hesabı ve anlaşmalı telefon şirketi aboneliği veya Merkez 
+Teşkilatınca belirlenip duyurulan diğer usullerle tahsil edilebilir. 
+6.7 Telgraf Ücretlerinin İadesini Gerektiren Haller
+6.7.1 Göndericileri tarafından, telgrafın çekildiği tarihten itibaren 1 (bir) yıl içerisinde müracaat edilmek kaydıyla; 
+aşağıda belirtilen hallerde kabulde alınan telgraf ücretleri talep edilmesi durumunda göndericilerine iade edilir.
+a) Bu prosedürün 6.4 üncü maddesi kapsamında ihtirazi kayıtla kabul edilenler hariç, telgrafın süresi içerisinde 
+alıcısına teslim edilmemesi,
+b) Bu prosedürün 6.38 inci maddesi gereğince iletiminin durdurulması halinde tamamı, tesliminin durdurulması 
+halinde yarısı,
+c) Telgraf alıcısına teslim edildikten sonra yerine getirilmediği anlaşılan özel hizmetler karşılığı olarak alınmış ilave 
+ücret olması.
+6.7.2 Ücret iadesi hakkındaki istekler, herhangi bir PTT iş yerine yapılabilir. Böyle bir talebi alan iş yeri bu hususta 
+gerekli araştırmayı yapmakla yükümlü olup, yapılan araştırma sonucunda iade edilen ücret kusurlularına rücu edilir.
+6.7.3 Ücret iadesi talebinde bulunan göndericilerin, ücretlerini almak üzere PTT iş yerlerine başvurusu 
+sonuçlandıktan sonra bir yıl içerisinde müracaat etmeleri gerekir. Bu süre içerisinde müracaat etmeyenlerin ücretleri 
+iade edilmez.
+6.8 Ücretsiz Telgraflar
+PTT’nin çektiği servis telgrafları ücretsiz olarak kabul edilir.
+6.9 Telgraf Adresi
+6.9.1 Telgraf adresi; telgrafların alıcılarına teslimini sağlamak için posta kodu, il, ilçe, bucak, köy ve mezra ismi, 
+mahalle, bulvar, cadde, sokak ve bina numarası gibi adres verilerini kapsar.
+6.9.2 Göndericiler, adreslerde alıcının isim ve soyadı ile ticaret firmasının ismini herhangi bir dille yazabilirler.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+4/9
+6.10 Telgraf Asıl veya Örneklerinin Verilmesi
+6.10.1 Telgraf asıl veya örnekleri; bu maddenin birinci fıkrasının a, b, c, ç ve d bentlerinde belirtilenlere mahkeme 
+kararı aranmaksızın yazılı istekte bulunmaları halinde gizli bir yazıyla gönderilir;
+a) Gönderici ve alıcılar ile bunlar tarafından verilen vekaletnameye veya yazılı izne sahip olan, noterce tasdikli imza 
+sirküleri veya imza beyannamelerindeki imzayı taşıması ve resmi makamların izninin antetli ve mühürlü kâğıtta, o 
+resmi dairenin evrak çıkış numarasını taşıması koşulu ile gerçek ve tüzel kişilere.
+b) Mahkemeler ile Cumhuriyet Başsavcılıklarına.
+c) Resmi makamların kendilerine çekilen telgrafları almaya yetki verdikleri idari amir ve memurlarına.
+ç) Yetkili makamlarca inceleme ve soruşturma yapmak üzere görevlendirilmiş olanlara.
+d) 6475 sayılı Posta Hizmetleri Kanunu ile ilgili diğer mevzuatın müsaade ettiği kişilere.
+6.10.2 Telgraf asıl veya örneklerini almaya yetkili makam veya şahıslar hakkında şikâyeti içeren telgraflar, 
+kendilerine verilmeyerek şikâyeti incelemeye yetkili makama verilir.
+6.10.3 Yukarıda belirtilen makam, merci ve kişiler tarafından örnek talep edildiğinde ücret alınmaz.
+6.11 Telgraf Alındısı
+Kabul edilen telgraf karşılığında telgraf alındısı düzenlenerek göndericiye verilir/iletilir.
+6.12 Telgraf Türleri
+Telgraf türleri şunlardır.
+a) Resmi telgraf,
+b) Özel telgraf.
+6.13 Resmi Telgraf
+6.13.1 Resmi kuruluşlarca çekilecek telgrafların, antetli ve resmi mühürlü kâğıda yazılmış ve gönderici makamlar 
+tarafından imza edilmiş olması şarttır. Bu şartlardan herhangi birini taşımayan resmi telgraflar kabul edilmez. Resmi 
+telgrafı gişeye veren kişinin bu prosedürün 6.3 üncü maddesinin dördüncü fıkrasına göre kimlik bilgileri alınır.
+6.13.2 Kabulü yapılan resmi telgrafın çıktısı alınmak suretiyle göndericiye kontrol ettirilir ve imzası alınır. Telgraf 
+kopyası, sistem tarafından verilen barkod numarası yazılarak göndericiye verilir.
+6.14 Telgraf Özel Hizmetleri
+6.14.1 Telgraflarda, Acele, BA, BGS, CT ve Postrestant veya PTT iş yeri teslimli özel hizmet işaretleri kullanılır. 
+Bu işaretler telgrafın üst kısmına gönderici veya isteği halinde kabul sırasında gişe personeli tarafından yazılır ve 
+varış PTT iş yerine iletilir.
+a) Acele telgraflar, kabulünden itibaren altı saat içerisinde alıcısına teslim edilir.
+b) Bizzat alıcısına teslim edilecek telgraflar, alıcının kendisine teslim edilir. Bu telgraflar alıcısından başkasına 
+teslim edilmez. Görevlerinin taşıdığı önem ve özellik nedeniyle özel kalem müdürü, sekreter veya yaver gibi özel 
+görevliler aracılığı ile temas edilebilen resmi ve özel kişiler adına yollanacak bizzat alıcısına teslim edilecek özel 
+hizmetli telgraflar, “Alıcının kendisine teslim edilememesi halinde özel görevlilerine verilebilir” şerhi ile kabul 
+edilir.
+c) Belirli gün ve saatte teslimi istenen telgraflar, gönderici tarafından talep edilen gün ve saatte alıcılarına teslim 
+edilir. Talep edilecek teslim saati 20.00-08.00 saatleri arası olamaz. BGS özel hizmetli telgraflar normal veya acele 
+olarak gönderilebilir. BGS özel hizmetli telgraflar, posta abone kutusu, postrestant ve PTT iş yeri teslim adresli 
+olarak kabul edilmez.
+ç) İstisnai dağıtım kapsamına alınan yerlere BGS özel hizmetiyle telgraf kabul edilmez.
+d) BGS özel hizmeti ile kabul edilen telgrafların kabul tarih ve saati ile teslim tarih ve saati arasında en fazla bir ay 
+süre olabilir.
+e) Cevaplı telgraflar, gönderici tarafından alıcının kendisine cevaben çekeceği telgrafın ücretinin ödenmesi 
+hizmetidir. Ücreti alıcıdan alınmak kaydıyla cevaplı telgraf kabul edilmez. Telgraf, adına gönderilmiş olan alıcı 
+tarafından herhangi bir PTT iş yerine üç ay içerisinde ibraz edilerek cevap hakkı kullanılır. Bu süre sonunda cevap 
+hakkı kullanılamaz. Cevap hakkı bir adet telgraf için kullanılır ve herhangi bir hesaplaşma yapılmaz. Alıcı 
+tarafından PTT iş yerine intikal ettirilen cevaplı telgrafın aslı veya fotokopisi PTT iş yerinde saklanır. 
+f) Postrestant veya PTT iş yeri teslimli telgraflar, alıcılarına bu prosedürün 6.35 inci maddesine göre işlem yapılarak 
+PTT iş yerlerinde teslim edilir.
+g) PTT iş yeri teslim özel hizmetli telgraf gönderilmesi için alıcının GSM numarası verilmesi zorunludur. Bu özel 
+hizmete sahip telgraf iş yerince alındığında alıcısına SMS gönderilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+5/9
+6.15 Telgraf Kabulü
+Telgraflar;
+a) PTT iş yeri gişelerinden,
+b) Çağrı Merkezinden,
+c) Fakstel Servisinden,
+ç) İnternet üzerinden kabul edilir.
+6.16 PTT İş Yerinde Telgraf Kabulü
+6.16.1 Gönderici tarafından PTT iş yerinden çekilmek istenen telgraf bu prosedürün 6.1 inci maddesine göre 
+düzenlenir.
+6.16.2 Gönderici tarafından verilen telgraf metni ve diğer bilgilerin sisteme girişi yapılır, bir nüsha çıktı alınarak 
+doğruluğu göndericiye imza karşılığı teyit ettirilir. Teyit edilen metnin sistemden kabulü yapılarak otomatik olarak 
+alınacak iki nüsha alındının, bir nüshası göndericiye verilir/iletilir.
+6.17 Fonotel Kabulü
+6.17.1 Telgraf ücreti telefon şirketlerince ödenmek üzere anlaşma sağlanan telefon aboneleri kendi telefonlarından 
+PTT çağrı merkezini arayarak telgraflarını yazdırabilirler.
+6.17.2 Telgraf yazdıracak telefon aboneleri çağrı merkezini arayarak çağrı bırakır. Görevli personel tarafından 
+abonenin telefon numarası alınır ve teyit edilir. Sistem üzerinden telgrafın kabul işlemi yapılıp iletimi sağlanır.
+6.17.3 PTT Çağrı merkezince alınan telgraflar gişelerce kabul edilmiş telgraflar gibi varış yerlerine sistem üzerinden 
+iletilir.
+6.17.4 Fonotel olarak çekilen telgrafların bir nüshası ile alındısı, herhangi bir PTT iş yerine gönderici tarafından 
+yapılacak başvuru üzerine kimlik tespiti yapılarak imza karşılığı verilir/iletilir.
+6.18 Fakstel Kabulü
+6.18.1 Faks cihazı bulunan telefon aboneleri tarafından ücreti telefon faturasıyla tahsil edilmek ve PTT iş yerinde 
+bulunan faksa iletilmek suretiyle ve telefon numarası teyit edildikten ve kabulü yapılacak telgrafın gönderici faksına 
+iletilip iletilmeyeceğine yönelik talebe uygun olarak kabulü yapılır.
+6.18.2 Faks cihazı bulunan telefon aboneleri tarafından talep edilmesi halinde; kabulü yapılan telgrafın bir nüshası 
+ile alındısı gönderici faksına iletilir. Göndericinin herhangi bir PTT iş yerine başvurması halinde telgrafın bir 
+nüshası ile alındı, kimlik tespiti yapılarak imza karşılığı da verilir/iletilir.
+6.18.3 Fakstel hizmeti verilecek iş yerleri Merkez Teşkilatınca belirlenir.
+6.18.4 Bu prosedür 6.4 üncü maddesi uyarınca ihtirazi kayıtla kabul edilecek telgraflarda, gönderici adı soyadı ve 
+telefon numarası teyit edildikten sonra gönderici gecikme ihtimali konusunda bilgilendirilir ve “telgrafın ihtirazi 
+kayıtla gönderilmesini kabul ediyorum, gecikmeden PTT İdaresi sorumlu değildir” ibaresinin bulunduğu ikinci 
+fakstel dokümanı talep edilir. Göndericiden ikinci fakstel dokümanı alındıktan sonra telgraf ihtirazi kayıtla kabul 
+edilir.
+6.19 İnternet Üzerinden Telgraf Kabulü ve Abonelik İşlemleri
+6.19.1 E-Telgraf göndermek isteyen kullanıcılar, e-telgraf aboneleri ve e-devlet ekranından şifreleri ile giriş yapan 
+müşterilere ait telgraflar PTT internet adresinin e-telgraf menüsünde açılan sayfaya gerekli bilgilerin girilmesi 
+suretiyle sistem üzerinden kabul edilir.
+6.19.2 E-Telgraf abonesi olmak isteyenler PTT iş yerlerine müracaat ederek PTT PKO.FR02 E-Telgraf Abonelik 
+Sözleşmesi imzalar. Abonelik sözleşmesinde; abonenin kimlik ve iletişim bilgileri, tarafların karşılıklı hak ve 
+yükümlülükleri ile sözleşmenin konusu ve süresi yer alır.
+6.19.3 E-Telgraf abonelerince gönderilen telgrafların ücreti posta çeki hesabı veya bankalar tarafından ihraç edilen 
+banka kartları, kredi kartları veya ilgili kanunlarca izin verilen ya da verilecek diğer ödeme araçları ile tahsil edilir. 
+Diğer internet kullanıcıları tarafından gönderilen telgrafların ücretleri ise bankalar tarafından ihraç edilen banka 
+kartları, kredi kartları veya ilgili kanunlarca izin verilen ya da verilecek diğer ödeme araçları ve anlaşmalı şirketlerin 
+telefon faturaları ile tahsil edilir.
+6.19.4 E-Telgraf abonesi olanlar ile e-devlet üzerinden giriş yapanların kimlik tespitleri mevcut olduğundan her 
+türlü telgrafı kabul edilir.
+6.19.5 İnternet üzerinden sabit telefon faturasına ücret yansıtılarak telgraf gönderim işlemlerinde, fakstel ve fonotel 
+yöntemiyle kabulde olduğu gibi geri arama yapılarak gönderici, telefon numarası ve telgraf bilgilerine ilişkin özel 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+6/9
+hizmet işareti, alıcı adresi, metin kabul ve onay müdürlüğünce teyit edilir, teyit alındıktan sonra telgraf onaylanır ve 
+varış müdürlüğüne iletilir.
+6.19.6 Adreslerine göre, belirli bir tarihte yapılan toplantı, açılış, tören, düğün, nişan vb. etkinlikler için normal 
+telgraf şeklinde gönderildiği tespit edilen telgraflar, BGS özel hizmeti ile kabul edilmesi uygun olacağından müşteri 
+memnuniyeti açısından göndericisi ile görüşülerek, telgrafın BGS özel hizmeti ile gönderilmesi önerilir; kabul 
+edilmesi halinde BGS özel hizmeti ile kabul edilir, kabul edilmemesi halinde ise telgraf yazıldığı şekilde kabul 
+edilir.
+6.20 Fonotel, Fakstel ve E-Telgraf Olarak Kabul Edilmeyecek Telgraflar
+Avukatlar tarafından fonotel ve fakstel olarak mahkemelere çekilen mazeret beyanı ile ilgili telgraflar hariç olmak 
+üzere; gerçek ve tüzel kişilerce resmi makamlara çekilecek dilekçe mahiyetindeki telgraflar, bu prosedürün 6.2 ve 
+6.3 üncü maddeleri uyarınca kimlik tespiti gerektiren telgraflar, resmi telgraflar, fonotel, fakstel ve e-telgraf olarak 
+kabul edilmez.
+6.21 PTT İş Yerlerinin Çalışma Süreleri
+PTT iş yerlerinin çalışma süreleri internet sitesinde yayınlanır.
+6.22 Telgrafların İletimi
+Telgraflar; PTT iş yerlerinden, PTT çağrı merkezinden (fonotel) ve fakstel servisinden veya PTT internet adresinden 
+kabul edilerek sistem aracılığı ile varış PTT iş yerine iletilir.
+6.23 İletimden Sonra İptal Edilen Telgraflar
+6.23.1 Kabul edilmiş telgraflar varış yerine iletilmiş olsa dahi, gönderici veya yetkili temsilcisi tarafından iptali 
+istenebilir. İptali istenilen telgrafların ücreti iade edilmez.
+6.23.2 İptali istenen telgrafın alıcısına teslimi servis telgrafı ile durdurulur.
+6.23.3 Alıcısına teslim edilen telgrafın iptali yapılmaz.
+6.24 Telgraflara Varış PTT İş Yerinde Uygulanacak İşlemler ve Alıcılarına Teslimi
+6.24.1 Varış PTT iş yerlerince alınan telgraf doküman haline getirilir, katlanır ve her biri cihet listesine eklenir ve 
+üzerlerine tarih damgası basılır.
+6.24.2 Varış PTT iş yerince alınan telgraf cihet listesine kayıt edilir ve teslim eden personel ile teslim alan dağıtım 
+personeli veya dağıtım servisi ilgili personelinin adı, soyadı, sicili, imzası, tarih ve saat dakika bilgileri de bu listeye 
+kayıt edilerek ilgilisine zimmet edilir.
+6.24.3 Telgraflar, alıcısının adı, soyadı ile teslim tarihi ve saati teslim belgesine yazılıp imza ettirildikten sonra 
+kapalı olarak teslim edilir. Telgraf başkasına okutturulmaz. Teslimi yapan postacı tarafından alıcının kimlik tespiti 
+yapılarak teslim edilir. Kimlik tespitine ilişkin bilgiler teslim belgesine yazılır.
+6.24.4 Alıcı teslim aldığı telgrafı iade edemez. Ancak, yanlışlıkla alıcısından başkasına teslim edilmiş olan telgrafın 
+arkasına iade tarihi ve nedeni yazılarak iade edenin imzası alınır. İade eden imza etmekten kaçınırsa postacı 
+tarafından durum şerh edilir ve telgraf iş yerine geri getirilir.
+6.24.5 Telgraf dokümanının varış PTT iş yerinde bekletilme süresi, haber verildiği tarihin ertesi gününden başlamak 
+üzere (3) üç iş günüdür.
+6.25 Telgrafların Teslim Sırası
+6.25.1 Telgraflar alınış tarih/saatine ve özel hizmet türüne göre teslim edilir. Acele telgraflar öncelikle teslim edilir.
+6.25.2 BGS özel hizmetli telgraflar, göndericinin talep ettiği tarih ve saatte teslim edilir.
+6.26 Umuma Açık Yer Adresli Telgrafların Teslimi
+6.26.1 Telgraflar; düğün, nişan, toplantı, açılış töreni, panel, festival, sempozyum gibi etkinliklerde bizzat alıcısına 
+tesliminin mümkün olmadığı hallerde, alıcının birinci derecede yakınına, özel kalem müdürüne, sekreterine, 
+etkinliği düzenleyen yetkiliye kimlik tespiti yapılarak teslim edilir.
+6.26.2 Resmi kurumlar, okul, fabrika, tiyatro, kahvehane, misafirhane, gazino ve lokanta gibi umuma açık yer 
+adresli telgraflar, buraların sahip, yetkili personel ve hizmetlilerine teslim edilir.
+6.26.3 Bu maddenin ikinci fıkrasında yer alan resmi kurum, okul, fabrika gibi yerlerin telgraflarını almak üzere 
+yetkili kıldıkları kişi veya kişilerin açık adresleri ve görevleri ile yetkilinin imza örneğini içeren yazılı müracaatları 
+bulunması halinde, buralara gelecek telgraflar yetkili kılınanlar haricinde kimseye teslim edilemez.
+6.27 Toplu Konaklama Yer Adresli Telgrafların Teslimi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+7/9
+6.27.1 Otel, motel gibi yerlerde konaklayanlar adına gelen telgraflar, alıcılarının orada kalmasına rağmen dağıtım 
+sırasında bulunmadığının tespit edilmesi halinde, müdür veya resepsiyondaki görevliye teslim belgesine imza 
+alınmak suretiyle teslim edilir.
+6.27.2 Alıcının söz konusu yerlerde kalmadığı ancak adres olarak bu yerleri gösterdiği anlaşılanların telgrafları, 
+haber kâğıdı bırakılarak PTT iş yerine bırakılır.
+6.28 Tutuklu ve Hükümlüler Adına Gelen Telgrafların Teslimi
+Tutuklu veya hükümlüler adına gelen telgraflar, cezaevi yönetimlerince temin edilmeleri halinde tutuklu veya 
+hükümlülere, temin edilememeleri veya yazılı olarak mutemet veya yetkililere tesliminin istenmesi halinde 
+mutemetlere teslim belgesine imza alınmak sureti ile teslim edilir.
+6.29 Askeri Birlik Adresli Telgrafların Teslimi
+PTT iş yerinin dağıtım sahası içinde bulunan askeri okul ve birliklerle buradaki subay, astsubay, er, erbaş ve diğer 
+şahıslar adına gelen telgraflar temin edilmeleri veya müracaatları halinde kendilerine, temin edilememeleri veya 
+yazılı olarak mutemet veya yetkililere tesliminin istenmesi halinde bu kişilere teslim edilir.
+6.30 Velayet ve Vesayet Altında Bulunanlar, Ölenler İle İflas Edenler Adına Gelen Telgrafların Teslimi
+Velayet ve vesayet altında bulunanlar ile ölenler ve iflas edenler adına gelen telgraflar, ilgili mercilerce yetkili 
+kılınan kişilere teslim edilir.
+6.31 Alıcının Adresinde Bulunmaması Halinde Telgraflara Yapılacak İşlem
+6.31.1 Alıcı adresinde bulunmadığı takdirde, telgraf kendisi ile aynı konutta oturan kişilerden veya hizmetçilerden 
+birine teslim edilir.
+6.31.2 İş yeri adresli telgraflardan Bizzat Alıcısına teslim özel hizmetli telgrafların dışındaki telgraflar, alıcının 
+sekreterine, özel kalem müdürüne, müdürüne, amirine veya iş yeri arkadaşına teslim edilir.
+6.31.3 Alıcı yazı ile müracaat ederek telgraflarını almaya yetkili birini göstermiş ise telgraf bu kişiden başkasına 
+teslim edilemez.
+6.32 Alıcısı Tarafından Kabul Edilmeyen Telgraflar
+Telgrafın alıcısı tarafından kabul edilmemesi halinde, telgraf açılmadan arkasına “kabul etmiyorum” diye yazılarak 
+alıcısı tarafından imzalanır. Alıcı imzadan imtina ederse, postacı tarafından telgrafın arkasına “kabul edilmemiş ve 
+imzadan imtina edilmiştir” notu yazılarak imzalanır.
+6.33 Alıcı Adresinde Telgrafı Teslim Alacak Kimsenin Bulunmaması
+6.33.1 Alıcının adresinde telgrafı teslim edecek kimse bulunmadığı takdirde alıcı adresine haber kâğıdı bırakılarak 
+telgraf PTT iş yerine bırakılır.
+6.33.2 PTT İş yerince, teslim edilemeyen telgraflarla ilgili teslim edilememe gerekçesi sisteme girilir.
+6.33.3 Alıcısına teslim edilemeyen ve haber kâğıdı bırakılarak PTT iş yerine geri getirilen telgrafların PTT iş 
+yerinde bekleme süresi alıcıya haber verildiği tarihin ertesi gününden başlamak üzere (3) üç iş günüdür. Bu süre 
+içerisinde alıcının PTT iş yerine müracaatı halinde gönderi alıcıya teslim edilir. Üç iş gününün sonunda telgraf 
+alıcısına teslim edilemezse PTT iş yerince, sisteme “Teslim Edilmedi/BMB/Dağıtım İptal” bilgisi girilir. Telgraf 
+ücreti göndericisine herhangi bir nedenle iade edilmiş (iptal edilen telgraflar hariç) ise alıcıdan ücreti alınmak 
+suretiyle teslim edilebilir. 
+6.34 Adreslerini Değiştiren Alıcılar
+Resmi kurumların adresleri değişmiş ve biliniyorsa bu kurumlar adına gelen telgraflar yeni adreslerinde teslim edilir. 
+Adresi tespit edilemeyen telgraflar hakkında 6.33 üncü maddenin 2 nci fıkrasına göre işlem yapılır.
+6.35 Postrestant veya PTT İş Yeri Teslimli Telgraflar
+6.35.1 Postrestant veya PTT iş yeri teslimli telgraflarda, alıcının adı ve soyadı ile PTT iş yerinin adının açık olarak 
+gösterilmesi zorunludur. Alıcının adı ve soyadı ile PTT iş yerinin adının açık olarak yazılı olmayan telgraflar kabul 
+edilmez.
+6.35.2 Postrestant veya PTT iş yeri teslimli telgraflar, kimlik tespiti yapılarak alıcıya veya yetkili temsilcisine teslim 
+edilir.
+6.35.3 Alıcıları tarafından geldiği tarihi izleyen günden itibaren üç iş günü içerisinde alınmayan yurt içi telgraflar 
+için “Teslim Edilmedi/BMB/Dağıtım İptal” bilgisi girilir.
+6.36 Posta Abone Kutusu Adresli Telgraflar
+6.36.1 Adı, soyadı ve posta abone kutusu adresi yazılı olarak gelen telgraflara haber kâğıdı düzenlenerek posta 
+kutularına atılır. Adı ve soyadı yazılı bulunmayan posta abone kutusu adresli telgraflar iptal edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+8/9
+6.36.2 Telgraf, haber kâğıdı ile müracaat eden alıcıya teslim edilir.
+6.36.3 Haber kâğıdının bırakıldığı tarihi izleyen günden itibaren 3 (üç) iş günü içinde alınmayan yurt içi telgraflar 
+için “Teslim Edilmedi/BMB/Dağıtım İptal” bilgisi girilir.
+6.37 Tatil Günlerinde Kapalı Olan Adreslere Gelen Telgraflar
+Tatil günleri kapalı bulunan adreslere gelen telgraflar, adreslerine götürülerek varsa nöbetçi memur veya bu 
+prosedürün kapsamında teslim edilebilecek kişilere teslim edilir. Böyle bir görevli yoksa haber kâğıdı bırakılır.
+6.38 İletimi ve Teslimi Durdurulan Telgraflar
+6.38.1 Suçun delillerini oluşturduğundan şüphe edilen ve gerçeğin ortaya çıkarılması için soruşturma ve 
+kovuşturmada adliyenin eli altında olması zorunlu sayılıp, hâkimin veya gecikmesinde sakınca bulunan hallerde 
+Cumhuriyet savcısının kararı ile 5271 sayılı Ceza Muhakemesi Kanununun 129 uncu maddesi uyarınca el konulan 
+telgrafların iletimi durdurulur.
+6.38.2 Hâkim tarafından, telgrafların iletiminin durdurulması yönünde verilen bir kararın PTT iş yerlerine 
+bildirildiği veya Cumhuriyet savcılığı tarafından böyle bir müracaat yapıldığı takdirde, istenilen telgraf iletilmeden 
+veya alıcısına teslim edilmeden derhal mahkemeye veya Cumhuriyet savcılığına gönderilir.
+6.38.3 Mahkeme veya Cumhuriyet savcısı tarafından iletimi ve teslimi durdurulmak istenen telgraflar istekten önce 
+iletilmiş ise, varış PTT iş yeri derhal durumdan haberdar edilerek telgrafın tesliminin durdurulması ve isteği yapan 
+mahkemeye veya Cumhuriyet savcılığına teslim edilmek üzere iptali istenir. Ancak telgraf alıcısına teslim edilmiş 
+ise mahkeme veya Cumhuriyet savcılığına bilgi verilir.
+6.38.4 Mahkemece veya Cumhuriyet savcılığınca iadesine karar verilen telgraflar derhal ilgililerine teslim edilir.
+6.38.5 İletimi durdurulan telgrafların ücretleri, ancak iletimi durduran makamın yazılı izni alındıktan sonra 
+göndericilerine iade edilir. İletimi durduran makam, ücretin hemen iadesinde bir sakınca gördüğü takdirde bunun 
+ortadan kalktığı bildirilinceye kadar ücret iade edilmez.
+6.39 Evrensel Yerleşim Birimi Varışlı Telgrafların Dağıtım ve Teslimi
+İhtirazi kayıtla kabul edilmiş veya evrensel yerleşim birimi varışlı olmasına rağmen BGS olarak sehven kabul 
+edilmiş telgraflar haftalık sefer programına göre ilk dağıtım gününde alıcısına teslim edilir.
+6.40 Yurt Dışına Gönderilen ve Yurt Dışından Alınan Telgraflar
+Yurt dışı telgrafların alıp verme merkezi İstanbul Telgraf Şefliğidir. Yurt dışına gönderilen ve yurt dışından kabul 
+edilen telgrafların tüm işlemleri Telgraf Otomasyon Sistemi üzerinden yapılır.
+6.41 Genel Hükümlerin Uygulanması ve Sorumluluk
+6.41.1Telgrafların geciktirilmesinde, değiştirilmesinde veya kayıp edilmesinde kusuru bulunan personel hakkında 
+ilgili mevzuatta öngörülen disiplin işlemi uygulanmakla birlikte, fiillerinin suç veya kabahat teşkil etmesi halinde 
+ilgili Kanunlar uyarınca ayrıca işlem yapılır. PTT AŞ, hizmet kusuru nedeniyle herhangi bir tazminat ödemesi veya 
+ücret iadesinde bulunması halinde bunu kusurluya rücu eder.
+6.41.2 Bu prosedürde hüküm bulunmayan hususlarda diğer prosedür ve talimatlarda belirtilen hükümlere göre işlem 
+yapılır.
+7. ONAY
+Bu Prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+8.1 Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+8.2 Bu prosedür yayımlandığında PKH.PR06 Telgraf Hizmetleri İşletme Prosedürü yürürlükten kalkar.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+CBK.002-4 sayılı Cumhurbaşkanlığı Kararnamesi
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.044-406 sayılı Telgraf ve Telefon Kanunu
+KN.065-5271 sayılı Ceza Muhakemesi Kanunu
+KR.002-Evrensel Posta Birliği Konvansiyon Kararları
+PKO.FR02-E-Telgraf Abonelik Sözleşmesi
+PKO.FR30-Haber Kâğıdı
+PKO.PR01-Posta ve Kargo Hizmetleri İşletme Prosedürü
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Telgraf Hizmetleri İşletme Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR04
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+9/9
+YNT.050-Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği
+YNT.067-Posta Hizmetlerinin Sunulmasına İlişkin Yönetmelik
+YNT.068-Bilgi Teknolojileri ve İletişim Kurumu Posta Sektöründe İdari Yaptırımlar Yönetmeliği
+YNT.078-Evrensel Posta Hizmetleri Yönetmeliği
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+0 1.01.2026 Yeni Doküman 
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
