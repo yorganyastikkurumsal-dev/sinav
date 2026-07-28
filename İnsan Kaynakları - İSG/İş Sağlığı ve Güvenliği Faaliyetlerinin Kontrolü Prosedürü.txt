@@ -1,0 +1,422 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+İNSAN KAYNAKLARI 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+1/8
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nin iş sağlığı ve güvenliği risklerinin yönetilmesi, 
+uygunluk yükümlülüklerinin yerine getirilmesi, iş kazalarının önlenmesi, uygunsuzlukların giderilmesi, kontrol 
+faaliyetlerini tespit etmek için usul ve esaslarla, yetki ve sorumlulukları belirlemektir. 
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketine ait tüm iş yerleri için belirlenmiş tehlikelerle ilgili iş 
+sağlığı ve güvenliği risklerinin yönetilmesi, kontrol tedbirlerinin uygulanması için gereken tüm faaliyetleri 
+kapsamaktadır.
+3. DAYANAK 
+Bu prosedür; 6331 sayılı İş Sağlığı ve Güvenliği Kanunu 4. Madde 1. fıkrasının (b) bendinde yer alan “İşveren iş 
+yerinde alınan iş sağlığı ve güvenliği tedbirlerine uyulup uyulmadığını izler, denetler ve uygunsuzlukların 
+giderilmesini sağlar.” ifadesine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1  Birim: Kurul/Komite, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve 
+Başmüdürlüklerdir.
+4.2 Birim Üst Yönetici: Merkez Teşkilatında Kurul/Komite Başkanını, Başkanı, 1. Hukuk Müşavirini, Daire 
+Başkanını, Birim Sorumlusunu ve Özel Kalem Müdürünü; Taşra Teşkilatında ise Başmüdürü ifade eder. 
+4.3 Birim Yöneticisi: Merkez Teşkilatında Şube/Teknik Müdürleri, Taşra Teşkilatında ise Teknik Müdürleri/ 
+Müdürleri (İhtisas) ve PTT Müdürlerini ifade eder.
+4.4 Düzeltici Faaliyet (DF): Saptanan bir uygunsuzluğun sebebini yok etmek için yapılan faaliyeti ifade eder.
+4.5 Exproof: Yangın ve benzeri afetler karşında patlamaya karşı korunaklı üretilen ürünleri ifade eder.
+4.6İhtisas Müdürlükleri / Teknik Müdürlükler: Taşra Teşkilatında PTT Müdürlükleri (PDM, PİM, KİM, PTT 
+Müdürlükleri vb.) dışında kalan başmüdürlüklere bağlı müdürlükleri ifade eder.
+4.7İSG Kurulu: Taşra Teşkilatında iş sağlığı ve güvenliği ile ilgili iş ve işlemleri yürütmek için kurulan iş sağlığı 
+ve güvenliği kurulunu ifade eder.
+4.8İSG Üst Kurulu: Merkez Teşkilatında iş sağlığı ve güvenliği ile ilgili iş ve işlemleri yürütmek için kurulan iş 
+sağlığı ve güvenliği kurulu İSG Üst Kurulunu ifade eder.
+4.9İSG Profesyonelleri: İş Yeri Hekimi ve İş Güvenliği Uzmanını ifade eder. 
+4.10 KKD: Kişisel Koruyucu Donanımı ifade eder.
+4.11 Malzeme Güvenlik Bilgi Formu (MSDS): Kimyasalların kullanım ve depolanma süresinde meydana 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+2/8
+gelebilecek çalışan sağlığı iş güvenliği risklerini yok etmek, en aza indirgemek çalışmaların en önemli parçasını 
+oluşturan ve kullanıcıyı doğru ve yeterli düzeyde bilgilendirmeyi hedefleyen, ilgili kimyasal maddelerin tehlike ve 
+riskleri ile diğer bilgileri içeren dokümanı ifade eder.
+4.12  Mesleki Yeterlilik Belgesi (MYB): Mesleki Yeterlilik Kurumu tarafından ilgili ulusal yeterlilikte 
+yetkilendirilmiş belgelendirme kuruluşlarından alınan belgeyi ifade eder. 
+4.13  Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini ifade eder.
+4.14  Yüklenici Firma (Alt İşveren): PTT AŞ adına bir işi üstlenen firmayı ifade eder.
+5. SORUMLULUKLAR
+5.1  Bu prosedürün her aşamada, uygulanması ve sürekliliği için desteği vermekten işveren ve işveren vekili, bu 
+prosedürde anlatılan tüm faaliyetlerin uygulanması, yürütülmesi ve sürekliliğinin sağlanmasından iş yeri birim üst 
+yönetici, İSG profesyonelleri, tüm çalışanlar, yüklenici firma ve çalışanları sorumludur. 
+5.2PTT AŞ’nin tüm çalışanları (alt işveren çalışanları dâhil) bu prosedüre uymakla yükümlüdür.
+6. UYGULAMA
+6.1  Genel Uygulamalar
+6.1.1  İSG Çalışmaları; İş Sağlığı ve Güvenliği Talimatları, Form ve Tutanakları ile Acil Durum Eylem Planı, 
+EYS.PR20 EYS Risk ve Fırsatların Yönetimi Prosedürü ile etkileşimli ve entegre şekilde uygulanır.
+6.1.2Tüm iş yerlerimiz için EYS.PR20 EYS Risk ve Fırsatların Yönetimi Prosedürüne göre ayrı ayrı risk 
+değerlendirmesi yapılır.
+6.1.3İş Sağlığı ve Güvenliğine etki edebilecek tehlikeler ve riskler EYS.PR20 EYS Risk ve Fırsatların Yönetimi 
+Prosedürüne göre belirlenerek, tehlikeler ve riskler ile ilgili önleyici tedbirler alınır.
+6.1.4PTT AŞ’nin EYS Politikası kapsamında iş sağlığı ve güvenliği yönetim sistemi ile ilgili amaç ve hedefleri 
+EYS.PR03 EYS Amaç Hedef Program Yönetim Prosedürüne göre belirlenir, izlenir ve sonuçları değerlendirilir. 
+6.1.5İş Sağlığı ve Güvenliği ile ilgili uygunluk yükümlülüklerinin yerine getirilme durumu EYS.PR10 Yasal ve 
+Diğer Şartların Yönetimi ve Uygunluk Değerlendirme Prosedürüne göre takip edilir.
+6.2 Saha Kontrolleri
+6.2.1İSG profesyonelleri veya Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve Güvenliği 
+Şube Müdürlüğü Personeli, Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/İnsan Kaynakları Şefliği Personeli, 
+birimlerde haberli/habersiz denetimler gerçekleştirerek, tespit edilen uygunsuzluklar ve öneriler, EYS yazılımına 
+kaydedilir. Kaydedilen öneri ve uygunsuzluklara EYS Yazılımı üzerinden Düzeltici Faaliyet ve/veya aksiyon 
+başlatılır.
+6.2.2EYS yazılımına kaydedilen öneri ve tespitler ilgili birim yöneticisine iletilir.
+6.2.3Tespit edilen uygunsuzluklar EYS.PR02 Düzeltici Faaliyet Prosedürüne göre takip edilir.
+6.2.4İSG Profesyonelleri ve birim sorumluları çalışma sırasındaki tüm emniyet tedbirlerinin alınmasını sağlar. 
+Görevli tüm çalışanların (Şirket personeli ve alt işveren çalışanları) belirlenen İSG kurallarına tam ve eksiksiz olarak 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+3/8
+uymaları zorunludur. İSG kurallarına uymayan Şirket personeline İKD.PR05 PTT AŞ Disiplin Amirleri ve Disiplin 
+Kurullarına İlişkin Prosedürüne göre faaliyet başlatılır. Alt işveren çalışanlarına sözleşme yükümlülükleri gereğince 
+işlem yapılır.
+6.3 Katılım
+6.3.1Üst yönetim tarafından İSG faaliyetlerinin gözden geçirilmesi ve gerekli aksiyonların belirlenmesi için 
+İKD.PR19 İSG Kurulları İşleyiş Prosedürüne göre 3 ayda bir İSG Kurul Toplantısı yapılır.
+6.3.2İSG Üst Kurul/İSG Kurul toplantısı salgın hastalık, deprem, sel, terör tehdidi, radyasyon, nükleer sızıntı 
+veya siber saldırı gibi olağanüstü şartlarda bilgi ve iletişim teknolojileri kullanılarak İSG Kurul Üyeleri ile uzaktan 
+gerçekleştirilebilir.
+6.3.3İSG Kurulunda alınan karar Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve Güvenliği 
+Şube Müdürlüğü, Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/Şefliği tarafından takip edilir ve alınan kararlar 
+çalışanlara ve ilgili taraflara duyurulur.
+6.3.4Alınan kararlarla ilgili EYS Yazılımında aksiyon başlatılır. Tespit edilen uygunsuzluklar EYS.PR02 Düzeltici 
+Faaliyet Prosedürüne göre takip edilir.
+6.4 Acil Durumlar
+6.4.1 Merkez Teşkilatında Destek Hizmetleri ve Ulaşım Daire Başkanlığı, Taşra Teşkilatında Destek Hizmetleri ve 
+Ulaşım Müdürlükleri/ İdari ve Mali Birimler Müdürlükleri birimlerde Acil Durum Ekip Listeleri oluşturulur. Bu 
+listeler yılda en az bir defa Acil Durum Eylem Planına uygun olarak Merkez Teşkilatında Destek Hizmetleri ve 
+Ulaşım Daire Başkanlığı, Taşra Teşkilatında, Destek Hizmetleri ve Ulaşım Müdürlükleri / İdari ve Mali Birimler 
+Müdürlükleri tarafından kontrol edilir ve düzenlenir.
+6.4.2 Gerekli sayıdaki personelin bulunmaması ve ekiplerin oluşturulamaması durumunda, birimlerde belirlenen 
+kişiler, Merkez Teşkilatında Destek Hizmetleri ve Ulaşım Daire Başkanlığı, Taşra Teşkilatında Destek Hizmetleri ve 
+Ulaşım Müdürlükleri / İdari ve Mali Birimler Müdürlüklerince yetkili kuruluşlara gönderilerek EGT.PR01 Eğitim 
+Prosedürüne göre eğitim almaları sağlanır.
+6.5 Kaza ve Olay Araştırma
+6.5.1Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve Güvenliği Şube Müdürlüğü, Taşra 
+Teşkilatında İnsan Kaynakları Müdürlüğü/ İnsan Kaynakları Şefliği tarafından, birimlerdeki iş kazaları İKD.PR18 
+Kaza ve Olay Araştırma Prosedürüne göre değerlendirilir. İSG kurallarına uymayan kişiler varsa işverene raporla 
+bildirilir. Çalışana İKD.PR05 PTT AŞ Disiplin Amirleri ve Disiplin Kurullarına İlişkin Prosedürüne göre işlem 
+yapılır. EYS yazılımında iş kazası bildirim formu doldurulur, iş kazalarından sonra gerek görülmesi halinde iş kazası 
+geçiren kişiye plan dışı eğitimlerle İSG bilincinin artırılması, iş kazalarını önlemek ve azaltmak amacıyla EGT.PR01 
+Eğitim Prosedürüne göre eğitim verilmesi sağlanır. 
+6.5.2Çalışma alanlarında yaşanan tüm ramak kala olaylar İKD.PR18 Kaza ve Olay Araştırma Prosedürüne göre 
+birim yöneticileri ve/veya çalışan tarafından EYS Yazılımına kaydedilir.
+6.6Sağlık
+6.6.1Mevzuat gereği meslek hastalıklarını ve bulaşıcı hastalık riskini önlemek için tüm çalışanların periyodik 
+sağlık taramaları iş yeri tehlike sınıfına göre belirli periyotlarda yaptırılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+4/8
+6.6.2İş Yeri Hekimi yaptığı sağlık muayenelerini İşe Giriş ve Periyodik Muayene Formu ile kayıt altına alır ve 
+kontrol ederek muhafaza eder. İş Yeri Hekimi İşe Giriş ve Periyodik Muayene Formunun personelin işten ayrılması, 
+görev değişikliği olması durumunda İnsan Kaynakları Birimine teslim ederek İSG Dosyasına konularak muhafaza 
+edilmesini sağlar.
+6.6.3İş kazası meydana gelmesi halinde, ilk yardım gerektiren durumlarda ilkyardım eğitimi almış personel 
+tarafından acil olarak müdahale edilir.
+6.6.4Sağlık konusunda iş yeri hekimi tarafından yapılacak izleme ve değerlendirmeler sonucunda tespit edilen 
+durumlar İşverene yazılı olarak bildirilir. Gerekli aksiyonların alınması durumu İSG Profesyonellerince ve/veya 
+İnsan Kaynakları Müdürlük/ Şefliğince takip edilir. 
+6.6.5Tüm çalışanların sözleşmelerinde İSG konularındaki sorumluluklarını içeren bilgiler yer alır ve özlük 
+dosyalarında saklanır.
+6.7İSG Performans Değerlendirme
+İşveren tarafından tehlike tanımlaması ve risk analizi yapılır/yaptırılır. Şirket tarafından tüm tehlikeler için 
+belirlenen kontrol tedbirleri birim sorumluları tarafından aldırılır. Çalışanlar belirlenen kurallara ve alınan 
+önlemlere uymak zorundadır.
+6.8Eğitim
+6.8.1Yeni işe başlayan personele EGT.PR01 Eğitim Prosedürüne ve EGT.TL02 İşbaşı Eğitim Uygulama 
+Talimatına göre İSG eğitimi verilir. 
+6.8.2EGT.PR01 Eğitim Prosedürüne göre Eğitim Daire Başkanlığınca hazırlanan EGT.TB02 Şirket içi Eğitim Plan 
+Tablosuna İSG ile ilgili eğitimler eklenir ve bu plan dâhilinde eğitimler verilir. 
+6.8.3İş kazası geçiren çalışana işe dönüşünde çalışmaya başlamadan önce, kazanın sebepleri, korunma yolları ve 
+güvenli çalışma yöntemleri ile ilgili İSG Profesyonellerince ilave eğitim verilir.
+6.8.4İSG bilincinin geliştirilmesi amacıyla eğitim planı dışında da eğitimler verilebilir.
+6.8.5Tüm eğitimler imza karşılığı kayıt altına alınır ve düzenlenen sertifikalar çalışanların özlük dosyasında (İSG 
+Dosyası) saklanır.
+6.9Kişisel Koruyucu Donanım (KKD)
+6.9.1Kullanılacak tüm KKD’ler, İSG Profesyonelleri ve/veya Merkez Teşkilatında İnsan Kaynakları Daire 
+Başkanlığı İş Sağlığı ve Güvenliği Şube Müdürlüğü, Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/ İnsan 
+Kaynakları Şefliği tarafından mevzuata uygun olarak belirlenir. 
+6.9.2Kişisel koruyucu donanımlarının uygunluğu ilgili mevzuatına göre kontrol edilir. Kişisel koruyucu 
+donanımla ilgili süreç İKD.TL08 Kişisel Koruyucu Donanım Kullanım Talimatı ile yönetilir.  
+6.9.3Kişisel koruyucu donanımların kullanımı ve bakımından KKD zimmetlenen çalışanlar sorumludur.
+6.9.4Çalışanlara verilen KKD’lerin kullanılmaması veya amacı dışında kullanılması durumunda, çalışanlar idari 
+amiri tarafından önce sözlü sonra yazılı olarak uyarılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+5/8
+6.10 Emniyet İşaretleri
+6.10.1İSG Profesyonelleri ve/veya Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve 
+Güvenliği Şube Müdürlüğü Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/Şefliği tarafından uyarı ve ikaz 
+levhaları İKD.RH01 Sağlık ve Güvenlik İşaretleri Rehberine göre belirlenir. Bu uyarı ve ikaz levhaları Merkez 
+Teşkilatında Yapı Daire Başkanlığı, Taşra Teşkilatında ise Yapı İşleri/Yapı ve Teknoloji/İşletme Müdürlükleri 
+tarafından konumlandırılır.
+6.10.2İSG profesyonelleri ve/veya Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve Güvenliği 
+Şube Müdürlüğü, Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/İnsan Kaynakları Şefliği personeli birimlerde 
+haberli/habersiz yapılacak denetimlerde uyarı ve ikaz levhalarının varlığı ile işlevselliğini düzenli olarak kontrol 
+eder.
+6.10.3Uyarı ve ikaz levhaları ile ilgili denetimlerde uygunsuzluk tespit edilmesi durumunda EYS.PR02 Düzeltici 
+Faaliyet Prosedürüne göre faaliyet başlatılır.
+6.11  Makine ve Ekipmanlar
+6.11.1Birim Yöneticileri çalışma alanlarında bulunan iş makinesi ve ekipmanlarının yetkin ve o konuda 
+eğitimli personel tarafından kullanımını sağlar.
+6.11.2Makine ve ekipmanların periyodik muayeneleri YAP.PR01 Yapı İşlerinde Bakım Onarım Prosedürü ve 
+Yıllık Periyodik Bakım Planına göre Merkez Teşkilatında Yapı Daire Başkanlığı, Taşrada Yapı İşleri/Yapı ve 
+Teknoloji/İşletme Müdürlükleri tarafından düzenli olarak yaptırılır söz konusu faaliyetin yapılıp yapılmadığının 
+kontrolü Yapı Daire Başkanlığınca sağlanır.
+6.11.3İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğine göre Periyodik kontrol 
+gerektiren ekipmanların yetkili kuruluşlara/kişilere kontrollerinin yaptırılması, Merkez Teşkilatında Yapı Daire 
+Başkanlığı Taşra Teşkilatında Yapı İşleri/Yapı ve Teknoloji/İşletme Müdürlükleri tarafından sağlanır. Kontroller 
+sırasında tespit edilen uygunsuzluklar EYS.PR02 Düzeltici Faaliyet Prosedürüne göre en kısa sürede giderilir.
+6.11.4Tüm makineler için sicil kartı düzenlenir. Makinelerde yapılacak tüm bakım ve onarım faaliyetleri 
+YAP.PR01 Yapı İşlerinde Bakım Onarım Prosedürüne göre yapılır/yaptırılır. Makine ve ekipmanların koruyucu 
+donanımları çıkarılarak faaliyet gerçekleştirilmez. Çalışan makineler üzerinde bakım faaliyetleri uygulanmaz. Tüm 
+makine ve ekipmanların bakım ve kullanımları makineye ait talimata göre yapılır. 
+6.11.5Yangın tüplerinin periyodik bakım ve kontrolleri Merkez Teşkilatında Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığı, Taşra Teşkilatında Destek Hizmetleri ve Ulaşım Müdürlükleri/İdari ve Mali Birimler Müdürlükleri 
+tarafından sağlanır ve kayıt altına alınır.
+6.12  Elektriksel Güvenlik
+6.12.1Merkez Teşkilatında Yapı Daire Başkanlığı, Taşra Teşkilatında Yapı İşleri/Yapı ve Teknoloji/İşletme 
+Müdürlükleri ve birim yöneticileri elektrik işlerinin yetkin ve eğitimli personel tarafından yapılmasını sağlar.
+6.12.2Elektrikle ilgili tehlikeli bir durum tespit edildiğinde acilen Merkez Teşkilatında Yapı Daire Başkanlığı, 
+Taşra Teşkilatında Yapı İşleri/Yapı ve Teknoloji/İşletme Müdürlüklerine bildirilerek emniyet tedbirlerinin alınması 
+sağlanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+6/8
+6.12.3Elektrik panoları ve kaçak akım rölelerinin bakım ve kontrolleri YAP.PR01 Yapı İşlerinde Bakım Onarım 
+Prosedürüne göre Merkez Teşkilatında Yapı Daire Başkanlığı Taşra Teşkilatında Yapı İşleri/Yapı ve 
+Teknoloji/İşletme Müdürlükleri tarafından yapılır. 
+6.12.4Kullanılan uzatma kablolarının Merkez Teşkilatında Yapı Daire Başkanlığı Taşra Teşkilatında Yapı 
+İşleri/Yapı ve Teknoloji/İşletme Müdürlükleri tarafından ilgili mevzuatta belirlenen süreler içinde bakımı yapılır. 
+6.12.5Elektrik panoları önünde yalıtkan paspasın bulundurulması Merkez Teşkilatında Yapı Daire Başkanlığı 
+Taşra Teşkilatında Yapı İşleri/Yapı ve Teknoloji/İşletme Müdürlükleri tarafından sağlanır. 
+6.12.6Paratoner, topraklama, elektrik panoları ve elektrik tesisatının periyodik bakımları YAP.PR01 Yapı İşlerinde 
+Bakım Onarım Prosedürü ve Yıllık Periyodik Bakım Planına göre Merkez Teşkilatında Yapı Daire Başkanlığı, Taşra 
+Teşkilatında Yapı İşleri/Yapı ve Teknoloji/İşletme Müdürlükleri tarafından düzenli olarak yaptırılır söz konusu 
+faaliyetin yapılıp yapılmadığının kontrolü Yapı Daire Başkanlığınca sağlanır. 
+6.13  Tehlikeli Maddelerin Yönetimi
+6.13.1Şirketimiz faaliyetleri sırasında kullanılan kimyasallar Malzeme Güvenlik Bilgi Formlarında (MSDS) yer 
+alan güvenlik önlemlerine uygun olarak kullanılır ve depolanır.
+6.13.2Yanıcı, parlayıcı ve patlayıcı malzemelerin bulunduğu depolama alanlarında exproof malzemeler 
+kullanılmalıdır. 
+6.13.3Tehlikeli maddelerin bulunduğu depolar kilitli olmalı ve anahtar ilgili birim yöneticisi tarafından belirlenen 
+sorumlu personelde bulunmalıdır.
+6.14  Alt İşveren Çalışanları ve Tedarikçiler 
+6.14.1SAT.PR04 Mal ve Hizmet Alımı Prosedürüne göre tedarik edilen makine, ekipman ve malzemeler seçilirken 
+talep sahibi ilgili birimler tarafından İş Sağlığı ve Güvenliği yasal gereksinimleri göz önünde bulundurularak teknik 
+şartnameler düzenlenir ve tedarik edilen makine ekipman uygunluk açısından alternatif uygulamalar dikkate alınarak 
+kontrolleri yapılır.
+6.14.2Alt işveren ve tedarikçiler tarafından yapılacak iş Mesleki Yeterlilik Belgesini (MYB) gerektiriyor ise ilgili 
+birim tarafından çalışanların belgelerinin varlığı kontrol edilir ve bir kopyası alınır.
+6.15  Çalışma Ortamı
+6.15.1Çalışma ortamının kontrolü için risk değerlendirmesi sonuçlarına göre gerekli görülen ortam ölçümleri 
+(gürültü, toz, titreşim, aydınlık vb.) yaptırılır. Ölçümler ortam koşullarında faaliyetlerde, makine ve ekipmanlarda 
+vb. değişiklik olması halinde risk değerlendirme ekibinin görüşüne istinaden tekrarlanır.
+6.15.2Gerçekleşen ölçüm sonuçlarına göre uygunsuzluk tespit edilmesi durumunda EYS.PR02 Düzeltici Faaliyet 
+Prosedürüne göre faaliyet başlatılır. Çalışma alanının kontrolü için aşağıdaki önlemler alınır;
+a) Makine ekipman ve malzemeler doğru yerleştirilir. 
+b) Yaya ve araç yolları işaretlenir.
+c) Acil durum ekipmanlarının kontrolü yapılır.
+ç)  İklimlendirme cihazlarının bakımları yapılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+7/8
+d)Çalışma ortamlarında ergonomiye uygun ekipmanlar seçilir.
+6.15.3Tanımlanan ve belirlenen kontrollere rağmen İSG hedeflerinde bir sapma olursa;
+a) Kontrol sıklıkları arttırılır.
+b)Alınan tedbirler yeniden gözden geçirilir.
+c)İSG profesyonelleri, birim yöneticileri ve çalışanların yetkinliği gözden geçirilir.
+ç)  Çalışana verilen eğitim tekrarlanır ve gerekli görülmesi halinde eğitimin süresi arttırılır.
+d) Ekipman uygunluğu kontrol edilir.
+e) Gerekli görülürse dışarıdan hizmet alımı yapılır.
+f) Risk değerlendirmesi gözden geçirilir.  
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+EYS.PR02-Düzeltici Faaliyet Prosedürü
+EYS.PR03-EYS Amaç Hedef Program Yönetim Prosedürü
+EYS.PR10-Yasal ve Diğer Şartların Yönetimi ve Uygunluk Değerlendirme Prosedürü
+EYS.PR20-EYS Risk ve Fırsatların Yönetimi Prosedürü
+EGT.PR01-Eğitim Prosedürü
+EGT.TL02-İşbaşı Eğitim Uygulama Talimatı
+EGT.TB02-Şirket İçi Eğitim Plan Tablosu
+İKD.PR18-Kaza ve Olay Araştırma Prosedürü
+İKD.PR19-İş Sağlığı ve Güvenliği Kurulları İşleyiş Prosedürü
+İKD.PR05-PTT A.Ş Disiplin Amirleri ve Disiplin Kurullarına İlişkin Prosedür
+İKD.TL08-Kişisel Koruyucu Donanım Kullanım Talimatı
+İKD.RH01-Sağlık ve Güvenlik İşaretleri Rehberi
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+YAP.PR01-Yapı İşlerinde Bakım Onarım Prosedürü
+KN.022-6331 Sayılı İş Sağlığı Ve Güvenliği Kanunu
+YNT.020-İş Ekipmanlarının Kullanımında Sağlık Ve Güvenlik Şartları Yönetmeliği
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Dokümanın Adı
+İş Sağlığı ve Güvenliği Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR20
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+25.11.2024
+Revizyon No
+3
+Sayfa Sayısı
+8/8
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+3 25.11.2024 Gözden geçirme sonucunda revizyon yapılmasına gerek duyulmuştur. 
+2 9.06.2023 Yıllık gözden geçirme tarihi geldiğinden revize edilmiştir.   
+1 8.02.2022 EYS Risk ve Fırsatların Yönetimi Prosedürü revizyon talebine istinaden 
+güncellenmiştir. 
+0 4.10.2021 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

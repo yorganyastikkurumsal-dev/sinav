@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PTT Uzmanlık Sınavı - Gerçek Sınav Modu Demo v2</title>
+<style>
+:root{
+  --bg:#f3f5f7;--card:#fff;--ink:#17202a;--muted:#667085;--line:#d9e0e7;
+  --navy:#153a5b;--blue:#245f8f;--soft:#edf4f9;--green:#176b36;--greenbg:#eaf7ef;
+  --red:#a5251c;--redbg:#fdeceb;--amber:#825900;--amberbg:#fff6df;
+  --shadow:0 8px 28px rgba(16,24,40,.08)
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;line-height:1.5}
+.wrap{max-width:1080px;margin:auto;padding:20px}
+.hero{background:linear-gradient(135deg,var(--navy),#2d6c9d);color:#fff;border-radius:20px;padding:26px;box-shadow:var(--shadow)}
+.hero h1{margin:6px 0 8px;font-size:clamp(24px,4vw,38px)}
+.hero p{margin:5px 0;color:#e9f1f7}
+.tag{display:inline-block;border:1px solid rgba(255,255,255,.28);background:rgba(255,255,255,.12);border-radius:999px;padding:6px 10px;font-size:12px}
+.sticky{position:sticky;top:0;z-index:10;background:rgba(243,245,247,.96);padding:12px 0}
+.status{display:grid;grid-template-columns:1.2fr repeat(3,1fr);gap:9px}
+.box{background:#fff;border:1px solid var(--line);border-radius:14px;padding:12px 14px;box-shadow:var(--shadow)}
+.label{font-size:12px;color:var(--muted)}
+.timer{font-size:28px;font-weight:900;color:var(--navy)}
+.timer.danger{color:var(--red)}
+.value{display:block;font-size:22px;font-weight:900;color:var(--blue)}
+.progress{height:9px;background:#e4e9ee;border-radius:99px;overflow:hidden;margin-top:9px}
+.progress>div{height:100%;background:var(--blue);width:0}
+.notice{background:var(--amberbg);border:1px solid #ead08a;color:#634700;border-radius:14px;padding:13px;margin:16px 0}
+.nav{display:flex;flex-wrap:wrap;gap:7px;margin:15px 0 20px}
+.nav button{width:40px;height:40px;border:1px solid var(--line);border-radius:10px;background:#fff;font-weight:800;cursor:pointer}
+.nav button.answered{background:#e7f1f8;border-color:#89aec9;color:#174b71}
+.nav button.review{box-shadow:inset 0 0 0 3px #e0b64a}
+.card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:21px;margin:15px 0;box-shadow:var(--shadow)}
+.qhead{display:flex;gap:10px;align-items:flex-start}
+.qno{flex:none;background:var(--soft);color:var(--blue);font-weight:900;border-radius:10px;padding:6px 10px}
+.question{font-weight:750;font-size:18px;padding-top:2px}
+.option{display:flex;width:100%;gap:10px;text-align:left;margin:9px 0;padding:13px 14px;border:1px solid var(--line);border-radius:12px;background:#fff;cursor:pointer;font-size:15px}
+.option:hover{background:#f8fbfd;border-color:#7fa7c5}
+.option.selected{background:#eaf3fa;border-color:#5790ba;box-shadow:inset 0 0 0 1px #5790ba}
+.option:disabled{cursor:default}
+.letter{font-weight:900;color:var(--blue)}
+.qtools{display:flex;justify-content:flex-end;gap:8px;margin-top:12px}
+.btn{border:0;border-radius:11px;padding:11px 15px;font-weight:800;cursor:pointer}
+.btn.primary{background:var(--blue);color:#fff}
+.btn.secondary{background:#fff;border:1px solid var(--line);color:var(--ink)}
+.btn.warn{background:#fff6df;border:1px solid #e4c166;color:#725100}
+.submitbox{background:#fff;border:1px solid var(--line);border-radius:17px;padding:17px;margin:22px 0;box-shadow:var(--shadow);display:flex;align-items:center;justify-content:space-between;gap:15px}
+.result{display:none}
+.result.show{display:block}
+.summary{display:grid;grid-template-columns:repeat(5,1fr);gap:9px}
+.summary .item{border:1px solid var(--line);border-radius:13px;padding:13px;text-align:center}
+.summary b{display:block;color:var(--blue);font-size:23px}
+.resultHero{background:linear-gradient(135deg,#f8fbfd,#eef4f8);border:1px solid #cfdde8}
+.analysis{border:1px solid var(--line);border-radius:14px;padding:15px;margin:10px 0}
+.analysis.good{border-left:6px solid var(--green)}
+.analysis.bad{border-left:6px solid var(--red)}
+.analysis.blank{border-left:6px solid #89929c}
+.goodText{color:var(--green);font-weight:900}
+.badText{color:var(--red);font-weight:900}
+.source{margin-top:10px;background:#f7f9fb;border-radius:10px;padding:10px;font-size:13px}
+.source code{word-break:break-word}
+.hidden{display:none!important}
+.resetline{text-align:right;margin-top:14px}
+footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
+@media(max-width:720px){
+ .wrap{padding:12px}.status{grid-template-columns:1fr 1fr}.summary{grid-template-columns:1fr 1fr}.submitbox{flex-direction:column;align-items:stretch}
+ .card{padding:16px}.question{font-size:16px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<section class="hero">
+  <span class="tag">GERÇEK SINAV MODU • 10 SORULUK DEMO v2</span>
+  <h1>PTT Uzmanlık Sınavı Simülasyonu</h1>
+  <p><b>10 soru • 12 dakika • Her soru 1 puan • Yanlışlar doğruları götürmez</b></p>
+  <p>Sınav sırasında cevap anahtarı gösterilmez. Sonuç ve kaynak analizi yalnız teslimden sonra açılır.</p>
+</section>
+
+<section id="examArea">
+  <div class="sticky">
+    <div class="status">
+      <div class="box">
+        <div class="label">KALAN SÜRE</div>
+        <div class="timer" id="timer">12:00</div>
+      </div>
+      <div class="box"><span class="label">CEVAPLANAN</span><span class="value" id="answered">0</span></div>
+      <div class="box"><span class="label">BOŞ</span><span class="value" id="blank">10</span></div>
+      <div class="box"><span class="label">TEKRAR BAK</span><span class="value" id="reviewCount">0</span></div>
+    </div>
+    <div class="progress"><div id="progressBar"></div></div>
+  </div>
+
+  <div class="notice">
+    <b>Gerçek sınav davranışı:</b> İşaretlediğin cevabın doğru/yanlış olduğunu sınav sırasında göremezsin.
+    Sınavı teslim ettikten sonra ayrıntılı sonuç ve kaynaklar açılır.
+  </div>
+
+  <div class="nav" id="questionNav"></div>
+  <main id="quiz"></main>
+
+  <div class="submitbox">
+    <div>
+      <b>Sınavı tamamladığında teslim et.</b>
+      <div class="label" id="submitHint">10 soru üzerinden değerlendirileceksin.</div>
+    </div>
+    <button type="button" class="btn primary" id="submitExamBtn">SINAVI TESLİM ET</button>
+  </div>
+</section>
+
+<section id="resultArea" class="result">
+  <div class="card resultHero">
+    <h2 style="margin-top:0">Sınav Sonucu</h2>
+    <div class="summary">
+      <div class="item"><b id="scoreResult">0/10</b><span>Puan</span></div>
+      <div class="item"><b id="correctResult">0</b><span>Doğru</span></div>
+      <div class="item"><b id="wrongResult">0</b><span>Yanlış</span></div>
+      <div class="item"><b id="blankResult">0</b><span>Boş</span></div>
+      <div class="item"><b id="timeResult">00:00</b><span>Kullanılan Süre</span></div>
+    </div>
+    <p id="resultMessage"></p>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">Yanlış ve Boş Sorular</h2>
+    <p class="label">Öncelikle tekrar etmen gereken sorular.</p>
+    <div id="mistakesList"></div>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0">Tüm Soruların Kaynaklı Analizi</h2>
+    <div id="fullAnalysis"></div>
+  </div>
+
+  <div class="resetline">
+    <button type="button" class="btn secondary" id="restartBtn">DEMoyu SIFIRLA VE YENİDEN BAŞLAT</button>
+  </div>
+</section>
+
+<footer>Kaynak odaklı uzmanlık sınavı simülasyonu</footer>
+</div>
+
+<script>
+"use strict";
+
+const SOURCE = "Usul ve Esaslar/03_USE.001_0 BTK Posta Gönderilerine İlişkin Güvenlik Tedbirlerine Yönelik Usul ve Esaslar.pdf";
+const STORAGE_KEY = "ptt_uzmanlik_gercek_demo_v2";
+const DURATION_MS = 12 * 60 * 1000;
+const LETTERS = ["A","B","C","D","E"];
+
+const QUESTIONS = [
+  {
+    q:"Gerçek kişi gönderici bakımından, posta gönderisinin kabulü aşamasında aşağıdakilerden hangisi kaynakta asgari kayıt bilgileri arasında sayılmamıştır?",
+    opts:["Adı-soyadı","T.C. kimlik numarası veya yabancılar için kabul edilen eşdeğer kimlik belge numarası","Açık adres bilgisi","Telefon numarası","Doğum tarihi"],
+    correct:4, ref:"Madde 4/1-(a)-1",
+    explanation:"Gerçek kişi gönderici için ad-soyad, kimlik belge numarası, açık adres ve telefon bilgileri sayılmıştır; doğum tarihi bu alt bentte yer almaz."
+  },
+  {
+    q:"Gönderinin üzerinde gönderici olarak yazılı kişiden farklı bir kişi gönderiyi hizmet sağlayıcıya fiilen teslim ederse, bu kişi bakımından hangi bilgiler ayrıca kayıt altına alınır?",
+    opts:["Yalnız adı-soyadı","Adı-soyadı ve imzası","Adı-soyadı, kimlik belge numarası, açık adresi ve telefon numarası","Yalnız kimlik belge numarası ve telefon numarası","Adı-soyadı, mesleği ve doğum tarihi"],
+    correct:2, ref:"Madde 4/1-(a)-2",
+    explanation:"Gönderiyi fiilen teslim eden farklı kişinin adı-soyadı, kimlik belge numarası, açık adres ve telefon bilgileri ayrıca kaydedilir."
+  },
+  {
+    q:"Türk uyruklu kişinin kimlik bilgilerinin doğruluğunun teyidinde aşağıdakilerden hangisi kaynakta sayılan belgelerden biri değildir?",
+    opts:["T.C. kimlik kartı","T.C. nüfus cüzdanı","T.C. sürücü belgesi","Pasaport","Kurum personel kimlik kartı"],
+    correct:4, ref:"Madde 4/3",
+    explanation:"Türk uyruklular için kimlik kartı/nüfus cüzdanı, sürücü belgesi veya pasaport ibrazı sayılmıştır; kurum personel kimlik kartı sayılmamıştır."
+  },
+  {
+    q:"Gönderici gerekli kimlik ve iletişim bilgilerini vermek istemiyor veya kapsam kontrolüne razı olmuyorsa hangi işlem yapılır?",
+    opts:["Gönderi kabul edilir, teslimde ek kontrol yapılır","Gönderi yalnız taahhütlü kabul edilir","Gönderi kabul edilmez","Kolluk onayıyla kabul edilir","Bir gün bekletildikten sonra kabul edilir"],
+    correct:2, ref:"Madde 4/4",
+    explanation:"Gerekli bilgileri vermeme veya kapsam kontrolüne razı olmama halinde gönderinin kabul edilmeyeceği düzenlenmiştir."
+  },
+  {
+    q:"Haberleşme gönderileri hariç, aynı kabul işleminde 80 gönderi varsa rastgele seçilerek gönderici huzurunda kontrol edilmesi gereken asgari gönderi sayısı kaçtır?",
+    opts:["4","6","8","10","16"],
+    correct:2, ref:"Madde 4/5",
+    explanation:"10–100 arasındaki gönderilerde asgari 6 olmak üzere gönderi sayısının en az %10'u kontrol edilir. 80'in %10'u 8'dir."
+  },
+  {
+    q:"Haberleşme gönderileri hariç, aynı kabul işleminde 150 gönderi varsa kaynak hükmüne göre kontrol edilecek asgari gönderi sayısı kaçtır?",
+    opts:["5","8","10","15","75"],
+    correct:2, ref:"Madde 4/5",
+    explanation:"100'den fazla gönderide asgari 10 olmak üzere gönderi sayısının en az %5'i kontrol edilir. 150'nin %5'i 7,5 olsa da asgari sınır 10'dur."
+  },
+  {
+    q:"Bir hizmet sağlayıcı başka bir hizmet sağlayıcının gönderilerini kabul veya teslim ediyorsa kullanıcı tarafından görünür olması gereken ayırt edici unsur hangisine aittir?",
+    opts:["Gönderinin asıl sahibi hizmet sağlayıcıya","Kabul veya teslim işlemini fiilen yapan hizmet sağlayıcıya","Yalnız PTT AŞ'ye","Göndericinin kurumuna","Alıcının seçtiği herhangi bir işletmeye"],
+    correct:1, ref:"Madde 5/2",
+    explanation:"Kabul veya teslim işlemini fiilen yapan hizmet sağlayıcının kurumsal işareti ve/veya personel kimlik kartı görünür olmalıdır."
+  },
+  {
+    q:"Kabulden sonra yasak madde şüphesi bulunan bir gönderide hizmet sağlayıcının görüntüleme cihazı mevcutsa kontrol nasıl yapılır?",
+    opts:["Yalnız göndericinin yazılı izniyle","Hizmet sağlayıcının tek personeliyle","Noter huzurunda","Resmî güvenlik birimi görevlileri huzurunda görüntüleme cihazıyla","Yalnız mahkeme kararıyla"],
+    correct:3, ref:"Madde 6/1",
+    explanation:"Görüntüleme cihazı mevcutsa şüpheli gönderinin resmî güvenlik birimi görevlileri huzurunda görüntüleme cihazlarıyla kontrol edilmesi öngörülür."
+  },
+  {
+    q:"Posta gönderilerinin kabul merkezlerindeki kamera kayıtları gerektiğinde ilgili mercilere sunulmak üzere en az ne kadar süre saklanır?",
+    opts:["7 gün","15 gün","1 ay","6 ay","2 yıl"],
+    correct:2, ref:"Madde 6/2",
+    explanation:"Kabul merkezlerindeki kamera sistemi kayıtlarının en az bir ay süreyle saklanması öngörülür."
+  },
+  {
+    q:"Yürürlük hükmüne göre 6'ncı ve 7'nci maddeler ile diğer maddelerin yürürlüğe giriş süreleri hangi seçenekte doğru verilmiştir?",
+    opts:["6 ve 7'nci maddeler 3 ay; diğerleri 6 ay","6 ve 7'nci maddeler 6 ay; diğerleri 3 ay","6 ve 7'nci maddeler derhal; diğerleri 3 ay","Tüm maddeler 6 ay","Tüm maddeler 3 ay"],
+    correct:1, ref:"Madde 9/1",
+    explanation:"6'ncı ve 7'nci maddeler onay tarihinden 6 ay sonra; diğer hükümler onay tarihinden 3 ay sonra yürürlüğe girer."
+  }
+];
+
+const $ = (id) => document.getElementById(id);
+
+function loadState(){
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if(raw) return JSON.parse(raw);
+  } catch(e) {}
+  const now = Date.now();
+  return {
+    answers:{},
+    review:{},
+    startAt:now,
+    endAt:now + DURATION_MS,
+    submitted:false,
+    submittedAt:null,
+    autoSubmitted:false
+  };
+}
+
+let state = loadState();
+let timerHandle = null;
+
+function saveState(){
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+}
+
+function formatTime(ms){
+  const sec = Math.max(0, Math.floor(ms/1000));
+  const m = Math.floor(sec/60);
+  const s = sec % 60;
+  return String(m).padStart(2,"0") + ":" + String(s).padStart(2,"0");
+}
+
+function getCounts(){
+  let correct=0, wrong=0, blank=0;
+  QUESTIONS.forEach((q,i)=>{
+    const a = state.answers[String(i)];
+    if(a === undefined) blank++;
+    else if(Number(a) === q.correct) correct++;
+    else wrong++;
+  });
+  return {correct,wrong,blank,answered:QUESTIONS.length-blank};
+}
+
+function renderExam(){
+  const quiz = $("quiz");
+  const nav = $("questionNav");
+  quiz.innerHTML = "";
+  nav.innerHTML = "";
+
+  QUESTIONS.forEach((q,i)=>{
+    const card = document.createElement("section");
+    card.className = "card";
+    card.id = "q-" + i;
+
+    const head = document.createElement("div");
+    head.className = "qhead";
+    head.innerHTML = `<div class="qno">${i+1}</div><div class="question">${q.q}</div>`;
+    card.appendChild(head);
+
+    q.opts.forEach((opt,j)=>{
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "option";
+      if(Number(state.answers[String(i)]) === j) btn.classList.add("selected");
+      btn.innerHTML = `<span class="letter">${LETTERS[j]})</span><span>${opt}</span>`;
+      btn.addEventListener("click", ()=>{
+        state.answers[String(i)] = j;
+        saveState();
+        renderExam();
+      });
+      card.appendChild(btn);
+    });
+
+    const tools = document.createElement("div");
+    tools.className = "qtools";
+
+    const clear = document.createElement("button");
+    clear.type = "button";
+    clear.className = "btn secondary";
+    clear.textContent = "Cevabı Temizle";
+    clear.addEventListener("click", ()=>{
+      delete state.answers[String(i)];
+      saveState();
+      renderExam();
+    });
+
+    const review = document.createElement("button");
+    review.type = "button";
+    review.className = "btn warn";
+    review.textContent = state.review[String(i)] ? "Tekrar Bak İşaretini Kaldır" : "Tekrar Bak";
+    review.addEventListener("click", ()=>{
+      state.review[String(i)] = !state.review[String(i)];
+      saveState();
+      renderExam();
+    });
+
+    tools.append(clear,review);
+    card.appendChild(tools);
+    quiz.appendChild(card);
+
+    const n = document.createElement("button");
+    n.type = "button";
+    n.textContent = i+1;
+    if(state.answers[String(i)] !== undefined) n.classList.add("answered");
+    if(state.review[String(i)]) n.classList.add("review");
+    n.addEventListener("click", ()=>card.scrollIntoView({behavior:"smooth",block:"start"}));
+    nav.appendChild(n);
+  });
+
+  updateExamStatus();
+}
+
+function updateExamStatus(){
+  const c = getCounts();
+  $("answered").textContent = c.answered;
+  $("blank").textContent = c.blank;
+  $("reviewCount").textContent = Object.values(state.review).filter(Boolean).length;
+  $("progressBar").style.width = (c.answered / QUESTIONS.length * 100) + "%";
+  $("submitHint").textContent = c.blank > 0
+    ? `${c.blank} soru boş. Teslim edersen boş olarak değerlendirilecek.`
+    : "Tüm sorular cevaplandı.";
+}
+
+function buildAnalysis(q,i,onlyShort=false){
+  const chosen = state.answers[String(i)];
+  const blank = chosen === undefined;
+  const correct = !blank && Number(chosen) === q.correct;
+
+  const div = document.createElement("div");
+  div.className = "analysis " + (blank ? "blank" : correct ? "good" : "bad");
+
+  const status = blank ? "Boş" : correct ? "Doğru" : "Yanlış";
+  const chosenText = blank ? "—" : `${LETTERS[Number(chosen)]}) ${q.opts[Number(chosen)]}`;
+  const correctText = `${LETTERS[q.correct]}) ${q.opts[q.correct]}`;
+
+  div.innerHTML = `
+    <h3 style="margin:0 0 8px">Soru ${i+1} — ${status}</h3>
+    ${onlyShort ? "" : `<div style="margin-bottom:8px"><b>Soru:</b> ${q.q}</div>`}
+    <div><b>Senin cevabın:</b> ${chosenText}</div>
+    <div><b>Doğru cevap:</b> <span class="goodText">${correctText}</span></div>
+    <div style="margin-top:8px"><b>Açıklama:</b> ${q.explanation}</div>
+    <div class="source">
+      <b>Kaynak:</b><br>
+      <code>${SOURCE}</code><br>
+      <b>Atıf:</b> ${q.ref}
+    </div>
+  `;
+  return div;
+}
+
+function showResults(){
+  state.submitted = true;
+  if(!state.submittedAt) state.submittedAt = Date.now();
+  saveState();
+
+  if(timerHandle) clearInterval(timerHandle);
+
+  $("examArea").classList.add("hidden");
+  $("resultArea").classList.add("show");
+
+  const c = getCounts();
+  $("scoreResult").textContent = `${c.correct}/10`;
+  $("correctResult").textContent = c.correct;
+  $("wrongResult").textContent = c.wrong;
+  $("blankResult").textContent = c.blank;
+
+  const used = Math.min(DURATION_MS, Math.max(0, state.submittedAt - state.startAt));
+  $("timeResult").textContent = formatTime(used);
+
+  const pct = c.correct * 10;
+  let msg = state.autoSubmitted ? "<b>Süre dolduğu için sınav otomatik teslim edildi.</b><br>" : "";
+  if(pct >= 90) msg += "Çok güçlü sonuç.";
+  else if(pct >= 70) msg += "İyi sonuç. Yanlışların kaynak maddelerini tekrar et.";
+  else if(pct >= 50) msg += "Orta seviye. Yanlış ve boş soruların kaynaklarını yeniden incele.";
+  else msg += "Kaynağın ilgili maddelerini yeniden çalışmak faydalı olur.";
+  $("resultMessage").innerHTML = msg;
+
+  const mistakes = $("mistakesList");
+  mistakes.innerHTML = "";
+  QUESTIONS.forEach((q,i)=>{
+    const chosen = state.answers[String(i)];
+    if(chosen === undefined || Number(chosen) !== q.correct){
+      mistakes.appendChild(buildAnalysis(q,i,true));
+    }
+  });
+  if(!mistakes.children.length){
+    mistakes.innerHTML = "<p><b>Tebrikler.</b> Yanlış veya boş soru yok.</p>";
+  }
+
+  const full = $("fullAnalysis");
+  full.innerHTML = "";
+  QUESTIONS.forEach((q,i)=>full.appendChild(buildAnalysis(q,i,false)));
+
+  window.scrollTo({top:0,behavior:"smooth"});
+}
+
+function submitExam(auto=false){
+  if(state.submitted){
+    showResults();
+    return;
+  }
+
+  if(!auto){
+    const c = getCounts();
+    const extra = c.blank > 0 ? `\n\n${c.blank} soru boş bırakılmış durumda.` : "";
+    const ok = window.confirm("Sınavı teslim etmek istediğine emin misin?" + extra);
+    if(!ok) return;
+  }
+
+  state.submitted = true;
+  state.submittedAt = Date.now();
+  state.autoSubmitted = auto;
+  saveState();
+  showResults();
+}
+
+function startTimer(){
+  const tick = ()=>{
+    if(state.submitted){
+      if(timerHandle) clearInterval(timerHandle);
+      return;
+    }
+    const left = state.endAt - Date.now();
+    $("timer").textContent = formatTime(left);
+    if(left <= 120000) $("timer").classList.add("danger");
+    if(left <= 0){
+      submitExam(true);
+    }
+  };
+  tick();
+  timerHandle = setInterval(tick, 500);
+}
+
+$("submitExamBtn").addEventListener("click", ()=>submitExam(false));
+
+$("restartBtn").addEventListener("click", ()=>{
+  const ok = window.confirm("Demo sınavı tamamen sıfırlansın mı?");
+  if(!ok) return;
+  localStorage.removeItem(STORAGE_KEY);
+  location.reload();
+});
+
+if(state.submitted){
+  showResults();
+}else{
+  renderExam();
+  startTimer();
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,211 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+DESTEK HİZMETLERİ VE 
+ULAŞIM DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Doküman Adı
+Postacı Yürüyüş Yarışması Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR07
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+1
+Sayfa Sayısı
+1/4
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi personelinin yurt içi ve yurt dışı yürüyüş 
+yarışmalarında Şirketimizi temsil edecek, yürüyüş takımlarının tespiti ve yarışmalarla ilgili usul ve esaslar ile yetki 
+ve sorumlulukları belirlemektir.
+2. KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketinin organize ettiği veya katıldığı yurt içi ve yurt dışı yürüyüş 
+yarışmaları ile söz konusu yarışmalara iştirak edecek yarışmacılar ve diğer görevli personeli kapsar.
+3. DAYANAK
+Bu prosedür, Posta Hizmetleri Kanunu, Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi ve İKD.PR03 
+PTT AŞ Personelinin Ödüllendirilmesine İlişkin Prosedüre dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Antrenör: Antrenman programlarını hazırlayarak sporcuları yurt içi ve yurt dışı yürüyüş yarışmalarına 
+hazırlayan çalıştırıcıdır.
+4.2 Bölge Seçmeleri: Genel Müdürlükçe belirlenecek koordinatör Başmüdürlükler tarafından, bu Başmüdürlüklerle 
+ilişkilendirilen diğer Başmüdürlüklerden katılacak yarışmacılarla birlikte kadınlarda ve erkeklerde Türkiye 
+seçmelerine katılacak yarışmacıları belirlemek üzere yapılan yarışmalardır.
+4.3 Kafile Başkanı: Uluslararası yürüyüş yarışmasına katılacak yarış takımı ve yarışma için görevlendirilecek diğer 
+personelin her türlü sevk ve idaresinden sorumlu olan ve Genel Müdür tarafından görevlendirilen personeldir.
+4.4 Kafile Yöneticisi: Uluslararası yürüyüş yarışmasına katılacak yarış takımı ve yarışma için görevlendirilecek 
+diğer personelin her türlü sevk ve idaresinden sorumlu olan yürüyüş yarışmasını düzenleyen birimin yöneticisidir.
+4.5 Kamp Sorumlusu: Kampların planlandığı gibi yürütülmesinden, sporcuların ulaşım, iaşe, barınma, sağlık ve 
+benzeri ihtiyaçlarının karşılanmasından sorumlu ilgili birimce görevlendirilen personeldir.
+4.6 Sporcu: Yürüyüş yarışmasına iştirak eden kadrolu, sözleşmeli, İdari Hizmet Sözleşmeli ve işçi statüsünde görev 
+yapan personel ile hizmet alımı yoluyla yüklenici uhdesinde çalışan ve yüklenicisinden yarışma için muvafakat 
+alınan taşeron firma personelidir.
+4.7 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.8 Uluslararası Yarış Takımı: Uluslararası yarışmaya katılmak üzere Türkiye Seçmeleri neticesinde derece 
+sıralamasına göre seçilen gerekli sayıda kadın ve erkek sporculardan oluşan takımdır.
+4.9 Uluslararası Yürüyüş Hakemi: Türkiye Atletizm Federasyonundan alınmış “Uluslararası Yürüyüş Hakem 
+Belgesi”ne sahip olan hakemlerdir.
+4.10 Uluslararası Yürüyüş Yarışması: Uluslararası düzeyde Posta İdarelerinden kadın ve erkek sporcuların 
+katılması ile düzenlenen yürüyüş yarışmalarıdır.
+4.11 Yarışma Kampı: Genel Müdürlükçe gerek görülmesi halinde sporculara dayanıklılık antrenman programının 
+uygulandığı, fizyolojik yüklenmenin kademeli olarak artırıldığı uluslararası yarış öncesi hazırlık safhasıdır.
+4.12 Yürüyüş Hakemi: Türkiye Atletizm Federasyonundan alınmış “Yürüyüş Hakem Belgesi”ne sahip olan 
+hakemlerdir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Postacı Yürüyüş Yarışması Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR07
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+1
+Sayfa Sayısı
+2/4
+4.13 Yürüyüş Yarışması: Dünya Atletizm Birliği (World Athletics) tarafından belirlenen kurallara uygun olarak 
+yapılan yarışmadır.
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanmasından ve yönetiminden Destek Hizmetleri ve Ulaşım Daire Başkanlığı sorumludur.
+6. UYGULAMA
+6.1 Yarışmalara Katılma Kuralları, Yarışmaların Organizasyonu, Planlanması, Seçmeler, Kamplar ve 
+Uluslararası Yarışma 
+6.1.1 Yarışmalara Katılım Kuralları
+Yarışmalara; Sağlık Beyan Belgesini ibraz eden ve Genel Müdürlükçe her yıl belirlenecek yaş sınırının altında 
+kalan sporcular katılabilir.
+6.1.2 Yarışmaların Organizasyonu
+Destek Hizmetleri ve Ulaşım Daire Başkanlığı tarafından organize edilir.
+6.1.3 Yarışmaların Planlanması ve Seçmeler
+6.1.3.1 Bölge seçmelerinin yapılma şekli ile ilgili hususlar Genel Müdürlükçe belirlenerek tebliğ edilir.
+6.1.3.2 Bölge seçmeleri her yıl Genel Müdürlükçe belirlenecek tarihte koordinatör Başmüdürlüklerce düzenlenir. 
+Bölge seçme sonuçları en geç 10 (on) gün içerisinde Genel Müdürlüğe bildirilir.
+6.1.3.3 Türkiye Şampiyonası, her yıl Genel Müdürlük tarafından belirlenecek yer ve tarihte yapılır.
+6.1.3.4 Türkiye Şampiyonasında Şirketimizin talebi üzerine Atletizm Federasyonunca belirlenen uluslararası 
+yürüyüş hakemi ile yürüyüş hakemlerinin görevlendirilmesi sağlanır.
+6.1.4 Yarışmalara Hazırlık ve Kamplar
+6.1.4.1 Türkiye Seçmeleri neticesinde derece sıralamasına göre seçilen gerekli sayıda kadın ve erkek sporcular 
+uluslararası yarış takımına alınır.
+6.1.4.2 Uluslararası yarış takımına alınan sporcular Genel Müdürlük tarafından gerek görülmesi halinde planlanan 
+yarışma kampına katılır.
+6.1.4.3 Kamplar, kamp sorumlusunun koordinasyonunda gerçekleştirilir. Günlük ve haftalık kamp çalışma 
+programları ile antrenman programları antrenör tarafından belirlenir ve uygulanır. Kampta ihtiyaç olması halinde 
+ilave personel görevlendirilebilir.
+6.1.4.4 Seçmelerden sonra sporcularda yarışmaya katılmasına engel olabilecek derecede rahatsızlık veya sakatlık ile 
+başka herhangi bir olumsuzluk sonucu kadro dışı kalanların yerine takımı tamamlamak için seçmelerde oluşan 
+sıralamaya göre sporcu çağırılabilir.
+6.1.5 Uluslararası Yarışma Kafilesi Teşkili
+6.1.5.1 Uluslararası yarışmalara katılacak olan sporcu kafilesi ilgili Daire Başkanlığının teklifi ve Genel Müdür 
+Onayı ile kafile başkanı, kafile yöneticisi, antrenör, sporcular ve hizmetine ihtiyaç duyulan diğer personelden 
+oluşur.
+6.1.5.2 Kadro imkanları yeterli ise kafileye doktor ve/veya masör katılabilir.
+6.1.5.3 Kafile başkanı kafilenin sevk ve idaresinden sorumludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Postacı Yürüyüş Yarışması Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR07
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+1
+Sayfa Sayısı
+3/4
+6.2 Kadro Dışı Bırakılma Yarışma Disiplini
+6.2.1 Yarışma kamplarında ve yarışmalarda aşağıda yer alan durumlara sebebiyet veren sporcular, kamp 
+sorumlusunun teklifi ve yürüyüş yarışmasını düzenleyen birimin yöneticisinin onayıyla kadro dışı bırakılırlar.
+a) Kamp programına uymamak, kampı izinsiz terk etmek, 
+b) Kamp içindeki birlik ve beraberliği bozucu tutum içinde olmak, 
+c) Spor ahlakına ve centilmenliğine aykırı harekette bulunmak,
+ç) Mazeretsiz olarak kamplara geç katılmak, çalışma ve yarışma yerini terk etmek,
+d) Yarışmalarda kural dışı hareket etmek, başka sporcuları yarış dışı bırakmak için hileli ve danışıklı yarışmak,
+e) Kamplarda ve yarışma esnasında yöneticilerin talimatlarına uymamak, güvenliği bozucu ve ahlak dışı 
+hareketlerde bulunmak, disipline aykırı hareket etmek ve kafilenin huzurunu bozmak.
+6.2.2 6.2.1 maddesinde belirtilen disipline aykırı davranışları nedeniyle kadro dışı bırakılan sporcular yapılacak 
+disiplin işlemine ilaveten Destek Hizmetleri ve Ulaşım Daire Başkanlığının teklifi ve Genel Müdürün onayı ile 
+takip eden yıllarda uygun görülecek süre ile yarışmalardan men edilir. 
+6.2.3 Yarışmaya katılmaya hak kazandığı halde mücbir sebep durumunu belgelendirenler hariç olmak üzere 
+yarışmaya katılmayan sporcular takip eden yıllarda yapılacak yarışmalardan 2 (iki) yıl süreyle men edilir.
+6.3 Türkiye Şampiyonası ve Uluslararası Yarışma Sonucu Ödüllendirme
+6.3.1 Türkiye şampiyonası sonucu ödüllendirme;
+a) Takım halinde kadınlarda ve erkeklerde ayrı ayrı olmak üzere ilk 3 (üç) dereceye giren takımlara birer adet kupa 
+verilir.
+b) Ferdi olarak kadınlarda ve erkeklerde ayrı ayrı olmak üzere ilk 3 (üç) dereceye giren sporculara birer adet kupa 
+ve madalya verilir.
+6.3.2 Uluslararası yarışma sonucu ödüllendirme; Ferdi veya takım halinde kadınlarda ve erkeklerde dereceye 
+girenler İKD.PR03 PTT AŞ Personelinin Ödüllendirilmesine İlişkin Prosedür kapsamında ödüllendirilir.
+6.3.3 Her iki yarışmada ayrıca Genel Müdürce uygun görülecek hediyeler verilebilir.
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK 
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+İKD.PR03-PTT A.Ş Personelinin Ödüllendirilmesine İlişkin Prosedür
+KN.012-6475 Sayılı Posta Hizmetleri Kanunu
+SZL.005-PTT AŞ Esas Sözleşmesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Postacı Yürüyüş Yarışması Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR07
+İlk Yayım Tarihi
+11.07.2018
+Revizyon Tarihi
+20.02.2025
+Revizyon No
+1
+Sayfa Sayısı
+4/4
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni 
+1 20.02.2025 Doküman içeriğinde değişiklik gerektiği için revizyona ihtiyaç 
+duyulmuştur. 
+0 11.07.2018 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

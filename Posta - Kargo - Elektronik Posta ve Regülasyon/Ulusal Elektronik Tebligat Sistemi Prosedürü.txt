@@ -1,0 +1,538 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+ELEKTRONİK POSTA 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+DESTEK HİZMETLERİ VE 
+ULAŞIM DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+1/9
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinde Ulusal Elektronik Tebligat Sistemi (UETS)’nin 
+yürütülmesi, başvurularının alınması, hesapların açılması, yönetilmesi, güncellemelerin yapılması, kayıtların 
+tutulması ve saklanması, bilgi güvenliğinin sağlanması, hesap kapatma taleplerinin alınması ve hesapların 
+kapatılması ile ilgili hizmetlerin idari, teknik ve yasal gerekliliklerinin ortaya çıkarılması ve Posta ve Telgraf 
+Teşkilatı Anonim Şirketinin hesap sahibinin ve üçüncü kişilerin uygulama sorumluluklarının belirlenmesidir.
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketinde Ulusal Elektronik Tebligat Sistemi hizmetinin verilmesi 
+için gerekli Ulusal Elektronik Tebligat Sistemi hizmetine ilişkin süreçleri kapsar.
+3.DAYANAK
+Bu prosedür, 7201 Sayılı Tebligat Kanunu’nun 7/a maddesi, Ek 2. maddesi ve geçici 2. maddesi dayanak alınarak 
+hazırlanmıştır
+4.TANIMLAR VE KISALTMALAR
+4.1 Adres/Hesap Sahibi: Adına elektronik tebligat adresi tahsis edilen gerçek kişi, tüzel kişi ya da tüzel kişiliği 
+olmayan kuruluşu,
+4.2 Alt İşlem Yetkilisi: Ana işlem yetkilisince kendisine verilen yetki kapsamında verilere ulaşabilen gerçek kişi 
+veya kişileri,
+4.3 Ana İşlem Yetkilisi: Adres sahibinin tüzel kişi/tüzel kişiliği olmayan kuruluş olduğu durumlarda ilgili UETS 
+hesabına ilişkin işlemleri tüzel kişi/tüzel kişiliği olmayan kuruluş nam ve hesabına yapan gerçek kişi veya kişileri,
+4.4Bakanlık: Adalet Bakanlığını,
+4.5 BTK: Bilgi Teknolojileri ve İletişim Kurumunu,
+4.6 Delil Kaydı: Tebligatın; tebligatı çıkarmaya yetkili merciden UETS tarafından teslim alındığına, muhatabın 
+elektronik tebligat adresine ulaştığına, okunduğuna ve usulen tebliğ edilmiş sayıldığına dair üretilen ve elektronik 
+sertifika ile imzalanmış kayıtları,
+4.7DETSİS: Devlet Teşkilatı Merkezi Kayıt Sistemi’ni,
+4.8DETSİS No: DETSİS tarafından verilen tekil numarayı,
+4.9 E-Tebligat: 7201 Sayılı Tebligat Kanunu ve 6.12.2018 tarih ve 30617 sayılı Elektronik Tebligat 
+Yönetmeliği’ne uygun olarak elektronik ortamda yapılan tebligatı,
+4.10 E-Tebligat Adresi: PTT AŞ tarafından gerçek kişiler için kimlik bilgileri, tüzel kişiler için ise tabi oldukları 
+sistem bilgileri esas alınmak suretiyle tek ve benzersiz şekilde oluşturulan ve UETS’ye kaydedilen tebligat adresini,
+4.11 E-Tebligat Hesap Numarası: Her hesap sahibine ait, e-tebligatların alındığı veya gönderildiği benzersiz 
+numarayı,
+4.12 E-Tebligat Mesajı: Tebligatı çıkarmaya yetkili makam ve merci tarafından güvenli elektronik imza veya 
+elektronik sertifikayla imzalanmış, tebliğ edilecek içerik, ekli dokümanlar ve tebliğ için gerekli muhatap 
+bilgilerinden oluşan elektronik iletiyi,
+4.13 E-Tebligat Yönetmeliği: 6.12.2018 tarih ve 30617 sayılı Resmî Gazete’de yayımlanan Elektronik Tebligat 
+Yönetmeliği’ni,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+2/9
+4.14 Elektronik Sertifika: 15/1/2004 tarihli ve 5070 sayılı Elektronik İmza Kanunu’nun 9’uncu maddesinde 
+tanımlanan nitelikli elektronik sertifikayı ve PTT AŞ’nin elektronik tebligat hizmetlerine ilişkin işlem verilerini 
+imzalamak için kullandığı kurumsal bilgilerini de içeren nitelikli elektronik sertifikayı,
+4.15 EYP: Elektronik Yazışma Paketini,
+4.16 Güvenli Elektronik İmza: 5070 Sayılı Elektronik İmza Kanunu’nun 4’üncü maddesinde tanımlanan güvenli 
+elektronik imzayı,
+4.17İşlem Kaydı: PTT AŞ tarafından elektronik tebligat hizmetinin verilmesi esnasında meydana gelen ve 
+mevzuat gereği kaydının tutulması zorunlu olan tüm bilişim sistemi işlem kayıtlarını,
+4.18 Kanun: 19/2/1959 ve 10139 sayılı Resmî Gazete’de yayımlanan 7201 sayılı Tebligat Kanunu’nu,
+4.19MERSİS: Merkezi Sicil Kayıt Sistemi’ni,
+4.20MERSİS No: MERSİS tarafından ticaret siciline kayıtlı tüzel kişilere verilen tekil numarayı,
+4.21 Muhatap: Elektronik tebligat alıcısı gerçek veya tüzel kişiyi,
+4.22Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini,
+4.23 Tebligat Çıkarmaya Yetkili Makam ve Merci: 7201 Sayılı Tebligat Kanunu uyarınca tebligat çıkarmaya 
+yetkili merci, idare, kurum, kuruluş ve kişileri,
+4.24 UETS: PTT AŞ tarafından kurulan ve işletilen Ulusal Elektronik Tebligat Sistemi’ni,
+4.25 UETS Hesap Bakiyesi: UETS’de, UETS hizmetleri ile ilgili ücretlerin ödenmesini teminen, UETS hesabı 
+açtıranların daha önceden ödedikleri bedel kadar hizmet almalarını sağlayan ve almış oldukları hizmet karşılığında 
+ücretin anlık olarak tahsil edildiği para miktarını,
+4.26 Ulusal Elektronik Tebligat Sistemi (UETS): 7201 Sayılı Tebligat Kanunu ve 6.12.2018 tarih ve 30617 
+Sayılı Elektronik Tebligat Yönetmelik uyarınca yapılan elektronik tebligat işlemlerini yürütmek amacıyla PTT AŞ 
+tarafından kurulan ve işletilen sistemi,
+4.27 Zaman Damgası: 5070 Elektronik İmza Sayılı Kanunu’nun 3’üncü maddesinde tanımlanan zaman 
+damgasını,
+4.28 Zorunlu Alıcı: Kanun kapsamında zorunlu olarak e-tebligat hesabı almak zorunda olan kişileri/kişilikleri 
+ifade eder.
+5.SORUMLULUKLAR
+5.1 PTT AŞ’nin Sorumlulukları
+5.1.1PTT AŞ, elektronik tebligata ilişkin 7201 Sayılı Tebligat Kanunu Hükümleri’ne ve Elektronik Tebligat 
+Yönetmeliği’ne uygun olarak tebligat çıkarmaya yetkili makam ve merciler tarafından iletilen elektronik 
+tebligatları, Ulusal Elektronik Tebligat Sistemi vasıtasıyla muhataba ulaştırır.
+5.1.2PTT AŞ UETS’yi kurar, işletir; sistemin güvenliğini ve sistemde kayıtlı verilerin muhafazasını sağlayacak 
+her türlü tedbiri alır.
+5.1.3PTT AŞ, elektronik tebligat mesajını muhafaza süresi içinde erişime hazır halde bulundurur.
+5.1.4PTT AŞ tarafından muhatap için tanımlanan muhafaza kapasitesinin dolması halinde veriler, usulen tebliğ 
+edilmiş sayıldığı tarihten başlamak üzere en az 6 (altı) ay boyunca muhatabın erişimine açık tutulmak kaydıyla eski 
+tarihliden başlanarak silinir.
+5.1.5PTT AŞ; elektronik tebligatın, tebligat çıkarmaya yetkili makam ve merciden UETS’ye, buradan da 
+muhatabın adresine teslimine ve muhataba tebliğine ilişkin delil kayıtlarını ayrı ayrı oluşturur ve her bir kaydı 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+3/9
+oluşturulduğu andan itibaren derhal ve mücbir sebepler hariç en geç 24 (yirmi dört) saat içinde tebligat çıkarmaya 
+yetkili makam ve mercie iletir.
+5.1.6PTT AŞ, Elektronik tebligata ilişkin ana ve yedek sistemleri Türkiye Cumhuriyeti sınırları içinde bulundurur.
+5.1.7PTT AŞ; UETS kapsamında görev yapan sistem yöneticileri ve operatörler ile tebligat çıkarmaya yetkili 
+makam ve merciler ve muhataplar tarafından gerçekleştirilen işlem kayıtlarını, UETS iş süreçlerinin sürekliliğini 
+veya bilgi güvenliğini tehdit eden ya da öngörülmeyen durumlara ait işlem kayıtlarını, muhatabın UETS’ye erişim 
+kayıtlarını ve delil kayıtlarını belirlenen yasal sürelerince saklamakla yükümlüdür.
+5.1.8PTT AŞ, elektronik tebligat adreslerine ilişkin bilgileri içerir güncel bir adres rehberi oluşturur ve bu rehberi 
+tebligat çıkarmaya yetkili makam ve mercilerin kullanımına sunar.
+5.1.9PTT AŞ, UETS’nin yürütülmesi için zorunlu olan hizmetler yanında bu alanla ilgili güvenilir taraf hizmetleri 
+de sunabilir.
+5.1.10 PTT AŞ, UETS’nin güvenliğini ve bu sistemde kayıtlı verilerin muhafazasını sağlayacak her türlü tedbiri 
+alır. Bunun için güvenli sistem ve cihazlar kullanır; bu sistem ve cihazlar ile bunların bulunduğu bina veya alanın 
+korunmasını sağlar.
+5.2 UETS Adres Sahibinin Sorumlulukları
+5.2.1PTT AŞ tarafından UETS kullanıcılarına, EPD.FR21 Ulusal Elektronik Tebligat Sistemi Gönderici 
+Sözleşmesi ve/veya EPD.FR20 Ulusal Elektronik Tebligat Sistemi Alıcı Sözleşmesi imzalatılmaktadır. Söz konusu 
+sözleşmelerde yer alan kural ve hükümlere alıcı ve göndericiler uymakla yükümlüdür.
+5.2.2Elektronik tebligat adres başvurusu için gerekli olan bilgi ve belgeleri tam ve doğru olarak ilgili birime 
+vermek ve elektronik tebligat adres bilgilerinde olan değişiklikleri PTT AŞ’ye derhâl bildirmekle yükümlüdür.
+5.2.3Adres sahipleri, UETS hesaplarında tanımlı bulunan işlem yetkililerinin de yaptığı her türlü iş ve işlemden 
+sorumlu olduklarını kabul etmiş sayılırlar.
+6.UYGULAMA
+6.1Başvuru İşlemleri
+6.1.1 Elektronik Tebligat Alma Zorunluluğuna Tabi Olanlar İçin Yapılacak Başvuru
+6.1.1.1Tebligatın elektronik yolla yapılması zorunlu olanlar için başvuru, zorunluluğun başladığı tarihten itibaren 1 
+(bir) ay içinde ilgili kurum, kuruluş veya birlik tarafından PTT AŞ’ye yapılır.
+6.1.1.2Başvuruya aşağıdaki bilgi ve belgeler eklenir.
+a) Kamu kurum ve kuruşları ile birlikler için Devlet Teşkilatı Merkezi Kayıt Sistemi (DETSİS)’nde yer alan 
+benzersiz numara ve sistem bilgileri, DETSİS’e kayıtlı olmayanlar için tabi oldukları sistem bilgileri,
+b) Merkezi Sicil Kayıt Sistemi (MERSİS)’ne kayıtlı tüzel kişiler için MERSİS numarası ve sistem bilgileri, 
+MERSİS’e kayıtlı olmayan tüzel kişiler için tabi oldukları sistem bilgileri,
+c) Türk vatandaşı gerçek kişiler için Türkiye Cumhuriyeti Kimlik Numarası da dâhil olmak üzere kimlik bilgileri; 
+yabancı gerçek kişiler için yabancı kimlik numarası da dâhil olmak üzere kimlik bilgileri.
+PTT AŞ, bunların dışında da bilgi ve belge talep edebilir. Buna ilişkin usul ve esaslar Adalet Bakanlığının uygun 
+görüşü alınmak suretiyle PTT AŞ tarafından belirlenir.
+6.1.2 Elektronik Tebligat Adresi Alma Zorunluluğuna Tabi Olmayanlar İçin Yapılacak Başvuru
+6.1.2.1 Online Başvuru
+Sadece gerçek kişiler PTT AŞ iş yerlerine gelmeden Ulusal Elektronik Tebligat Sistemi’nde bulunan başvuru 
+ekranından e-devlet, elektronik imza veya mobil imza ile online olarak elektronik ortamda hesaplarını açabilirler.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+4/9
+6.1.2.2 PTT AŞ İş Yerlerinden Başvuru
+Elektronik Tebligat Adresi alma zorunluluğuna tabi olmayanlar, elektronik tebligat adresi almak için PTT AŞ’ye 
+başvurabilir. PTT AŞ başvuru sahibinin kimliğini aşağıdaki bilgi ve belgelere göre tespit eder.
+a) Türk vatandaşları için kimlik numarası bulunan Türkiye Cumhuriyeti Kimlik Kartı, pasaport veya kanunen 
+kimlik yerine geçen geçerli resmî belge.
+b) Yabancılar için yabancı kimlik numarası, Mavi Kart numarası, pasaport.
+6.2 Elektronik Tebligat Adresinin Oluşturulması ve Teslimi
+6.2.1PTT AŞ; başvurunun yapıldığı tarihten itibaren 1 (bir) ay içinde elektronik tebligat adresini, gerçek kişiler 
+için kimlik bilgilerini, tüzel kişiler için ise tabi oldukları sistem bilgilerini esas almak suretiyle tek ve benzersiz 
+olacak şekilde oluşturur ve UETS’ye kaydeder.
+6.2.2PTT AŞ; tebligatın elektronik yolla yapılması zorunlu olanlar için oluşturduğu elektronik tebligat adresini, 
+adres sahibine teslim edilmek üzere ilgili kurum, kuruluş veya birliğe gönderir. Teslim işleminin gerçekleştiği 
+bilgisi kendisine iletildikten sonra bu adresi tebligatı çıkarmaya yetkili makam ve mercilerin kullanımına derhal 
+sunar.
+6.2.3PTT AŞ, isteğe bağlı elektronik tebligat adresi alanlar için oluşturduğu elektronik tebligat adresini ilgilisine 
+güvenli bir şekilde teslim eder ve bu adresi tebligatı çıkarmaya yetkili makam ve mercilerin kullanımına derhal 
+sunar.
+6.3 Elektronik Tebligatın Hazırlanması ve Muhataba Ulaştırılması
+6.3.1Tebligat çıkarmaya yetkili makam ve merci, elektronik tebligat mesajını hazırlayarak UETS’ye teslim eder.
+6.3.2UETS elektronik tebligat mesajını zaman damgasıyla ilişkilendirerek muhatabın elektronik tebligat adresine 
+ulaştırır. Gizliliğin sağlanması amacıyla tebliğ edilecek içerik ve ekli dokümanlar UETS tarafından şifrelenir ve 
+bunlar ancak muhatap tarafından görüntülenebilir.
+6.3.3Gerek UETS içi ve gerekse sistemler arası entegrasyon yoluyla yapılan tebligata ait delil kayıtları, elektronik 
+tebligat mesajının tamamının ulaştığı anda üretilir.
+6.3.4Elektronik yolla tebligat; idareleri, kamu iktisadi teşebbüslerini veya sermayesinin yüzde ellisinden fazlası 
+kamuya ait diğer ortaklıkları adli ve idari yargı mercileri, icra müdürlükleri veya hakemler nezdinde vekil sıfatıyla 
+temsile yetkili olan kişilerin bağlı bulunduğu birime yapılır. Temsile yetkili olan kişilerin ayrı bir elektronik tebligat 
+adresinin bulunması bu kuralın uygulanmasına engel olmaz.
+6.3.5Elektronik yolla tebligat, muhatabın elektronik tebligat adresine ulaştığı tarihi izleyen beşinci günün sonunda 
+yapılmış sayılır.
+6.4Muhatabın Bilgilendirilmesi
+6.4.1Elektronik tebligat adresine elektronik tebligat mesajı ulaştığı konusunda bilgilendirilmek isteyen muhatap, 
+elektronik posta adresi veya kısa mesaj alma özelliği olan bir telefon numarasını PTT AŞ’ye bildirerek doğrulama 
+yapmak zorundadır.
+6.4.2Elektronik tebligat, muhatabın adresine ulaştığı anda PTT AŞ tarafından muhataba bilgilendirme mesajı 
+iletilir. Bu mesaj kısa mesaj alma özelliği olan telefona ücreti mukabilinde, elektronik posta adresine ise ücretsiz 
+olarak gönderilir.
+6.4.3Tüzel hesaplara iletilen tebligatlara ilişkin bildirimler işlem yetkilisinin hesabında kayıtlı ve doğrulanmış 
+olarak bulunan iletişim adreslerine iletilir.
+6.4.4Bilgilendirmelerin herhangi bir nedenle yapılamamış veya geç yapılmış olması tebligatın geçerliliğini 
+etkilemez.
+6.4.5Muhatabın bilgilendirilmesine ilişkin işlem kayıtları UETS tarafından tutulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+5/9
+6.5Muhatabın Elektronik Tebligat Adresine Erişimi
+Muhatap elektronik tebligat hesabına https://ptt.etebligat.gov.tr/login ’den;
+a) Güvenli elektronik imzasını veya mobil imzasını kullanarak,
+b) e-Devlet kapısı üzerinden kimlik doğrulaması yaparak,
+c) PTT AŞ tarafından verilen şifre ile birlikte telefonuna kısa mesajla gelen tek kullanımlık doğrulama kodunu 
+kullanarak erişir.
+6.6 Elektronik Tebligatın Muhatabın Adresine Ulaşmasına Dair Delil Kaydının Bildirimi
+UETS, elektronik tebligatın muhatabın adresine ulaşıp ulaşmadığına dair delil kayıtlarını tutar ve bu kayıtları, 
+tebligat çıkarmaya yetkili makam ve mercie derhâl ve en geç 24 (yirmi dört) saat içinde bildirir. Süresinde bildirim 
+yapılmadığı için yeniden elektronik tebligat çıkarılması durumunda bu tebligatın masrafı PTT AŞ tarafından 
+karşılanır.
+6.7 Ana ve Alt İşlem Yetkilisinin Görevleri
+6.7.1Tüzel kişiler; zorunlu ve isteğe bağlı olarak almış oldukları elektronik tebligat adresi için en az 1 (bir), en 
+fazla 10 (on) ana işlem yetkilisi belirleyerek PTT AŞ’ye bildirir.
+6.7.2Ana işlem yetkilisinin görev ve yetkileri: alt işlem yetkililerini belirlemek, bunları UETS’ye eklemek veya 
+çıkarmak, UETS’de alt işlem yetkililerine rol tanımlamak, gerektiğinde alt işlem yetkililerinin yapacağı tüm 
+işlemler ile diğer teknik işlemleri yürütmektir.
+6.7.3Alt işlem yetkilisi, ana işlem yetkilisince kendisine verilen yetki kapsamında verilere ulaşabilir.
+6.8İşlem ve Delil Kayıtlarının Muhafazası ve Arşivlenmesi
+6.8.1İşlem ve delil kayıtları erişilebilir şekilde, güvenliği, gizliliği ve bütünlüğü sağlanarak aşağıda belirtilen 
+süreler kadar arşivde muhafaza edilir.
+a) UETS kapsamında görev yapan sistem yöneticileri ve operatörler ile tebligat çıkarmaya yetkili makam ve 
+merciler ve muhataplar tarafından gerçekleştirilen işlem kayıtları 10 (on) yıl,
+b) UETS iş süreçlerinin sürekliliğini veya bilgi güvenliğini tehdit eden ya da öngörülemeyen durumlara ait işlem 
+kayıtları 10 (on) yıl,
+c) Muhatabın UETS’ye erişim kayıtları 10 (on) yıl,
+ç) Delil kayıtları 30 (otuz) yıl.
+6.8.2İşlem ve delil kayıtlarının silinmesi en az bir defa denetimden geçmiş olması şartına bağlıdır.
+6.8.3PTT AŞ, talep halinde elektronik tebligata ilişkin işlem ve delil kayıtlarını yetkili mercilere elektronik 
+ortamda sunmakla yükümlüdür.
+6.9Tebligatın Elektronik Yolla Yapılamaması
+Elektronik yolla tebligatın, zorunlu bir sebeple yapılamaması hâlinde 7201 Sayılı Tebligat Kanunu’nda belirtilen 
+diğer usullerle tebligat yapılır.
+6.10 Elektronik Tebligat Adresinin Kullanıma Kapatılması
+6.10.1PTT AŞ, adres kapatma taleplerini 7 (yedi) gün, 24 (yirmi dört) saat esasına göre kesintisiz olarak alır.
+6.10.2Elektronik tebligat alma zorunluluğuna tabi olanlar için tebligatın elektronik yolla yapılması zorunluluğu 
+ortadan kalktığı takdirde, ilgili kurum, kuruluş veya birlik tarafından 1 (bir) ay içinde PTT AŞ’ye gerekli bildirim 
+yapılır. Bildirim tarihinden itibaren 1 (bir) ay içinde PTT AŞ tarafından adres kullanıma kapatılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+6/9
+6.10.3Elektronik tebligat alma zorunluluğuna tabi olmayanlar için ilgilinin talebi üzerine talep tarihinden itibaren 
+1 (bir) ay içinde PTT AŞ tarafından elektronik tebligat adresi kullanıma kapatılır.
+6.10.4Kısıtlılık, ceza infaz kurumuna girme, askerlik hizmeti ve iflas gibi hukuki ve fiili sebeplerle elektronik 
+tebligat hizmetinden yararlanma imkânı ortadan kalkmış muhatabın elektronik tebligat adresi, ilgilisinin bildirimi 
+üzerine PTT AŞ tarafından kullanıma kapatılır.
+6.10.5Kapatma işlemi ilgili kurum, kuruluş veya birlikler ile PTT AŞ’nin sistemi arasında sağlanacak entegrasyon 
+çerçevesinde otomatik olarak da yapılabilir.
+6.11 Kapatma Sonrası İşlemler
+6.11.1Elektronik tebligat adresinin kullanıma kapatıldığı an, zaman damgasıyla kayıt altına alınır ve kapatma 
+işlemi, ilgilinin (varsa) kayıtlı ve doğrulanmış elektronik posta adresine veya telefon numarasına bildirilir.
+6.11.2Kullanıma kapatılan elektronik tebligat adresine tebligat yapılamaz; ancak elektronik tebligat adresi 6 (altı) 
+ay süreyle adres sahibinin erişimine açık tutulur. Süre dolduğunda adres tamamen erişime kapatılır.
+6.11.3PTT AŞ kullanıma kapatılan elektronik tebligat adresine ilişkin işlem ve delil kayıtlarını, ön görülen süreler 
+boyunca güvenliğini, gizliliğini ve bütünlüğünü sağlayarak muhafaza eder.
+6.12Kapatılan Hesabın Yeniden Açılması
+PTT AŞ tarafından kullanıma kapatılan elektronik tebligat adresi, farklı bir kullanıcıya tahsis edilemez. Sadece 
+gerçek kişiler için, kullanıma kapatılan elektronik tebligat hesabı ancak hesap sahibinin tekrar talep etmesi, bunun 
+için yeniden tahsis başvurusu yapması, kimlik tespiti için gerekli resmi kimlik belgelerini sağlaması halinde tekrar 
+kullanıma açılır.
+6.13 UETS Hesap Kullanımından Doğacak Hukuki Sonuçlar
+PTT AŞ’nin oluşturduğu elektronik tebligat delilleri senet hükmündedir ve aksi ispat edilinceye kadar kesin delil 
+sayılır. Hesap sahibi tarafından elektronik tebligat hesabı kullanılarak gerçekleştirilen tüm işlemlere ilişkin hukuki 
+sonuçlar hesap sahibi üzerinde doğar.
+6.14 UETS Hesapları ve UETS Adres Rehberi’ne İlişkin Esaslar
+6.14.1UETS adreslerine ve Adres Rehberi’ne ilişkin kriterler “Ulusal Elektronik Tebligat Sistemi Rehberi ve 
+Ulusal Elektronik Tebligat Hesabı Adreslerine İlişkin Usul ve Esaslar” dokümanına uygun olarak yürütülmektedir.
+6.14.2Ulusal Elektronik Tebligat Sistemi (UETS) Rehberi sorgulamaları, gerçek kişiler için T.C. Kimlik 
+Numarası, pasaport numarası, yabancı kimlik numarası, Mavi Kart Numarası, UETS hesap numarası; tüzel kişilikler 
+için DETSİS, MERSİS ve vergi numarası, UETS hesap numarası ile yapılır.
+6.14.3UETS’de kayıtlı tüm hesapların (kamu, gerçek ve tüzel) rehber kaydına, hesap sahibinin onayı alınmaksızın 
+UETS Rehberi’nde yer verilir.
+6.14.4Her UETS hesabı için sadece bir tane rehber kaydı oluşturulur.
+6.14.5UETS Rehberi’ne ilişkin tüm bilgilerin gizliliği, bütünlüğü ve erişilebilirliği sağlanarak ilgili mevzuat ile 
+belirlenen süre boyunca saklanır.
+6.14.6UETS Rehberi’ne yetkisiz erişimler engellenir.
+6.14.7Tebligat çıkarmaya yetkili makam ve merci UETS Rehberi’ni, PTT AŞ vasıtasıyla sorgulayabilir. PTT AŞ, 
+göndericiden gelen sorgu talebini derhal alarak UETS Rehberi’nde sorgulama ve tüm sorgu sonuçlarını birleştirerek 
+anlaşılabilir bir şekilde hesap sahibine sunma işlemlerini gerçekleştirir.
+6.14.8PTT AŞ, rehber kaydında meydana gelen değişiklikleri dikkate alarak UETS Rehberi’ni derhal günceller.
+6.14.9Hesap sahipleri, rehber kaydının silinmesi talebinde bulunamazlar. Kapanan UETS hesabına ilişkin rehber 
+kaydı PTT AŞ tarafından derhal silinir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+7/9
+6.15 Delil Kayıtları
+6.15.1Gerek UETS içi ve gerekse sistemler arası entegrasyon yoluyla yapılan tebligata ait delil kayıtları, 
+elektronik tebligat mesajının tamamının teslim edildiği anda üretilir.
+6.15.2UETS, elektronik tebligatın muhatabın adresine teslim edilip edilmediğine dair delil kayıtlarını tutar ve bu 
+kayıtları, tebligat çıkarmaya yetkili makam ve mercie derhal ve en geç 24 (yirmi dört) saat içinde bildirir. Süresinde 
+bildirim yapılmadığı için yeniden elektronik tebligat çıkarılması durumunda bu tebligatın masrafı PTT AŞ 
+tarafından karşılanır.
+6.15.3Delil kayıtları, aksi ispat edilmedikçe kesin delil sayılır.
+6.15.4Elektronik tebligatın; tebligat çıkarmaya yetkili makam ve merciden UETS'ye, buradan da muhatabın 
+adresine ulaştığına, okunduğuna ve usulen tebliğ edilmiş sayıldığına dair delil kayıtları ayrı ayrı oluşturulur ve her 
+bir kayıt oluşturulduğu andan itibaren derhal ve en geç 24 (yirmi dört) saat içinde tebligat çıkarmaya yetkili makam 
+ve mercie iletilir.
+6.16 Gizlilik ve Kişisel Veriler
+6.16.1PTT AŞ ve hesap sahipleri, birbirlerine ilişkin öğrenmiş oldukları her türlü ürün, hizmet, yazılım, fikri 
+haklar, materyal vb. herhangi bir bilgiyi üçüncü taraflara aktaramaz, bunların içeriği hakkında açıklama yapamazlar. 
+Taraflar mevzuat gereği bu gizli bilgileri üçüncü kişilere iletmekle yükümlü kaldığı haller saklıdır.
+6.16.2PTT AŞ, UETS aracılığıyla ve elektronik tebligat hizmeti vermesi sebebiyle öğrendiği muhataba ait verileri 
+ancak hesap sahibinin açık rızasıyla veya mevzuattan kaynaklanan hallerde ve mevzuatta belirlenen amaçlara göre 
+işleyebilir ve üçüncü kişilerle paylaşabilir.
+6.16.3Hesap sahibi, UETS hizmeti ile öğrenilen kişisel verilerine erişme, kişisel verilerinin işlenip işlenmediğini, 
+bu verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme, kişisel verilerin 
+aktarıldığı üçüncü kişileri bilme ve kişisel verilerin eksik veya yanlış işlenmiş olması halinde düzeltilmesini talep 
+etme hakkına sahiptir. Bu başvuru yazılı olarak PTT AŞ Genel Müdürlüğü, Şehit Teğmen Kalmaz Caddesi No:2 
+06101 Ulus, Altındağ/ ANKARA” adresine, ya da PTT AŞ’nin KEP adresi olan ptt@hs01.kep.tr adresine yapılır.
+6.16.4Kişisel veriler, sözlü, yazılı veya elektronik yöntemlerle, UETS hizmetinin verilebilmesi ve bu kapsamda 
+yasal yükümlülüklerle sözleşmeden kaynaklanan hizmetlerin ifası amacıyla işlenmekte ve aktarılmaktadır. PTT AŞ 
+sözleşme kapsamında işlenecek kişisel verileri, UETS vasıtasıyla sunulacak hizmetler ve muhatabın talep edeceği 
+üçüncü taraf hizmetleri kapsamında kullanacaktır. İşlenen kişisel veriler Kanun ve Elektronik Tebligat Yönetmeliği 
+Hükümleri gereğince, tebligatı çıkarmaya yetkili mercilerle, kanunen talepte bulunmaya yetkili adli ve idari 
+makamlarla paylaşılabilecektir.
+6.16.5Hesap sahibi, kişisel verilerin mevzuattan kaynaklanan bir zorunluluk nedeniyle işlendiği ve üçüncü 
+kişilerle paylaşıldığı haller dışında kişisel verilerinin silinmesini talep etme hakkına sahiptir.
+6.16.6Gizliliğe ait hükümler UETS Alıcı/Gönderici Sözleşmesi’nin her ne şekilde olursa olsun iptali veya diğer 
+bir şekilde son bulması halinde dahi yürürlükte kalacaktır.
+6.17 Mücbir Sebep
+6.17.1PTT AŞ ve hesap sahipleri, grev-lokavt, yangın, savaş, terör eylemleri, sözleşmenin imzalanmasından sonra 
+yapılan mevzuat değişiklikleri, hükümet uygulamaları, doğal afetler, yetkili mercilerin karar ve emirleri sebebiyle 
+taahhütlerin kısmen/tamamen yerine getirilememesi hallerini içermek ve bunlarla sınırlı olmamak şartıyla, makul 
+kontrolleri dışında olaylardan ve mücbir sebeplerden dolayı UETS Alıcı/Gönderici Sözleşmesi’nden doğan 
+yükümlülüklerini yerine getiremez veya getirmekte gecikirlerse, bundan sorumlu tutulmayacak veya temerrüde 
+düşmüş sayılmayacaktır. 
+6.17.2PTT AŞ veya hesap sahipleri, mücbir sebep dolayısıyla UETS Alıcı/Gönderici Sözleşmesi’nden doğan 
+yükümlülüklerini yerine getiremez veya getirmekte gecikirse, mümkün olan en kısa sürede, mücbir sebebe yol açan 
+koşulların niteliğini ve derecesini diğer tarafa yazılı olarak bildirecektir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+8/9
+6.17.3Mücbir sebep 30 (otuz) günden fazla sürerse, mücbir sebepten etkilenmeyen taraf 30 (otuz) gün öncesinden 
+yazılı bildirimde bulunarak UETS Alıcı/Gönderici Sözleşmesi’ni feshedebilir. Mücbir sebep 30 (otuz) günden az 
+sürer ancak taraflardan herhangi birini, sözleşmeden bekledikleri kazanımlardan mahrum bırakması söz konusu 
+olursa, bu şekilde kazanımlarından mahrum kalan taraf sözleşmeyi yazılı bildirimle tek taraflı olarak derhal 
+feshedebilir.
+6.18 UETS’nin İşleyişi ve Teknik Hususlar
+UETS’nin işleyişi ve teknik hususlara ilişkin kriterler “Ulusal Elektronik Tebligat Sistemi ile İlgili Teknik 
+Kriterlere İlişkin Usul ve Esaslar” dokümanına uygun olarak yürütülmektedir.
+6.19 Ücretlendirme
+6.19.1 Hizmetin Ücretlendirilmesi
+6.19.1.1PTT AŞ, elektronik tebligat hizmeti karşılığında alacağı bedele ilişkin ücret tarifesini Kanun hükümleri 
+çerçevesinde belirleyerek resmî internet sayfasında yayımlar.
+6.19.1.2Elektronik tebligat hizmetine ilişkin ücretlerin ödenmesinde öncelikle, her adres sahibi için UETS hesabı 
+ile ilişkilendirilmiş olan UETS hesap bakiyesi kullanılacaktır.
+6.19.1.3Elektronik tebligat hizmetine ilişkin ücretler, hesap sahibinin UETS hesap bakiyesinden anlık olarak tahsil 
+edilecektir.
+6.19.1.4PTT AŞ, kısa mesaj alma özellikli telefon numarasına bilgilendirme mesajı gönderirken anlık olarak kısa 
+mesaj gönderim ücreti olması halinde gerekli ücreti UETS hesap bakiyesinden tahsil eder. Söz konusu bakiyenin 
+yetersiz olması durumunda kısa mesaj gönderilmez.
+6.19.1.5PTT AŞ UETS hesabına gelen elektronik tebligatları saklama süresince saklar. Bunun için PTT AŞ 
+tarafından her bir tebligat hesabı için 100 (yüz) MB depolama alanı ücretsiz olarak sunulur. Muhafaza kapasitesi 
+(depolama alanı) dolan hesaplarda yer alan tebligatlar, usulen tebliğ edilmiş sayıldığı tarihten başlamak üzere en az 
+6 (altı) ay boyunca muhatabın erişimine açık tutulmak kaydıyla eski tarihliden başlanarak silinir. Hesap sahiplerinin 
+talep etmeleri durumunda PTT AŞ, ek arşiv alanı hizmetini ücreti mukabilinde sunar.
+6.19.2 Katma Değerli Hizmetler ile İlgili Ücretler
+PTT AŞ, adres sahiplerine sunduğu güvenli iletişim, güvenli arşivleme/saklama, alternatif iletişim kanallarıyla 
+bilgilendirme, entegrasyon hizmeti gibi katma değerli diğer hizmetlerine ilişkin tüm ücretleri belirlemekte 
+serbesttir.
+6.19.3 Ücretlerin Duyurulması
+PTT AŞ, e-tebligat ileti ve katma değerli hizmetleriyle ilgili ücretleri ve liste fiyatları kurumsal internet sitesinde 
+yayımlar. PTT AŞ, bu ücretlerde her zaman değişiklik, özel kampanya veya indirim yapma hakkını tamamen saklı 
+tutar.
+6.20 Denetim
+Bakanlık, PTT AŞ’nin elektronik tebligat hizmetini mevzuata uygun olarak verip vermediğini resen veya şikâyet 
+üzerine her zaman denetleyebilir.
+7.ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Ulusal Elektronik Tebligat Sistemi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR02
+İlk Yayım Tarihi
+22.11.2023
+Revizyon Tarihi
+31.01.2025
+Revizyon No
+1
+Sayfa Sayısı
+9/9
+10.REFERANS DOKÜMANLAR
+EPD.FR20-Ulusal Elektronik Tebligat Sistemi Alıcı Sözleşmesi
+EPD.FR21-Ulusal Elektronik Tebligat Sistemi Gönderici Sözleşmesi
+EPD.UE01-Ulusal Elektronik Tebligat Sistemi Rehberi ve Ulusal Elektronik Tebligat Hesabı Adreslerine İlişkin 
+Usul ve Esaslar
+KN.005-5070 Sayılı Elektronik İmza Kanunu
+KN.042-Tebligat Kanunu
+USE.002-Ulusal Elektronik Tebligat Sistemi ile İlgili Teknik Kriterlere İlişkin Usul ve Esaslar
+YNT.036-Elektronik Tebligat Yönetmeliği
+11.REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 31.01.2025
+Hukuk Müşavirliği görüşü doğrultusunda UETS Alıcı ve Gönderici 
+Sözleşmelerine mücbir sebep maddesi eklenmiş olup aynı maddenin 
+Prosedür'de de yer almasına ihtiyaç duyulmuştur. 
+0 22.11.2023 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

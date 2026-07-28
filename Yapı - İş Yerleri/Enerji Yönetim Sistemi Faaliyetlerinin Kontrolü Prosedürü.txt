@@ -1,0 +1,640 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+YAPI DAİRE BAŞKANLIĞI 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/11
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinin enerji yönetimi uygulamalarının 
+düzenlenmesi, enerji verilerinin toplanması, enerji tüketimleri ve önemli enerji tüketim alanlarının belirlenmesi, 
+enerji performans göstergeleri ve referans çizgilerinin tespit edilmesi, enerji tüketimlerinin analiz edilerek tüm 
+faaliyet alanlarında verilen hizmetlerde enerji yönetiminin ve enerji verimliliğinin sağlanması ve iyileştirilmesine 
+ilişkin yöntemleri ve sorumlulukları belirlemektir. 
+2. KAPSAM
+Bu prosedür, Enerji Yönetim Sistemini etkileyebilecek tüm faaliyetleri ve birimleri kapsar.
+3. DAYANAK 
+Bu prosedür, 5627 sayılı Enerji Verimliliği Kanunu ve Kanuna bağlı mevzuata uygun olarak; Posta ve Telgraf 
+Teşkilatı Anonim Şirketinde uygulanan TS EN ISO 50001 Enerji Yönetim Sistemi Standardının “6.3 Enerji 
+gözden geçirmesi, 6.4 Enerji performansı göstergeleri, 6.5 Enerji referans çizgisi” maddelerine dayanılarak 
+hazırlanmıştır. 
+4. TANIMLAR VE KISALTMALAR 
+4.1Bakanlık: T.C. Enerji ve Tabii Kaynaklar Bakanlığıdır.
+4.2 Bina Enerji Verimliliği Sorumlusu: Kanun kapsamına giren binalarda Enerji Yöneticisi ile birlikte çalışan 
+mühendislik, mimarlık veya teknik eğitim fakültelerinde eğitim almış, bunun da mümkün olmaması halinde diğer 
+alanlarda lisans veya meslek yüksekokul eğitimi almış, enerji yönetimi ile ilgili faaliyetleri yerine getirmekle 
+sorumlu personeldir.
+4.3 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir. 
+4.4 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, 
+Birim Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür.
+4.5 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.6 Düzeltici Faaliyet (DF): Tespit edilen uygunsuzluğun sebebini ortadan kaldırmak, gidermek ve tekrarını 
+önlemek için yapılan faaliyettir.
+4.7 Enerji: Yenilenebilir enerji dahil satın alınabilen, depolanabilen, işleme tabi tutulabilen, donanımda veya bir 
+proseste kullanılabilen ya da geri kazanılabilen çeşitli enerji türleridir.
+4.8 Enerji Gözden Geçirmesi (EGG): Enerji verimliliğinin, enerji kullanımının ve enerji tüketiminin veriler ve 
+diğer bilgilere dayalı olarak, Önemli Enerji Kullanımlarının ve enerji performansı iyileştirmesi fırsatlarının 
+tanımlanmasıyla sonuçlanan analizidir.
+4.9 Enerji Performansı: Enerji verimliliği, enerji kullanımı ve enerji tüketimi ile ilgili ölçülebilir 
+sonuç/sonuçlardır.
+4.10 Enerji Performans Göstergesi (EnPG): Kuruluş tarafından tanımlanan, enerji performansının ölçüsü veya 
+birimidir.
+4.11  Enerji Performans Göstergesi Değeri (EnPG değeri): EnPG’nin, belirtilen süre içinde veya üzerinden 
+nicelleştirilmesidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/11
+4.12  Enerji Performansı İyileştirmesi: Enerji verimliliğinin veya enerji tüketiminin ölçülebilir sonuçlarında 
+enerji referans çizgisine kıyasla, enerji kullanımına ilişkin iyileştirmedir.
+4.13  Enerji Referans Çizgisi (EnRÇ): Enerji performansının karşılaştırılmasına temel oluşturan 
+referans/referanslardır.
+4.14 Enerji Tüketimi: Kullanılan enerji miktarıdır.
+4.15 Enerji Verimliliği: Bir faaliyet, mal, hizmet veya enerji çıktısı ile bir enerji girdisi arasındaki oran veya 
+diğer nicel bağlantılardır.
+4.16 Enerji Yöneticisi: Kanun kapsamına giren binalarda enerji yönetimi ile ilgili faaliyetleri yerine getirmekle 
+sorumlu ve enerji yöneticisi sertifikasına sahip kişidir.
+4.17 Enerji Yönetim Birimi: Enerji yönetimi uygulamalarını gerçekleştirmek üzere; kapsamdaki binalarda 
+enerji kimlik belgesinin alınması, bina kontrolleri, denetim faaliyetleri, enerji ihtiyacının tespiti, bina 
+envanterlerinin oluşturulması ve güncel tutulması, enerjinin uzaktan takibi ve otomasyonu, enerji yönetimi, enerji 
+kültürü ve verimlilik bilincinin geliştirilmesi amacıyla Üst Yönetime karşı sorumlu olacak şekilde oluşturulan 
+yapıdır.
+4.18 Enerji Yönetim Ekibi: Enerji Yönetim Sistemi faaliyetlerinin etkin olarak uygulanması ve enerji 
+performansında iyileştirmeler sağlanmasından sorumlu kişi/kişilerdir.
+4.19 Entegre Yönetim Sistemi (EYS): PTT AŞ’de uygulanmakta olan Kalite, Müşteri Memnuniyeti, Bilgi 
+Güvenliği, İş Sağlığı ve Güvenliği, Çevre ve Enerji Yönetim Sistemlerinin birbirleriyle uyumlu olarak entegre 
+edildiği sistemdir.
+4.20   EnYS: TSE EN ISO 50001 Enerji Yönetim Sistemidir.
+4.21 Etüt: Enerji verimliliğinin artırılmasına yönelik imkânların ortaya çıkarılması için yapılan, bilgi toplama, 
+ölçüm, değerlendirme ve raporlama aşamalarından oluşan; enerji tasarruf potansiyellerini ve bu potansiyellerin 
+geri kazanılmasına yönelik önlemleri ölçüm, hesap ve piyasa araştırmaları ile
+belirleyen ve Bakanlık tarafından yayımlanan usul ve esaslara uygun şekilde yapılan çalışmalardır.
+4.22   EYS (QDMS) Yazılımı: Şirket içerisinde yönetim sistemleri iş ve işlemlerinin yürütüldüğü yazılımıdır. 
+4.23   Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.24 Ölçme: Bir değerin tayini için gerçekleştirilen süreçtir. 
+4.25 Önemli Enerji Kullanımı (ÖEK): Önemli miktarda enerji tüketimi ile sonuçlanan ve/veya enerji 
+performansı iyileştirmesi için kayda değer potansiyel sunan enerji kullanımıdır.
+4.26 Performans: Ölçülebilir sonuçtur.
+4.27 PTT Müdürlükleri: Taşra Teşkilatında Teknik Müdürlükler/Müdürlükler (İhtisas) dışında kalan 
+müdürlüklerdir.
+4.28Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir. 
+4.29Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.30 Üst Yönetim: Yönetim Kurulu Başkanı ve Üyeleri, Genel Müdür, Genel Müdür Yardımcıları ile Birim Üst 
+Yöneticileridir.
+4.31 Yönetimin Gözden Geçirmesi (YGG): Üst Yönetim tarafından yönetim sisteminin politikaya, amaçlara 
+uygunluğu, yeterlilik ve etkinliği durumunu, kuruluşun stratejik yönü ile uyumluluğunu değerlendirmek için 
+planlanan aralıklarla yapılan faaliyetlerdir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/11
+5. SORUMLULUKLAR
+Enerji Yönetim Sistemi ile ilgili sorumluluklar aşağıda belirtilmiştir.
+5.1 Üst Yönetim
+a) Enerji Yönetim Sisteminin kapsamının ve sınırlarının oluşturulması,
+b) Enerji politikasının, amaçlarının ve hedeflerinin oluşturulması ve kuruluşun stratejik yönü ile uyumluluğunun 
+sağlanması,
+c) Enerji Yönetim Sistemi için gerekli kaynakların sağlanması,
+ç)  Etkili enerji yönetiminin ve EnYS gerekliliklerine uygunluğun sağlanması,
+d) Enerji performansını etkileyen, enerji bakımından verimli ürün ve hizmetlerin tedarik edilmesi,
+e) Enerji Yönetim Sisteminin amaçlanan çıktılarına ulaşması,
+f) Enerji performansı ve Enerji Yönetim Sisteminin sürekli iyileştirilmesi ve desteklenmesi,
+g) Enerji yönetim ekibinin oluşturulması,
+ğ) Enerji Yönetim Sisteminin etkinliğine ve enerji performansının iyileştirilmesine katkı sağlayacak personelin 
+yönlendirilmesi ve desteklenmesi,
+h) Enerji Yönetim Sistemi kapsamı ve sınırları çerçevesinde enerji performansını etkileyen değişiklikleri 
+tanımlayacak şekilde süreçlerin oluşturulması ve uygulanması. 
+5.2 Enerji Yönetim Birimi
+a)  Şirkete bağlı binalarda, özgül enerji tüketiminin, enerji maliyetlerinin, birimlerin
+enerji yoğunluğunun izlenmesi ve bunları iyileştirici öneriler hazırlanması, koordinasyonun
+sağlanması,
+b) Enerji ihtiyaçlarının ve verimlilik artırıcı uygulamaların planlarının, bütçe ihtiyaçlarının, fayda
+ve maliyet analizlerinin hazırlanması ve ilgili makamlara sunulması,
+c) Her yıl enerji tüketimi ve maliyetlerinin izlenmesi ve değerlendirilmesi; yakın, orta ve uzun
+vadede enerji tasarrufu planlarının hazırlanıp ilgili makamlara sunulması,
+ç) Enerji kullanımına ve enerji yönetimi konusunda yapılan çalışmalara ilişkin yıllık bilgilerin
+her yıl mart ayı sonuna kadar Bakanlığın Enerji Verimliliği Portalına veri girişlerinin yapılmasının
+ve gönderilmesinin takibinin yapılması,
+d)Şirket bünyesindeki binalarda enerji yönetim faaliyetlerinin belgelendirmeye esas olan yürürlükteki TS EN ISO 
+50001 Enerji Yönetim Sistemi-Kullanım Kılavuzu ve Şartlar Standardına uygun şekilde yürütülmesi veya 
+yürütülmesinin sağlanması,
+e)Şirket binalarında enerji yönetimi konusunda hedef ve öncelikleri tanımlayan bir enerji politikasının 
+oluşturulması, enerji yöneticisinin veya enerji yönetim biriminin hiyerarşik yapı içindeki yerinin görev, yetki ve 
+sorumluluklarının tanımlanması, bunları yazılı kurallar halinde yayımlamak suretiyle tüm çalışanların ve enerji 
+yönetimi faaliyetleri ile ilgili kişilerin bunlardan haberdar edilmesi,
+f)Şirket binalarında, tüketim alışkanlıklarının iyileştirilmesi ile tasarruf kültürünün
+oluşmasına yönelik prosedürlerin belirlenmesi, uygulamaların takip edilmesi,
+g) Enerji tüketen cihazların verimliliklerinin izlenmesi, bakım ve kalibrasyonların birimler
+tarafından yapılmasının takibinin sağlanması,
+ğ) Geçmiş yıllardaki enerji tüketimini endeks bazında hesaplayarak “Kamu Binalarında Enerji
+Tasarrufu” konulu Cumhurbaşkanlığı Genelgesi’nde belirlenen oranda tasarruf yapılması
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/11
+amacıyla plan hazırlayarak bu doğrultuda hareket edilmesinin sağlanması ve enerji tasarrufunun
+izlenmesi,
+h) Binalarda yaptırılan etütlere ilişkin raporlar ve etütler ile belirlenen önlemlerin uygulanmasına ilişkin projelerin 
+birer suretinin Bakanlığa gönderilmesinin takibinin yapılması,
+ı) Kamu Binalarında Tasarruf Hedefi ve Uygulama Rehberi’ne göre asgari enerji tasarrufu sağlanabilmesi amacıyla 
+kurum ve kuruluş faaliyetlerine uygun şekilde, birim-alan, kişi-birim, mal-birim, hizmet-birim gibi kriter başına 
+tükettikleri birim enerjilerin belirlenmesi ve Bakanlık tarafından belirlenen formatta Bakanlığa bildirilmesinin 
+takibin yapılması,
+i)Yapılan çalışmalar doğrultusunda birimlerde alınan tasarruf tedbiri uygulamalarının takip
+edilmesi ve raporlanması,
+j) Enerji kompozisyonunun değiştirilmesi ve alternatif yakıt kullanımı ile ilgili imkânların
+araştırılması; çevrenin korunmasına, CO2 emisyonların azaltılması ve sınır değerlerin
+aşılmamasına yönelik önlemlerin hazırlanması, bunların uygulanmasının koordine edilmesi,
+k) Elektrik, petrol, doğal gaz ve fuel-oil kullanımının azaltılması ve yenilenebilir enerji kullanımını teşvik etmek 
+amacıyla önerilerde bulunulması,
+l) Enerji verimliliği hakkında tanıtımlar yapılması ve gerektiğinde eğitim programlarının
+düzenlenmesi,
+m) Enerji tüketiminin azaltılması için çalışanları bilinçlendirmek amacıyla hizmet içi eğitim seminerleri 
+düzenlenmesi,
+n)Şirketin enerji politikalarının oluşturulması ve süreç yönetimi amacıyla ilgililerle
+koordinasyon sağlanması,
+o) Enerji politikalarının oluşturulması ve süreç yönetimi amacıyla yılda bir Enerji Gözden Geçirmesi yapılması,
+ö) Enerji yönetimi ve verimliliği kapsamında toplantıların yapılması, enerji verimliliği çalışmalarının planlanması, 
+denetlenmesi, raporların hazırlanması, 
+p) Binalarda Enerji Performansı Yönetmeliği gereği Bakanlık ile iş birliğinde Enerji Kimlik Belgesi’nin 
+alınmasının sağlanması,
+r) Binaların tüketim bilgileri, fatura bilgileri vb. bilgilerin EYS (QDMS) Yazılımından takip edilmesi,
+s) Enerji etütlerinin yapılması veya yaptırılması, verimlilik arttırıcı projelerin hazırlanması ve uygulanması ile 
+ilgili araştırmalar yapılması,
+ş) Enerji yöneticisi görevlendirmekle yükümlü binalarda, enerji verimliliğinin artırılmasına yönelik tedbirlerin ve 
+bunların fayda ve maliyetlerini belirlemek üzere ihtiyaç halinde etüt yapacak firmaların belirlenmesi, 
+t) Bina ve eklentilerde enerji verimliliğinin artırılmasına yönelik etütlerle belirlenen önlemlerin uygulanmasına 
+ilişkin olarak, tasarruf veya performans garantili proje uygulamaları, periyodik bakım, onarım ve kurulumda hizmet 
+alınacak veya sözleşme yapılacak gerçek ya da tüzel kişilerin yetkilendirilmiş olması şartına uyulması,
+u) Kapsam dahilinde olan binalarda serbest tüketici indirimli elektrik için altyapı oluşturulması ve sözleşme 
+hazırlanması,
+ü) Enerji verimliliği ve yönetimi kapsamında ilgili mevzuat çerçevesinde gerekli makamlarla
+iş birliği ve koordinasyonun sağlanması ve süreçlerin yürütülmesi. 
+5.3 Enerji Yönetim Ekibi
+a) Enerji Yönetim Sisteminin oluşturulması, uygulanması, sürdürülmesi ve sürekli iyileştirilmesi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/11
+b) Enerji Yönetim Sisteminin TS EN ISO 50001 Enerji Yönetim Sistemi Standardı gerekliliklerine uygunluğunun 
+sağlanması, 
+c) Enerji Yönetim Sistemi ile ilgili faaliyet planlarının uygulanması,
+ç) Enerji Yönetim Sisteminin performansına ve enerji performansının iyileştirilmesine ilişkin Üst Yönetime düzenli 
+aralıklarla rapor verilmesi,
+d) Enerji Yönetim Sistemi uygulamaları ve kontrolünün etkili olmasını sağlamaya yönelik gerekli kriter ve 
+yöntemlerin belirlenmesi, 
+e) Enerji Yönetim Sistemi için gerekli kaynaklar hususunda Üst Yönetimin bilgilendirilmesi.
+5.4 Enerji Yöneticisi
+a)Yapı Daire Başkanlığı koordinatörlüğünde; 5627 sayılı Enerji Verimliliği Kanunu’na ve bu kanuna dayanılarak 
+çıkarılan diğer mevzuat hükümleri ile TS EN ISO 50001 Enerji Yönetim Sistemi Standardına göre veri toplama, 
+değerlendirme ve planlama, uygulama, raporlama, enerji yönetim ve verimlilikte devamlılığı sağlama 
+çalışmalarının yapılması, sonuçlarına göre kararlar alınması, uygulanması için Daire Başkanının onayına 
+sunulması, 
+b) Enerji tüketen sistemler, süreçler veya ekipmanlar üzerinde yapılabilecek tadilatların belirlenmesi ve 
+uygulanmasının koordine edilmesi,
+c) Enerji etütlerinin, verimlilik arttırıcı projelerin (VAP) yaptırılması, uygulanması ile ilgili takip ve kontrollerin 
+sağlanması,
+ç)Geçmiş yıllardaki enerji tüketimini endeks bazında hesaplayarak “Kamu Binalarında Enerji Tasarrufu” konulu 
+Cumhurbaşkanlığı Genelgesi’nde belirlenen oranda tasarruf yapılması amacıyla plan hazırlayarak bu doğrultuda 
+hareket edilmesinin sağlanması ve enerji tasarrufunun izlenmesi, 
+d) Enerji performansını etkileyen mimari, mekanik, elektrik ve aydınlatma gibi sistemler ile enerji tüketen 
+ekipmanların verimliliklerinin izlenmesi, periyodik bakım ve kalibrasyonlarının zamanında yapılmasının koordine 
+edilmesi,
+e) Enerji tüketimi ve maliyetlerin izlenmesi, değerlendirilmesi ve periyodik raporlar üretilmesi,
+f) Enerji tüketimlerini izlemek için ihtiyaç duyulan sayaç ve ölçüm cihazlarının temin edilmesi ve montajını 
+sağlamak üzere girişimlerde bulunulması,
+g) Enerji kompozisyonunun değiştirilmesi ve alternatif yakıt kullanımı ile ilgili imkânların araştırılması; çevrenin 
+korunması, emisyonların azaltılması ve sınır değerlerin aşılmamasına yönelik önlemlerin hazırlanması bunların 
+uygulamasının koordine edilmesi,
+ğ) Enerji ikmal kesintisi durumunda uygulanmak üzere petrol, doğal gaz ve fuel-oil kullanımını azaltmak amacıyla 
+alternatif planlar hazırlanması,
+h)Yakın, orta ve uzun vadede enerji tasarrufu planları ile ilgili her yılın ocak ve temmuz aylarında rapor 
+hazırlanması ve Yapı Daire Başkanlığına sunulması, 
+ı)  Enerji Verimliliği Kanunu kapsamında her yıl mart ayı sonuna kadar Bakanlığa bildirilmesi gereken bilgilerin 
+gönderilmesi, 
+i) 5627 sayılı Enerji Verimliliği Kanunu’na ve bu kanuna dayanılarak çıkarılan yönetmelik, genelge ve tebliğ 
+hükümlerine göre denetimlerin yapılması veya yaptırılması, eksikliklerin belirlenmesi, tutanak ve rapor 
+hazırlanması, Birim Üst Yöneticisinin onayına sunulması, 
+j) Enerji Verimliliği Denetim Yönetmeliği gereği Bakanlık denetçilerinin, Enerji Yönetim Biriminin yerinde 
+yapacağı denetleme ve incelemeler için talep edilen her türlü bilgi ve belgenin verilmesi ve gereken şartların 
+sağlanması,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/11
+5.5 Bina Enerji Verimliliği Sorumlusu
+a) Enerji yöneticisinin talimatları doğrultusunda iş ve işlemlerin yürütülmesinin sağlanması, bilgi ve belgelerin 
+sunulması,
+b) Bina elektrik, doğal gaz, fuel-oil vb. tüketimlerini gösteren faturaların takibi ve Enerji Yöneticisine bilgi 
+verilmesi,
+c)Görevlendirildiği binada enerji verimliliği dâhilinde, ihtiyaç duyulacak ekipman, araç ve gereçlerin 
+envanterinin çıkarılması,
+ç) Enerji tüketen cihazların bakım ve kalibrasyonlarının yapılmasının takip edilmesi,
+d) Enerji Yöneticisiyle koordineli hareket ederek belirlenen toplantılara ve eğitimlere katılması,
+e)Yapılan çalışmalar doğrultusunda alınan tasarruf tedbiri uygulamalarının takip edilmesi ve raporlanması,
+f) Enerji tüketimi ve maliyetlerin izlenmesi, değerlendirilmesi ve periyodik raporlar üretilmesi, Enerji 
+Yöneticisine sunulması. 
+5.6 Birim Üst Yöneticileri
+a) Biriminde EnYS uygulanmasının sağlanması ve takip edilmesi,
+b) Birim hizmet ve faaliyetlerinde enerji verimliliğinin ön planda tutulması,
+c) Enerji politikası ve enerji verimliliği ile ilgili çalışanların bilgilendirilmesi,
+ç) Alınan tasarruf tedbirlerinin uygulanması. 
+5.7 Birim Yöneticisi
+a)Müdürlüğünde EnYS uygulanmasının sağlanması ve takip edilmesi,
+b)Müdürlüğün hizmet ve faaliyetlerinde enerji verimliliğini ön planda tutulması,  
+c) Enerji politikası ve enerji verimliliği ile ilgili çalışanların bilgilendirilmesi,
+ç) Enerji tüketimi ve maliyetlerinin izlenmesinin takip ve kontrolünün sağlanması,
+d)Alınan tasarruf tedbirlerinin uygulanması,
+e) Talep edilen bilgi, belgelerin zamanında gönderilmesinin sağlanması. 
+5.8 Tüm Çalışanlar 
+a) Faaliyetlerinin enerji kullanım ve tüketimine etkilerinin farkında olarak enerji verimliliğinin gözetilmesi,
+b) Sorumlu bulundukları alanlar başta olmak üzere EnYS’nin ve enerji performansının artırılması maksadıyla 
+önerilerde bulunulması,
+c) Sorumlu olduğu görev ve bulunduğu birim bazında enerjinin verimli kullanılmasına ilişkin belirlenen 
+eğitimlere katılım sağlanması, 
+ç) Politika, amaç ve hedeflere uygun faaliyetlerin sürdürülmesi,
+d) Birim hizmet ve faaliyetlerinde enerji verimliliği ile ilgili çalışmalara uyulması ve alınacak tasarruf 
+tedbirlerinin uygulanması.
+6.UYGULAMA
+6.1Enerji Yönetimi Organizasyon yapısı aşağıdaki gibi oluşturulmuştur.
+a) Enerji Yönetim Birimi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/11
+b) Genel Müdürlük Enerji Yönetim Ekibi,
+c) Bölge Müdürlüğü Enerji Yönetim Ekibi,
+ç) Enerji Yöneticisi,
+d) Bina Enerji Verimliliği Sorumlusu.
+6.2 Enerji Yönetim Birimi
+Genel Müdürlükte Yapı Daire Başkanlığı tarafından görevlendirilen personelden oluşur. Bölge Müdürlüklerinde 
+Yapı ve Teknoloji Müdürlüğü, Enerji Yönetim Biriminin talimatları doğrultusunda iş ve işlemleri yürütür. 
+6.3 Genel Müdürlük Enerji Yönetim Ekibi
+Yapı Daire Başkanlığının bağlı olduğu Genel Müdür Yardımcısı, Finans ve Muhasebe Başkanlığı Başkanı veya 
+Başkan Yardımcısı, Entegre Yönetim Sistemi, Destek Hizmetleri ve Ulaşım, Posta ve Kargo Operasyonları, 
+Satınalma, Yapı, Eğitim Daire Başkanlığı Daire Başkanı veya Daire Başkan Yardımcısı, Yapı Daire Başkanlığı 
+Elektrik Hizmetleri, Enerji, Mekanik Tesisat, Mimari Hizmetler Müdürlüğü Müdürü, Entegre Yönetim Sistemi 
+Daire Başkanlığı Çevre Yönetim Sistemi Şube Müdürlüğü Müdürü, Genel Müdürlük Enerji Yöneticisinden oluşur. 
+6.4 Bölge Müdürlüğü Enerji Yönetim Ekibi
+Bölge Müdürü/Bölge Müdür Yardımcısı, Yapı ve Teknoloji, Destek Hizmetleri ve Ulaşım, Satınalma, İnsan 
+Kaynakları Müdürü, İnsan Kaynakları Müdürlüğü EYS Personeli, Bina Enerji Yöneticisi, Bina Enerji Verimliliği 
+Sorumlusu, Binanın bağlı olduğu Birim Yöneticisi, varsa Elektrik Mühendisi, Makine Mühendisi ve Mimardan 
+oluşur. 
+6.5 Enerji Yöneticisi
+Enerji Yöneticisi Sertifikası sahibi, tercihen ISO 50001 Enerji Yönetim Sistemi ile ilgili eğitimi almış olanlardan 
+görevlendirilir.
+6.6 Bina Enerji Verimliliği Sorumlusu
+Enerji Yöneticisi ile birlikte çalışmak üzere kapsam dahilindeki binalarda görev yapan mühendis, teknisyen, 
+tekniker vb. veya söz konusu ünvanda çalışan olmaması durumunda görevlendirilecek personeldir.
+6.7 Risk Belirleme Faaliyetleri
+Enerji riskleri, EYS.PR20 EYS Risk ve Fırsatların Yönetimi Prosedürü’ne göre belirlenerek riskler ile ilgili 
+önleyici tedbirler belirlenir ve bu tedbirler uygulanır. 
+6.8 Enerji Amaç, Hedef ve Programlarının Oluşturulması
+Enerji Yönetim Sistemi ile ilgili amaç ve hedefler, EYS.PR23 Hedef ve Performans Yönetimi Prosedürü’ne göre 
+belirlenir, izlenir ve sonuçlar değerlendirilir.
+6.9 Enerji Kullanım ve Tüketimlerinin Belirlenmesi
+Enerji Yönetim Ekibi, Birim Yöneticileri, Enerji Yöneticisi, Bina Enerji Verimliliği Sorumlusu ile birlikte tüm 
+enerji kullanım alanlarını dikkate alarak enerji tüketimlerini (elektrik, doğal gaz, yakıt vb.) belirler.
+6.10 Enerji Verilerinin Toplanmasının Planlanması
+6.10.1Enerji performansını etkileyen verilerin toplanmasına dair bilgiler EYS.TB25 Veri Toplama ve Analiz 
+Tablosu’nda yer alır.
+6.10.2Planda yer alan bilgiler doğrultusunda veriler ölçülür, izlenir, kayıt altına alınır.
+6.10.3Enerji performansını etkileyecek tüm veriler ve enerji tüketim (elektrik, doğal gaz ve araç yakıt vb.) 
+değerleri Enerji Yöneticisi tarafından YAP.TB33 Enerji Tüketim İzleme Tablosu’na kayıt edilir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/11
+6.10.4Süzme sayaçla takip edilen enerji tüketimleri YAP.TB37 Sayaç Takip Tablosu’na kayıt edilir. 
+6.10.5Enerji Yönetim Birimi tarafından verilerin takibi sağlanır.
+6.11 Önemli Enerji Kullanımlarının Belirlenmesi ve Enerji Gözden Geçirmesi 
+6.11.1Şirketimiz kapsam dahilindeki binalarında enerji kullanımlarının belirlenebilmesi için öncelikle enerjinin 
+kullanıldığı alanlar tespit edilerek YAP.TB34 Enerji Kullanımları Belirleme Tablosu’na yazılır.
+6.11.2YAP.TB34 Enerji Kullanımları Belirleme Tablosu’nda yer alan enerjiler, bölüm bazında YAP.LS12 
+Önemli Enerji Kullanımları Listesi’ne yazılır. ÖEK belirlenmesinde kullanılan enerji kaynağı Ton Eşdeğer Petrol 
+(TEP) değerinin %80’ini oluşturan faaliyetler ve alanlar dikkate alınır. 
+6.11.3Ayrıca, YAP.TB35 Önemli Enerji Kullanımları Belirleme Tablosu ile ÖEK’ler, bunları etkileyen 
+değişkenler ve kişiler belirlenir.
+6.11.4Enerjinin kullanım yerlerinin ve tüketim maliyetlerinin tespiti, enerji tüketimini azaltmak için yapılacak 
+hedef ve programların öncelik sıralamasına esas teşkil eder. 
+6.11.5Önemli enerji kullanımları için EYS.TB02 EYS Amaç, Hedef, Planlama ve Takip Tablosu’nda hedefler 
+belirtilerek enerji verimliliğinin ve enerji performansının arttırılması için konu ile ilgili yapılacak faaliyetler 
+tanımlanır ve çalışmalar başlatılır. 
+6.11.6Enerji Yönetim Birimi/Enerji Yöneticisi tarafından 3 (üç) aylık periyotlarda YAP.FR178 Enerji Gözden 
+Geçirme Raporu hazırlanır. Bölge Müdürlükleri tarafından hazırlanan raporlar Yapı Daire Başkanlığına gönderilir. 
+6.11.7Bu raporda geçmişteki ve mevcut enerji tüketimleri ile yapılan ölçümler, enerji tüketim maliyetleri, başlıca 
+enerji tüketim alanları, önemli enerji kullanımları (ÖEK), enerji kullanımına etki eden değişkenler (kurum 
+çalışanları, kurum adına çalışanlar, iklim değişiklikleri vb.) enerji verimliliğini etkileyen faktörler, bir sonraki 
+dönem için enerji tüketimi tahminleri ve enerji verimliliğinin artırılması için iyileştirme önerileri yer alır. 
+6.11.8Enerji performansı ve enerji kullanımları Enerji Yönetim Ekibinin katılımı ile 6 (altı) ayda bir (Ocak-
+Temmuz) gözden geçirilir. Gözden geçirme faaliyetinin organizasyonu Yapı Daire Başkanlığı/Yapı ve Teknoloji 
+Müdürlüğü tarafından yapılır.
+6.11.9 YAP.FR178 Enerji Gözden Geçirme Raporu’nda yer alan bilgiler doğrultusunda gözden geçirme yapılır. 
+Enerji performansı ve verimliliğini artırmaya yönelik kararlar alınır. Kararların takibi sağlanır.
+6.12 Enerji Performans Göstergeleri ve Enerji Referans Çizgisi 
+6.12.1Şirketimiz, Enerji Yönetim Sisteminin uygulanması ve sürdürülmesi için enerji politikasında uymayı 
+taahhüt ettiği konular başta olmak üzere mevcut enerjinin etkin ve verimli kullanılması, enerji israfının önlenmesi, 
+enerji maliyetlerinin kurum bütçesi üzerindeki yükünün hafifletilmesi, çevrenin korunması amacıyla enerji 
+verimliliğini ilk plana alır. Bu kapsamda, performans göstergeleri (tüketim miktarları, kişi, m 2, sunulan hizmet 
+başına tüketim, enerji yoğunluğu vb.) belirlenir.
+6.12.2Kapsam dahilindeki binalarda enerji performans göstergeleri, Enerji Yöneticisi tarafından belirli 
+periyotlarda ölçülüp izlenir.
+6.12.3İzleme sonucunda enerji tüketimine etki eden değişkenler belirlenir. Enerji referans çizgisi oluşturulur. 
+Enerji Referans Çizgisi YAP.FR153 Enerji Referans Çizgisi Formu’na kayıt edilir. Enerji performanslarının 
+ölçümünde ve hedef izlemelerinde veri olarak kullanılır.
+6.12.4Tüketim denklemine göre de gelecek yıla ait tüketimler tahmin edilir.
+6.12.5Bu takipler yıllık olarak YGG Toplantılarında değerlendirilir. (Enerji Tüketim Analizi enerji 
+performansındaki değişiklikler enerji referans çizgisi/çizgilerine göre ölçülmekte ve gerekli müdahaleler anlık 
+olarak yapılmaktadır.)
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/11
+6.13Bakım 
+Makine ve ekipmanlarda enerji verimliliği konusunda etkisi olabilecek bakım ve periyodik kontroller YAP.PR01 
+Yapı İşlerinde Bakım Onarım Prosedürü’ne göre yapılır. 
+6.14 Enerji Tedariki ve Satın Alma
+6.14.1Yeni malzeme, cihaz ve ekipman alımlarında çevre ve enerji performansı dikkate alınır. 
+6.14.2Satın alma işlemlerinde mümkün olduğu müddetçe çevreye duyarlı ve enerji verimliliği yüksek ekipmanlar 
+ve donanımlar tercih edilir. Enerji verimliliğini etkileyen makine, donanım ve ekipmanların temini SAT.PR04 PTT 
+AŞ Mal ve Hizmet Alımı Prosedürü’ne göre yapılır. 
+6.14.3Enerji kullanımına etki eden veya edebilecek malzeme ve ekipmanların alımı öncesinde tedarikçilerden ve 
+Enerji Yöneticisinden görüş alınır ve öneriler doğrultusunda enerji verimliliği olanlar tercih edilerek satın alma 
+işlemleri gerçekleştirilir. 
+6.14.4Enerji verimliliğini içeren şartlar tedarikçilerle yapılacak satın alma protokollerinde, şartnamelerinde ve 
+sözleşmelerinde özellikle belirtilir.
+6.15Tasarım 
+Planlanan veya beklenen çalışma ömrü boyunca enerji performansı üzerinde önemli bir etkiye sahip olabilecek yeni, 
+değiştirilmiş ve yenilenmiş tesislerin, donanımın, sistemlerin ve enerji kullanan proseslerin tasarımında enerji 
+performansını iyileştirmek için fırsatlar ve operasyonel kontroller dikkate alınır.
+Enerji performans değerlendirme sonuçları ile projelerin özellik, tasarım ve tedarik faaliyetleri ile uyumlu olması da 
+dikkate alınarak ilgili kayıtlar muhafaza edilir. 
+6.16Uygunluğun Değerlendirilmesi
+Enerji Yönetim Sistemi kapsamında uyulması gereken yasal şartların ve uygulamayı kabul ettiği diğer şartların 
+tanımlanması ve uygunluğun kontrolü EYS.PR10 Yasal ve Diğer Şartların Yönetimi ve Uygunluk Değerlendirme 
+Prosedürü’ne göre yapılır. 
+6.17  Diğer Faaliyetler 
+6.17.1 Enerji yönetiminin planlanması, koordinasyonu ve kontrolü ile birlikte, diğer yönetim sistemleri ile entegre 
+olacak şekilde enerjinin daha verimli kullanımı için çalışmalar yapılır. 
+6.17.2 Şirketimizin enerji yönetimi uygulamalarının Enerji Yönetim Sistemi standart şartlarına uygunluğu 
+EYS.PR04 İç Tetkik Prosedürü’ne göre kontrol edilir. 
+6.17.3 Enerji Yönetim Sistemi ile ilgili uygunsuzluk durumunda EYS.PR02 Düzeltici Faaliyet Prosedürü’ne göre 
+düzeltici faaliyet başlatılır. 
+6.17.4 Enerji Yönetim Sisteminin performansı yılda en az bir kez EYS.PR11 Yönetimin Gözden Geçirmesi 
+Prosedürü’ne göre üst yönetim ile birlikte gözden geçirilir.
+6.17.5 Şirketimiz EnYS ve enerji performansı hakkında görüş ve iyileştirme önerilerini toplantı, öneri şikâyet 
+kutusu, INFO vb. kanalları ile iletebilir. Görüş ve öneriler değerlendirilerek gerekli iyileştirme faaliyetleri başlatılır.
+6.17.6 Çalışanlarımıza EnYS ve enerji verimliliği konusunda eğitimler verilir. Yeni işe başlayacak olan personele 
+EGT.PR01 Eğitim Prosedürü’ne ve EGT.TL01 Oryantasyon Eğitimi Uygulama Talimatı’na göre iş başı enerji 
+farkındalık eğitimi verilir. Eğitim kayıtları çalışanın özlük dosyasında saklanır.
+6.17.7 Çalışanlar, enerji performansı ve enerji verimliliği ile ilgili bilgilendirilir, enerji performansının ve 
+verimliliğinin arttırılması için teşvik edilir. Tüm birimler hizmet ve faaliyetlerinde mevcut enerji kaynaklarını en 
+verimli bir şekilde kullanarak enerji verimliliğini ön plana alır ve tasarruf tedbirlerini uygular.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/11
+6.17.8 Hedeflere uygun olarak enerji verimliliği ile ilgili çalışmalar yapılır ve enerji verimliliği faaliyetleri için 
+YAP.TB36 Enerji Verimliliği İyileştirme Projeleri Takip Tablosu hazırlanır. 
+6.17.9 Enerji Yönetim Birimi/Enerji Yöneticisi tarafından kapsam dahilindeki binaların Enerji Yönetim Sistemi 
+uygulamalarının yerinde kontrol edilmesi ve değerlendirilmesi EGG öncesi gerçekleştirilir ve kontrol esnasında 
+YAP.DKD01 Enerji Uygulamaları Kontrol Listesi doldurulur. Gerek görülen uygunsuzluklar için düzeltici 
+faaliyetler başlatılır. 
+6.17.10Enerji Yöneticisi uygulama değerlendirmelerini ilgili form, plan ve diğer dokümanlar vasıtası ile kayıt altına 
+alır ve ilgili verileri yönetimin gözden geçirme girdilerinde veri olarak kullanılmak üzere Enerji Yönetim Birimine 
+gönderir. 
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır. 
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+EGT.PR01-Eğitim Prosedürü
+EGT.TL01-Oryantasyon Eğitimi Uygulama Talimatı
+EYS.PR02-Düzeltici Faaliyet Prosedürü
+EYS.PR10-Yasal ve Diğer Şartların Yönetimi ve Uygunluk Değerlendirme Prosedürü
+EYS.PR11-Yönetimin Gözden Geçirmesi Prosedürü
+EYS.PR20-EYS Risk ve Fırsatların Yönetimi Prosedürü
+EYS.PR23-Hedef ve Performans Yönetimi Prosedürü
+EYS.TB02-EYS Amaç, Hedef Planlama ve Takip Tablosu
+EYS.TB25-Veri Toplama ve Analiz Tablosu
+GNG.005-"Kamu Binalarında Enerji Tasarrufu” Konulu Cumhurbaşkanlığı Genelgesi
+KN.002-5627 sayılı Enerji Verimliliği Kanunu
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+STD.008-TS EN ISO 50001 Enerji Yönetim Sistemi Standardı
+YAP.DKD01-Enerji Uygulamaları Kontrol Listesi
+YAP.FR153-Enerji Referans Çizgisi Formu
+YAP.FR178-Enerji Gözden Geçirme Raporu
+YAP.LS12-Önemli Enerji Kullanımları Belirleme Listesi
+YAP.PR01-Yapı İşlerinde Bakım Onarım Prosedürü 
+YAP.TB33-Enerji Tüketim İzleme Tablosu
+YAP.TB34-Enerji Kullanımları Belirleme Tablosu
+YAP.TB35-Önemli Enerji Kullanımları Belirleme Tablosu
+YAP.TB36-Enerji Verimliliği İyileştirme Projeleri Takip Tablosu
+YAP.TB37-Sayaç Takip Tablosu
+YNT.086-Binalarda Enerji Performansı Yönetmeliği
+YNT.087-Enerji Verimliliği Denetim Yönetmeliği
+YNT.088-Enerji Kaynaklarının ve Enerjinin Kullanımında Verimliliğin Artırılmasına Dair Yönetmelik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Dokümanın Adı
+Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR08
+İlk Yayım Tarihi
+8.02.2024
+Revizyon Tarihi
+9.03.2026
+Revizyon No
+1
+Sayfa Sayısı
+11/11
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 9.03.2026 Güncellenen mevzuat gereğince ve Şirketimizin yeniden yapılanması 
+kapsamında revizyon yapılmasına ihtiyaç duyulmuştur. 
+0 8.02.2024 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

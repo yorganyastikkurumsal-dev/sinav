@@ -1,0 +1,280 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+PTTBANK DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Debit ve Prepaid Kart Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR09
+İlk Yayım Tarihi
+2.04.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/5
+1. AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketinin kendi adına ihraç ettiği ve sorumluluğunda 
+bulunan tüm debit ve prepaid (ön yüklemeli) kartlar ile kart işletim firmaları aralarında imzalanan sözleşmelerin 
+hayata geçirilmesinde PTT, iş ortağı firmalar ve sözleşme kapsamında sunulan hizmetlerden yararlananların hak, 
+yükümlülük ve sorumluluklarına ilişkin usul ve esaslar ile yetki ve sorumlulukları belirlemektir.
+2. KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi PTTBank Daire Başkanlığı, PTT Müdürlüğünde yapılan tüm 
+kartların talep ve teminine, kart sahiplerine kartların dağıtılmasına ve kart sahiplerinin kartlar ile ödeme ve kontrol 
+noktalarında ihtiyaçlarının karşılanmasına yönelik usul ve esasları kapsar. 
+3. DAYANAK 
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu’nun “Faaliyet konuları ve nitelikleri” başlıklı 22. maddesinin 
+birinci fıkrasına ve 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para 
+Kuruluşları Hakkında Kanun’a dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Ajans: Kart görsel çalışmasını yapacak Posta ve Telgraf Teşkilatı Anonim Şirketi anlaşmalı firmasını veya 
+birimdir.
+4.2 Aktif Hesap: Kişilerin PTT Müdürlüğüne başvurusu üzere açılan veya Posta ve Telgraf Teşkilatı Anonim Şirketi 
+tarafından açılıp kişilerin başvurusu ile gerekli belge/bilgiler alınarak gerekli güncellemelerin yapıldığı hesaptır.
+4.3 BDDK: Bankacılık Düzenleme ve Denetleme Kurumudur.
+4.4 Data: Kart sahibine ait her türlü kişisel veriyi ve kart üzerinde yer alacak kişi bilgileridir.
+4.5 Debit (Banka) Kart: Kart sahibinin hesabına bağlı olan, Posta ve Telgraf Teşkilatı Anonim Şirketinin temin ettiği 
+finansal işlemlerin yapılabilmesine imkân tanınan ve ödeme şeması bulunan kartıdır.
+4.6 Finansal İşlem: Pttkarttan yapılan Alternatif Dağıtım, ATM, POS vb. kanallardan gerçekleştirilen tüm parasal 
+işlemdir.
+4.7 Gizli Bilgi: Taraflar’ın diğer tarafa, sözleşmenin imzasından önce veya sonra, doğrudan veya dolaylı olarak, yazılı 
+sözlü, elektronik formatta veya sair şekillerde açıklanan veya açıklanacak, Taraf varlıkları, tesisleri, ürünleri, 
+hizmetleri, projeleri, faaliyetleri, projeksiyon ve tahminleri, planları, patent, lisans ve telif hakları gibi bütün fikri ve 
+sınai mülkiyet hakları ve mali hakları ile, ticari marka, ticari sır, her türlü iyileştirme fikri, icat, yöntem, iş ve her türlü 
+yenilik dâhil Taraflar’ın yazdığı, bulduğu, geliştirdiği, yaptığı veya uygulamaya döktüğü ve bunlarla sınırlı olmaksızın, 
+veri tabanı, bilgisayar programları ve bunların dokümanları, şifreleme teknikleri, prosesler, reklam, ambalajlama ve 
+pazarlama planları, ürün planları, teknik planlar, iş stratejileri, stratejik ittifaklar ve ortaklar,  mali bilgiler, mühendislik 
+verileri, ürün ve servislere ait veriler, her türlü yöntem ve prosesler,  tahminler, personel bilgileri, müşteri listeleri, 
+potansiyel ve gerçek müşterilerin kimliği ve diğer tüm kişisel veriler, ticari sırlar, ürün tasarım kabiliyetleri, 
+şartnameler, tedarikçiler ve Taraflar’dan birinin diğer Taraf’a temin ettiği her türlü doküman, malzeme, bilgi ve 
+belgeler dahil, her türlü şifahi, yazılı, grafiksel veya makine veya bilgisayarlarda okunabilir bilgi “Gizli Bilgi” olarak 
+kabul edilir. Gizli Bilgi ve verilerin, yazılı olarak gizli ve/veya müseccel oldukları belirtilmese dahi Gizli Bilgidir.
+4.8 Hesap: Posta ve Telgraf Teşkilatı Anonim Şirketi nezdinde açtırılan Posta Çeki Hesabıdır.
+4.9 Kart İşletim Firması: Posta ve Telgraf Teşkilatı Anonim Şirketi ile sözleşmesi bulunan ve karta ait işletim 
+sürecini yöneten firmadır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Debit ve Prepaid Kart Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR09
+İlk Yayım Tarihi
+2.04.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/5
+4.10 Kart Üretim Firması: PTTBank Daire Başkanlığı veya Satın Alma Daire Başkanlığı tarafından doğrudan temin 
+veya sözleşme yolu ile kart alımlarının gerçekleştirildiği firmadır.
+4.11 Kart Sahibi/Müşteri: Posta ve Telgraf Teşkilatı Anonim Şirketi nezdinde, adına veya ticaret unvanına posta çeki 
+hesabı açtırılan gerçek veya tüzel kişidir.
+4.12Kişiselleştirme (Personalizasyon): Kartın içine yüklenecek kişisel/kurumsal veri ve hesap bilgileridir.
+4.13 Ödeme veya Ödeme İşlemi: Kartın içerisinde bulunan bakiyeyi alınan hizmet veya mal karşılığında azaltıcı 
+işlemdir.
+4.14 Para Çekme: Posta ve Telgraf Teşkilatı Anonim Şirketinin ATM ve diğer Alternatif Dağıtım Kanalları vasıtası 
+ile hesabından kart aracılığıyla çekilen parasal işlemlerdir.
+4.15 Para Yatırma: Posta ve Telgraf Teşkilatı Anonim Şirketinin ATM ve diğer Alternatif Dağıtım Kanalları vasıtası 
+ile hesabına kart aracılığıyla yatırılan parasal işlemlerdir.
+4.16 Para Yükleme: Anlaşmalı kurum/kuruluşlar tarafından text dosyası ile gelen paranın kartlara aktarılmasıdır.
+4.17 Pasif hesap: Hesap/hesap sahibine ilişkin gerekli belgelerin alınmadığı ve PBD.FR32 Posta Çeki Hesap Açma 
+Sözleşmesi’nin imzalanmadığı hesaplardır.
+4.18 Prepaid (Ön Yüklemeli) Kart: Hesaba bağlı olmaksızın içerisine dosya bildirimi yolu ile aktarılacak bakiye 
+kadar işlem yapılabilen karttır.
+4.19Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.20 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+4.21 PttMatik: ATM olarak bilinen, PTT iş yerleri ve işlem potansiyeli yüksek noktalara kurulan otomatik vezne 
+makinesidir.
+5. SORUMLULUKLAR
+İlgili birimlere ait sorumluluklar aşağıda sıralanmıştır:
+5.1 Bu Pttkart prosedürünün hazırlanmasından ve güncellenmesinden PTTBank Daire Başkanlığı, 
+5.2 Kart teminine ilişkin olarak SAT.PR04 PTT AŞ Mal ve Hizmet Alımı Prosedürü çerçevesinde alımlardan Satın 
+Alma Daire Başkanlığı ve PTTBank Daire Başkanlığı,
+5.3 Açılan hesaba kart talebi PTT Müdürlüğü,
+5.4 Oluşan kart talebinin kontrol edilerek uygun data formatında kart işletim firmasına iletilmesinden Bilişim Daire 
+Başkanlığı, 
+5.5 Bilişim Daire Başkanlığı tarafından gönderilen data formatında kontroller yapılarak karta ilişkin bilgiler de 
+eklenerek kart talebinin kart üretim firmasına kişiselleştirme işlemi için gönderilmesinden kart işletim firması, 
+5.6 Kayıp/çalıntı ve yenileme bildirimlerinden PTT Müdürlüğü ve Çağrı Merkezi,  
+5.7 Kartların işletimlerinden kart işletim firması ve Bilişim Daire Başkanlığı, 
+5.8 Bölge Müdürlüklerince yapılan prepaid kart taleplerinden Değerli Kâğıtlar Daire Başkanlığı,
+5.9 Kartların PTT Kurye aracılığı ile kart sahibinin adresine gönderiminden Posta ve Kargo Operasyonları Daire 
+Başkanlığı, 
+5.10Kart dağıtımlarından PTT Kurye, PTT Müdürlüğü,
+5.11Yapılan işlemlerin denetim ve kontrolünden Bölge Müdürlüğü sorumludur. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Debit ve Prepaid Kart Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR09
+İlk Yayım Tarihi
+2.04.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/5
+6. UYGULAMA
+6.1 Kart Temin Süreci
+Ajans tarafından tasarlanan ve PTT AŞ tarafından görseli onaylanan debit ve prepaid kartların temini “SAT.PR04 PTT 
+AŞ Mal ve Hizmet Alımı Prosedürü” çerçevesinde gerçekleştirilir. Kart temini kapsamında ham kart, sarf malzemeleri 
+(kart tutucu, zarf) ve kişiselleştirme hizmetleri dâhildir.
+6.2 Ödeme Şeması Belirlenme Süreci  
+BDDK’ya göre kart üzerinde VISA, Mastercard/Maestro, Troy vb. kartlı sistemler ödeme şemaları bulunması gerekir. 
+Kart üzerinde yer alacak ödeme şemasına PTTBank Daire Başkanlığı tarafından karar verilir. 
+6.3 Kart Üretim Süreci 
+Kartlı sistemler ödeme şemasına karar verilip satın alımı tamamlanan karta ilişkin ürün kodu, BIN numarası vb. 
+tanımlamalar Bilişim Daire Başkanlığı ve kart işletim firması tarafından yapılır. 
+6.4 Kart Talep Süreci
+6.4.1 Debit Kart Talebi
+PTT Müdürlüğü tarafından PBD.FR32 Posta Çeki Hesap Açma Sözleşmesi çerçevesinde açılan hesaplara otomatik 
+olarak debit kart oluşur.
+6.4.2 Prepaid Kart Talebi 
+PTTBank Daire Başkanlığı anlaşmalı kurum/kuruluşların ihtiyaçlarına yönelik prepaid kart alımları yapar. Karta 
+yüklemeler, anlaşmalı kurum/kuruluşlar tarafından text dosya yöntemi ile gelir. Gelen dosya, Bilişim Daire 
+Başkanlığınca kartlara yüklenir ve PTTBank Daire Başkanlığınca ödemeye açılır.
+6.5 Kart Basım Süreci 
+Oluşan kartların Bilişim Daire Başkanlığınca kart basım desen formatına uygunluğu kontrol edilerek kart işletim 
+firmasına iletilir. Kart işletim firması data formatında kontroller yaparak karta ilişkin bilgileri de ekler ve kart 
+üretim firmasına kişiselleştirme işlemi için iletir. Kart üretim firması tarafından kişiselleştirmeleri yapılan 
+kartların PTT Kurye ’ye teslimi sağlanır.  
+6.6 Kart Teslim Süreci 
+6.6.1 Debit Kartların Teslimi
+Kart üretim firması tarafından kişiselleştirilmesi tamamlanan debit kartlar Posta ve Kargo Operasyonları Daire 
+Başkanlığı’nın yönetiminde PTT Kurye aracılığıyla kart sahibinin adresine, adreste bulunulmaması halinde ise en 
+yakın PTT Müdürlüğüne ulaştırılır. PTT Müdürlüğü personeli tarafından kart sahibine teslim edilir. 
+6.6.2 Prepaid Kartların Teslimi 
+Kart üretim firması tarafından üretimi tamamlanan prepaid kartların, Posta ve Kargo Operasyonları Daire 
+Başkanlığı’nın yönetiminde Değerli Kâğıtlar Daire Başkanlığı’na gönderimi sağlanır. Bölge Müdürlüğü, prepaid 
+kart ihtiyaçları doğrultusunda Değerli Kâğıtlar Daire Başkanlığı’ndan teminini sağlar. 
+Hak sahiplerine prepaid kartlar, Bölge Müdürlüklerine bağlı PTT Müdürlüğünden aktivasyon işlemi yapıldıktan 
+sonra teslim edilir.  
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Debit ve Prepaid Kart Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR09
+İlk Yayım Tarihi
+2.04.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/5
+6.7 Kart Aktivasyon Süreci
+6.7.1 Pasif Hesaplara Bağlı Debit Kart Aktivasyon Süreci
+Teslimi yapılan debit kartlara ilişkin pasif hesapların aktivasyon işlemleri PTT Müdürlüğüne kart sahibinin müracaatı 
+halinde görevli personel tarafından gerçekleştirilir.  Pasif hesabın, PBD.FR32 Posta Çeki Hesap Açma Sözleşmesi’nin 
+ve sistemden alınan Posta Çeki Hesap Açma Formu’nun imzalanması sonrası aktivasyon işlemi tamamlanır.
+6.7.2 Prepaid Kart Aktivasyon Süreci 
+Anlaşmalı kurum/kuruluş tarafından belirlenen ve bilgilendirilen hak sahibinin PTT Müdürlüğüne başvurusu halinde 
+Müdürlüklerde bulunan prepaid kartlar, görevli personel tarafından hak sahibinin Kimlik Numarasına (TCKN ya da 
+YKN) tanımlanır. Prepaid kart, sistemden alınan teslim tutanağına hak sahibinin imzası alınarak teslim edilir.
+6.8 Kart Şifresi İşlem Süreci 
+Aktivasyon işlemi gerçekleştirilen kartların şifre işlemleri PTT Müdürlüğü, Çağrı Merkezi ve PTTBank İnternet 
+Bankacılığı aracılığıyla gerçekleştirilir. Şifre alma işleminin başarılı bir şekilde gerçekleştirilmesinden sonra kart 
+aktif hale gelir ve kullanıma açılır.
+6.9Kayıp, Çalıntı, Yenileme, Teslim Adresi Değişiklik Talepleri 
+Kullanımda olan kartların; kayıp, çalıntı ve yenileme talepleri kart sahibi tarafından PTT Müdürlüğü ve Çağrı 
+Merkezlerine bildirilir. Basımı tamamlanan debit kart sahiplerinin, teslim adresinde değişiklik olması durumunda 
+PTT Müdürlüğü ve Çağrı Merkezi aracılığı ile teslim adresinde güncelleme yapılır. 
+6.10  Kart İşlem Yetkilendirme
+Kart teslim sırasında veya sonrasında yurt içi ve yurt dışı nakit çekim, on-line alışveriş vb. kart 
+yetkilendirmelerine ilişkin açma kapama işlemleri PTT Müdürlüğü ve Çağrı Merkezi aracılığıyla gerçekleştirilir.
+6.11 Kart ile Yapılabilecek İşlemler 
+6.11.1 Debit Kart ile Yapılabilecek İşlemler 
+Debit kartlar hesaba bağlı olarak çalışmakta olup debit kartlarla para çekme-yatırma, on-line ve POS aracılığı ile 
+yapılacak alışveriş, para transferi vb. finansal işlemler ve yüklenebilecek diğer işlevler için kullanılır.
+6.11.2 Prepaid Kart ile Yapılabilecek İşlemler 
+Prepaid kartlar kart numarasına bağlı olarak çalışır. Prepaid kartlar para çekme, on-line ve POS aracılığı ile yapılacak 
+alışveriş için kullanılır. 1 (bir) yıl finansal işlem görmeyen prepaid kartlar otomatik olarak kapatılır.
+6.12 Fraud, Chargeback Süreçleri 
+Kartlara ilişkin yapılan harcama itirazları ve dolandırıcılık işlemleri için şikâyetlerin değerlendirilerek 
+sonuçlandırılması kart işletim firması ve PTTBank Daire Başkanlığı tarafından gerçekleştirilir.
+7. ONAY 
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.028-6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Debit ve Prepaid Kart Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR09
+İlk Yayım Tarihi
+2.04.2021
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/5
+Kuruluşları Hakkında Kanun 
+PBD.FR32-Posta Çeki Hesap Açma Sözleşmesi
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 2.04.2021 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

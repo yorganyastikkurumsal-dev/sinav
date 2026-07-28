@@ -1,0 +1,737 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+POSTA VE KARGO 
+OPERASYONLARI DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+1/11
+1. AMAÇ
+Bu prosedürün amacı; haberleşme gönderileri dahil posta gönderileri, kargolar, turpex gönderileri, APG, tebliğ 
+evrakı ve havale kağıtlarının yurt içinde ayrım ve sevkine ilişkin kurallar ile yetki ve sorumlulukların belirlenmesini 
+düzenlemektir.
+2. KAPSAM
+Bu prosedür; haberleşme gönderileri dahil posta gönderileri, kargolar, turpex gönderileri, APG, tebliğ evrakı ve 
+havale kağıtlarının yurt içinde ayrım ve sevkine ilişkin işlem ve hizmetlerinin yürütülmesi, uygulama şartlarının 
+tespit edilmesi, bunlara ilişkin sorumlulukların belirlenmesine ilişkin süreçleri kapsar.
+Bu prosedür Merkez Teşkilatında Posta ve Kargo Operasyonları Daire Başkanlığını, Taşra Teşkilatında Bölge 
+Müdürlüğü bünyesinde posta ve kargo hizmetlerinin yürütüldüğü ilgili birimleri ve tüm PTT iş yerlerini kapsar.
+3. DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanunu, 15/07/2018 tarihli ve 30479 sayılı Resmi Gazetede yayınlanan 
+Bakanlıklara Bağlı, İlgili, İlişkili Kurum ve Kuruluşlar ile Diğer Kurum ve Kuruluşların Teşkilatı Hakkında 
+Cumhurbaşkanlığı Kararnamesi, 4458 Sayılı Gümrük Kanunu, 4925 Sayılı Karayolu Taşıma Kanunu, 21/07/2014 
+tarihli görev sözleşmesi, 03/06/2014 tarih ve 29019 sayılı Resmi Gazetede yayınlanan Posta Sektörüne İlişkin 
+Yetkilendirme Yönetmeliği, Posta Hizmetlerinin Sunulmasına İlişkin Yönetmelik, Posta Sektöründe İdari 
+Yaptırımlar Yönetmeliği, Gümrük Yönetmeliği, Evrensel Posta Birliği Kararları ve yabancı ülke posta idareleri ile 
+yapılan ikili anlaşmalar, PKO.PR01 Posta ve Kargo Hizmetleri İşletme Prosedürü hükümlerine dayanılarak 
+hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Acele Posta Gönderisi (APG): Hızlı posta taşımacılığı ve dağıtımı ile alıcısına ulaştırılan yurt dışı gönderiyi,
+4.2 Açık İşlem: Kendi adına düzenlenen vasıta liyası, torba, kutu, kap veya kafesin açılarak işlenmesini,
+4.3 APS Kurye: Kayıtlı olarak postaya verilen ve kapsamında haberleşme gönderisi veya doküman bulunan 
+gönderiler için APS Kurye işaretiyle istenebilen özel hizmeti,
+4.4 Aracı Müdürlük: Sevk açısından direkt bağlantısı olmayan müdürlükler arasında posta mübadelesine aracılık 
+eden müdürlüğü,
+4.5 Bildirme Listesi: Posta kolisi veya kargosu ile kargo ve APG dışında kalan diğer kayıtlı gönderiler ile kayıtsız 
+olmasına rağmen kayda tabi tutularak sevk edilmesi gereken gönderilerin, yurt içinde ayrıntılı dökümünün yapıldığı 
+ve transit torba kayıtlarının gösterildiği belgeyi,
+4.6 Bilgisayarlı Gümrük Etkinlikleri (BİLGE Sistemi): Eşyanın gümrük sahasına girişinden çıkışına kadar 
+gümrük işlemlerinin gerçek zamanlı olarak bilgisayar ortamında yürütülmesi amacıyla kullanılan yazılım sistemini,
+4.7 Dağıtım ve Toplama Müdürlüğü (DTM): PİM, PİDM ve KİM bulunmayan illerde posta/kargo dağıtım, 
+toplama işlemi ile gerektiğinde kabul hizmetinin de verildiği müdürlüğünü,
+4.8 Gerçekleme: Posta gönderileri ile kargo, APG, tebliğ evrakı, havale kağıtları ile düzenlenen posta, torba, kutu, 
+kap, kafeslerin, kabul, ayrım, kayıt ve sevk işlemlerinde tespit edilen, her türlü düzensizlik ve hatalı işlemlerin 
+bildirilmesinde kullanılan tutanak niteliğindeki sistem üzerinden düzenlenen belgeyi,
+4.9 Görme Kurulu: Posta, torba, kutu, kap, kafeslerin düzenlenmesi ve açılması ile açıktan yollanacak gönderilerin 
+sevkinde ve teslim alınmasında en az iki personelden oluşturulan ve muvacehe heyeti olarak da adlandırılan kurulu,
+4.10 İhtisas Müdürlükleri: Taşra Teşkilatında bulunan PTT, PİM, KİM, PDM, P/KİM, P/KİDM, KDM, P/KDM, 
+DTM, UPKİM vb. dışında kalan Bölge Müdürlüklerine bağlı müdürlükleri,
+4.11 İl İçi Vasıta Liyası: İl merkezine bağlı iş yerleri tarafından, on adetten az sayıda çıkan kayıtsız posta 
+gönderilerinin birleştirilerek il merkezinde işlenmek üzere oluşturulan liyası,
+4.12 İl Müdürlüğü: Aynı ile bağlı iş yerlerinin postalarına aracılık eden gerektiğinde yirmi dört saat açık ve/veya 
+kapalı işlem yapan Posta İşleme, Kargo İşleme, Dağıtım ve Toplama Müdürlükleri, PDM, P/KİM, P/KİDM, 
+P/KDM, KDM, vb. müdürlükler ile il PTT müdürlüklerini,
+4.13 Kapalı İşlem: Gelen liyas, torba, kutu, kap veya kafesin açılmadan sevk edilmesini,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+2/11
+4.14 Kargo Dağıtım Müdürlüğü (KDM): Kargo gönderilerinin dağıtımı ve gerektiğinde kabul işleminin de 
+yapıldığı müdürlüğünü,
+4.15 Kargo İşleme Müdürlüğü (KİM): Kargo ayrım ve sevk işlemi ve gerektiğinde kabul hizmeti de verilen 
+müdürlüğünü,
+4.16 Liyas: Kayıtsız posta gönderilerinin bir araya getirilmesiyle oluşturulan grubu,
+4.17 Liyas Etiketi: Oluşturulan liyasın varış yerini ve/veya servisini, varış yerinde açık ya da kapalı işlem yapılması 
+ile ilgili durumu belirtmek amacıyla liyasların üzerine konulan etiketi,
+4.18 Mektup Taşıma Kutusu: Posta kolisi ve posta kargosu ile kargolar hariç diğer gönderilerin lokal iş yerleri 
+ve/veya servisleri arasında taşıma işleminde kullanılan çeşitli ebatlarda özel yapılmış malzemeyi,
+4.19 Merkez Teşkilatı: Şirketin Genel Müdürlük birimlerini,
+4.20 Müdürlük: Taşra Teşkilatında ihtisas müdürlükleri dışında kalan müdürlükleri,
+4.21 Özellikli Gönderi: Kapsamına istinaden kabul, ayrım sevk ve dağıtımı özel olarak takip edilen haberleşme 
+gönderisini,
+4.22 Posta Dağıtım Müdürlüğü (PDM): Postaların dağıtımı ve gerektiğinde kabul işleminin de yapıldığı 
+müdürlüğünü,
+4.23 Posta/Kargo Dağıtım Müdürlüğü (P/KDM): Posta ve kargo (Tebligat dahil) gönderilerinin dağıtımı ve 
+gerektiğinde kabul hizmetinin birlikte yürütüldüğü müdürlüğünü,
+4.24 Posta Hattı: Belirlenen iş yerleri arasında gönderi ve postaların alınıp verilmesi için oluşturulmuş güzergahı,
+4.25 Posta İşleme Müdürlüğü (PİM): Posta ayrım ve sevk işi ile gerektiğinde kabul işlemi yapılan müdürlüğünü,
+4.26 Posta/Kargo İşleme ve Dağıtım Müdürlüğü (P/KİDM): Posta ve kargo gönderilerinin ayrım ve sevk işiyle 
+birlikte bünyesinde ayrıca dağıtım hizmetleri de yürütülen gerektiğinde kabul hizmetinin de verildiği müdürlüğünü,
+4.27 Posta/Kargo İşleme Müdürlüğü(P/KİM): Posta ve kargo gönderilerinin ayrım ve sevk işiyle birlikte 
+gerektiğinde kabul hizmetinin de verildiği müdürlüğünü, 
+4.28 Posta Mutemedi: Posta taşıma işini üstlenen yüklenicinin nam ve hesabına posta alıp verme ve taşıma işinde 
+görevlendirilen ve fiilen çalışan sürücü ve/veya taşıyıcıyı,
+4.29 Posta Taşıma Yüklenicisi: Üzerine posta taşıma ihalesi bırakılarak sözleşme imzalanan gerçek veya tüzel 
+kişileri ya da bunların oluşturdukları ortak girişimi,
+4.30 Posta Teslim Bordrosu: İş yerleri arasında sevk edilen, posta, torba, kutu, kap ve kafes ile açıktan yollanan 
+gönderilerin, zimmetle alınıp verilmesinde kullanılan belgeyi,
+4.31 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri 
+yürütmek üzere kurduğu hizmet noktaları,
+4.32 Sefer Kağıdı: Posta taşıyan personel ya da mutemetlerin güzergah iş yerlerine fiili giriş çıkış saatlerinin 
+işlendiği belgeyi,
+4.33 Sevk Yolu: Posta gönderileri, kargo, APG, tebliğ evrakı ve havale kağıtlarının kabulünden varış yerine kadar 
+izleyeceği posta hattı ve/veya hatlarından oluşan güzergahı,
+4.34 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’ni,
+4.35 Taahhütlü: Kayıtlı olarak postaya verilen ve kapsamında; yurt içinde haberleşme gönderisi veya doküman 
+bulunan gönderiler ile yurt dışında haberleşme gönderisi, doküman veya eşya bulunan gönderiler için taahhütlü 
+işaretiyle istenebilen özel hizmeti,
+4.36 Torba, Kutu, Kap, Kafes: Posta gönderilerinin ve/veya postaların sevkinde kullanılan çeşitli maddelerden 
+yapılmış malzemeyi,
+4.37 Torba, Kutu, Kap, Kafes Etiketi: Torba, kutu, kap, kafesin varış yerini ve/veya servisini ve varış yerinde açık 
+ya da kapalı işlem yapılması ile ilgili durumu belirtmek amacıyla düzenlenen etiketi,
+4.38 Transit Beyannamesi: Gümrüklü gönderilerin bir gümrükleme servisinden diğerine sevk edilirken 
+kaydedildiği, gümrükçe tescil edilen ve varış gümrüğünce teyit edilen belgeyi,
+4.39 Transit Refakat Belgesi: Transit beyannamesinin sistemden alınan çıktısını,
+4.40 Uçak Sevk Yolu: Hava taşıma vasıtalarıyla yapılan posta taşıma şeklini,
+4.41 Uluslararası Posta ve Kargo İşleme Müdürlüğü (UPKİM): Yurt dışı çıkış ve varışlı posta/kargo 
+gönderilerinin ayrım ve sevk işlemleri ile gerektiğinde kabul hizmetinin de verildiği müdürlüğünü,
+4.42 Yeni Bilgisayarlı Transit Sistemi (NCTS): Ortak ve Ulusal Transit Rejimlerine ilişkin transit işlemlerini 
+hızlandırmak ve basitleştirmek için işlemlerin elektronik ortamda yürütülmesini sağlayan elektronik sistemini,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+3/11
+4.43 Yol Kağıdı: Aynı torba, kutu, kap, kafes kapsamında yurt içinde yollanan posta kargosu ve posta kolisi ile 
+APG’nin ayrıntılı dökümünün yapıldığı ve transit torba kayıtlarının gösterildiği belgeyi,
+4.44 Yüzey Sevk Yolu: Kara, deniz ve demiryolları ile yapılan taşıma şeklini,
+İfade eder.
+5. SORUMLULUKLAR
+Bu prosedürün hazırlanması ve yönetiminden Posta ve Kargo Operasyonları Daire Başkanlığı, uygulanmasından ise 
+posta ve kargo hizmetlerinin yürütülmesinin her aşamasında görevli tüm personel ve kapsamdaki tüm birimler 
+sorumludur.
+6. UYGULAMA
+6.1 Sevk Yollarının Belirlenmesi Ayrım ve Sevk İşlemleri
+6.1.1 Sevk Yollarının Belirlenmesi
+6.1.1.1 Yurt içinde yollanan gönderilerin sevk yolu, PTT iş yerlerinin doğrudan ve dolaylı posta hattı bağlantıları 
+dikkate alınarak Posta Hatları Optimizasyon Programından merkezi olarak belirlenir. Ancak posta irtibat ve 
+bağlantılarındaki olumsuzluklar (yeni hat kurulması, mevcut hattın iptali, posta aracının dolu olması, hava 
+muhalefetinden dolayı uçakların hareket etmemesi, karayolunun ulaşıma kapanması vb.) nedeniyle gönderilerin 
+sevkinin sağlanamaması halinde, Posta Hatları Optimizasyon Programı tarafından gösterilen diğer alternatif yollar 
+kullanılır.
+6.1.1.2 Gönderi sayısı ve/veya özelliğine göre, birinci fıkrada belirtilen sevk yolu dışında farklı sevk yolu da 
+belirlenebilir.
+6.1.1.3 Yurt dışı gönderilerin sevk yolu, alıp verme müdürlüklerinden itibaren gönderi türü itibariyle Merkez 
+Teşkilatınca belirlenerek tebliğ edilir.
+6.1.2 Ayırım ve Sevk İşlemleri
+6.1.2.1 Genel kural olarak gönderiler il bazlı olarak ayrıma tabi tutulur.
+6.1.2.2 Otomatik ayrım sisteminin kurulu olduğu PTT iş yerlerinde bu makinelerde ayrıma tabi tutulan kayıtsız 
+gönderiler en az ilçe düzeyinde ayrılır ve il merkezlerindeki PTT iş yerlerinde transit işlem yapmayı sağlayacak 
+şekilde ilçe adına doğrudan transit torba, kutu, kap, kafes ya da liyas haline getirilir.
+6.1.2.3 Posta kod grubu ve cihet düzeyinde ayrım yapma özelliğine sahip otomatik ayrım sisteminin kurulu olduğu 
+PTT iş yerlerinde, bulunduğu il ya da cihet ayrımı yapılması istenen il ya da bölgelere ait kayıtsız gönderiler en az 
+posta kodu ya da cihet düzeyinde ayrılır. Sevk edildiği PTT iş yerlerinde transit işlem yapmayı sağlayacak şekilde 
+ilçe adı ile birlikte posta kod grubu ya da cihet adına doğrudan torba, kutu, kap, kafes ya da liyas haline getirilir. 
+Posta kod grubu veya cihet adına göre liyaslanmış ya da birleşik posta sistemlerinde sıralanmış olarak gelen/dağıtım 
+servislerine intikal eden gönderiler açma masalarında açılmadan durumuna göre cihet ayrım ya da telli ayrım 
+kasalarına intikal ettirilir.
+6.1.2.4 Kayıtsız gönderiler servisler arasında kayıtsız olarak alınıp verilir.
+6.1.2.5 Kabul edilen kayıtlı gönderilerin türler itibariyle aynı iş yerinin servisleri arasında alınıp verilmesi halinde, 
+iki nüsha zimmet listesi düzenlenir. Zimmet listelerine teslim tarihi, saati ve servis adı yazılır.
+6.1.2.6 Kargolar ile iki kilogram ve iki desinin üzerinde olan posta kargoları ile gönderi türüne bakılmaksızın adli 
+gönderiler ve tarifede belirtilen sigorta/değerli limitinin üzerinde olan gönderiler uçakla sevk edilmez.
+6.1.3 İş Yerleri Adına Liyas Düzenlenmesi
+6.1.3.1 İş yerlerince, aynı yere sevk edilecek en az on adet veya daha fazla sayıdaki kayıtsız mektup, posta kartı, 
+tebrik, davetiye, basılmış kağıt, görme engellilere özgü yazılar, boyutlarına göre bir araya getirilerek liyas yapılır. 
+Kayıtlı posta gönderilerine liyas yapılmaz.
+6.1.3.2 Aynı yere sevk edilecek blok halde hazırlanarak bir araya getirilmiş gönderiler, yine blok halinde ayrıca 
+liyaslanmadan liyas etiketi takılmak suretiyle yollanır.
+6.1.3.3 Liyaslar, elden ele geçerken veya yolda dağılmayacak şekilde; liyas bağlama, liyas poşetleme makinesi veya 
+iple karşılıklı iki yönden bozulmayacak şekilde bağlanır.
+6.1.3.4 Liyası bozacak durumda standart olmayan kaba maddeler ile büyük zarflar kırılıp katlanmadan torba, kutu ve 
+kaplara konulur.
+6.1.3.5 Liyaslar açıktan sevk edilmez, torba, kutu ve kaplar içinde sevk edilir.
+6.1.4 İş Yerleri Adına Kayıtsız Gönderi Sayısına Bakılmaksızın Liyas Düzenlenmesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+4/11
+6.1.4.1 Aynı ile bağlı posta hattı üzerinde yer alan müdürlükler birbirleri adına gönderi sayısına bakılmaksızın liyas 
+düzenler.
+6.1.4.2 Aynı il sınırları içerisinde olup, aynı posta hattı üzerinde yer almayan il içi müdürlükler ve şubeler, bağlı 
+olduğu il adına gönderi sayısına bakılmaksızın il içi vasıta liyası düzenler. İl dışı varışlı gönderiler ise yine gönderi 
+sayısına bakılmaksızın bağlı bulunduğu il adına, il dışı vasıta liyası düzenlenerek sevk edilir.
+6.1.4.3 İllerden diğer illere sevk edilecek kayıtsız gönderiler sayısına bakılmaksızın, tüm iller adına doğrudan liyas 
+düzenlenir.
+6.1.4.4 Yurt dışı varışlı gönderilerden aynı ülke varışlı on adet ve üzeri uçak ve yüzey gönderileri için varış ülkesi 
+adına ayrı ayrı, on adetten az sayıdaki yüzey ve uçak gönderileri için ise İstanbul UPKİM adına yüzey ve uçak liyası 
+düzenlenir. Hiçbir şekilde uçak ve yüzey gönderileri birleştirilmez.
+6.1.4.5 Takseli gönderiler sayısına bakılmaksızın diğer gönderilerden ayrı olarak liyaslanır. Takseli gönderilerin 
+bulunduğu liyas etiketlerine T damgası vurulur.
+6.1.5 Liyas Etiketinin Düzenlenmesi
+6.1.5.1 Bir araya getirilen gönderiler üzerine, manuel olarak düzenlenen liyas etiketi konur. Bu liyas etiketinde varış 
+yerinin adının yazılması, liyasın düzenlendiği günü belirten tarih damgasının basılması, düzenleyen kişi tarafından 
+isim kaşesi tatbik edilmesi ya da ad ve soyad yazılarak imzalanması zorunludur.
+6.1.5.2 Otomatik ayırım sistemleri ile yapılan ayrımlarda cihaz tarafından üretilen liyas etiketi gönderiler üzerine 
+konularak liyas yapılır.
+6.1.6 Torba, Kutu, Kap ve Kafes Düzenlenmesi
+6.1.6.1 Genel kural olarak kayıtlı, kayıtsız mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazılar,
+küçük paket, APS Kurye ve taahhütlü gönderiler ile tebliğ evrakı, havale kağıtları, kapalı torba, kutu, kap veya kafes 
+içerisinde yollanır. Aynı yere yollanacak torba, kutu ve kaplar aynı torba veya kafes içerisinde yollanabilir.
+a) İl merkezi ve ilçe müdürlükleri dışındaki diğer müdürlükler ile lokal müdürlük ve şubeler tarafından sevk merkezi 
+adına sayı ve miktarına bakılmaksızın kayıtlı ve kayıtsız gönderiler için doğrudan, torba, kutu, kap veya kafes 
+düzenlenir.
+b) İlçe müdürlükleri tarafından bağlı bulunduğu il adına veya aynı posta hattı üzerinde bulunan müdürlükler adına 
+sayı ve miktarına bakılmaksızın kayıtlı ve kayıtsız gönderiler için doğrudan torba, kutu, kap veya kafes düzenlenir.
+c) İlçe müdürlükleri tarafından herhangi bir il merkezi adına çıkan on adet ve üzerinde kayıtlı gönderi varsa ve/veya 
+kayıtsız gönderi miktarı küçük boy posta torbasının yarısından fazla olması halinde o müdürlük adına doğrudan 
+torba, kutu, kap veya kafes düzenlenir.
+ç) Aynı il sınırları içerisinde olup, aynı posta hattı üzerinde bulunan müdürlükler birbirleri adına, sayı ya da miktara 
+bakılmaksızın torba, kutu, kap ve kafes düzenler.
+d) Aynı il sınırları içerisinde olup, aynı posta hattı üzerinde yer almayan ilçe müdürlükleri, aynı il sınırları 
+içerisindeki diğer müdürlüklere, on adet ve üzerinde kayıtlı gönderi varsa ve/veya küçük boy torbanın yarısından 
+fazla kayıtsız gönderiler olması halinde o müdürlük adına doğrudan torba, kutu, kap veya kafes düzenler. Belirtilen 
+adet ve miktardan az olması halinde ise bağlı olduğu il adına il içi vasıta torbası, kutusu, kabı veya kafesi düzenler.
+e) Kayıtlı veya kayıtsız gönderilere ilişkin olarak sayı veya miktara bakılmaksızın il merkezleri birbirlerine 
+doğrudan kayıtlı veya kayıtsız; torba, kutu, kap ve kafes düzenler. Gerektiğinde kayıtlı ve kayıtsız gönderileri aynı 
+torba, kutu, kap ve kafes içerisinde birleştirerek kayıtlı olarak sevk eder.
+f) Kayıtlı; mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazılar, küçük paket, tebliğ evrakı, havale 
+kağıdı birleştirilerek aynı kayıtlı torba, kutu, kap veya kafes içinde yollanır.
+g) Birleşik posta sistemi ile basılan veya otomatik ayırım sistemi ile ayrımı yapılan ya da toplu gönderi kabulü 
+esnasında ilçe/grup/cihet/mahalle düzeyinde ayrılmış olarak postaya verilen gönderiler, bu yerler adına ayrı ayrı 
+düzenlenmiş torba, kutu, kap veya kafes içerisinde yollanabilir.
+6.1.6.2 Hızlı tebligat gönderileri aynı ilin müdürlükleri arasında ve iller arasında sayıya bakılmaksızın diğer kayıtlı 
+gönderilerden ayrı torba, kutu, kap düzenlenerek yollanır.
+6.1.6.3 Özellikli gönderiler iller arasında sayıya bakılmaksızın, diğer kayıtlı gönderilerden ayrı torba, kutu, kap 
+düzenlenerek yollanır.
+6.1.6.4 Genel kural olarak iki kilogram ve iki desiye kadar olan posta kargoları; kapalı torba, kutu, kap veya kafes 
+içerisinde sevk edilir. Boyut itibariyle standart kafeslere konabilecek posta kargoları/kargolar da kapalı kafes 
+içerisinde yollanabilir. İki kilogram ve iki desiye kadar olan posta kargoları
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+5/11
+a) İl merkezi ile o ile bağlı aynı posta hattı üzerinde bulunan müdürlükler ve şubeler adına,
+b) Lokal müdürlükler ve şubeler tarafından sevk müdürlüğü adına,
+c) Aynı il sınırları içerisinde olup, aynı posta hattı üzerinde yer almayan müdürlükler ve şubelerce bağlı olduğu il 
+merkezi adına,
+ç) İl merkezleri arasında ise, adedine bakılmaksızın kapalı torba, kutu, kap veya kafes içerisinde yollanır.
+6.1.6.5 Posta kolilerinin iş yerlerimiz arasındaki ayrım ve sevk işlemleri posta kargolarında olduğu gibi yapılır.
+6.1.6.6 APG’ler, kabul iş yerinden il müdürlüğüne kadar ağırlık ve hacmine göre posta kargosu/posta kolisi veya 
+turpex gönderileri ile birlikte sevk edilebilir. İl müdürlüğü arasında ise ağırlık ve hacmine bakılmaksızın ayrı kapalı 
+torba, kutu, kap veya kafes içerisinde yollanır. Kapalı torba, kutu, kap veya kafes içerisinde yollanması halinde yol 
+kağıdına kaydedilerek sevk edilir.
+6.1.6.7 Turpex gönderilerinin, kabul iş yerinden il merkezlerine kadar olan sevki, posta kargosu veya kolilerinde 
+olduğu gibi yapılır. İl merkezlerinden yurt dışı çıkış alıp verme müdürlüğüne kadar olan sevki ise diğer gönderilerle 
+birleştirilmeden, ayrı kapalı torba, kutu, kap veya kafes içerisinde yollanır. Torba etiketinde “Turpex” ibaresi yer 
+alır. Yurt dışından iadeten alıp verme müdürlüğüne gelen turpex gönderilerinin, çıkış müdürlüğüne kadar olan sevki 
+posta kargolarında olduğu gibi yapılır.
+6.1.6.8 Gümrük işlemleri yapılmak üzere yollanacak gümrük kontrolüne tabi posta kolileri ile APG’ler ve mektup 
+postası gönderileri, diğer posta kolileri, APG’ ler ve mektup postası gönderilerinden ayrı olarak oluşturulan ve torba 
+etiketinde “Gümrüklü” ibaresi bulunan kapalı torba, kutu, kap veya kafes içerisinde sevk edilir. Gümrük kontrolüne 
+tabi gönderiler ile olmayanlar kesinlikle birleştirilmez. Gümrük kontrolüne tabi gönderiler, gönderi türü itibariyle 
+ayrı ayrı da sevk edilebilir. Gönderi türüne göre ayrı ayrı gümrüğe ait NCTS sistemi üzerinden transit beyannamesi 
+düzenlenir. Bu sistem marifetiyle üretilen transit refakat belgesi gümrükçe tescil edilir. Tescil edilen refakat belgesi 
+gümrüklü torbanın içine konur ve transit refakat belgesinin numarası ve transit süresinin bitim tarihi her bir torba 
+etiketinin arka tarafına ayrı ayrı yazılır.
+6.1.6.9 Uçakla yollanacak kapalı torba, kutu, kaplar il bazlı olarak düzenlenir. Düzenlenen torba, kutu, kaplar, 
+Merkez Teşkilatınca belirlenen ağırlığı geçemez. Havaalanı/havalimanının bulunduğu il müdürlükleri, aracılık 
+yaptığı diğer il müdürlüklerinden aldıkları transit torba, kutu, kapları açmadan, kendisinin aynı il adına düzenlediği 
+torba, kutu, kaplar içerisinde varış havaalanı/havalimanının bulunduğu il müdürlüğü adına düzenlenecek vasıta 
+torba, kutu, kap içerisinde yollar. Düzenlenen vasıta torba, kutu, kap içerisine varış havaalanı/havalimanının 
+bulunduğu il müdürlüğü varışlı ve bu ilin karayolu ile aracılık ettiği yerler varışlı torba, kutu, kaplar konulur. 
+Düzenlenen vasıta torba, kutu, kap ağırlığı Merkez Teşkilatınca belirlenen ağırlığı geçtiği takdirde 
+havaalanı/havalimanının bulunduğu il müdürlüğü varışlı torba, kutu, kaplar ayrı, havaalanı/havalimanının bulunduğu 
+il müdürlüğünün karayolu ile aracılık yaptığı yerler için ayrı torba, kutu, kap düzenlenir.
+6.1.6.10 Yurt dışı varışlı uçak ve yüzey posta kolileri ile mektup postası gönderileri ayrı ayrı olmak üzere, APG ve 
+turpex gönderileri il müdürlüklerince kapalı torba, kutu, kap ve kafes içerisinde yollama şekline uygun olarak ilgili 
+alıp verme müdürlüğü adına düzenlenir. Yurt dışı çıkışlı gönderiler de alıp verme müdürlüklerince il müdürlükleri 
+adına düzenlenen kapalı torba, kutu, kap ve kafes içerisinde sevk edilir. Ancak aynı ile yollanacak APG’ler ile uçak 
+kolileri aynı torba/kutu/kap ile yol kağıdına kaydedilerek sevk edilebilir.
+6.1.6.11 Merkez Teşkilatınca tebliğ edilen aktarma müdürlüklerinin sorumluluk alanında bulunan il veya ilçe 
+müdürlüklerine ait gönderiler için, aktarma müdürlükleri adına, liyas, torba, kutu, kap veya kafes düzenlenir.
+6.1.7 Bildirme Listesi Düzenlenmesi
+6.1.7.1 İş yerleri arasında alınıp verilen kayıtlı; mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazı, 
+küçük paket, tebliğ evrakı, havale kağıdının konulduğu, her torba, kutu, kap veya kafes için ayrı ayrı bildirme listesi 
+düzenlenir.
+6.1.7.2 KKTC Posta İdaresine düzenlenen kayıtlı; mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazı, 
+küçük paket, tebliğ evrakı, havale kağıdının konulduğu her torba, kutu, kap veya kafes için iki nüsha bildirme listesi 
+düzenlenerek bir nüshası, oluşturulan her torba, kutu, kap veya kafes içerisine konur. Bildirme listeleri 
+düzenleyenler tarafından ad soyad yazılarak veya kaşe tatbik edilerek, imzalanır ve servisteki tarih damgası tatbik 
+edilir. Ancak, tek personel bulunan iş yerlerinde bildirme listeleri tek personel tarafından da imzalanabilir.
+6.1.7.3 Bildirme listelerine her varış yeri için ayrı ayrı yılbaşında bir’ den başlatılan ve yıl sonuna kadar devam 
+ettirilen posta numarası verilir ve bildirme listelerinde düzenlendiği günün tarih ve saati bulunur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+6/11
+6.1.7.4 Bildirme listeleri düzenlenirken gönderilerin varsa özel durumları (iade, alma haberli, seçim, ödeme şartlı, 
+değer konulmuş, mazbata, gümrüklü, vb.) yazılır. Ayrıca varsa kayıtsız; seçim, takseli gönderilerin ve boş torba, 
+kutu, kap veya kafes adedi de bildirmeye yazılır.
+6.1.7.5 Yalnız kayıtsız gönderi bulunan torba, kutu, kap veya kafeslere bildirme listesi düzenlenmez. Ancak, 
+düzenlenen torba, kutu, kap veya kafes içerisinde takseli, seçim işaretli gönderi varsa bunlar için ayrıca bildirme 
+listesi düzenlenir. Kayıtsız gönderi bulunan torba, kutu, kap veya kafeslere sistem tarafından posta numarası verilir.
+6.1.7.6 Hızlı tebligat gönderileri ayrım ve sevk yönünden kayıtlı gönderiler gibi işleme tabi tutulur. Bu gönderiler 
+diğer kayıtlı gönderilerle birleştirilmez, adedine bakılmaksızın ayrı olarak oluşturulan torba, kutu, kap veya kafes 
+içerisinde sevk edilir. Hızlı tebligat gönderilerinin sevkinde hızlı tebligat bildirme listesi düzenlenir.
+6.1.7.7 Özellikli gönderiler ayrım ve sevk yönünden APS Kurye ve taahhütlü gönderiler gibi işleme tabi tutulur. Bu 
+gönderiler iller arasında diğer kayıtlı gönderilerle birleştirilmez, adedine bakılmaksızın ayrı olarak oluşturulan torba, 
+kutu, kap veya kafes içerisinde sevk edilir.
+6.1.7.8 Yüzey yoluyla açıktan alınıp verilen değer konulmuş adli gönderiler bildirme listelerine kaydedilmez.
+6.1.7.9 PTT iş yerlerince transit kayıtlı torba, kutu veya kaplar, bildirme listesinin transit kısmına kaydedilerek aynı 
+torba, kutu, kap veya kafes içerisinde sevk edilebilir.
+6.1.7.10 Yurt dışı varışlı mektup postası gönderileri ile APG’ler yurt dışı alıp verme müdürlüklerimizce Evrensel 
+Posta Birliği kararları ya da ikili anlaşmalarda belirtilen şartlara göre yabancı posta idarelerine ait alıp verme 
+müdürlüklerine yollanır.
+6.1.7.11 Düzenlenen bildirme listelerinin bir nüshası çıkış iş yerinde sırasında saklanır.
+6.1.8 Yol Kağıdı Düzenlenmesi
+6.1.8.1 İş yerleri arasında alınıp verilen posta kargoları ile kargolar ve posta kolileri, APG’ler ile turpex 
+gönderilerinin konulduğu, her torba, kutu, kap veya kafes için ayrı ayrı yol kağıdı düzenlenir.
+6.1.8.2 KKTC Posta İdaresine düzenlenen posta kargoları ile kargolar ve posta kolileri, APG’ler ile turpex 
+gönderilerinin konulduğu her torba, kutu, kap veya kafes için iki nüsha yol kağıdı düzenlenerek bir nüshası, 
+oluşturulan her torba, kutu, kap veya kafes içerisine konur. Yol kağıtlarının her iki nüshası düzenleyenler tarafından 
+ad soyad yazılarak veya kaşe tatbik edilerek, imzalanır ve servisteki tarih damgası tatbik edilir. Ancak, tek personel 
+bulunan iş yerlerinde yol kağıtları tek personel tarafından da imzalanabilir.
+6.1.8.3 Yol kağıtlarına her varış yeri ve gönderi türü için ayrı ayrı yılbaşında bir’ den başlatılan ve yıl sonuna kadar 
+devam ettirilen posta numarası verilir ve yol kağıtlarında düzenlendiği günün tarih ve saati bulunur.
+6.1.8.4 Yol kağıtları düzenlenirken gönderilerin varsa özel durumları (iade, alma haberli, seçim, ödeme şartlı, değer 
+konulmuş, gümrüklü vb.) yazılır. Ayrıca varsa boş torba, kutu, kap veya kafes adedi de yol kağıdına yazılır.
+6.1.8.5 Adli tıp posta kargoları veya kargolar hacim ve ağırlığına bakılmaksızın yüzey yoluyla açıktan alınıp verilir. 
+Bu gönderiler yol kağıtlarına kayıt edilmez.
+6.1.8.6 İki kilogram ve iki desinin üzerinde olan posta kargoları ve kargolar yüzey yoluyla açıktan alınıp verilir. Bu 
+gönderiler yol kağıtlarına kayıt edilmez.
+6.1.8.7 PTT iş yerlerince posta kargosuna ait transit torba, kutu veya kaplar, yol kağıtlarının transit kısmına 
+kaydedilerek aynı torba, kutu, kap veya kafes içerisinde sevk edilebilir.
+6.1.8.8 Yurt dışı varışlı posta kolileri ve APG’ler yurt dışı alıp verme müdürlüklerimizce Evrensel Posta Birliği 
+kararları ya da ikili anlaşmalarda belirtilen şartlara göre yabancı posta idarelerine ait alıp verme müdürlüklerine 
+yollanır.
+6.1.8.9 Düzenlenen yol kağıtlarının bir nüshası çıkış iş yerinde sırasında saklanır.
+6.1.9 Torba, Kutu, Kap veya Kafeslere Etiket Düzenlenmesi ve Emniyet Kilidi Takılması
+6.1.9.1 Kayıtsız gönderileri ihtiva eden torba, kutu, kap veya kafeslere örneğine uygun beyaz renkli etiket takılır. Bu 
+etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.2 Kayıtlı; mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazılar, tebliğ evrakı, havale kağıtları ve 
+küçük paketleri ihtiva eden torba, kutu, kap veya kafeslere örneğine uygun kırmızı renkli etiket takılır. Bu etiketlere 
+sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.3 Hızlı tebligat gönderileri ile özellikli gönderileri ihtiva eden torba, kutu, kap veya kafeslere örneğine uygun 
+kırmızı renkli etiket takılır. Bu etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.4 Birinci ve ikinci fıkralarda belirtilen gönderileri birlikte ihtiva eden torba, kutu, kap veya kafeslere örneğine 
+uygun kırmızı renkli etiket takılır. Bu etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+7/11
+6.1.9.5 Posta kargosu veya posta kolileri ile turpex gönderilerini ihtiva eden torba, kutu, kap veya kafeslere örneğine 
+uygun sarı renkli etiket takılır. Bu etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.6 APG’leri ihtiva eden torba, kutu, kap veya kafeslere örneğine uygun turuncu renkli etiket takılır. Bu 
+etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.7 Boş torba, kutu, kap veya kafesleri ihtiva eden torba, kutu, kap veya kafeslere örneğine uygun yeşil renkli 
+etiket takılır. Bu etiketlere sistem üzerinden alınan torba barkod etiketi yapıştırılır.
+6.1.9.8 Gümrüklü kutu, kap veya kafesleri ihtiva eden torba, kutu, kap veya kafesler için türüne uygun renkli etiket 
+üzerine sistemden alınan torba barkod etiketi yapıştırılır, emniyet kilidi ve mavi renkli plastik emniyet kilidi 
+(gümrük mührü) ile kapatılır.
+6.1.9.9 Uçakla sevk edilecek torba, kutu veya kap etiketlerine; postaların varış yeri ile varış havaalanı/havalimanı, 
+varsa aktarma havaalanı/havalimanı adı, uçuş numarası ve ağırlığı açıkça yazılır.
+6.1.9.10 Düzenlenen torba, kutu, kap veya kafes etiketlerine; postanın çıkış yeri ve varış yeri, numarası, düzenlenme 
+tarihi, değer/sigorta bedeli, kayıtlı gönderi adedi ve ağırlığı ile torba, kutu, kap veya kafesin kapatılacağı emniyet 
+kilidi numarası yazılır.
+6.1.9.11 Düzenlenen torba, kutu, kap veya kafeslere gönderi türüne uygun emniyet kilidi takılarak kapatılır. Emniyet 
+kilit numaraları torba, kutu, kap veya kafes etiketine veya posta teslim bordrosuna yazılır.
+6.1.10 Posta Teslim Bordrosu Düzenlenmesi
+6.1.10.1 Düzenlenen torba, kutu, kap veya kafesler ile açıktan sevk edilen gönderiler, iş yerleri arasında posta teslim 
+bordrosuyla alınıp verilir. Posta teslim bordroları en az üç nüsha, uçak postaları için ise en az 5 nüsha 
+düzenlenmekle birlikte, posta alıp verme şekline göre ihtiyaç oranında daha fazla sayıda düzenlenebilir. Posta teslim 
+bordrosuna her varış yeri için ayrı ayrı yılbaşında birden başlatılan ve yılsonuna kadar devam ettirilen numara verilir 
+ve üzerinde düzenlendiği günün tarih ve saati bulunur.
+6.1.10.2 Yabancı posta idarelerince düzenlenen torba, kutu, kap veya kafesler iş yerleri arasında yurt içi posta teslim 
+bordrolarıyla alınıp verilir.
+6.1.10.3 Aynı varış iş yerinin servisleri dikkate alınarak;
+a) Kayıtsız gönderiler,
+b) Değer konulmuş kayıtlı mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazı, tebliğ evrakı, küçük 
+paket ve havale kağıtları,
+c) Değer konulmamış kayıtlı mektup, posta kartı, basılmış kağıt, görme engellilere özgü yazı, tebliğ evrakı, küçük 
+paket ve havale kağıtları,
+ç) Hızlı tebligat,
+d) Özellikli gönderiler,
+e) Posta kargoları ve kargolar,
+f) Seçim ve adli posta kargoları ve kargolar,
+g) Değer konulmuş posta kargoları ve kargolar,
+ğ) Posta kolileri,
+h) APG’ler,
+ı) Turpex gönderileri,
+i) Kamyonlar/Römorklar,
+için müşterek tek posta teslim bordrosu düzenlenebileceği gibi, ayrı ayrı olarak da düzenlenebilir.
+6.1.10.4 Posta teslim bordrolarına çıkış iş yerinde düzenleyen personel veya görevli sevk personeli tarafından tüm 
+nüshaları imzalanarak saat belirtilmek suretiyle tarih damgası tatbik edilir. İlgili posta teslim bordrolarının tüm 
+nüshaları yüklenici/mutemede imzalattırıldıktan sonra, bir nüshası çıkış iş yerinde sırasında saklanmak suretiyle 
+muhafaza edilir, diğer nüshaları ile torba, kutu, kap veya kafes ve açıktan sevk edilen gönderiler teslim edilir.
+6.1.10.5 Posta teslim bordrosu aşağıda belirtildiği şekilde düzenlenir:
+a) İl müdürlükleri ile bu ile bağlı posta hattı üzerinde bulunan müdürlükler ve şubeleri arasında.
+b) Lokal müdürlük ve şubeler tarafından, sevk müdürlüğü adına.
+c) Aynı il sınırları içerisinde olup, aynı posta hattı üzerinde yer almayan müdürlükler ve şubeler bağlı olduğu il 
+adına.
+ç) Aynı posta hattı üzerinde bulunan il müdürlükleri birbirleri adına.
+d) Aynı posta hattı üzerinde yer almayan il müdürlüklerince, aracı müdürlük adına.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+8/11
+e) Uçak ile doğrudan ve/veya aktarmalı posta irtibatı olan son varış havaalanı/havalimanın bulunduğu yerdeki 
+müdürlük adına.
+6.1.10.6 Posta teslim bordrosunda postayı sevk eden ve teslim alan iş yeri bilgileri, düzenleme tarih ve saati, 
+uçuş/plaka numarası, aktarma/uçuş numarası, posta numarası ve yüzey/uçak gidiş şekli ile sevk edilen postaların 
+numarası, açıktan sevk edilenler için gönderi barkod numarası, değer/sigorta bedeli, ödeme bedeli, emniyet kilit 
+numarası ve ağırlık/hacim bilgileri ile kayıt edilen postalara ait toplam parça adedi ve diğer yekünler belirtilir.
+6.1.10.7 Posta teslim bordrosuna varış iş yerinde postanın teslim alındığı tarih damgası basılır, postayı teslim alanın 
+ad-soyadı, unvanı (varsa kaşe tatbik edilir), tarih ve saat yazılarak imza atılır.
+6.1.10.8 Posta teslim bordosunda imzası bulunan mutemet dahil her görevlide bir nüshası kalır.
+6.1.10.9 Açıktan alınıp verilmesi gereken tüm kayıtlı gönderilerin barkodları, ağırlığı/hacmi, varsa değer konulmuş 
+veya sigorta bedeli ile ödeme şart bedeli posta teslim bordrolarında ayrıntılı belirtilir.
+6.1.10.10 Yurt dışından alınan posta torba, kutu ve kapları açılmadan aynı il içinde gümrükleme servislerine 
+uluslararası kabul görmüş posta teslim bordroları ile sevk edilir, bunlar için transit beyannamesi ve refakat belgesi 
+düzenlenmez. Bu torba, kutu ve kaplar otomasyon sistemi üzerinden kayıt edilmek suretiyle sevk edilir.
+6.1.10.11 Sınır kapılarımızdan alınan ülkemiz varışlı gümrük kontrolüne tabi yüzey koli postaları için, BİLGE 
+sisteminden özet beyan verildikten sonra NCTS sisteminden ayrıca transit beyannamesi düzenlenir. Sistemden 
+alınan transit refakat belgesi gümrüğe onaylatıldıktan sonra CN 37 posta teslim bordrolarıyla birlikte, otomasyon 
+sistemine kayıt edilmek suretiyle ilgili alıp verme müdürlüklerine sevk edilir. 
+6.1.11 Taşıma
+6.1.11.1 Yükleme, tasnif, istifleme, boşaltma ve taşıma sırasında gönderi, torba, kutu, kap veya kafeslerin hasara 
+uğramamaları veya birbirlerini zedelememeleri için gerekli dikkat ve itina gösterilir. Özellikle içinde kırılacak eşya 
+olduğu belirtilen gönderiler, diğerlerine nazaran daha dikkatle en üste gelecek şekilde ve sirkülasyonu az olan 
+bölümlere yerleştirilir ve kesinlikle hasara meydan vermeyecek şekilde taşınır.
+6.1.11.2 İçlerinde arı, ipek böceği ve sülükler ile gönderilmesine izin verilen tehlikeleri önlenmiş canlı böcekler 
+bulunan gönderiler rutubetli, havası bozuk, sıcak ve tozlu yerlere konmaz. Bunlar bol hava alacak şekilde 
+yerleştirilir.
+6.1.11.3 Selliloitden yapılmış her türlü maddelerle yanabilen filmleri kapsayan gönderiler, diğerlerinden ayrı 
+yerleştirilir ve ateşten uzak tutulur.
+6.1.11.4 Açıktan taşınan gönderiler özellikle bez, karton, kâğıt ve buna benzer hafif ambalajlı olanlar bir arada, tahta 
+ve benzeri sert ambalajlı olanlar bir arada olmak üzere ayrı ayrı yerlerde ve birbirlerini zedelemeyecek şekilde 
+taşınır ve yerleştirilir.
+6.1.11.5 Hasarlı gönderiler usulünce emniyete alınmadan ileri sevk ve alıcılarına teslim edilmez.
+6.2 Geliş, Kayıt İşlemleri ile Düzensizliklere İlişkin Yapılacak İşlemler
+6.2.1 Gönderi, torba, kutu, kap, kafes veya römorkların teslim alınması
+6.2.1.1 Gönderi, torba, kutu, kap, kafes veya römorklar yüklenicilere ya da taşımada görevli personele teslim 
+edilirken ve bunlardan teslim alınırken, teslim alanlar tarafından teslimle görevli olanların önünde dikkatlice 
+incelenir.
+6.2.1.2 Gönderi, torba, kutu, kap, kafes veya römorkların, posta teslim bordrosu kayıtları ve etiket üzerindeki 
+bilgileri karşılaştırılır, postaların ve posta teslim bordrolarının numarası, gönderi, torba, kutu, kap veya kafes sayısı, 
+römorklar dahil dış görünümleri, bağlanması, kurşun ya da kapama elemanlarının muntazam olup olmadığına 
+bakılır.
+6.2.1.3 Torba, kutu, kap, kafes veya römorklar açıldığında bildirme listesi veya yol kağıdı kayıtları, gönderi ve kabul 
+formlarının üzerindeki yazılı bilgiler ile gönderilerin ambalajları kontrol edilir.
+6.2.1.4 Açıktan yollanan gönderilerin posta teslim bordrosu kayıtları ile gönderilerin ambalajı, görünümü, kabul 
+formlarına uygunluğu kontrol edilir.
+6.2.1.5 Değer konulmuş veya sigortalı gönderileri ihtiva eden torba, kutu, kap veya kafesleri ile açıktan gelen değer 
+konulmuş veya sigortalı gönderilerin, posta teslim bordrosu kayıtları ile etiket üzerindeki bilgileri karşılaştırılır. 
+Değer konulmuş veya sigortalı postaların numarası, torba, kutu, kap veya kafes sayısı, torba, kutu, kap, veya kafesin 
+dış görünümü, kapama elemanları, bağlanması gibi ek güvenliğe ilişkin unsurların sağlam olup olmadığı kontrol 
+edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+9/11
+6.2.1.6 Gönderi, torba, kutu, kap, kafes veya römorklarda bir eksiklik veya düzensizlik görülmezse, posta teslim 
+bordrosu imzalanmak suretiyle teslim alınır. Düzensizlik varsa durum eksik fazla listesi/tutanakla tespit edilir. 
+Düzenlenen eksik fazla listesi/tutanağa mutemet imzası da alınır, imzalamaz ise imzadan imtina ettiği belirtilir ve 
+sefer kağıdına şerh düşülür. Keyfiyet teslim bordosuna da yazılıp imzalanır. Ayrıca gerçekleme tutulur. Ancak 
+gerçeklemeye mutemet imzası alınmaz.
+6.2.1.7 Eksik fazla listesi/tutanak düzenlendiğinde eksik fazla listesi/tutanağın nüshaları ve posta teslim bordrosunun 
+her iki nüshası gönderi, torba, kutu, kap, kafes veya römorku teslim eden ve alan tarafından ad soyadı belirtilerek 
+karşılıklı imzalanır. Eksik fazla listesi/tutanağın bir nüshası ile posta teslim bordrosunun bir nüshası, teslim eden ve 
+alan tarafından muhafaza edilir.
+6.2.1.8 Taşımada görevli personel, yüklenici ya da iş yerlerinden itirazsız, eksik fazla listesi/tutanaksız ve posta 
+teslim bordrosu üzerinde şerh konulmadan teslim alınan gönderi, torba, kutu, kap, kafes veya römorklar, eksiksiz ve 
+kusursuz teslim alınmış sayılır. Kontrol edilmeden, sayılmadan ve eksikliğin gereği yapılmadan teslim alınan 
+gönderi, torba, kutu, kap, kafes veya römorklarda olabilecek kusurlardan teslim alanlar sorumlu olur.
+6.2.2 Torba, Kutu, Kap, Kafes veya Römorkların Açılması ve Geliş Kayıt İşlemi
+6.2.2.1 Gelen torba, kutu, kap, kafes veya römorklar, iş yerince oluşturulacak görme kurulu tarafından incelenir ve 
+kayıtlarla karşılaştırılır. Görme kurulu en az 2 kişiden oluşur. Torba, kutu, kap, kafes veya römorkların kapama 
+elemanlarının şekli bozulmayacak surette tek yerden açılarak, çıkan gönderiler; bildirme listesi, yol kağıdı, gönderi 
+üzerindeki bilgiler ve varsa kabul formundaki kayıtlarıyla karşılaştırılır. Bildirme listesi, yol kağıdı ve gönderi 
+üzerindeki bilgiler ile varsa kabul formlarında yanlışlık ve eksiklik görülürse durum kayıt altına alınır.
+6.2.2.2 Kapsamında değer konulmuş veya sigortalı gönderiler ile özellikli gönderiler ve seçim gönderileri bulunan 
+torba, kutu, kap veya kafesler diğer torba, kutu, kap veya kafeslerden ayrı olarak muhafazalı yerlerde açılarak işleme 
+tabi tutulur.
+6.2.2.3 Görülen düzensizlikler, gerçekleme ile aracı/çıkış iş yerlerine bildirilir.
+6.2.2.4 Teslim alınan torba, kutu, kap, kafes veya römorklardan çıkan gönderiler ile açıktan alınan gönderilerin geliş 
+kayıt işlemleri, teslim alma esnasında yapılır.
+6.2.2.5. Eksiklik ve aksaklığa rastlanmayan torba, kutu, kap, kafes veya römorklardan çıkan ve açıktan gelen 
+dağıtıma ait gönderiler dağıtım servisine, başka iş yerine sevk edilecek gönderi, torba, kutu, kap veya kafesler ise; 
+varış iş yerine sevk edilmek üzere ilgili servisine zimmetle teslim edilir.
+6.2.3 Gerçekleme Düzenlenmesi
+6.2.3.1 Oluşturulan torba, kutu, kap, kafes veya römorklar ile gönderilerin kabul ve/veya kayıt hatası, gecikmeli 
+sevki, sevk yolunun yanlış belirlenmesi ile yanlış sevki, eksiklik, fazlalık ve hasarları ile kapsamına müdahale 
+edildiğini, zamanında tespit etmek, ilgili iş yeri ile personelini uyarmak, aydınlatmak, sıralı takip etmeyen posta 
+numaraları ile bildirme listesi, yol kağıdı ve posta teslim bordrolarını araştırmak, aynı yanlışlık ve düzensizliklerin 
+tekrarını önlemek, gerektiğinde yapılacak soruşturmaya ışık tutmak ve belirlemek için, her türlü hatalı işlemlerde 
+varış ve aracı müdürlükçe gerçekleme düzenlenir.
+6.2.3.2 Gerçekleme otomasyon sistemi aracılığıyla Genel Müdürlükçe belirlenen süre içerisinde düzenlenir. Gönderi 
+veya torba, kutu, kap, kafes veya römorku alan iş yeri, ilgili iş yerine, söz konusu süre içerisinde gerçekleme 
+düzenleyerek düzensizliği bildirmediği taktirde, aksi sabit oluncaya kadar, o gönderi veya torba, kutu, kap, kafes 
+veya römorku tam ve sağlam olarak almış kabul edilir.
+6.2.3.3 Gerçekleme tek personelle hizmet verilen iş yerleri hariç, biri müdür ve/veya kontrol görevlisi, bunlar da 
+yoksa biri PTT AŞ personeli olmak kaydıyla en az iki personel tarafından düzenlenir. Gerçeklemeye ait ekler 
+otomasyon sistemi aracılığıyla gönderilir. Gerçeklemeye ait torba, kutu, kap veya kafesin etiket ve plastik emniyet 
+kilitleri herhangi bir inceleme ya da soruşturma esnasında görevlilerce istenildiğinde ibraz edilmek üzere en az altı 
+ay süre ile müdürlükte muhafaza edilir. İnceleme başlatılanlarda ise inceleme sonuçlanıncaya kadar saklanır.
+6.2.3.4 Bölge Müdürlükleri, iş yerleri arasında düzenlenen gerçeklemelere rağmen devam eden aynı tip hataların 
+takip edilmesi ve düzeltilmesini sağlamaktan sorumludur.
+6.2.4 Gerçekleme Alan İş Yerince Yapılacak İşlem
+6.2.4.1 Gerçekleme alan iş yeri, gerçeklemeye konu edilen hususlarda gerekli incelemeyi yapar ve mevzuata uygun 
+şekilde, otomasyon sistemi aracılığıyla, cevabını vererek gerçeklemeyi sonuçlandırır. Yirmi gün içerisinde 
+gerçekleme işlemi otomasyon sistemi üzerinde sonuçlandırılmazsa, gerçekleme kağıdında iddia edilen 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+10/11
+husus/hususların doğruluğu kabul edilmiş sayılır. Yirmi günlük sürede istisna yaşanacak haller, Genel Müdürlükçe 
+belirlenir.
+6.2.4.2 Yurt dışından gelen, mektup postası gönderileri ile posta kolisi ve APG’ lerde görülen düzensizliklerle ilgili 
+olarak düzenlenen gerçekleme ve tutanaklar varsa aracı müdürlük ile ilgili alıp verme müdürlüğüne yollanır. İlgili 
+alıp verme müdürlüğünce de tespit edilen düzensizlikler tercüme edilerek yurt dışı formüllere aktarılır ve o 
+gönderiyi yollayan yabancı posta idaresinin alıp verme merkezine gönderilir. Alınan ve yabancı posta idaresince 
+düzenlenen gerçekleme ve tutanakların sonuçlandırılması yurt dışı alıp verme müdürlükleri tarafından Evrensel 
+Posta Birliği kararları veya ikili anlaşma hükümlerine göre yapılır.
+6.2.5 Sefer Kağıtları
+6.2.5.1 Sefer kağıtları, ilk çıkış iş yerince en az üç suret olarak tanzim edilir. Çıkış iş yerince tanzim edilen üç suret 
+sefer kağıdını alan posta taşıma görevlileri (personel ya da mutemet) tarafından güzergahta bulunan iş yerlerindeki 
+posta alma veya teslim etme görevlilerine giriş-çıkış saatleri yazdırılarak imzalattırılır, ayrıca tarih damgası tatbik 
+edilir. Sefer tamamlandıktan sonra iki nüshası son varış iş yerine teslim edilir, üçüncü nüshası da postayı taşıyanlar 
+tarafından muhafaza edilir.
+6.2.5.2 Son varış iş yerlerince teslim alınan iki nüsha sefer kağıdından, bir adedi posta taşıma işini düzenleyen ya da 
+kontrol eden müdürlüğe gönderilir.
+6.2.5.3 Yaşanan gecikme veya aksaklıklar hakkında sefer kağıdının açıklama sütununa şerh düşülür. Gerekiyorsa 
+ayrıca tutanak düzenlenir. Araç kapılarına takılan ve sökülen plastik emniyet kilitlerinin seri numarası da sefer 
+kağıdının açıklama sütununa yazılır.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+8.1 Bu prosedür yayımlandığı tarihte yürürlüğe girer. 
+8.2 Bu prosedür yayımlandığında PKH.PR01 Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü yürürlükten 
+kalkar.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+CBK.002-4 sayılı Cumhurbaşkanlığı Kararnamesi
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.013-4925 sayılı Karayolu Taşıma Kanunu
+KN.043-4458 sayılı Gümrük Kanunu
+KR.002-Evrensel Posta Birliği Konvansiyon Kararları
+PKO.FR34-Liyas Etiketi
+PKO.PR01-Posta ve Kargo Hizmetleri İşletme Prosedürü
+UOD.DKF25-CN 37 Yüzey Postası Teslim Bordrosu
+YNT.050-Posta Sektörüne İlişkin Yetkilendirme Yönetmeliği
+YNT.065-Gümrük Yönetmeliği
+YNT.067-Posta Hizmetlerinin Sunulmasına İlişkin Yönetmelik
+YNT.068-Bilgi Teknolojileri ve İletişim Kurumu Posta Sektöründe İdari Yaptırımlar Yönetmeliği
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+0 1.01.2026 Yeni Doküman 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Yurt İçi Ayrım ve Sevk Sistemi Uygulama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PKO.PR05
+İlk Yayım Tarihi
+1.01.2026
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+0
+Sayfa Sayısı
+11/11
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

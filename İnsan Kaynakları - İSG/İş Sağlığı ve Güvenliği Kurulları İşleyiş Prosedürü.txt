@@ -1,0 +1,390 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan:
+İNSAN 
+KAYNAKLARI 
+DAİRE BAŞKANLIĞI
+Süreç Sahibi:
+İNSAN 
+KAYNAKLARI 
+DAİRE BAŞKANLIĞI 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol
+HUKUK 
+MÜŞAVİRLİĞİ 
+HUKUK 
+MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Onaylayan / İdari
+GENEL MÜDÜR
+Doküman No
+İKD.PR19.2 9.06.2023
+1/8
+Dokümanın Adı:
+İş Sağlığı ve Güvenliği Kurulları İşleyiş Prosedürü
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+İKD.PR19
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+9.06.2023
+Revizyon No:
+2
+Sayfa Sayısı:
+1/8
+REVİZYON TARİHÇESİ
+Revizyon 
+No
+Revizyon 
+Tarihi Açıklama
+2 9.06.2023
+İş Sağlığı ve Güvenliği Yönetim Sistemi Şube Müdürlüğü ismi “İş 
+Sağlığı ve Güvenliği Şube Müdürlüğü” olarak değiştirilmiştir. AŞ den 
+noktalar kaldırılmıştır. 2 ve daha fazla basamaklı olan madde 
+numaralarının sonundaki noktalar kaldırılmıştır. Metin içinde geçen 
+referans dokümanların koyu yazı tipi kaldırılarak normal yazı tipi 
+şekline getirilmiştir. Referans Dokümanlara İş Sağlığı ve Güvenliği 
+Kanunu ile , İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmelik 
+eklenmiştir. 4. Tanımlar ve kısaltmalar başlığı altında yer alan 4.1 
+Amaç, 4.9 Düzeltici Faaliyet, 4.10 Düzeltme, 4.11 EBYS, 4.12 EYS 
+Yazılımı, 4.23 Plan maddeleri doküman içerisinde yer almadığından 
+çıkarılmış, bu nedenle madde numaralarında değişiklik olmuştur. “-“ 
+ile gösterilen maddeler a,b,c,ç… şeklinde yeniden düzenlenmiştir. 
+Tanımlar ve kısaltmalar başlığı altında yer alan maddelerin alfabetik 
+sıralanması yeniden düzenlenmiştir. Doküman içinde geçen Merkez ve 
+Taşra Teşkilatı ifadelerinin baş harfleri büyük olarak yazılmıştır. 4.14 
+maddesindeki kesme işareti düzeltilmiş “de “ bağlacı kaldırılarak 
+“maddesinde” ifadesi eklenmiştir. Alt kırılım numaralandırmasında 
+Türkçe alfabesine uygun olarak “ç” harfine de yer verilmiş bu nedenle 
+maddelerde alta kayma olmuştur. 6.1.14 maddesinde yer alan Eğitim 
+Prosedürünün kodu yazılmıştır. Doküman içinde yer alan toplantı 
+tutanaklarının kodu yazılmıştır. 6.1.1 maddesindeki üç ay kısmına 
+rakamla 3 eklenmiş yazı ile yazılan üç parantez içine alınmıştır.   
+1 23.03.2022
+15/11/2021 revizyon tarihli Doküman Hazırlama ve Yönetimi 
+Prosedürü ’ne (Doküman No: EYS.PR01) göre; 3.Dayanak maddesi 
+eklenmiş, bu nedenle daha sonraki maddelerin numaraları değişmiştir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Hazırlayan:
+İNSAN 
+KAYNAKLARI 
+DAİRE BAŞKANLIĞI
+Süreç Sahibi:
+İNSAN 
+KAYNAKLARI 
+DAİRE BAŞKANLIĞI 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol
+HUKUK 
+MÜŞAVİRLİĞİ 
+HUKUK 
+MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Onaylayan / İdari
+GENEL MÜDÜR
+Doküman No
+İKD.PR19.2 9.06.2023
+2/8
+Dokümanın Adı:
+İş Sağlığı ve Güvenliği Kurulları İşleyiş Prosedürü
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+İKD.PR19
+İlk Yayım Tarihi
+4.10.2021
+Revizyon Tarihi
+9.06.2023
+Revizyon No:
+2
+Sayfa Sayısı:
+2/8
+4.5. maddesinde yer alan “Birim Üst Yöneticisi” tanımı ve 4.6. 
+maddesinde yer alan “Birim Yöneticisi” tanımı 15/11/2021 revizyon 
+tarihli Doküman Hazırlama ve Yönetimi Prosedürü ’ne (Doküman No: 
+EYS.PR01) uyumlu hale getirilmiştir. 4.11. maddesindeki EBYS 
+tanımında yer alan "bilgi" kelimesi "belge" olarak düzeltilmiştir. 4.19. 
+maddesi genişletilmiş ve 4.20. maddesine “İSG Üst Kurulu” tanımı 
+eklenmiştir. EBYS 6.1.2.2. maddesinde yer alan Yapı/İşletme 
+Müdürlükleri ifadesi, Yapı İşleri/Yapı ve Teknoloji/ İşletme 
+Müdürlükleri olarak değiştirilmiştir. 7. Onay maddesi eklenmiş, bu 
+nedenle de daha sonraki maddelerin numaraları değişmiştir. 
+0 4.10.2021  
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman No
+İKD.PR19.23/89.06.2023
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatında kurulan 
+İş Sağlığı ve Güvenliği Kurullarının işleyişi ile ilgili usul ve esaslar ile yetki ve sorumlulukları 
+belirlemektir.
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatında görev alan tüm 
+çalışanlarını ve kurul üyelerini kapsar.
+3. DAYANAK
+Bu prosedür; 20/6/2012 tarihli ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu kapsamında, 18/01/2013 
+tarih ve 28532 sayı ile yayımlanmış olan, İş Sağlığı ve Güvenliği Kurulları Hakkında Yönetmeliğe 
+dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Alt İşveren: PTT AŞ adına bir işi üstlenen firmayı ifade eder.
+4.2   Başmüdürlük İSG Kurulu: Başmüdür veya Başmüdür Yardımcısı (Başmüdür Yardımcısının 
+bulunmadığı yerler ile Başmüdürün katılamayacağı toplantılarda ise Başmüdürün yetkilendirdiği İK/ İdari 
+ve Mali Birimler /İşletme Müdürü) başkanlığında, Genel Müdürlük İSG Üst Kurulu Üyelerinin Taşra 
+Teşkilatındaki uzantıları ile 6.1.2.2 maddesinde belirtilen üyelerden oluşur.
+4.3   Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve 
+Başmüdürlükleri ifade eder.
+4.4   Birim Üst Yöneticisi: Merkez Teşkilatında Kurul/Komite Başkanını, Başkanı, 1.Hukuk Müşavirini, 
+Daire Başkanını, Birim sorumlusunu ve Özel Kalem Müdürünü; Taşra Teşkilatında ise Başmüdürü ifade 
+eder.
+4.5   Birim Yöneticisi: Merkez Teşkilatında Şube/Teknik Müdürleri, Taşra Teşkilatında ise Teknik 
+Müdürleri/ Müdürleri (İhtisas) ve PTT Müdürlerini ifade eder.
+4.6   Çalışan: PTT iş yerinde çalışan personel, stajyer ve alt işveren çalışanlarının tamamını ifade eder.
+4.7   Çalışan Temsilcisi: İş sağlığı ve güvenliği ile ilgili çalışmalara katılma, çalışmaları izleme, tedbir 
+alınmasını isteme, tekliflerde bulunma ve benzeri konularda çalışanları temsil etmeye yetkili kişidir. 
+Merkezde İş Sağlığı ve Güvenliği (İSG) üst kuruluna Türkiye Geneli yetkili sendika, Başmüdürlüklerde 
+ise İSG kurullarına o ilde yetkili konumdaki sendikadan bir kişinin çalışan temsilcisi olarak katılması 
+sağlanmalıdır.
+4.8 Genel Müdürlük İSG Üst Kurulu: Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığının 
+bağlı olduğu Genel Müdür Yardımcısı Başkanlığında (ihtiyaç duyulması halinde diğer Genel Müdür 
+Yardımcıları da toplantıya davet edilebilir.) 6.1.2.1 maddesinde belirtilen üyelerden oluşur.
+4.9İSG Kurulu: Taşra Teşkilatında İş Sağlığı ve Güvenliği ile ilgili iş ve işlemleri yürütmek için 
+kurulan iş sağlığı ve güvenliği kuruluna denir. 
+4.10İSG Şube Müdürlüğü: İş Sağlığı ve Güvenliği Şube Müdürlüğüdür.
+4.11İSG Üst Kurulu: Merkez Teşkilatında İş Sağlığı ve Güvenliği ile ilgili iş ve işlemleri yürütmek için 
+kurulan iş sağlığı ve güvenliği kuruluna Üst Kurul denir. 
+4.12İş Güvenliği Uzmanı: İş sağlığı ve güvenliği alanında görev yapmak üzere, iş güvenliği uzmanlığı 
+belgesine sahip, PTT AŞ ile bu konuda sözleşme imzalamış ve Bakanlıkça yetkilendirilmiş kişidir.
+4.13İş Kazası: İş yerinde veya yürütülmekte olan iş nedeniyle meydana gelen, ölüme sebebiyet veren 
+veya vücut bütünlüğünü ruhen ya da bedenen özre uğratan olaya denir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman No
+İKD.PR19.24/89.06.2023
+4.14İşveren: Posta ve Telgraf Teşkilatı Anonim Şirketinde, İşveren adına hareket eden, işin ve iş 
+yerinin yönetiminde görev alan işveren vekilleri, bu Kanunun uygulanması bakımından işveren sayılır.
+4.15İş Yeri Hekimi: İş sağlığı ve güvenliği alanında görev yapmak üzere iş yeri hekimliği belgesine 
+sahip PTT ile sözleşme imzalamış ve Bakanlıkça yetkilendirilmiş kişidir.
+4.16 Kurul Sekretaryası: Merkezde İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve Güvenliği Şube 
+Müdürlüğü, taşra teşkilatında ise İnsan Kaynakları Müdürlüğü/Şefliğidir.
+4.17 Meslek Hastalığı: Mesleki risklere maruziyet sonucu ortaya çıkan hastalıktır.
+4.18 Ramak Kala: İş yerinde meydana gelen, çalışan, iş yeri ya da iş ekipmanını zarara uğratma 
+potansiyeli olduğu halde henüz zarara uğratmayan olaydır.
+4.19 Sorumlu Birim: Hedefin gerçekleştirilmesi için çalışacak olan birimdir.
+4.20Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.21 Üst Yönetim: Merkez Teşkilatında Yönetim Kurulu Başkanı/Genel Müdür, Genel Müdür 
+Yardımcıları ile Birim Üst Yöneticilerini; taşra teşkilatında ise Başmüdürleri ifade eder.
+5. SORUMLULUKLAR
+5.1Bu prosedürün hazırlanmasından ve yönetiminden İnsan Kaynakları Daire Başkanlığı İş Sağlığı ve 
+Güvenliği Şube Müdürlüğü sorumludur.
+5.2Tüm kurul üyeleri ve çalışanlar bu prosedürün uygulanmasından sorumludur.
+5.3İşverenin Yükümlülüğü
+5.3.1 Elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı iş yerlerinde 
+işveren, iş sağlığı ve güvenliği ile ilgili çalışmalarda bulunmak üzere kurul oluşturur.
+5.3.2 Altı aydan fazla süren asıl işveren-alt işveren ilişkisinin bulunduğu hallerde;
+a)Asıl işveren alt işverenin çalışan sayıları ayrı ayrı elli ve daha fazla ise asıl işveren ve alt işveren ayrı 
+ayrı kurul kurar. İş sağlığı ve güvenliği faaliyetlerinin yürütülmesi ve kurullarca alınan kararların 
+uygulanması konusunda iş birliği ve koordinasyon asıl işverence sağlanır.
+b)Bir iş yerinde sadece asıl işverenin çalışan sayısı elli ve daha fazla ise bu durumda kurul asıl işverence 
+kurulur. Kurul oluşturma yükümlülüğü bulunmayan alt işveren, kurul tarafından alınan kararların 
+uygulanması ile ilgili olarak koordinasyonu sağlamak üzere vekâleten yetkili bir temsilci atar.
+c)Alt işverenin çalışan sayısı elli ve daha fazla, asıl işverenin çalışan sayısı ellinin altında ise iş yerinde 
+kurul alt işverence oluşturulur. Asıl işveren alt işverenin oluşturduğu kurula iş birliği ve koordinasyonu 
+sağlamak üzere vekâleten yetkili bir temsilci atar.
+ç) Asıl işveren ve alt işverenin çalışan sayıları ayrı ayrı ellinin altında ve toplam çalışan sayısı elliden fazla 
+bulunduğu durumlarda ise koordinasyon asıl işverence yapılmak kaydıyla, asıl işveren ve alt işveren 
+tarafından birlikte bir kurul oluşturulur. Kurulun oluşumunda üyeler 5.1 maddesine göre her iki işverenin 
+ortak kararı ile atanır.
+5.3.3 Asıl işveren alt işveren ilişkisi bulunmayan ve aynı çalışma alanında birden fazla işverenin 
+bulunması ve bu işverenlerce birden fazla kurulun oluşturulması hâlinde işverenler, birbirlerinin 
+çalışmalarını etkileyebilecek kurul kararları hakkında diğer işverenleri bilgilendirir.
+5.3.4İşverenler, iş sağlığı ve güvenliği kurul kararlarını uygular.
+5.4   İşverenin veya işveren vekilinin kurula ilişkin genel yükümlülüğü;
+5.4.1  İşveren veya işveren vekili, kurul için gerekli toplantı yeri, araç ve gereçleri sağlar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman No
+İKD.PR19.25/89.06.2023
+5.4.2 İşveren veya işveren vekili, kurulca hazırlanan EYS.FR20 Toplantı Tutanağı’nı, kaza ve diğer 
+vakaların inceleme raporlarını ve kurulca iş yerinde yapılan denetim sonuçlarına ait kurul raporlarını, iş 
+müfettişlerinin incelemesini sağlamak amacıyla, iş yerinde bulundurur.
+5.5 Kurulun yükümlülüğü
+5.5.1 Kurullar, yapacakları tekliflerde, bulunacakları tavsiyelerde ve verecekleri kararlarda iş yerinin 
+durumunu ve işverenin olanaklarını göz önünde bulundururlar.
+5.5.2  Kurul üyeleri, görevleri nedeniyle iş yerlerinin yapım ve üretim teknikleri, ticari bilgileri, ekonomik 
+durumları vb. Şirket sırları hakkında gördükleri ve öğrendiklerini gizli tutmak zorundadırlar. Bu amaçla 
+kurul üyelerine ve kurul katılımcılarına “EYS.FR22 Üçüncü Taraf Bilgi Koruma Taahhütnamesi” 
+imzalatılır.
+5.5.3 Kurullar, iş sağlığı ve güvenliği yönünden teftiş yapmaya yetkili Bakanlık iş müfettişlerine iş 
+yerlerinde yapacakları teftiş ve incelemelerde kolaylık sağlamak ve yardımcı olmakla yükümlüdür.
+5.6Çalışanların Yükümlülüğü 
+5.6.1 Çalışanlar, sağlık ve güvenliğin korunması ve geliştirilmesi amacıyla iş sağlığı ve güvenliği 
+kurullarınca konulan kurallar, yasaklar ile alınan karar ve tedbirlere uymak zorundadırlar.
+5.6.2 Çalışanlar, iş yerinde iş sağlığı ve güvenliği tedbirlerinin belirlenmesi, uygulanması ve alınan 
+tedbirlere uyulması hususunda kurullarla iş birliği yaparlar.
+5.6.3 Kurullar tarafından alınan kararlar veya uygulamada karşılaştıkları güçlükler hakkında çalışanlar, 
+çalışan temsilcileri aracılığı ile kurula bilgi verirler.
+6. UYGULAMA
+6.1 Kurulun kurulacağı iş yerleri
+6.1.1 PTT AŞ Merkez ve Taşra Teşkilatında elli ve daha fazla çalışanın bulunduğu, altı aydan fazla süren 
+sürekli işlerin yapıldığı iş yerlerinde ve tüm çalışanları statüsüne bakılmaksızın kapsayan ayrı bir iş yeri 
+sicili bulunan iş yerinde İş Sağlığı ve Güvenliği Kurulu kurulur.
+6.1.2Kurul aşağıda belirtilen kişilerden oluşur:
+6.1.2.1 Genel Müdürlükte oluşturulacak İş Sağlığı ve Güvenliği Üst Kurulu;
+a) Genel Müdür veya İş Sağlığı ve Güvenliği Şube Müdürlüğünün bünyesinde olduğu Daire 
+Başkanlığının bağlı olduğu Genel Müdür Yardımcısı işveren vekili sıfatıyla,
+b) Hukuk Müşavirliği, İnsan Kaynakları, Bilgi Teknolojileri, Entegre Yönetim Sistemi, Destek Hizmetleri 
+ve Ulaşım, Eğitim, PTT Bank, Posta ve Kargo Hizmetleri, Lojistik, İş Yeri Planlama ve Kurulum, 
+Rehberlik ve Teftiş, Elektronik Posta ve Yapı Daire Başkanlıklarını/Müşavirliğini temsilen 
+Başkan/Müşavir veya Başkan Yardımcısı düzeyinde birer üye,
+c) İş Sağlığı ve Güvenliği Şube Müdürü,
+ç) İş güvenliği uzmanı (varsa),
+d) İş yeri hekimi(varsa),
+e) Çalışan Temsilcisi,
+f) Alt işveren temsilcileri (katılımcı olarak),
+g) Strateji Geliştirme Başkanlığı’nı temsilen Başkan veya Başkan Yardımcısı düzeyinde bir üye (katılımcı 
+olarak),
+ğ) Kurulun başkanı İşveren Vekili olup, kurulun sekretaryasını ise İş Sağlığı ve Güvenliği Şube Müdürlüğü 
+yapar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman No
+İKD.PR19.26/89.06.2023
+6.1.2.2 Başmüdürlüklerde ise İş Sağlığı ve Güvenliği Kurulu beş kişiden az olmamak üzere aşağıda 
+belirtilen üyelerden oluşur;
+a) İşveren vekili sıfatıyla Başmüdür ya da Başmüdürün uygun gördüğü Başmüdür yardımcısı, İnsan 
+Kaynakları/İşletme /İdari ve Mali Birimler Müdürü,
+b) İş güvenliği uzmanı(varsa),
+c) İş yeri hekimi(varsa),
+ç) İnsan Kaynakları Müdürlüğü/Şefliği ile Yapı İşleri/Yapı ve Teknoloji/İşletme, Destek Hizmetleri ve 
+Ulaşım / İdari Mali Birimler, Entegre Yönetim Sistemi Müdürlüklerinin sorumlu birim yöneticileri,
+d) Çalışan Temsilcisi,
+e) Alt işveren temsilcileri (katılımcı olarak).
+f) Kurulun Başkanlığını İşveren vekili, kurulun sekretaryasını ise İnsan Kaynakları Müdürlüğü/Şefliği 
+yürütür.
+6.2 Kurulun çalışma usulleri aşağıdaki gibidir;
+6.2.1 İş Sağlığı ve Güvenliği Kurulu, iş yerinin tehlike sınıfını dikkate alınarak, çok tehlikeli iş yerlerinde 
+en az ayda bir, tehlikeli iş yerlerinde en az iki ayda bir, az tehlikeli iş yerlerinde ise en az 3 (üç) ayda bir 
+gerçekleştirilecektir.
+6.2.2 Kurulun sekretaryası tarafından toplantının gündemi, yeri, günü ve saati toplantıdan en az 48 saat 
+önce kurul üyelerine yazı, mail, faks, kurumsal elektronik yazışma sistemlerinden bir veya birkaçı ile 
+bildirilir.
+6.2.3 Gündem; sorunlar, iş kazaları, ramak kala olaylar, meslek hastalıkları ile varsa iş sağlığı ve 
+güvenliğine ilişkin projelerden önem sırasına göre belirlenir. Kurul üyeleri gündemde değişiklik 
+isteyebilirler. Bu istek kurulca uygun görüldüğünde gündem buna göre değiştirilebilir.
+6.2.4 İş Sağlığı ve Güvenliği Kurulu, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu’nun 13 üncü maddesinde 
+belirtilen çalışmaktan kaçınma hakkı taleplerinde ve olağanüstü durumlarda acilen toplanır. Toplantıda 
+alınan karar çalışan ve çalışan temsilcisine yazılı olarak tebliğ edilir.
+6.2.5 Ölümlü, uzuv kayıplı veya ağır iş kazası halleri veya özel bir tedbiri gerektiren önemli hallerde kurul 
+üyelerinden herhangi biri kurulu olağanüstü toplantıya çağırabilir. Bu konudaki tekliflerin kurul başkanına 
+veya sekretaryasına yapılması gerekir.
+6.2.6Toplantı zamanı, konunun ivedilik ve önemine göre tespit edilir.
+6.2.7 Kurul toplantılarının günlük çalışma saatleri içinde yapılması esastır. Kurulun toplantılarında 
+geçecek süreler günlük çalışma süresinden sayılır.
+6.2.8 Kurul, üye tam sayısının salt çoğunluğu ile işveren veya işveren vekili başkanlığında toplanır ve 
+katılanların salt çoğunluğu ile karar alır. Çekimser oy kullanılamaz. Oyların eşitliği halinde başkanın oyu 
+kararı belirler. Çoğunluğun sağlanamadığı veya başka bir nedenle toplantının yapılmadığı hallerde durumu 
+belirten bir tutanak düzenlenir.
+6.2.9 Kurul; salgın hastalık, deprem, sel, terör tehdidi vb. olağanüstü durumlarda bilgi ve iletişim 
+teknolojileri kullanılarak uzaktan gerçekleştirilebilir.
+6.2.10 Her toplantıda, görüşülen konularla ilgili alınan kararları içeren bir tutanak düzenlenir. Tutanak, 
+toplantıya katılan başkan ve üyeler tarafından imzalanır. İmza altına alınan kararlar herhangi bir işleme 
+gerek kalmaksızın işverene bildirilmiş sayılır. İmzalı tutanakta yer alan kararlar Karar Defterine işlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman No
+İKD.PR19.27/89.06.2023
+6.2.11 Toplantıda alınan kararlar gereği yapılmak üzere ilgililere duyurulur. Ayrıca çalışanlara 
+duyurulması faydalı görülen konular İSG Kurul sekretaryası tarafından iş yerinde, ilan panoları, EBYS 
+yazılımı, intranet, iş yeri maili, EYS yazılımından herhangi bir veya birkaçı ile bildirilir.
+6.2.12İş Sağlığı ve Güvenliği Kurulunca iş yerinde ilân edilen kararlar işverenleri ve çalışanları bağlar.
+6.2.13  Her toplantıda, önceki toplantıya ilişkin kararlar ve bunlarla ilgili uygulamalar hakkında başkan 
+veya kurulun sekretaryası tarafından kurula gerekli bilgi verilir ve gündeme geçilir. Bir önceki kurulda 
+alınan kararlarla ilgili gerçekleşme/gerçekleşmeme durumu gerçekleştiyse yapılan faaliyet, 
+gerçekleşmediyse nedenleri yeni EYS.FR20 Toplantı Tutanağı’na yazılır. Gerçekleşmeyen faaliyetler için 
+gerekirse yeni termin süresi belirlenir.   
+6.2.14 İşveren, İş Sağlığı ve Güvenliği Kurulu’nun üyelerine iş sağlığı ve güvenliği konularında 
+eğitimlerin Eğitim Daire Başkanlığınca EGT.PR01 Eğitim Prosedürüne göre verilmesini sağlar.
+6.2.15 Kurul üyelerinin eğitimleri asgari aşağıdaki konuları kapsar;
+a) Kurulun görev ve yetkileri,
+b) İş sağlığı ve güvenliği konularında ulusal mevzuat ve standartlar,
+c) Sıkça rastlanan iş kazaları ve tehlikeli vakaların nedenleri,
+ç) İş hijyeninin temel ilkeleri,
+d) İletişim teknikleri,
+e) Acil durum önlemleri,
+f) Meslek hastalıkları,
+g) İş yerlerine ait özel riskler,
+ğ) Risk değerlendirmeleri.
+6.3 Kurulun görevleri
+6.3.1 İş sağlığı ve güvenliği konularında o iş yerinde çalışanlara yol göstermek,
+6.3.2 İş yerinde iş sağlığı ve güvenliğine ilişkin tehlikeleri ve önlemleri değerlendirmek, tedbirleri 
+belirlemek, işveren veya işveren vekiline bildirimde bulunmak,
+6.3.3 İş yerinde meydana gelen her iş kazası, ramak kala ve meslek hastalığında yahut iş sağlığı ve 
+güvenliği ile ilgili bir tehlike halinde gerekli araştırma ve incelemeyi yapmak, alınması gereken tedbirleri 
+bir raporla tespit ederek işveren veya işveren vekiline vermek,
+6.3.4 İş yerlerinde iş sağlığı ve güvenliği eğitim ve öğretiminin verilmesini sağlamak. İş sağlığı ve 
+güvenliği eğitimleri Eğitim Dairesi Başkanlığınca koordine edilir.
+6.3.5 İSG Kurulu tarafından alınan kararları duyurmak, görevli birimlere aktarmak, gerek görülen 
+hususlarda aksiyon açılmasını sağlamak,
+6.3.6 İş yerinde yangın, doğal afet, sabotaj, salgın hastalık ve benzeri tehlikeler için alınan tedbirlerin 
+yeterliliğini ve ekiplerin çalışmalarını izlemek,
+6.3.7 İş yerinin iş sağlığı ve güvenliği durumuyla ilgili hazırlanan yıllık değerlendirme raporunu 
+incelemek, görüş vermek ve onaylamak. O yılki çalışmaları değerlendirerek elde edilen tecrübeye göre 
+ertesi yılın çalışma planında yer alacak hususları belirlemek,
+6.3.8 İş yerinde teknoloji, iş organizasyonu, çalışma şartları, sosyal ilişkiler ve çalışma ortamı ile ilgili 
+faktörlerin etkilerini kapsayan tutarlı ve genel bir önleme politikası geliştirmeye yönelik çalışmalar 
+yapmak.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman No
+İKD.PR19.28/89.06.2023
+7. ONAY
+ Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+EGT.PR01-Eğitim Prosedürü
+EYS.FR20-Toplantı Tutanağı
+EYS.FR22-Üçüncü Taraf Bilgi Koruma Taahhütnamesi
+KN.022-6331 Sayılı İş Sağlığı Ve Güvenliği Kanunu
+YNT.006-İş Sağlığı Ve Güvenliği Kurulları Hakkında Yönetmelik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

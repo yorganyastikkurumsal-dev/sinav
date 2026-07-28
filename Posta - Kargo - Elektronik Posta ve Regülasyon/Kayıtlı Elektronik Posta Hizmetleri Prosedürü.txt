@@ -1,0 +1,988 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+ELEKTRONİK POSTA 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/16
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde Kayıtlı Elektronik Posta (KEP) sistemin 
+yürütülmesi, başvurularının alınması, hesapların açılması, yönetilmesi, güncellemelerin yapılması, kayıtların 
+tutulması ve saklanması, bilgi güvenliğinin sağlanması, hesap kapatma taleplerinin alınması ve hesapların 
+kapatılması ile ilgili hizmetlerin idari, teknik ve yasal gerekliliklerin ifası ve Kayıtlı Elektronik Posta Hizmet 
+Sağlayıcı olarak Posta ve Telgraf Teşkilatı Anonim Şirketi’nin ve hesap sahibinin sorumluluklarının 
+belirlenmesidir.
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde PTT Müdürlüklerimizde Kayıtlı Elektronik Posta 
+hizmetinin verilmesi için gerekli Kayıtlı Elektronik Posta hizmetine ilişkin süreçleri kapsar.
+3.DAYANAK
+Bu Prosedür 13.01.2011 tarihli ve 6102 sayılı Türk Ticaret Kanunu’nun 1525. maddesine ve 25.08.2011 tarih ve 
+28036 sayılı Resmî Gazete’de yayımlanan Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında 
+Yönetmelik’e dayanılarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1Alıcı: Orijinal iletinin alıcısı durumundaki hesap sahibi veya işlem yetkilisidir.
+4.2Arşiv: Kayıtlı Elektronik Posta Hizmet Sağlayıcısının saklamakla yükümlü olduğu bilgi, belge ve elektronik 
+verilerdir.
+4.3Başlangıç Aktivasyonu: Yönetmeliğe göre KEP hesabının kullanıma açılabilmesi için gerçekleştirilen 
+aktivasyon işlemidir.
+4.4Başvuru Sahibi: Yetkili PTT Müdürlüklerinden KEP hesabı almak için müracaat eden gerçek ve tüzel 
+kişilerdir.
+4.5 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.6 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.7 BTK: Bilgi Teknolojileri ve İletişim Kurumu’dur.
+4.8 Elektronik İmza: Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve 
+kimlik doğrulama amacıyla kullanılan elektronik veridir.
+4.9 EML: Elektronik ileti formatıdır (Electronic mail).
+4.10 Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürüdür.
+4.11 Gönderici: Orijinal iletinin göndericisi durumundaki hesap sahibi veya işlem yetkilisidir.
+4.12 Güvenli Elektronik İmza: 5070 sayılı Elektronik İmza Kanunu’nun 4’üncü maddesinde tanımlanan ve aynı 
+Kanunun 5’inci maddesine göre elle atılan imza ile aynı hukukî sonucu doğuran elektronik imzadır.
+4.13 Hesap Sahibi: Adına KEP hesabı tahsis edilen gerçek kişi, kamu veya özel hukuk tüzel kişisidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/16
+4.14İşlem Yetkilisi: Hesap sahibinin tüzel kişi olduğu durumlarda ilgili KEP hesabına ilişkin işlemleri tüzel kişi 
+nam ve hesabına yapan gerçek kişi veya kişilerdir.
+4.15Kayıtlı Elektronik Posta (KEP): Elektronik iletilerin, gönderimi ve teslimatı da dâhil olmak üzere 
+kullanımına ilişkin olarak hukukî delil sağlayan, elektronik postanın nitelikli şeklidir.
+4.16Kayıtlı Elektronik Posta Hizmet Sağlayıcısı (KEPHS): BTK tarafından yetkilendirilen KEP sisteminin 
+kurulmasından ve işletilmesinden sorumlu tüzel kişidir.
+4.17 KEP Delili: Belirli bir işlemin belirli bir zamanda meydana geldiğini gösteren, KEP sisteminde üretilen ve 
+KEPHS’nin işlem sertifikası ile imzalanmış veridir.
+4.18 KEP Hesabı: Orijinal ileti gönderme ve alma ile KEP iletisi alma yeteneğine sahip KEP sisteminde 
+oluşturulan elektronik posta hesabıdır.
+4.19 KEP Hesabı Arayüzü: KEP hesabının kullanılması için PTT AŞ tarafından hesap sahibine sağlanan 
+elektronik ortamdır.
+4.20 KEP Hesap Adresi: KEP hesabına verilen addır.
+4.21 KEP Hesap Bakiyesi: KEP sisteminde, KEP hizmetleri ile ilgili ücretlerin ödenmesini teminen KEP hesabı 
+açtıranların daha önceden ödedikleri bedel kadar hizmet almalarını sağlayan ve almış oldukları hizmet karşılığında 
+ücretin anlık olarak tahsil edildiği para miktarıdır.
+4.22 KEP Hizmet Sözleşmesi: KEP Hizmetlerine ilişkin KEPHS ve KEP kullanıcısının hak ve yükümlülüklerin 
+yer aldığı karşılıklı olarak imzalanan belgedir.
+4.23 KEP İletisi: KEP sistemi içerisinde KEPHS tarafından üretilen KEP delilini içeren ve KEPHS’nin işlem 
+sertifikası ile imzalanmış iletidir.
+4.24 KEP Rehberi: KEP hesabı bilgilerinin doğruluğunun ve güncelliğinin sorgulanabilmesi amacıyla işletilen 
+bilgi ve sorgu sistemidir.
+4.25 KEP Paketi: Orijinal iletiyi içeren ve KEPHS’nin işlem sertifikası ile imzalanmış iletidir.
+4.26 KEP Sistemi: Elektronik iletişim platformları aracılığıyla gerçekleşen, gönderildi ve alındı onayları da dâhil 
+olmak üzere KEP İletilerinin tüm süreçlerine ilişkin olarak delil yaratılması, güvenli bir şekilde kimlik tespiti 
+yapılması, posta hesabı, rehber ve arşivleme hizmetleri verilmesi gibi işlevlere sahip PTT AŞ bünyesinde kurulu 
+bulunan sistemdir.
+4.27 Kullanıcı: Gönderici ve alıcıdır.
+4.28MERNİS: Merkezi Nüfus İdaresi Sistemidir. 
+4.29MERSİS: Ticaret sicili kayıtlarını da içeren, Ticaret Bakanlığı tarafından oluşturulan ve yönetilen Merkezi 
+Sicil Kayıt Sistemidir.
+4.30MERSİS No: MERSİS tarafından Ticaret Siciline kayıtlı şirketlere verilen tekil numaradır.
+4.31 Nitelikli Elektronik Sertifika: 5070 sayılı Elektronik İmza Kanunu’nun 9’uncu maddesinde sayılan 
+niteliklere haiz sertifikadır.
+4.32 Orijinal İleti: Gönderici tarafından üretilen ve göndericinin güvenli elektronik imzasını taşıyan iletidir.
+4.33 Personel: Posta ve Telgraf Teşkilatı Anonim Şirketinde görev yapan tüm çalışanlardır.
+4.34 PTT Kullanıcısı: Yetkili PTT Müdürlüklerinde KEP işlemlerini yapmak üzere görevlendirilen PTT AŞ 
+personelidir.
+4.35Sakla-İlet: KEP iletilerinin, alıcının veya göndericinin KEP hesaplarına doğrudan ulaştırıldığı KEP çalışma 
+modelidir.
+4.36Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/16
+4.37 UTC: Eşgüdümlü Evrensel Zamandır (Coordinated Universal Time).
+4.38 Yönetmelik: Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmelik.
+4.39 Zaman Damgası: 5070 sayılı Elektronik İmza Kanunu’nun 3’üncü maddesinde tanımlanan zaman damgasıdır.
+5.SORUMLULUKLAR
+5.1 PTT AŞ’nin Sorumlulukları
+BTK tarafından yetkilendirilen KEPHS’lerden biri olarak KEP sisteminin yasal mevzuatlara uygun olarak 
+uygulanması ve yürütülmesinden sorumludur.
+5.2 KEP Kullanıcısının Sorumlulukları
+5.2.1Gerçek kişi, kamu ya da özel hukuk tüzel kişisi KEP sistemine Yönetmelik’te belirtilen şekilde başvuruda 
+bulunur.
+5.2.2Hesap sahibinin adres ve iletişim bilgileri, online ön başvuru esnasında doldurduğu online ön başvuru formu 
+üzerinden KEP sistemine iletilir. Hesap sahibinin tüzel kişi olması halinde KEP sistemini kullanmak üzere 
+yetkilendirilen işlem yetkilisi, kendi kimlik ve iletişim bilgilerini de online ön başvuru esnasında doldurduğu online 
+ön başvuru formunda belirtir. Hesap sahibi söz konusu bilgilerdeki her türlü değişikliği derhal PTT AŞ’ye 
+bildireceğini, hesap açılışında imzaladığı KEP Hizmet Sözleşmesi ile kabul eder.
+5.2.3KEP sistemine başvuruda bulunanlar hesap sahibi olduklarında KEP sistemine üye olmuş sayılırlar.
+5.2.4Hesap sahibi; KEP sistemini kullandığı sürece, online ön başvuru ve PTT Müdürlüğümüzde kullanıcı 
+tarafından verilen bilgilere istinaden KEP sistemi tarafından oluşturulan başvuru formunda yer alan bilgilerin tam, 
+doğru ve gerçek olduğunu, KEP sistemi üzerinden yapacağı bilgi güncellemelerine ilişkin sorumluluğun kendisine 
+ait olduğunu ve bu bilgilerin gerekli olduğu (şifre unutma, hesap kapatma vb.) durumlarda bilginin hatalı veya 
+noksan olmasından doğacak zararlardan dolayı sorumluluğun kendisine ait olduğunu kabul eder.
+5.2.5Hesap sahibinin KEP sistemine erişebilmek için gerekli donanım ve yazılımı bulundurması gerekmektedir. 
+Yazılım, donanım ve işleyişi konusunda PTT AŞ’nin hiçbir sorumluluğu bulunmamaktadır.
+5.2.6Hesap sahibi, almakta olduğu hizmetlere ilişkin kendisine önceden haber verilen ücret değişikliklerini kabul 
+etmez ise hizmet almaktan vazgeçebilir. KEP internet sayfasında yayımlanan ya da KEP iletisinde belirtilen KEP 
+hizmetine ilişkin ücret değişikliklerinin uygulanacağı tarih itibarı ile KEP hizmeti almaya devam edenler ücret 
+değişikliklerini kabul etmiş sayılırlar.
+5.2.7Hesap sahibi gerçek kişi, kamu veya özel hukuk tüzel kişisi ile işlem yetkilileri KEP sistemi üzerinden 
+bilerek veya sehven, yanlış hesap adresine gönderilen bilgi, mesaj ve dosyalar ile ileri sürdüğü şahsi fikir, düşünce 
+ve ifadelerin sorumluluğunun PTT AŞ’ye ait olmadığını ve PTT AŞ’nin bunlardan dolayı hiçbir şekilde sorumlu 
+tutulmayacağını kabul eder.
+5.2.8Hesap sahibi gerçek kişi, kamu veya özel hukuk tüzel kişisi ile işlem yetkilileri KEP sistemi için PTT AŞ 
+tarafından geliştirilmiş olan yazılımın telif hakkının PTT AŞ’ye ait olduğunu, bu sistemi hiçbir şekilde izinsiz 
+çoğaltıp dağıtmayacağını, yayımlamayacağını, pazarlamayacağını kabul eder.
+5.2.9Hesap sahibi, KEP sistemine PTT AŞ tarafından belirlenen kurallar dışında ve yetkisiz şekilde ulaşmamayı 
+ve yazılım ile servislerin özelliklerini hiçbir şekilde değiştirmemeyi, başkası tarafından değiştirilmiş olanları bilerek 
+kullanmamayı ve bu hususlara uymadığı durumlarda PTT AŞ’nin uğrayabileceği tüm maddi ve manevi zararları 
+ödemeyi kabul eder.
+5.2.10Hesap sahibi, verilerinin PTT AŞ’nin kusuru bulunmaksızın yetkisiz kişilerce okunmasından ve 
+paylaşılmasından dolayı oluşabilecek zararlardan ötürü PTT AŞ 'nin sorumlu olmayacağını kabul eder.
+5.2.11Hesap sahibi, KEP sistemini kullanarak kanunlara göre postalanması yasak olan bilgileri postalamamayı, 
+yazılım virüsü gibi gönderilme yetkisi olmayan postaları bilerek dağıtmamayı, aksi takdirde PTT AŞ ve diğer hesap 
+sahiplerinin uğrayacağı maddi ve manevi zararları ödeyeceğini kabul eder.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/16
+5.2.12Hesap sahibi, KEP sistemine üyeliğinin sona ermesi halinde dahi, üyeliği sırasında gerçekleştirdiği 
+işlemlerden sorumlu olacağını kabul eder.
+5.2.13Hesap sahibi, KEP sisteminden faydalandığı sürece ilgili mevzuat hükümleri ile PTT AŞ tarafından 
+yayımlanacak bildirimlere riayet etmeyi ve bunları ihlal etmemeyi kabul eder.
+5.2.14Hesap sahibi, aldığı hizmetlerin süresi ve ödeyeceği ücretler konusunda PTT AŞ’nin kayıtlarının tek geçerli 
+kayıt olduğunu, bu kayıtlardaki bilgilere itiraz etmeyeceğini ve PTT AŞ’nin kayıtlarının kesin delil teşkil edeceğini 
+kabul eder.
+5.2.15Hesap sahibi, mücbir sebeplerle sistemin çalışmaması ve bu sebeple hizmet alamaması durumundan hiçbir 
+şekilde PTT AŞ’yi sorumlu tutmayacağını, bu sebeplere dayanarak PTT AŞ’den kar kaybı gibi dolaylı zararlar da 
+dâhil olmak üzere herhangi bir hak ve tazminat talep etmeyeceğini kabul eder.
+5.2.16Hesap sahibinin ya da işlem yetkilisinin, KEP hesabına erişerek gelen iletileri kontrol etmesi esastır. Mücbir 
+sebep hâlleri dışında KEP hesabına erişilmemesi durumunda o işgünü içinde gelen KEP iletisinin ertesi işgünü 
+hesap sahibine ulaştığı ve okunduğu kabul edilir.
+5.2.17Hesap sahibi, KEP sistemindeki kendisine ait tüm bilgi ve kayıtların, talep edilmesi halinde yetkili 
+(adli/idari) makamlara PTT AŞ tarafından verilebileceğini kabul eder.
+5.2.18Hesap sahibi Sakla-ilet çalışma modeli türünde hizmet alacağını kabul eder.
+5.2.19Hesap sahibi, KEP hesap adresini kullanarak KEP dışında herhangi bir elektronik posta hesabına elektronik 
+posta göndermeyeceğini ve böyle bir hak talep etmeyeceğini kabul eder.
+5.2.20Hesap sahibi kendisine tahsis edilen depolama alanı dolduğunda, PTT AŞ tarafından KEP hesabı 
+adresinden KEP iletisi gönderilmesinin engellenebileceğini kabul eder.
+5.2.21PTT AŞ’nin KEP sistemi üzerinden sunduğu hizmetlere ilişkin olarak oluşturduğu kayıtlar ile KEP delilleri 
+senet hükmündedir ve aksi ispat edilinceye kadar kesin delil sayılır. Bu sebeple KEP hesabı kullanılarak 
+gerçekleştirilen tüm işlemlere ilişkin hukukî sonuçları hesap sahibi kabul eder.
+5.2.22Rehber kaydının silinmesini isteyen gerçek kişi olan hesap sahipleri bu taleplerini PTT AŞ’ye iletir. Kamu 
+veya özel hukuk tüzel kişisi olan hesap sahipleri rehber kaydının silinmesi talebinde bulunamazlar.
+5.2.23KEP hesabı almak isteyen gerçek kişi, kamu veya özel hukuk tüzel kişileri; KEP hesabı adresini sadece alıcı 
+veya hem alıcı hem gönderici olarak kullanacağını PTT AŞ’ye açıkça belirtmekle yükümlüdür.
+5.2.24Hesap sahibi, alacağı KEP hizmetlerine ilişkin yıllık üyelik ücretini, KEP iletisi gönderim ücretini, kısa 
+mesaj (SMS) ile bilgilendirilme ücretini ve saklama alanı ücretini KEP hesap bakiyesinden ödemeyi kabul ve 
+taahhüt eder. 
+5.2.25Hesap sahibi ya da işlem yetkilisi KEP hesabı açtırdıktan sonra hesabını kullanabilmek için yıllık üyelik 
+ücretinin KEP hesap bakiyesinden alınabilmesi için yeterli KEP hesap bakiyesine sahip olması gerektiğini bilmekle 
+sorumludur.
+5.2.26Hesap sahibi ya da işlem yetkilisi KEP iletisi göndermek veya Yönetmelik kapsamındaki katma değerli 
+hizmetleri alabilmek için yeterli KEP hesap bakiyesine sahip olması gerektiğini bilmekle sorumludur.
+5.2.27KEP hesabı almak isteyen gerçek kişi, kamu veya özel hukuk tüzel kişileri; KEP hesabı başvurusu için 
+gerekli olan bilgi ve belgeleri tam ve doğru olarak PTT AŞ’ye vermekle yükümlüdür.
+5.2.28Gerçek kişi, kamu veya özel hukuk tüzel kişisi olan hesap sahipleri ile işlem yetkilileri, PTT AŞ tarafından 
+verilen “KEP hesap adresi”, “parola” ve “şifre” bilgilerini başka kurum ve kişilere kullandıramaz, devir ve temlik 
+edemez. Aksi takdirde PTT AŞ’nin söz konusu kullanımdan doğan gelir kaybı gibi zararlarının tazminini talep 
+hakkı saklıdır.
+5.2.29Gerçek kişi, kamu veya özel hukuk tüzel kişisi olan hesap sahipleri ile işlem yetkilileri, kendi kullanıcı adı, 
+parola ve şifreleri ile yapılan her türlü işlemden sorumludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/16
+5.2.30Gerçek kişi, kamu veya özel hukuk tüzel kişisi olan hesap sahipleri ile işlem yetkilileri dilediği zaman şifre 
+veya parolalarını değiştirebilirler, şifre veya parolanın seçimi ve korunması tamamıyla kendi sorumluluklarındadır. 
+PTT AŞ, hesap sahibi tarafından şifrenin yanlış kullanımından doğacak hallerden sorumlu değildir.
+5.2.31Hesap sahibi, KEP hesabının gizliliğinden veya güvenliğinden şüphe etmesi durumunda PTT’yi derhal 
+bilgilendirmekle yükümlüdür.
+5.2.32Kullanıcılar, KEP sistemi şifre veya parolasının kaybolması, çalınması, güvenilirliğinden şüphe edilmesi 
+durumunda PTT AŞ’yi derhal bilgilendirmekle, KEP bünyesinde güçlü şifre ve parolalar kullanmakla yükümlüdür.
+5.2.33Kullanıcı şifre veya parolasını, aile adı, arkadaşlar, çizgi film karakterleri, bilgisayar terimleri, siteler, 
+donanım, yazılım, şirket, kurum ismi, doğum tarihi, adres, telefon numarası gibi özel bilgiler, ardışık ve benzer 
+kelimeler gibi yaygın kullanılan kelimelerden seçmemekle yükümlüdür.
+5.2.34Kullanıcı, parola veya şifresini başkası ile paylaşmamak, kâğıtlara ya da elektronik ortamlara yazmamak, 
+başkasının görmesini engelleyecek şekilde girmek, telefonda kimseye söylememekle yükümlüdür.
+5.2.35Kullanıcı parola veya şifrelerini en az üçer aylık periyotlarla değiştirmekle yükümlüdür.
+5.2.36Kullanıcı, güvenlik amacıyla konulan önlemleri devre dışı bırakmamakla yükümlüdür. 
+5.2.37Kullanıcı KEP sistemi tarafından geçici olarak verilen parolayı sisteme ilk girişte değiştirmekle ve gizli soru 
+ve cevabını belirlemekle yükümlüdür.
+5.2.38Gerçek kişi, kamu veya özel hukuk tüzel kişisi olan hesap sahipleri ile işlem yetkilileri, KEP hesaplarına ilk 
+girişte güvenlik sorusunu seçmekle ve cevabını belirlemekle sorumludurlar. PTT hesap sahibi tarafından güvenlik 
+sorusu ve cevabının eksikliğinden dolayı oluşacak hallerden sorumlu değildir.
+6.UYGULAMA
+6.1 KEP Hesap Başvurusu
+6.1.1Başvuru Sahipleri
+6.1.1.1KEP sistemine; gerçek kişiler, kamu kurum ve kuruluşları ile özel hukuk tüzel kişileri üye olabilecektir.
+6.1.1.2Her üye bir başka üyeye orijinal ileti gönderebilecek, orijinal ileti alabilecektir.
+6.1.1.3 Kamu kurum ve kuruluşları ile özel hukuk tüzel kişileri, işlem yetkililerinin nitelikli elektronik sertifikaları 
+vasıtasıyla bu işlemleri gerçekleştirebilecek olup sadece orijinal ileti almak isteyen gerçek kişi kullanıcılarının 
+nitelikli elektronik sertifikaya sahip olma zorunlulukları yoktur.
+6.1.2Başvuru Yeri
+6.1.2.1KEP sistemine üye olmak isteyen gerçek kişi, kamu ya da özel hukuk tüzel kişileri, yetkili PTT 
+Müdürlüklerine şahsen ya da işlem yetkilileri aracılığıyla müracaat ederek üye olabileceklerdir.
+6.1.2.2Güvenli elektronik imza sahibi gerçek kişiler ayrıca https://hs01.kep.tr adresinden de online kayıt 
+yaptırabilirler.
+6.1.3Başvuru Belgeleri
+6.1.3.1Gerçek Kişilerin başvurularında talep edilecek bilgi ve belgeler aşağıdaki gibidir.
+a) Kimlik Belgesi (Başvuru yapanın kimlik tespiti için nüfus cüzdanı, pasaport gibi fotoğraflı ve kimlik yerine 
+geçen üzerinde T.C. kimlik numarası bulunan resmî belge.),
+b) Online Ön Başvuru Numarası.
+6.1.3.2 DETSİS numarası ile yapılacak Kamu Kurum ve Kuruluşlarının başvurularında talep edilecek bilgi ve 
+belgeler aşağıdaki gibidir.
+a) Kurum Yetkilisince imzalanmış KEP Hesabı Açılmasına İlişkin Talep Yazısı,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/16
+b) Kimlik Belgesi (Başvuru yapanın kimlik tespiti için nüfus cüzdanı, pasaport gibi fotoğraflı ve kimlik yerine 
+geçen üzerinde T.C. kimlik numarası bulunan resmî belge.),
+c) Online Ön Başvuru Numarası.
+6.1.3.3MERSİS’e kayıtlı Tüzel Kişi başvurularında talep edilecek bilgi ve belgeler aşağıdaki gibidir.
+a) Üzerinde MERSİS numarası bulunan Faaliyet Belgesi ya da Ticaret Sicil Tasdiknamesi,
+b)İmza Sirküleri,
+c) Kimlik Belgesi (Başvuru yapanın kimlik tespiti için nüfus cüzdanı, pasaport gibi fotoğraflı ve kimlik yerine 
+geçen üzerinde T.C. kimlik numarası bulunan resmî belge.),
+ç) Online Ön Başvuru Numarası.
+6.1.3.4MERSİS ve DETSİS’te kaydı olmayan Tüzel Kişi başvurularında talep edilecek bilgi ve belgeler aşağıdaki 
+gibidir.
+a) Tüzel Kişinin faaliyet gösterdiğine dair resmî belge (Vakıf Senedi, Kuruluş Tüzüğü, Dernek Tüzüğü, Ana 
+Sözleşme vb.),
+b) Tüzel Kişi yetkilisi/yetkililerince imzalanmış KEP hesabı açılmasına ilişkin talep yazısı,
+c)İmza Sirküleri ya da yerine geçen resmi Yetkilendirme Belgesi,
+ç) Vergi Kimlik Numarası,
+d) Kimlik Belgesi (Başvuru yapanın kimlik tespiti için nüfus cüzdanı, pasaport gibi fotoğraflı ve kimlik yerine 
+geçen üzerinde T.C. kimlik numarası bulunan resmî belge.),
+e) Online Ön Başvuru Numarası. 
+6.2 Yetkili PTT Müdürlüklerinden Başvuruların Alınması ve KEP sistemine Kayıt Edilmesi
+6.2.1 KEP Hesap Başvurularının Alınması
+6.2.1.1KEP hesabı almak isteyen başvuru sahibi, https://basvuru.hs01.kep.tr/ linki üzerinden uygun online ön 
+başvuru formunu doldurarak sistem tarafından verilen ön başvuru numarası ve başvuru belgeleri ile 
+www.pttkep.gov.tr web sitesinde yer almakta olan PTT Müdürlüklerine başvuruda bulunur.
+6.2.1.2Gerçek kişiler www.pttkep.gov.tr ve https://basvuru.hs01.kep.tr adresinden elektronik ortamda da güvenli 
+elektronik imza aracılığıyla başvuru yapabilirler.
+6.2.1.3Belge kontrolü online kayıt yapan gerçek kişiler haricinde tüm başvurular için başvuru anında PTT 
+kullanıcısı tarafından yapılacaktır.
+6.2.1.4İstenilen belgeleri PTT kullanıcısına tam olarak ibraz etmeyen ve doğruluğu onaylanmayan belgelerle 
+başvuran başvuru sahibinin müracaatı kabul edilmez.
+6.2.1.5 KEP başvuru evraklarının kontrol edilmesi ve başvuru bilgilerinin KEP sistemine kayıt edilerek mevzuata 
+uygun bir KEP hesap adresi verilmesi işlemi, T7.2.1 Müşterinin KEP Hesap Başvuru Sürecine göre yapılır.
+6.2.1.6 PTT kullanıcısı tarafından başvuru sahibinin KEP Rehberi ve Kayıtlı Elektronik Posta Hesabı Adreslerine 
+İlişkin Tebliğde Değişiklik Yapılmasına İlişkin Tebliğe uygun bir KEP hesap adresi seçmesi sağlanır.
+6.2.1.7 KEP hesabı kayıt işleminin son aşamasında PTT kullanıcısı tarafından KEP Hizmet Sözleşmesinin çıktısı 
+alınarak başvuru sahibine imzalatılır. 
+6.3 KEP Hesap Adresi
+6.3.1KEP hesap adresi;
+a) Gerçek Kişiler için;
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/16
+i.“adı.soyadı.sayı” formatında oluşturulur. “adı” ve “soyadı” alanları kişinin nüfus cüzdanı, pasaport, sürücü 
+belgesi gibi kimlik yerine geçen geçerli resmi belgelerde yazıldığı haliyle kullanılır.
+ii.Başvuru sahibinin birden fazla adının veya soyadının olması halinde, bitişik yazılmak üzere adlardan veya 
+soyadlardan en az birinin açık şekilde verilmesi zorunludur.
+iii.Başvuru sahibinin talep etmesi halinde kısaltılacak adın veya soyadın kimlik yerine geçen resmî belgeler ile 
+uyumlu bir şekilde kısaltılması esastır. Belirlenen “adı.soyadı” formatındaki KEP hesap adresi daha önce başka bir 
+hesap sahibi adına oluşturulmuş ise hesap adının sonuna (.) ayracı konularak başvuru sahibinin belirleyebileceği ve 
+daha önce “adı.soyadı” alanı aynı olan başka bir KEP hesap adresinde kullanılmayan “sayı” alanı ilave edilir.
+iv.“sayı” alanı 0-9 arasındaki rakamlar kullanılarak serbestçe belirlenir.
+b) Tüzel Kişiler için;
+”Mersis No”, “Mersis No.X”, “TüzelkişiAdı”, “TüzelkişiAdı.X” formatlarından biri ile oluşturulur. “X” alfa 
+nümerik olacak şekilde isteğe bağlı olarak başvuru sahibi tarafından belirlenir.
+6.3.2Kurumsal başvurularda KEP adresi “TüzelKişiAdı.hs01.kep.tr” formatı kullanılarak temin edilebilir ve bu 
+başvurularda; “TüzelKişiAdı.hs01.kep.tr” alan adı sadece KEP hesabı adresleri için kullanılır, yönetimi PTT AŞ 
+tarafından gerçekleştirilir ve daha alt seviye alan adına genişletilemez.
+6.3.3Kurumsal başvurularda KEP hesabı adreslerinin “kullanıcı-tarafı” 6.3.1. maddenin (b) bendine uygun olarak 
+belirlenir. Adına başvuruda bulunulan kişilerin KEP hesap talepleri kurumsal başvuru sahibi tarafından yazılı olarak 
+belgelendirilir. KEP hesap adresi verilecek kişiye ait kimliğin doğru ve güvenilir biçimde tespit edilmesinden PTT 
+AŞ sorumludur.
+6.4 KEP Hesabının Kullanıma Açılması
+6.4.1KEP hesabı başvurusunda bulunan gerçek ve tüzel kişiler ile KEP Hizmet Sözleşmesi imzalanır. Söz konusu 
+sözleşme online KEP hesabı temin eden Gerçek Kişiler için elektronik ortamda güvenli elektronik imza ile, bunun 
+haricindeki tüm başvurular için PTT Müdürlüklerinde ıslak imza ile imzalanır. 
+6.4.2KEP hesabının kullanıma açılabilmesi için gerekli Başlangıç Aktivasyonu;
+a) Gerçek kişi olduğu durumda, başvuru sahibi,
+b) Tüzel kişi olduğu durumda, işlem yetkilisi tarafından KEP sistemine ilk giriş sırasında güvenli elektronik imza 
+imzalanması sonrasında gerçekleştirilmektedir.
+6.4.3Gerçek Kişi KEP hesabının Sadece Alıcı hesap türünde talep edilmesi ve PTT Müdürlüklerimizden temin 
+edilmesi durumunda ise KEP hesabının kullanıma açılması için başvuru sırasında KEP Hizmet Sözleşmesi’nin 
+hesap sahibi tarafından ıslak imza ile imzalanması yeterlidir.
+6.5Kayıtlı Elektronik Posta Sisteminin Kullanımı
+6.5.1KEP sistemi, bir elektronik iletinin tarafları arasında KEP hesabı vasıtasıyla hukukî ve teknik güvenliğe sahip 
+bir şekilde gönderilip alınmasını sağlamak ve güvenli iletişimde bulunmak gibi amaçlarla kullanılır.
+6.5.2KEP hesabı kullanılarak yapılabilecek işlemler ve sonuçları PTT AŞ ile hesap sahibi arasında imzalanan 
+sözleşme ile belirlenir.
+6.5.3KEP hesabının, hesap sahibi tarafından kendi nam ve hesabına kullanılması esastır. Hesap sahibinin tüzel kişi 
+olduğu durumlarda; KEP hesabı, Yönetmelik hükümlerinde belirtilen şekilde yetki verilmiş olan işlem yetkilisi 
+tarafından hesap sahibinin nam ve hesabına kullanılır. 
+6.5.4Hesap sahibi olan tüzel kişi istediği zaman işlem yetkilisini yetkili PTT Müdürlüklerine başvurarak veya 
+işlem yetkilileri vasıtasıyla web mail ara yüzünden değiştirebilir.
+6.6Kayıtlı Elektronik Posta Hesabının Kontrol Edilmesi
+6.6.1Hesap sahibinin ya da işlem yetkilisinin, KEP hesabına erişerek gelen iletileri kontrol etmesi esastır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/16
+6.6.2Mücbir sebep hâlleri dışında KEP hesabına erişilmemesi durumunda o işgünü içinde gelen KEP iletisinin 
+ertesi iş günü hesap sahibine ulaştığı ve okunduğu kabul edilir. Bilgilendirme amacıyla gönderilen SMS ya da e-
+posta bildiriminin herhangi bir sebeple yapılmamış olması hesap sahibinin hesabını kontrol etme yükümlülüğünü 
+ortadan kaldırmaz.
+6.7Kayıtlı Elektronik Posta Hesabının Kullanıma Kapatılması
+6.7.1KEP hesabı, hesap sahibinin talebi veya ölümü, sözleşme ile belirlenen kullanıma kapatma durumlarının 
+gerçekleşmesi veya PTT AŞ’nin faaliyetine son vermesi veya verilmesi hâllerinde kullanıma kapatılır.
+6.7.2KEP hesabının kullanıma kapatılmasına ilişkin talepler hesap sahibi veya KEP Hizmet Sözleşmesi ile 
+belirlenen kişiler tarafından yapılır.
+6.7.3KEP hesabının kullanıma kapatılmasına ilişkin talepler; mesai saatleri içerisinde yetkili PTT 
+Müdürlüklerimizden ve yedi gün yirmi dört saat web mail ara yüzünden veya PTT AŞ Çağrı Merkezi üzerinden 
+alınacaktır.
+6.7.4PTT, kullanıma kapatılma talebini hesap sahibinin, işlem yetkilisinin veya sözleşme ile kapatma talebinde 
+bulunma yetkisi verilenlerin kimlik bilgilerini doğrulayarak alır ve ilgili KEP hesabının kullanıma kapatılma 
+işlemini gerçekleştirir.
+6.7.5Kullanıma kapatılan KEP hesabından ileti gönderimi ve alımı engellenir. Ancak KEP hesabı en az 3 (üç) ay 
+erişime açık tutulur. Bu sürenin sonunda PTT ilgili KEP hesabını tamamen kullanıma kapatır.
+6.7.6KEP hesabı geçmişe yönelik olarak hiçbir şekilde kullanıma kapatılamaz veya silinemez.
+6.7.7Kullanıma kapatılan bir KEP hesabı yeniden başkasına tahsis edilemez. Kullanıma kapatılan KEP hesabı, 
+ancak hesap sahibinin talep etmesi ve kimlik tespitine ilişkin gerekli işlemleri yaptırması hâlinde yeniden kullanıma 
+açılabilir.
+6.8 KEP Hesap Rehberi
+6.8.1PTT AŞ;
+6.8.1.1Gerçek ve tüzel kişilere ilişkin kendi KEP rehberinde yer verdiği bilgileri eş zamanlı olarak merkezi KEP 
+rehberine de işler.
+6.8.1.2Gerçek kişinin rehber kaydının sorguya açık olup olmayacağına ilişkin onayını alır ve bu bilgiye rehber 
+kaydında yer verir. 
+6.8.1.3Tüzel kişinin rehber kaydına, tüzel kişinin onayını almaksızın KEP rehberinde yer verir.
+6.8.1.4Her KEP hesabı için sadece bir tane rehber kaydı oluşturur.
+6.8.1.5Kendi KEP rehberine ilişkin tüm bilgilerin gizliliğini, bütünlüğünü ve erişilebilirliğini sağlayarak ilgili 
+mevzuat ile belirlenen süre boyunca saklar.
+6.8.1.6KEP rehberine yetkisiz erişimleri engeller.
+6.8.2PTT AŞ, göndericiden gelen sorgu talebini derhal alarak merkezi KEP rehberinde sorgular ve sorgu sonucunu 
+doğru, eksiksiz ve anlaşılabilir bir şekilde hesap sahibine sunar.
+6.8.3PTT AŞ, rehber sorgusuna açık olmayan KEP hesaplarına ilişkin sorgu sonucunu hesap sahibine göstermez. 
+Rehber sorgusuna açık olmayan KEP hesapları sadece doğrulama amaçlı kullanılır.
+6.8.4PTT AŞ, sorgu sonucunda birden fazla gerçek kişiye ait kayıt bulması halinde sorgu sonucunu bildirmez ve 
+sorgu sonucunun tek kişiye ait rehber kaydı veya kayıtlarına indirgenmesi için kullanıcıdan yeni rehber alanlarını 
+girmesini ister. Sorgu sonucu bir tek gerçek kişiye indirgeninceye kadar sorgulama işlemi tekrar edebilir.
+6.8.5Gerçek kişilerin rehber sorgusu, sadece kimlik numarası ile de yapılabilir. Bu durumda ilgili kimlik 
+numarasına ait tüm hesaplar listelenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/16
+6.8.6PTT AŞ, kendisine merkezi KEP rehberinden iletilen sorgu sonucunu ilgili göndericiye ilettikten sonra kendi 
+sistemlerinden siler.
+6.8.7PTT AŞ, kendisine gelen KEP rehber sorgusuna ilişkin olarak, gerçek kişiler için kimlik numarası hariç 
+olmak üzere, rehberde bulunan zorunlu alanları sorgu sonucu olarak bildirir.
+6.8.8PTT AŞ, ayrıca KEP adresinin varlığının ve doğruluğunun kontrol edilmesine ilişkin hizmet sunabilir. 
+KEPHS tarafından bu hizmetin sunulması halinde; KEP adresinin rehberde yayımlanmasına bakılmaksızın, gerçek 
+kişiler için kimlik numarası, tüzel kişiler için MERSİS No, Ticaret Sicil No, DETSİS No veya Vergi Numarası ile 
+KEP adresi, hesap sahibi tarafından doğrulanabilir. KEPHS, doğrulaması yapılan KEP adresi, kullanıma 
+kapatılmamış ve sorgu kriterlerine uygun ise olumlu, kullanıma kapatılmış ya da sorgu kriterlerine uygun değilse 
+olumsuz yanıt döner.
+6.8.9PTT AŞ ile merkezi KEP rehberi arasındaki rehber kayıtlarına ilişkin bir sorgu talebi en geç 20 (yirmi) saniye 
+içerisinde cevaplanır. İhtiyaç duyulması halinde sorgu talebi başına en fazla 10 (on) saniye daha ek süre kullanılır.
+6.8.10PTT AŞ ile merkezi KEP rehberi arasındaki rehber kayıtları arasında uyumsuzluk olması halinde mücbir 
+sebep halleri dışında, merkezi KEP rehberindeki kayıtlar esas alınır.
+6.8.11Hesap sahibi, rehber kaydında meydana gelen değişiklikleri PTT AŞ’ye bildirir. PTT AŞ, hesap sahibinin 
+rehber kaydında meydana gelen değişiklikleri dikkate alarak kendi KEP rehberine ve merkezi KEP rehberine derhal 
+işler.
+6.8.12PTT AŞ tarafından rehber kaydının silinmesini isteyen gerçek kişi hesap sahiplerinin taleplerinin gereği PTT 
+AŞ KEP rehberi ve merkezi KEP rehberine işlenerek derhal yerine getirilir. Tüzel kişiler rehber kaydının silinmesi 
+talebinde bulunamazlar. Gerçek ve tüzel kişilere ait kapanan KEP hesabına ilişkin rehber kaydı PTT AŞ KEP 
+rehberinden ve merkezi KEP rehberinde derhal “Kullanıma Kapatıldı” olarak güncellenir.
+6.8.13KEP rehberinde yer alacak zorunlu ve isteğe bağlı alanlar aşağıdaki gibidir.
+a) Gerçek kişiler için;
+Alanlar Zorunlu(Z)/İsteğe Bağlı(İ)
+KEP Hesap Adresi Z
+Kimlik Numarası Z
+Adı Z
+Soyadı Z
+  Hesabın Aktif Edilip Edilmediği Z
+Hesabın Kullanıma Kapatılıp Kapatılmadığı Z
+Hesabın Rehber Sorgusuna Açık Olup Olmadığı Z
+Hesap Sahibinin Hizmet Alma Şekli (Gönderici ve alıcı ya da sadece alıcı) İ
+Ünvan İ
+Cadde Adı/Numarası ve Ev Numarası İ
+İlçe İ
+Şehir İ
+Telefon Numarası İ
+b) Tüzel kişiler için;
+Alanlar Zorunlu(Z)/İsteğe Bağlı(İ)
+KEP Hesap Adresi Z
+Tüzel Kişiyi Tanımlayan Tekil Numara Z
+Vergi Numarası Z
+Tüzel Kişinin Tam Adı Z
+Ana Faaliyet Alanı Z
+Merkezinin Bulunduğu İl Z
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/16
+Adres Bilgileri Z
+Hesabın Aktif Edilip Edilmediği Z
+Hesabın Kullanıma Kapatılıp Kapatılmadığı Z
+İşlem Yetkilisinin/Yetkililerinin Adı ve Soyadı İ
+İşlem Yetkilisinin/Yetkililerinin Ünvanı İ
+6.8.14KEP rehberi sorgulamaları zorunlu veya isteğe bağlı rehber alanları kullanılarak gerçekleştirilir.
+6.8.15Tüzel kişiyi tanımlayan tekil numara, tüzel kişinin Ticaret Sicil No, MERSİS No veya DETSİS No 
+bilgilerinden birini içerir. Ticaret Sicil No, MERSİS No veya DETSİS No bilgilerinden herhangi birine sahip 
+olmayan diğer tüm tüzel kişiler için bu alan bağlı bulundukları resmi sicile tescil edilen veya ilgili mevzuatta yer 
+alan bilgileri kullanılarak belirlenir. Tüzel kişiyi tanımlayan tekil numara, alanı belirlemeyen tüzel kişilerde bu 
+alana PTT AŞ tarafından “0” sayısı yazılır.
+6.8.16PTT AŞ, tüzel kişilerin tam adı bilgisini, ticaret siciline kayıtlı olanlar için ticaret sicil gazetesindeki haliyle, 
+ticaret sicil kaydı olmayanlar için ise bağlı bulundukları resmi sicile tescil edilen veya ilgili mevzuatta yer alan 
+bilgileri ile birebir uyumlu olarak oluşturur.
+6.9 Hesap Sahibi ve İşlem Yetkililerinin Bilgilerinin Güncellenmesi
+KEP hesap sahipleri ve işlem yetkilileri kendilerine ait bilgilerde değişiklik olması halinde KEP hesabı bilgilerinde 
+olan değişiklikleri, mesai saatleri içerisinde yetkili PTT Müdürlüğünden olmak üzere her zaman web mail ara yüzü 
+veya PTT AŞ Çağrı Merkezi üzerinden güncellemekle yükümlüdürler.
+6.10 Ücretlendirme ve Ödeme
+6.10.1KEP sistemine ilişkin ücretlerin ödenmesinde KEP hesabı ile ilişkilendirilmiş olan KEP hesap bakiyesi 
+kullanılacaktır.
+6.10.2KEP sistemine ilişkin ücretler, hesap sahibinin KEP hesap bakiyesinden anlık olarak tahsil edilecektir.
+6.10.3PTT AŞ, hesap sahiplerinin, KEP hesabını açtırmasını müteakip ve her 12 (on iki) ayda bir kez yıllık üyelik 
+ücretini KEP hesap bakiyesinden tahsil edecektir. PTT AŞ, KEP hesap bakiyesinde yıllık üyelik için yeterli bakiye 
+olmaması durumunda hesap sahibinin ya da işlem yetkilisinin KEP iletisi göndermesini engelleyebilir. PTT AŞ, 2 
+(iki) hafta içerisinde yıllık üyelik ücreti için gerekli olan KEP hesap bakiyesini sağlamayan hesap sahiplerinin KEP 
+hesabını kapatma hakkını saklı tutar.
+6.10.4PTT AŞ, KEP iletisi gönderilmek istenmesi durumunda anlık olarak KEP iletisi iletim ücretini KEP hesap 
+bakiyesinden tahsil eder. Söz konusu bakiyenin yetersiz olması durumunda KEP iletisi gönderilmez.
+6.10.5KEP hesap sahibinin, KEP hesabı saklama alanı artırma ya da gelen iletiler hakkında SMS yoluyla 
+bilgilendirme talep etmesi durumunda, söz konusu hizmetlerin ücreti KEP hesap bakiyesinden karşılanacaktır.
+6.10.6PTT AŞ kaynaklı teknik hatalardan dolayı teslim edilmeyen iletilerden ücret alınmayacaktır.
+6.11 PTT KEP Sistemi Teknik Hususlar
+6.11.1PTT KEP sistemi Sakla İlet yöntemi ile hizmet vermektedir.
+6.11.2KEP sisteminde üretilen KEP delillerinin dosya isimlerinin yapısı “delilin ismi.<MessageID>.xml” 
+şeklinde olur.
+6.11.3Kullanıcı doğrulaması parola-şifre-SMS, e-Devlet, güvenli elektronik imza ile yapılmaktadır.
+6.11.4PTT AŞ, KEP sisteminin tüm süreçlerine ve işleyişine ilişkin bilgi, belge ve elektronik veriler ile işlemlerin 
+yapıldığı zamana ve işlemleri yapan kişiye veya kişilere ait bilgileri içeren kayıtları gizliliğini, bütünlüğünü ve 
+erişilebilirliğini koruyarak en az 20 (yirmi) yıl süreyle saklamaktadır.
+6.11.5PTT AŞ KEP sisteminde zarflama; gönderici tarafından imzalanmış olan iletinin, işlem sertifikası ile tekrar 
+imzalanmasıyla yapılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+11/16
+6.11.6PTT KEP iletisi ile ilgili delil bilgileri veri tabanında tutulur. Ayrıca imzalanmış tüm delil dosyaları XML 
+formatında saklanmaktadır. PTT AŞ KEP sisteminde, delil tipi ve formatları aşağıdaki gibidir.
+a)KEPHS’nin Orijinal İletiyi Göndermeyi Kabul Ettiğine İlişkin Delil: (Gönderici KEPHS Kabul) 
+SubmissionAcceptanceRejection:Acceptance,
+b)KEPHS’nin Orijinal İletiyi Göndermeyi Kabul Etmediğine İlişkin Delil: (Gönderici KEPHS Red) 
+SubmissionAcceptanceRejection:Rejection,
+c)KEP Paketinin Alıcı KEPHS Tarafından Kabul Edildiğine İlişkin Delil: (Alıcı KEPHS Kabul) 
+RelayToREMMDAcceptanceRejection:Acceptance,
+ç) KEP Paketinin Alıcı KEPHS Tarafından Reddedildiğine İlişkin Delil: (Alıcı KEPHS Red) 
+RelayToREMMDAcceptanceRejection:Rejection,
+d)KEP Paketinin Alıcı KEPHS'ye Belirli Bir Süre İçinde Teslim Edilemediğine İlişkin Delil: (Alıcı 
+KEPHS'ye belirli bir süre sonunda teslim edilemedi) RelayToREMMDFailure,
+e)KEP Paketini Alıcıya Teslim Edildiğine İlişkin Delil: (Teslim) DeliveryNonDeliveryToRecipient:Delivery,
+f)KEP Paketinin Belirli Bir Süre İçinde Teslim Edilemediğine İlişkin Delil: (Belirli bir süre içinde KEP paketi 
+teslim edilemedi) DeliveryNonDeliveryToRecipient:DeliveryExpiration,
+g)KEP Paketinin Okunduğuna İlişkin Delil: (Okundu) RetrievalNonRetrievalByRecipient:Retrieval,
+ğ) KEP Paketinin Belirli Bir Süre İçinde Okunmadığına İlişkin Delil: (Belirli bir süre içinde okunmadı) 
+RetrievalNonRetrievalByRecipient:RetrievalExpiration
+6.11.7PTT AŞ KEP sisteminde EML (Electronic Mail) ve XML (Extensible Markup Language) dosya formatları 
+kullanılmaktadır.
+6.11.8KEP sisteminde kullanılan zaman damgası hizmeti BTK tarafından yetkilendirilmiş ESHS’lerden 
+alınmaktadır. PTT AŞ, bu hizmet için ESHS servislerini kullanmaktadır. Zaman damgası, oluşturulan delillerin 
+damgalanması, KEP Paketlerinin (cades-A) arşiv formatında imzalanması, işlem loglarının imzalanması vb. 
+aşamalarda kullanılmaktadır. KEP sistemi (Universal Time, Coordinated +2) UTC+2, zaman diliminde hizmet 
+vermektedir. 
+6.11.9PTT AŞ, Kayıtlı Elektronik Posta Hizmetlerinde 09.09.2014 tarih ve 2014/DK-BTD/447 sayılı Kayıtlı 
+Elektronik Posta Sisteminde Kullanılan İşlem Sertifikasına İlişkin Usul ve Esaslara İlişkin Bilgi Teknolojileri ve 
+İletişim Kurulu Kararına uygun şekilde üretilmiş nitelikli elektronik sertifika kullanmaktadır.
+6.11.10 PTT AŞ, yirmi dört saat boyunca asgari altı saatlik periyotlarla 4 (dört) defa KEP paketini göndermeyi 
+dener. Bu denemeler sonucunda iletimin başarısız olması halinde “Alıcı KEPHS’ye Ulaşılamadı” 
+(RelayToREMMDFailure) delilini üretip KEP iletisinin ekine koyar ve bu KEP iletisini imzalayarak göndericiye 
+iletir.
+6.11.11KEP sisteminde SHA2 with RSA algoritması kullanılmaktadır.
+6.11.12 PTT AŞ KEP sistemi içerisinde oluşturulan deliller aşağıdaki gibidir.
+a)KEPHS’nin Orijinal İletiyi Göndermeyi Kabul Ettiğine İlişkin Delil: (Gönderici KEPHS Kabul) 
+SubmissionAcceptanceRejection:Acceptance 
+Bu delil göndericinin kullanıcısı olduğu KEPHS ile ilgilidir ve bu KEPHS tarafından üretilir. Bu delilin amacı 
+göndericinin, kimlik doğrulaması yapıldıktan sonra kendi KEPHS’sine orijinal iletiyi başarılı bir şekilde ve delilde 
+belirtilen zamanda teslim ettiğini kanıtlamaktır.
+b)KEPHS’nin Orijinal İletiyi Göndermeyi Kabul Etmediğine İlişkin Delil: (Gönderici KEPHS Red) 
+SubmissionAcceptanceRejection:Rejection 
+Bu delil göndericinin kullanıcısı olduğu KEPHS ile ilgilidir ve bu KEPHS tarafından üretilir. Bu delilin amacı 
+göndericinin, kimlik doğrulaması yapıldıktan sonra kendi KEPHS’sine orijinal iletiyi delilde belirtilen zamanda 
+teslim ettiğini, ancak bu KEP objesinin göndericinin KEPHS’si tarafından teknik, ilkesel veya formal nedenlerle 
+kabul edilmediğini kanıtlamaktır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+12/16
+c)KEP Paketinin Alıcı KEPHS Tarafından Kabul Edildiğine İlişkin Delil: (Alıcı KEPHS Kabul) 
+RelayToREMMDAcceptanceRejection:Acceptance 
+Bu delil alıcının KEPHS’si ile ilgilidir ve bu KEPHS tarafından üretilir. Bu delilin amacı, göndericinin KEPHS’si 
+tarafından gönderilmiş bir KEP Paketinin, alıcının KEPHS’si tarafından başarılı bir şekilde teslim alındığını ve 
+kabul edildiğini kanıtlamaktır.
+ç) KEP Paketinin Alıcı KEPHS Tarafından Reddedildiğine İlişkin Delil: (Alıcı KEPHS Red) 
+RelayToREMMDAcceptanceRejection:Rejection 
+Bu delil KEP alıcısı ile ilgilidir ve alıcının KEPHS’si tarafından üretilir. Bu delilin amacı, göndericinin KEPHS’si 
+tarafından gönderilmiş bir KEP Paketinin, alıcının KEPHS’si tarafından başarılı bir şekilde teslim alındığını ancak 
+teknik, ilkesel veya formal nedenlerle bu KEPHS tarafından kabul edilmediğini kanıtlamaktır.
+d)KEP Paketinin Alıcı KEPHS'ye Belirli Bir Süre İçinde Teslim Edilemediğine İlişkin Delil: (Alıcı 
+KEPHS'ye belirli bir süre sonunda teslim edilemedi) RelayToREMMDFailure 
+Bu delil KEP alıcısı ile ilgilidir ve gönderici KEPHS’si tarafından üretilir. Bu delilin amacı, göndericinin KEPHS’si 
+tarafından gönderilmiş bir KEP Paketinin, alıcının KEPHS’si tarafından herhangi bir sebeple belirli bir süre (yirmi 
+dört saat boyunca asgari 6 saatlik periyotlar halinde) içinde, alıcı KEPHS'ye teslim edilemediğini kanıtlar.
+e)KEP Paketini Alıcıya Teslim Edildiğine İlişkin Delil: (Teslim) DeliveryNonDeliveryToRecipient:Delivery 
+KEP alıcısı ile ilgilidir ve alıcının KEPHS’si tarafından üretilir. Bu delilin amacı belli bir zamanda, KEP Paketinin, 
+KEP alıcısının posta kutusuna teslim edildiğini kanıtlamaktır.
+f)KEP Paketinin Belirli Bir Süre İçinde Teslim Edilemediğine İlişkin Delil: (Belirli bir süre içinde KEP 
+paketi teslim edilemedi) DeliveryNonDeliveryToRecipient:DeliveryExpiration 
+KEP alıcısı ile ilgilidir ve alıcının KEPHS’si tarafından üretilir. Bu delilin amacı belli bir zamanda, KEP Paketinin 
+teknik, ilkesel veya formal nedenlerle alıcı posta kutusuna teslim edilemediğini kanıtlamaktır.
+g)KEP Paketinin Okunduğuna İlişkin Delil: (Okundu) RetrievalNonRetrievalByRecipient:Retrieval 
+Bu delil KEP alıcısı ile ilgilidir ve alıcının KEPHS'si tarafından üretilir. Bu delilin amacı, bir KEP Paketinin alıcı 
+tarafından okunduğunu kanıtlamaktır.
+ğ) KEP Paketinin Belirli Bir Süre İçinde Okunmadığına İlişkin Delil: (Belirli bir süre içinde okunmadı) 
+RetrievalNonRetrievalByRecipient:RetrievalExpiration
+Bu delil KEP alıcısı ile ilgilidir ve alıcının KEPHS’si tarafından üretilir. Bu delilin amacı, alıcının posta kutusunda 
+mevcut olan bir KEP Paketinin, belirli bir süre içinde alıcı tarafından okunmadığını kanıtlamaktır.
+6.11.13 KEP sisteminde üretilen delillerin doğrulaması, PTTKEP ara yüzünde bulunan Delil Doğrulama 
+sayfasından ya da gönderilenler (send.box) kutusundan (orijinal iletinin altında yer alan deliller bölümünden) 
+yapılmaktadır. 
+6.12 PTT AŞ KEP Sisteminde TS ISO/IEC 27001 Bilgi Güvenliği Yönetim Sisteminin Uygulanması
+6.12.1PTT AŞ, KEPHS olarak hizmetlerini yürütürken, KEP süreçlerinde oluşan bilgi varlıklarımızın 
+güvenliğinin gizlilik, bütünlük ve erişebilirlik koşulları altında sağlanması amacıyla TS ISO/IEC 27001 Bilgi 
+Güvenliği Yönetim Sisteminin uygulanmasını sağlamaktadır. Şirketimizin Entegre Yönetim Sistemi Politikası 
+www.ptt.gov.tr web sitesinde yayımlanarak tüm müşteriler ve üçüncü taraflarla paylaşılmıştır.
+6.12.2PTT AŞ üst yönetim bilgi güvenliği sorumluluklarını kabul ederek etkin bir şekilde desteklemektedir. Tüm 
+faaliyetlerde bilgi güvenliği sorumlulukları açıkça tanımlanarak ve PTT AŞ’nin farklı bölümlerinden uygun rolleri 
+ve iş fonksiyonları olan personel tarafından koordine edilerek gerçekleştirilmektedir. Kapsam dahilindeki personel 
+ve üçüncü taraflarla yapılan gizlilik sözleşmeleri ile tüm bilgilerin korunması taahhüt altına alınmaktadır. Bilgi 
+Güvenliği Yönetim Sistemi her yıl yetkili kurumlar tarafından denetlenir.
+6.12.3Hizmetlerimiz dahilindeki tüm bilgi varlıkları belirlenmiş ve bu varlıkların sorumluları atanmıştır. 
+Varlıkların kabul edilebilir kullanım kuralları oluşturularak personelin bu kurullara uyması sağlanmıştır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+13/16
+6.12.4Kapsam dahilindeki tüm personelin ve üçüncü tarafların güvenlik rolleri ve sorumlulukları tanımlanmıştır. 
+Personelle ilgili olarak istihdam öncesi, çalışma esnasında ve istihdamın sonlandırılması veya değiştirilmesi 
+aşamalarının her birinde 657 sayılı Devlet Memurları Kanunu, 399 sayılı Kanun Hükmünde Kararname, 5510 sayılı 
+Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu, Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak 
+İdari Hizmet Sözleşmeli Personel Hakkında Yönetmelik ve ilişkili mevzuat doğrultusunda hareket edilmektedir. 
+Yönetim, personelden ve üçüncü taraflardan PTT AŞ’nin politika ve prosedürlerine göre güvenliği uygulamalarını 
+ister. Kapsam dahilindeki personelin sorumlu olduğu bilgi varlıklarının korunması ve bilgi güvenlik ihlallerini nasıl 
+bildireceği, hassas bilgi ve bilgi sistemlerine erişmeden önce bilgi güvenliği rolleri ve sorumlulukları, bulunulan 
+görevin gerektirdiği bilgi güvenlik önlemleri ve bilgi güvenliği esasları, güvenlik gereksinimleri, yasal 
+sorumlulukları ve iş kontrolleri, bilgi işleme kolaylıklarının doğru kullanılması, yazılım paketlerinin doğru 
+kullanılması, sisteme kayıt olma konularını kapsayan bilgi güvenliği farkındalığı eğitimi verilmektedir. Kapsam 
+dahilindeki personelin görevinden ayrılması durumunda, “İKD.FR26 Bilgi Koruma Taahhütnamesi (Ayrılırken)” nu 
+ilgili birimlere onaylatarak erişim izni bulunan tüm varlıklara ve bilgi sistemlerine erişim yetkilerin kaldırılmasına 
+müteakip ayrılış yapılmaktadır.
+6.12.5PTT AŞ olarak Bilgi Sistemlerimizin fiziki güvenliğin sağlanması için; giriş ve çıkışlar PTT AŞ Genel 
+Müdürlük ana bina ve ek bina giriş turnikelerinden yapılır, güvenli bölgelere yetkili personel veya yetki verilen 
+diğer şahıslar girebilir, dışarıdan gelmesi muhtemel tehdit ve saldırılara karşı tesis güvenliği caydırıcı nitelik taşır, 
+tesise dışarıdan gelebilecek saldırı tehditlerine karşılık olarak kritik bölgelerde önlemler artırılır ve güvenlik güçleri 
+ile koordinasyon ve işbirliği sağlanır. Kritik veya hassas iş faaliyetlerini desteklediği belirlenen tüm bilgi teknolojisi 
+araçları, kart kontrollü ya da anahtar kontrollü girişlerle korunan, fiziksel erişim kontrolü gerektiren alanlarda 
+bulunmakta, kamera kontrolü de kullanılarak girişler kayıt altına alınmaktadır. İzin verilmediği sürece güvenli 
+alanlarda fotoğraf çekmek, görüntü almak ve ses kaydetmek ve bu tür işlemleri gerçekleştirebilen cihazları 
+bulundurmak yasaktır. Bilgi işleme ortamında teçhizatının sağlıklı çalışabilmesi için aydınlatma, havalandırma, 
+ısıtma, soğutma, iklimlendirme imkanları bulunmaktadır.
+6.12.6Hizmetlerimiz dahilindeki tüm bilgi teknolojileri süreçleri için prosedürler yazılmıştır ve sürekli olarak 
+güncellenmektedir. Temin edilecek veya geliştirilecek bilgi sistem teçhizatı ve yazılımlar güvenlik 
+gereksinimleriyle birlikte değerlendirilir, olabilecek güvenlik açıklarını belirlemek üzere, yazılımlar zafiyet testine 
+tabi tutulmaktadır. Destek personeli dahil, uygulama sistemlerinin kullanıcıları, erişim denetimi politikasında 
+belirlenen kısıtlamalara uygun hareket etmekle yükümlüdürler. Personel sadece kullanma yetkisine sahip oldukları 
+network (ağ) servislerine erişebilmesi sağlanmıştır. Kritik sistemler için operasyonel hassas bilgiler gerçek 
+ortamdan ayrı olarak test sistemlerinde test edilir, testlerin başarılı sonuçlanması durumunda gerçek ortama alınır. 
+Üçüncü taraflarla yapılacak her türlü hizmet alımı ile ilgili olarak talep edilen işin niteliği ve firmanın uyması 
+gereken kurallar teknik şartnamelerde/sözleşmelerde ayrıntılı olarak belirtilmektedir ayrıca Üçüncü taraf 
+sözleşmelerinde, belirtilen hizmetlerin tanımının, güvenlik seviyesinin ve denetiminin gerçekleştirilmesini ve 
+sürdürülmesini güvence altına almak için “EYS.FR22 Üçüncü Taraf Bilgi Koruma Taahhütnamesi” 
+imzalatılmaktadır. Kritik sunucuların/sistemlerin üstündeki sabit disk alanının, RAM ve CPU kullanımları 
+izlenmekte, ihtiyaç duyulması halinde kapasite artırımı için çalışma yapılmaktadır. Tüm personel bilgisayarlarında 
+PTT AŞ adına lisanslanmış anti-virüs programının yüklenmesi zorunludur. Üzerinde PTT AŞ açısından kritik bilgi 
+taşıyan tüm bilgi sistemlerinin ve bu sistemlerle işlenen verilerin yedekleri düzenli olarak alınır ayrıca kritik 
+sistemlerin yedeği anlık olarak Acil Durum Merkezine ve günlük olarak tam yedekleme yapılır. Sistemin iletişim 
+altyapısını sağlayan ayrılmış sanal ya da fiziksel ağlar arası bağlantılarda yönlendirme protokolleri ya da dışarıya 
+yapılan erişimler uygun güvenlik duvarı kuralları ile kontrol edilmekte ve sınırlandırılmaktadır. Bilgi işleme 
+donanım veya yazılımı izin alınmaksızın PTT AŞ dışına çıkarılmaz. PTT AŞ dışına malzeme çıkarmaya yetkili 
+personel gerekli mercilerin onayı ile malzeme çıkarabilecektir. Teçhizat, onarım maksadıyla, başka birime tahsis 
+edilmek veya hurdaya ayrılmak üzere ofis dışına çıkarılacak ise içindeki bilgi yedeklenerek dışarı çıkarılan 
+teçhizatın içindeki bilgi, varlığın sorumlusu tarafından ilgili silme yazılımı ve/veya komutlar kullanılarak geri 
+döndürülemeyecek şekilde silinir. Bilgi kaybına sebep olmamak için tüm medyalar üretici firmaların belirttiği 
+kullanım ömrünün tamamlanmasından sonra kullanılmaz. Hassas bilgi içeren ortamlar güvenli şekilde imha edilir. 
+PTT AŞ’nin KEP sistemi dahil internete açık uygulamalarından faydalanan müşteriler için uyulması gereken ve 
+PTT AŞ tarafından alınmış olan güvenlik önlemleri web sayfasında açıklanır. Bu uygulamalarda eksik iletimi, 
+yanlış yönlendirmeyi, yetkisiz ileti değiştirmeyi, yetkisiz ifşayı engellemek için PTT AŞ, iletişimin şifreli olması, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+14/16
+işlem sertifikaları kullanılması, saldırı önleme sistemleri vb. gerekli güvenlik tedbirlerini almıştır. PTT AŞ’nin KEP 
+sistemi dahil tüm sistemlerin alt bileşenlerinden (uygulamalar, sunucular, ağ cihazları, veri tabanları vb.) 
+gerçekleştirilen işlemlerin kayıtları alınır. KN.007 5651 Sayılı İnternet Ortamında Yapılan Yayınların 
+Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen Suçlarla Mücadele Edilmesi Hakkında Kanun kapsamında alınması 
+gereken tüm kayıtlar alınır. Bu kayıtların zaman yönünden tutarlı olabilmesi için tüm sistemler arasında saat 
+senkronizasyonu sağlanır.
+Bu kayıtlar anlık olarak alınır ve merkezi bir sistemde toplanır ayrıca kayıtların bütünlüğünü ve değiştirilmediğini 
+sağlamak üzere özel algoritmaları (hash) kullanılarak saklanır. Kritik kayıtlar sürekli izlenir, aykırı durumlarla 
+karşılaşıldığında gerekli önlemler alınır.
+6.12.7Sistemlerimiz her bir bileşenine sadece yetkili kişi veya grupların tanımlanan haklar dahilinde 
+erişebilmesini sağlanmıştır ve personelimiz tüm faaliyetlerinde bilgiye erişim yetkisi “bilmesi gereken” prensibine 
+göre verilir ve faaliyetlerini bu prensibe göre yürütür. Kapsam dahilinde tüm personel için bilgi sistemlerine erişim 
+amacıyla tekil olan bir kullanıcı hesabı kullanılır. Bu hesap ve diğer sistemlerde kullanılacak kullanıcı hesapları 
+için, tanımlanmış politikalar gereği karmaşık parolalar kullanılır.
+Kullanıcının erişim hakları bağlı olduğu birime göre düzenlenir ve belirli periyotlarla kontrol edilir. Personelimiz 
+tarafından çalışma alanlarında, “Temiz Ekran/Temiz Masa” prensiplerine uygun olarak, tasnif dışı özellikteki 
+bilgiler dışında bilgilerin, başkalarınca görülmesine imkân verilmeyecek şekilde önlemler alınmaktadır. Personelin 
+sadece kullanma yetkisine sahip oldukları network (ağ) servislerine erişebilmesi sağlanmıştır. PTT AŞ içerisinde 
+kullanılan ağ mantıksal olarak birbirinden ayrılmıştır ve veri akışları firewall (güvenlik duvarı)’lar ile kontrol 
+edilmektedir. Yerel ağ ve internetten geçen verinin bütünlüğünü ve gizliliğini, ağa bağlı sistemleri ve uygulamaları 
+korumak için ağ ve güvenlik cihazları, kriptografik önlemler kullanılmaktadır. KEP sistemi dahil tüm 
+uygulamalarımızda ve uygulamaların çalıştığı işletim sistemi erişimlerinde bağlantı süreleri kısıtlanmıştır. KEP 
+sistemi tüm bileşenleri ile beraber diğer sistemlerimizden fiziksel ve mantıksal olarak yalıtılmıştır.
+6.12.8Tüm bilgi sistemi geliştirme projeleri gereksinimlerin tespiti aşaması ile başlatılır. Gereksinimler net olarak 
+belirlenmeden ve raporlanmadan geliştirme projelerine başlanmaz, gereksinimlerin belirlenmesi aşamasında 
+uygulamaların güvenlik gereksinimleri de belirlenir ve uygulanır. Bu gereksinimler gereği uygulamaları geliştiren 
+ve test eden personeller ayrı kişilerdir. Tasarım aşamasından itibaren geliştirme projelerine bir proje yöneticisi 
+atanır. Proje yöneticisi projenin güvenlikle ilgili faaliyetlerinin koordinasyonundan da sorumludur. Uygulama 
+geliştirmekten sorumlu personel, yazılım geliştirme süreci boyunca uygulama yazılımı kaynak kodların yaptıkları 
+tüm değişiklikleri “Yazılım Değişiklik ve Konfigürasyon Yönetim Aracı” kullanarak kayıt altına alırlar. 
+Yazılımların dışarıdan veri kabul ettiği her noktada veri giriş kontrolleri gerçekleştirilir. Girdi kontrolleri beklenen 
+durumun ifade edildiği ve tüm diğer girdilerin dışlandığı şekilde yapılandırılır. Geliştirilen yazılım test ortamında 
+iken tüm çıktılarının istenilen şekilde ve doğru olduğu sürecin sahibi olan birim tarafından kontrol edilmektedir. 
+Üçüncü taraflarla yapılan kritik dosya alışverişi için şifreleme programları kullanılır. KEP gibi internet üzerinden 
+erişilen uygulamalarda SSL sertifikaları kullanılır. Kurumsal olarak kullanılan kriptografik anahtarların güvenli 
+olarak saklanması ve korunması amacıyla Donanımsal Güvenlik Modülleri (HSM) kullanılmaktadır. PTT AŞ bilgi 
+sistemlerinin olası tehdit ve zafiyetlere karşı periyodik olarak personel ve bağımsız firma/kuruluş tarafından 
+güvenlik denetimi yapılır. Bir sistemde değişiklik olduğunda ya da yeni bir sistem devreye alınmadan önce güvenlik 
+açıklarına karşı taranır. PTT AŞ güvenlik konusunda Gartner raporlarından faydalanır, Sun, Ulusal Bilgi Güvenliği 
+Kapısı, CERT, Securityfocus, Sans, Oracle, Microsoft, Symantec vb. Forum ve gruplarla iletişim kurar. Herhangi 
+bir bilgi güvenliği ihlal olayı ilgili birime önceden tanımlanmış kanallarla bildirilir ve bu birim tarafından gerekli 
+işlemler yapılır ve alınması gereken önlemler alınır.
+6.12.9Tüm Bilgi Teknolojileri altyapısını kapsayan olası tüm kesintileri ve felaketleri öngörmek, bu kesintilerin iş 
+etkilerini belirlemek ve kesinti halinde yapılacakları koordine edecek zemini hazırlamak üzere İş Sürekliliği Planı 
+düzenlenmiştir. Bu plan büyük felaketleri yanında kısa süreli kesintileri de (örneğin; sunucu arızaları, ağ 
+bağlantılarının kopması vb.) adresleyecek şekilde geliştirilmiştir. Bu planın hedefi tüm hizmetler için olası en 
+yüksek servis seviyesinin korunması, kesintilerden olası en kısa sürede çıkılması ve kesintilerin olasılığını ve 
+olumsuz etkisini minimize etmektir. Tüm çalışanlar ve yöneticileri İş Sürekliliği Planı dahilinde oluşturulan 
+senaryoların yılda bir kez test edilmesinden eksiksiz olarak sorumludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 15 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+15/16
+6.12.10 Kullanılan tüm yazılımlar veya diğer telif hakkı gerektiren ürünlerin lisans veya kullanım hakları 
+ödenmekte, kullanıcılar 5846 Fikir ve Sanat Eserleri Kanununa ilişkin olarak uyarılmakta ve yazılımların yasadışı 
+kullanımı mevcut bilişim güvenliği uygulamalarıyla önlenmektedir. PTT KEP dahilindeki tüm kurumsal kayıtlar, 
+kaybedilmeye ve sahteciliğe karşı, yasal, düzenleyici sözleşmelerden doğan gereksinimler ve iş gereksinimlerine 
+uygun olarak korunmaktadır.
+Kişisel veriler BTD.PK07 Erişim Kontrol Politikası ile belirtildiği üzere erişim yetkileri sınırlamasıyla ve 
+EPD.FR29 Elektronik Posta Bilgi Koruma Taahhütnamesinde belirtilen önlemler doğrultusunda en değerli bilgi 
+varlıkları olarak korunmaktadır. Gizli bilgilerin iletiminde kripto kullanımı kanunların izin verdiği ölçüde 
+yapılmaktadır. PTT AŞ bilgi sistemlerinin olası tehdit ve zafiyetlere karşı periyodik olarak personel ve/veya 
+bağımsız firma/kuruluş tarafından güvenlik denetimi yapılır. Birim yöneticileri, güvenlik politikaları ve 
+standartlarla uyumu sağlamak için Bilgi Güvenliği Yönetim Sistemi doğrultusunda sorumluluk alanlarındaki tüm 
+güvenlik esaslarının doğru olarak gerçekleştirilmesini sağlamaktadır ve güvenlik gerçekleştirme standartlarıyla 
+uyumlu olması için teknik uyum kontrolünden geçirilmektedir. Bilgi sistemleri denetim araçlarına erişim, olası 
+kötüye kullanım ya da uyumsuzluklara karşı korunur.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+BTD.PK07-Erişim Kontrol Politikası
+EPD.FR13-Kayıtlı Elektronik Posta Hizmetlerine İlişkin Sözleşme
+EPD.FR29-Elektronik Posta Bilgi Koruma Taahhütnamesi 
+EYS.FR22-Üçüncü Taraf Bilgi Koruma Taahhütnamesi
+İKD.FR26-Bilgi Koruma Taahhütnamesi (Ayrılırken)
+İKD.YNT01-Posta ve Telgraf Teşkilatı Anonim Şirketinde Çalıştırılacak İdari Hizmet Sözleşmeli Personel 
+Hakkında Yönetmelik
+KHK.002-399 Sayılı KHK
+KN.003-5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu
+KN.005-5070 sayılı Elektronik İmza Kanunu
+KN.007-5651 sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen 
+Suçlarla Mücadele Edilmesi Hakkında Kanun
+KN.010-657 sayılı Devlet Memurları Kanunu
+KN.036-6102 sayılı Türk Ticaret Kanunu
+KN.053-5846 sayılı Fikir ve Sanat Eserleri Kanunu
+KR.005-Kayıtlı Elektronik Posta Sisteminde Kullanılan İşlem Sertifikasına İlişkin Usul ve Esaslara İlişkin Bilgi 
+Teknolojileri ve İletişim Kurulu Kararı
+STD.004-TS EN ISO-IEC 27001 Bilgi Güvenliği Yönetim Sistemi Standardı
+TBL.015-Kayıtlı Elektronik Posta Rehberi ve Kayıtlı Elektronik Posta Hesabı Adreslerine İlişkin Tebliğ
+YNT.037-Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmelik
+11. REVİZYON BİLGİLERİ
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 16 ====================
+
+Doküman Adı
+Kayıtlı Elektronik Posta Hizmetleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR04
+İlk Yayım Tarihi
+9.12.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+16/16
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 9.12.2024 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

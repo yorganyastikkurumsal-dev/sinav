@@ -1,0 +1,825 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+YAPI DAİRE BAŞKANLIĞI 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+1/14
+1.AMAÇ
+Bu prosedürün amacı PTT merkez ve taşra teşkilatında bulunan tüm taşınmaz tasarrufuna yönelik; hizmet alımı, 
+satış, kiraya verme, satın alma, kiralama, taşınmaz ihaleleri, trampa, hibe, terk, ifraz, tevhit, ihdas, leh ve aleyhte 
+rehin, ipotek, irtifak, intifa ve benzeri işlemlerinin yürütülmesi için usul ve esaslarının belirlenmesi ve 
+yürütülmesidir.
+2.KAPSAM
+Bu prosedür, PTT’nin merkez ve taşra teşkilatındaki taşınmazları ile ilgili hizmet alımı, satış, kiraya verme, satın 
+alma, kiralama, taşınmaz ihaleleri, trampa, hibe, terk, ifraz, tevhit, ihdas, leh ve aleyhte rehin, ipotek, irtifak, intifa 
+ve benzeri işlemleri kapsar.
+3.DAYANAK
+Bu prosedür; 6098 sayılı Borçlar Kanunu, 4721 sayılı Türk Medeni Kanunu, 3402 sayılı Kadastro Kanunu, 2644 
+sayılı Tapu Kanunu ve 3194 sayılı İmar Kanununun ilgili maddeleri ile Posta ve Telgraf Teşkilatı Anonim Şirketi 
+Esas Sözleşmesinin '' Amaç ve Faaliyet konuları başlıklı 3 üncü maddesinin üçüncü fıkrasının (d) bendinde '' Her 
+türlü taşıt, menkul ve gayrimenkul malları alır, satar, kiralar, kiraya verir, takas eder, trampa eder, kat ve arsa 
+karşılığı, hasılat paylaşımlı, kamu özel ortaklığı modelleriyle inşaat sözleşmeleri yapar, leh ve aleyhte rehin, ipotek, 
+intifa, irtifak hakları, gayrimenkul mükellefiyetleri ve diğer ortaklıkları tesis edebilir, Şirkete kaynak temin etmek 
+üzere proje kaynağı için herhangi bir borç ve şartlı yükümlülük altına girmemek kaydıyla kar amaçlı gayrimenkul 
+yatırım proje uygulamaları yapar veya yaptırır. '' hükümlerine dayanılarak hazırlanmıştır. 
+4.TANIMLAR VE KISALTMALAR
+4.1 Aleyhte İrtifak: PTT mülkiyetindeki taşınmaz üzerinde bir kullanma ve yararlanmaya rıza göstermeyi veya 
+mülkiyete özgü bazı hakların kullanılmasından kaçınmayı gerektiren ve diğer bir taşınmaz veya kişi yararına ayni 
+hak olarak tesis edilen hukuki işlem.
+4.2 Bölge Müdürlüğü İhale Komisyonu: Bölge Müdür Yardımcısı başkanlığında, Yapı ve Teknoloji Müdürü, 
+Finans ve Muhasebe Müdürü ve konusunda uzman taşınmaz işlerinden sorumlu iki personel olmak üzere bir başkan 
+ve dört üyeden teşkil olunur. Bölge Müdür Yardımcısının bulunmaması halinde komisyon Yapı ve Teknoloji 
+Müdürünün Başkanlığında toplanır, ayrıca Yapı ve Teknoloji Müdürlüğünden ilgili bir teknik eleman da 
+komisyonda yer alır. Asil komisyon üyelerinin bulunmaması halinde, yedek olarak belirlenen üyeler komisyonda yer 
+alır.
+4.3 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü Bölge Müdürlüklerini 
+ifade eder.
+4.4 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik 
+Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+4.5 DTM: Dağıtım Toplama Müdürlüğü
+4.6 Genel Müdürlük: PTT AŞ Genel Müdürlüğü.
+4.7 Genel Müdürlük İhale Komisyonu: Yapı Daire Başkanlığından sorumlu Genel Müdür Yardımcısı 
+başkanlığında, Finans ve Muhasebe Başkanı veya Yardımcısı, Yapı Daire Başkanı ve Emlak İşleri Müdürü, Hukuk 
+Müşavirliğinden bir avukat olmak üzere bir başkan ve dört üyeden teşkil olunur. Asil komisyon üyelerinin 
+bulunmaması halinde, yedek olarak belirlenen üyeler komisyonda yer alır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+2/14
+4.8 Genel Müdürlük Satma ve Satın Alma Komisyonu: Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum 
+Daire Başkanlığından sorumlu Genel Müdür Yardımcısı Başkanlığında, Finans ve Muhasebe Başkanı veya 
+Yardımcısı, Yapı Daire Başkanı/İş Yeri Planlama ve Kurulum Daire Başkanı esas üye olmak üzere taşınmazın 
+vasfına ve kullanımına yönelik iki ihtisas Daire Başkanlarının katılımıyla beş kişiden teşkil olunur, Satma ve Satın 
+Alma Komisyon Kararı Genel Müdürce onaylanır. İlgili Daire Başkanlarının bulunmaması halinde Başkan 
+Yardımcısı üye olarak komisyonda yer alır. Taşınmazın niteliğine göre Komisyon sayısı tek sayı olmak üzere 
+arttırılabilir.
+4.9 Hibe: Bir bedel veya başkaca bir karşılık alınmaksızın bir malın mülkiyetinin başkasına devredilmesi işlemi.
+4.10 İfraz: Tapu kütüğünde tek parsel olarak yazılı bulunan bir taşınmazın birden çok parçaya ayrılması ve ayrılan 
+parçaların ayrı parseller olarak tescil işleminin yapılması.
+4.11 İhale: Bu prosedürde yazılı usul ve şartlarla, işin istekliler arasından seçilecek birisi üzerinde bırakıldığını 
+gösteren ve yetkili mercilerin onayının müteakip sözleşmenin imzalanması ile tamamlanan işlemleri.
+4.12 İhale Onay Mercii: PTT Yönetim Kurulu.
+4.13 İhdas: Yeni parsel oluşturulması, yeni mülkiyet adına tescil edilmesi (PTT parseline bitişik ihdasen yapılan 
+işlemler).
+4.14 İpotek: Doğmuş veya ileride doğması muhtemel bir borç için bir taşınmaz malın teminat gösterimi.
+4.15 KİM: Kargo İşleme Müdürlüğü.
+4.16 Kiracı: Bir mal veya hakkı belli bir bedel karşılığında kullanan gerçek veya tüzel kişi.
+4.17 Kiralama: Taşınmaz haklarının belli bir bedel karşılığında başkasının kullanımına veya kullanmayla birlikte 
+yararlanmasına bırakılması.
+4.18 Kiralayan (Kiraya Veren): Taşınmazı belirli bir bedel karşılığında şahıs veya kuruluşların kullanımına 
+bırakan gerçek veya tüzel kişi.
+4.19 Lehte İrtifak: Gerçek ve tüzel kişiler mülkiyetindeki taşınmaz üzerinde bir kullanma ve yararlanmaya rıza 
+göstermeyi veya mülkiyete özgü bazı hakların kullanılmasından kaçınmayı gerektiren ve diğer bir taşınmaz veya 
+kişi yararına ayni hak olarak tesis edilen hukuki işlem.
+4.20 MDV: Maddi Duran Varlık.
+4.21 PDM: Posta Dağıtım ve İşleme Müdürlüğü.
+4.22 PİM: Posta İşleme Müdürlüğü.
+4.23 Rayiç Bedel: Taşınmaz malın güncel değeri.
+4.24 Rehin: Bir borca karşılık bir malın teminat gösterimi.
+4.25 Satma ve Satın Alma Komisyonu: Bölge Müdürü başkanlığında, Yapı ve Teknoloji Müdürü, Finans ve 
+Muhasebe Müdürü, Posta ve Kargo Operasyonları Müdürlüğü ve taşınmaz işlerinden sorumlu bir personel olmak 
+üzere bir başkan ve dört üyeden teşkil olunur. Bölge Müdür Yardımcısının bulunmaması halinde komisyon Yapı ve 
+Teknoloji Müdürünün Başkanlığında toplanır, ayrıca Yapı ve Teknoloji Müdürlüğünden ilgili bir teknik eleman da 
+komisyonda yer alır. Posta ve Kargo Operasyonları Müdürlüğü, PTT Bank Müdürlüğü olarak hizmet yürüttüğü 
+Bölge Müdürlüğünce komisyon taşınmaza konu olan ilgili ihtisas müdürü dâhil edilerek teşkil olunur, Satma ve 
+Satın Alma Komisyon Kararları Bölge Müdürlüğünce onaylanır.
+Genel Müdürlük veya Bölge Müdürlüklerinde taşınmaz tasarruflarına ilişkin satın alma, satma, kiralama, kiraya 
+verme, trampa, leh ve aleyhte rehin, ipotek, irtifak, intifa, terk, ifraz, tevhit ve benzeri teklif niteliğindeki kararlar 
+Satma ve Satın Alma Komisyonu tarafından alınır.
+4.26 Satma ve Satın Alma ve İhale Komisyonları: Komisyonların üye sayısı tek sayı olmak üzere başkan dâhil en 
+az 5 kişiden oluşur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+3/14
+4.27 Sembolik Bedel: SPK lisanslı değerleme şirketi veya olmaması durumunda Ticaret ve Sanayi Odasından veya 
+Belediye tarafından belirlenen bedelin veya bu kuruluşlardan temin edilememesi halinde Bölge Müdürlüğünce 
+görevlendirilecek en az üç personel tarafından mahallinde yapılan inceleme sonucu tespit edilen rayiç bedelin 
+%10’u veya altındaki bedel.
+4.28 Şirket/PTT: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.29 Tahsis: Mülkiyeti malikte kalması koşuluyla, bir taşınmazın belli bir süreliğine, bedelsiz olarak başkasının 
+kullanımına bırakılması.
+4.30 Terk: İmar planlarının gerçekleştirilmesi esnasında bedelli veya bedelsiz olarak taşınmazın bütününün ya da 
+bir bölümünün imar planına uygun olarak kamu yararına bırakılması işlemi.
+4.31 Tevhit: Tapu kütüğünün ayrı ayrı sayfalarında kayıtlı birbirine bitişik iki ya da daha fazla parselin tek bir 
+parsel numarası altında birleştirilerek tescil işleminin yapılması.
+4.32 Trampa: Taşınmazların mülkiyetinin karşılıklı olarak el değiştirmesi. Değiştirilecek taşınmazların birbirine 
+eşit olmaması halinde bedel farkının parasal olarak ödenerek denklik sağlanması.
+4.33 Yönetim Kurulu: PTT AŞ Yönetim Kurulu.
+5.SORUMLULUKLAR
+Bu prosedürün hazırlanmasından ve uygulanmasından Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum Daire 
+Başkanlığı sorumludur.
+6.UYGULAMA
+6.1Taşınmaz satışı, trampa edilmesi ve kiraya verilmesi
+6.1.1 PTT mülkiyetinde bulunan taşınmazların satışı
+a)Taşınmazın satışının ihale usulü ile teklif almak suretiyle yapılması esas olmakla birlikte, kamu kurum ve 
+kuruluşları, belediye, il özel idareleri ile sermayesinin yüzde ellisinden fazlası bu kurum ve kuruluşlara ait olan 
+şirketlere, Türkiye Varlık Fonuna, Türkiye Varlık Fonunun kuracağı fonlar ve şirketler ile PTT AŞ iştiraklerine, 
+Posta ve Telgraf Teşkilatı Biriktirme ve Yardım Sandığına, kamu kurum ve kuruluşu niteliğindeki meslek 
+kuruluşlarına doğrudan satışına yönelik teklif alınması ve bunda PTT’nin menfaati olduğuna kanaat getirilmesi 
+halinde bu husus Genel Müdürlük veya Bölge Müdürlüğü Satma ve Satın Alma Komisyonu Kararında belirtilmek 
+kaydıyla ihaleye çıkılmaksızın teklif alma suretiyle de yapılır.
+b)İhale usulü ile satışı yapılacak gayrimenkullerin tüm ihale usullerinde ilan süreleri en az 14 gündür. İhale ilanları 
+taşınmazın bulunduğu ve ihalenin yapılacağı yerde çıkan günlük yerel 2 gazetede ayrı ayrı yayımlanır. Taşınmazın 
+bulunduğu veya ihalenin yapılacağı yerlerin herhangi birinde yerel gazete bulunmaması halinde, ilan metni valilik 
+ya da kaymakamlık ilan panolarına asılarak duyurulur. Bu duyuru yerel gazetede yayımlanan ihale ilanı yerine 
+geçer.
+c)PTT tarafından yukarıda belirtilen sürelere uymak kaydıyla, ihale ilanı yerel gazete dışında başka yayın 
+organlarında da yayımlayabilir.
+ç)   İhale ilan süresi hesabında, ilanın yayımlandığı gün birinci gün kabul edilir. İhale günü ilan süresine dâhil 
+değildir.
+6.1.1.1Taşınmazın satışının ihalesiz yapılması halinde;
+a)Taşınmaz satışının Bölge Müdürlüğünce yapılması halinde, ilgili Bölge Müdürlüğünce YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-1’de belirtilen belgeler ile birlikte ilgili ihtisas Daire 
+Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+4/14
+b)  İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+c)  Taşınmaz satışının Genel Müdürlükçe yapılması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli 
+Evrak Listesi Ek-1’de belirtilen belgeler, Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmaz satışına yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili Makamlardan izin alınmak üzere onaya sunulur.
+d) Yetkili Makamlarca taşınmaz satışına esas teklifin uygun bulunması halinde Yönetim Kurulu Kararı 
+doğrultusunda satışın sağlanması, Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce gerçekleştirilir.
+e)  Tapu tescil işlemi tamamlanan taşınmazların MDV kaydından çıkartılması hususu Yapı Daire Başkanlığınca 
+Finans ve Muhasebe Başkanlığına bildirilir.
+f)  Satışa ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı Daire Başkanlığına iade 
+edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.1.1.2Taşınmazın satışının ihaleli yapılması halinde;
+a) Taşınmaz satışının Bölge Müdürlüğünce yapılması halinde, ilgili Bölge Müdürlüğünce YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-1’de belirtilen belgeler ile birlikte ilgili ihtisas Daire 
+Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+b)   İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+c)  Taşınmaz satışının Genel Müdürlükçe yapılması halinde konuya ilişkin YAP.LS11 Taşınmazların Yönetim 
+Prosedürü Gerekli Evrak Listesi Ek-1’de belirtilen belgeler, Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmaz satışına yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili Makamlardan izin alınmak üzere onaya sunulur.
+d)  Yetkili Makamlarca taşınmaz satışına esas teklifin uygun bulunması halinde satışının Yönetim Kurulu Kararı 
+doğrultusunda sağlanması için Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne tebliğ edilir Bölge 
+Müdürlüğünce ihalesi yapılarak YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-6’da 
+belirtilen belgeler ve Bölge Müdürlüğü mütalaası ile yetkili makamlardan onay alınması için Yapı Daire 
+Başkanlığına gönderilir.
+e)  İhalenin Genel Müdürlükçe yapılması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak 
+Listesi Ek-6’da belirtilen belgeler Yapı Daire Başkanlığına yetkili makamlardan onay alınması için gönderilir.
+f)   Satış işleminin Yönetim Kurulu ve yetkili makamlarca uygun bulunması halinde taşınmaz satışı, Yapı Daire 
+Başkanlığınca veya ilgili Bölge Müdürlüğünce gerçekleştirilir.
+g)  Tapu tescil işlemi tamamlanan taşınmazların MDV kaydından çıkartılması hususu Yapı Daire Başkanlığınca 
+Finans ve Muhasebe Başkanlığına bildirilir.
+ğ)  Satışa ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı Daire Başkanlığına iade 
+edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.1.2Taşınmazların trampa edilmesi
+Kamu kurum ve kuruluşları ile gerçek veya tüzel kişilerin mülkiyetinde bulunan taşınmazlara ihtiyaç duyulması; 
+bunun yanı sıra kamu kurum ve kuruluşları ile gerçek veya tüzel kişilerin, PTT mülkiyetinde bulunan taşınmazlara 
+yönelik talepte bulunması halinde;
+a)Trampa işleminin Bölge Müdürlüğünce yapılması halinde; bedel ve şartlar yönüyle karşılıklı anlaşma 
+sağlanması durumunda ilgili Bölge Müdürlüğünce YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+5/14
+Listesi Ek-1’de belirtilen belgeler ile birlikte ilgili ihtisas Daire Başkanlıkları ve Yapı Daire Başkanlığına teklifte 
+bulunulur.
+b)İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+c) Trampa işleminin Genel Müdürlükçe yapılması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli 
+Evrak Listesi Ek-1’de belirtilen belgeler Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmazın trampasına yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+d) Trampa işleminin Yönetim Kurulu ve yetkili makamlarca uygun bulunması halinde, taşınmazın trampası Yapı 
+Daire Başkanlığınca veya Bölge Müdürlüğünce gerçekleştirilir.
+e) Trampaya ilişkin tapu tescil işleminin tamamlanmasını müteakip, taşınmazın MDV kaydına alınması veya 
+çıkartılması için tapu aslı Finans ve Muhasebe Başkanlığına, tapunun bir örneği ve YAP.FR120 PTT İdare Malı 
+Taşınmaz Bilgi Formu Bölge Müdürlüğünce Yapı Daire Başkanlığına gönderilir.
+f) Trampaya ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı Daire Başkanlığına iade 
+edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.1.3 PTT mülkiyetinde bulunan taşınmazların kiraya verilmesi;
+a)Taşınmazın ihale usulü ile kiraya verilmesi esas olmakla birlikte; kamu kurum ve kuruluşları, belediye, il özel 
+idareleri ile sermayesinin yüzde ellisinden fazlası bu kurum ve kuruluşlara ait olan şirketlere, Türkiye Varlık 
+Fonuna, Türkiye Varlık Fonunun kuracağı fonlara ve şirketlere, PTT AŞ iştirakleri ile kamu kurum ve kuruluşu 
+niteliğindeki meslek kuruluşlarına, gerçek veya tüzel kişilere doğrudan kiraya verilmesine ya da daha önce 3. 
+kişilere kiraya verilmiş ve kira süresi bitiminden sonra, mevcut kiracı tarafından yeniden uygun fiyata kiralamaya 
+yönelik teklif alınması ve PTT menfaati olduğuna kanaat getirilmesi halinde bu hususu Bölge Müdürlüğü Satma ve 
+Satın Alma Komisyonu veya Genel Müdürlük Satma ve Satın Alma Komisyonu 
+Kararında belirtilmek kaydıyla ihaleye çıkılmaksızın teklif alma suretiyle de yapılabilir.
+b)İhale yolu ile kiraya verilecek gayrimenkullerin tüm ihale usullerinde ilan süreleri en az 14 gündür. İhale ilanları 
+taşınmazın bulunduğu ve ihalenin yapılacağı yerde çıkan günlük yerel 2 gazetede ayrı ayrı yayımlanır. Taşınmazın 
+bulunduğu veya ihalenin yapılacağı yerlerin herhangi birinde yerel gazete bulunmaması halinde, ilan metni valilik 
+ya da kaymakamlık ilan panolarına asılarak duyurulur. Bu duyuru yerel gazetede yayımlanan ihale ilanı yerine 
+geçer.
+c)İdarece yukarıda belirtilen sürelere uymak kaydıyla, ihale ilanı yerel gazete dışında başka yayın organlarında da 
+yayımlayabilir.
+ç) İhale ilan süresi hesabında, ilanın yayımlandığı gün birinci gün kabul edilir. İhale günü ilan süresine dâhil 
+değildir.
+6.1.3.1 Taşınmazın kiraya verilmesinin ihalesiz yapılması halinde;
+a)Bölge Müdürlüğünce Taşınmazın kiraya ihalesiz verilebilmesi için ilgili Bölge Müdürlüğünce YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-2’de belirtilen belgeler ile birlikte ilgili ihtisas Daire 
+Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+b)İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+6/14
+c) Genel Müdürlükçe taşınmazın kiraya ihalesiz verilebilmesi için konuya ilişkin YAP.LS11 Taşınmazların Yönetim 
+Prosedürü Gerekli Evrak Listesi Ek-2’de belirtilen belgeler, Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmaz kiraya verilmesine yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+d) Yetkili makamlarca, taşınmazın kiraya ihalesiz verilmesine esas teklifin uygun bulunması halinde, Yönetim 
+Kurulu Kararı doğrultusunda kiraya verilmesi işlemleri için Yapı Daire Başkanlığınca Bölge Müdürlüğüne karar 
+tebliğ edilir. İlgili Bölge Müdürlüğünce kontratın (sözleşmenin) onaylı bir sureti ile YAP.FR122 PTT AŞ Kiraya 
+Verilen Taşınmaz Bilgi Formu Yapı Daire Başkanlığına gönderilir.
+e) Taşınmazın kiraya verilmesine ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı Daire 
+Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.1.3.2 Taşınmazın kiraya verilmesinin ihaleli yapılması halinde;
+a)Bölge Müdürlüğünce Taşınmazın kiraya ihaleli verilebilmesi için düzenlenen ilgili Bölge Müdürlüğünce 
+YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-2’de belirtilen belgeler ile birlikte ilgili 
+ihtisas Daire Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+b)İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+c) Genel Müdürlükçe taşınmazın kiraya ihaleli verilebilmesi için YAP.LS11 Taşınmazların Yönetim Prosedürü 
+Gerekli Evrak Listesi Ek-2’de belirtilen belgeler, Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmaz kiraya verilmesine yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+d) Yetkili Makamlarca, taşınmazın kiraya ihaleli verilmesine esas teklifin uygun bulunması halinde, Yönetim 
+Kurulu Kararı doğrultusunda kiraya verilmesi işlemleri için Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne 
+tebliğ edilir. Bölge Müdürlüğü ihalesi yapılarak YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi 
+Ek-6’da belirtilen belgeler ve Bölge Müdürlüğü mütaalasını yetkili makamlardan onay alınması için Yapı Daire 
+Başkanlığına gönderilir.
+e)İhalenin Genel Müdürlükçe yapılması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak 
+Listesi Ek-6’da belirtilen belgeler Yapı Daire Başkanlığına yetkili makamlardan onay alınması için gönderilir.
+f)Kiraya verme işleminin Yönetim Kurulunca uygun bulunması halinde taşınmazın kiraya verme işleminin 
+neticelendirilmesi amacıyla ilgili Bölge Müdürlüğüne tebliğ yapılır.
+g)İlgili Bölge Müdürlüğü onaylı kontratın (sözleşmenin) bir sureti ile YAP.FR122 PTT AŞ Kiraya Verilen 
+Taşınmaz Bilgi Formu Yapı Daire Başkanlığına gönderilir.
+ğ) Taşınmazın Kiraya verilmesine ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı 
+Daire Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.1.3.3 Taşınmazın tadilatı karşılığı kiraya verilmesi
+Tadilat, esaslı tadilat, restorasyon ve güçlendirme gerektiren taşınmazların, maliyetleri kira bedelinden mahsup 
+edilmesi kaydıyla kiraya verilebilir. Kiraya verilecek taşınmazın maliyetine yönelik teknik rapor oluşturulur. 
+Taşınmazın tadilat, esaslı tadilat, restorasyon ve güçlendirme maliyeti kira bedelinden mahsup edilmek kaydıyla, 
+kiraya verilmesi bu prosedürün 5.1.3.1 ve 5.1.3.2 maddeleri doğrultusunda gerçekleştirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+7/14
+6.2 Taşınmaz satın alınması, kiralanması
+6.2.1 Taşınmaz satın alınması
+Taşınmazın satın alınması Genel Müdürlükçe, Satma ve Satın Alma Komisyon Kararında belirtilmesi kaydıyla 
+taşınmaz malikinden teklif alınmak suretiyle yapılabileceği gibi gerekmesi halinde ihale usulü ile de teminine 
+gidilir. Taşınmazın satış işleminin ihale yolu ile yapılması durumunda muhammen bedelin %20 (yüzde yirmi) sine 
+kadar artış yapma hususunda Genel Müdür yetkilidir.
+PTT ihtiyacı için taşınmaz satın alınması:
+a)Bölge Müdürlüğünce PTT ihtiyacı doğrultusunda alınacak taşınmaza ilişkin ilgili Bölge Müdürlüğünce 
+YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-3’de belirtilen belgeler ile birlikte ilgili 
+ihtisas Daire Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+b)İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek, teklif Yönetim 
+Kuruluna sunulur.
+c) Genel Müdürlükçe taşınmazın satın alınması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli 
+Evrak Listesi Ek-3’de belirtilen belgeleri ile birlikte Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmaz satın alınmasına yönelik teklifin uygun bulunması halinde, Yönetim Kurulu 
+Kararı doğrultusunda taşınmazın satın alınması Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce 
+gerçekleştirilir.
+d)  Tapu tescil işlemi tamamlanan taşınmazların MDV kaydına alınabilmesi için tapu aslı Yapı Daire Başkanlığınca 
+Finans ve Muhasebe Başkanlığına gönderilir. Tapunun bir örneği ile YAP.FR120 PTT İdare Malı Taşınmaz Bilgi 
+Formu ise Yapı Daire Başkanlığınca muhafaza edilir.
+e) Taşınmaz satın alımına ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde, teklif Yapı Daire 
+Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.2.2 Taşınmaz kiralanması
+Taşınmazın kiralanması Genel Müdürlükçe, Satma ve Satın Alma Komisyon Kararında belirtilmesi kaydıyla 
+taşınmaz malikinden teklif alınmak suretiyle yapılabileceği gibi gerekmesi halinde ihale usulü ile de yapılabilir.
+6.2.2.1 PTT ihtiyacı için taşınmaz kiralanması
+a)PTT ihtiyacı doğrultusunda kiralanacak taşınmaza ilişkin ilgili Bölge Müdürlüğünce YAP.LS11 Taşınmazların 
+Yönetim Prosedürü Gerekli Evrak Listesi Ek-4’de belirtilen belgeler Genel Müdürlükçe düzenlenen YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-4’de belirtilen belgeler Yapı Daire Başkanlığına/İş 
+Yeri Planlama ve Kurulum Daire Başkanlığına gönderilir.
+b)Uygun bulunması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-4’de  
+belirtilen belgeler ilgili ihtisas Daire Başkanlıkları işareti ile birlikte;
+•b.1) PTT Müdürlüğü, PTT Müdürlüğüne bağlı Posta Dağıtım-Gelen-Giden Birimi, Şube, Şube Şefliği, Kargo 
+Şubesi, Kargomat ve Pttmatikler için gerekli kiralama işlemleri ile söz konusu iş yerlerine ait kira sözleşmesi 
+bitiminden itibaren yeniden kiralama, yer değişikliği veya tadilat süresince geçici yer kiralama işlemleri için İş Yeri 
+Planlama ve Kurulum Daire Başkanlığına,
+•b.2) Yukarıda b.1 maddesi kapsamı dışında kalan, müstakil ve müstakil olmayan (PTT Müdürlüğü ve Şube içeren 
+binalarda dâhil olmak üzere) Bölge Müdürlüğü, PİM, KİM, DTM, PDM, her nitelikte depo, ambar, arşiv, lojman, 
+otopark vb. ihtiyaca yönelik taşınmazlar ile ilgili kiralama işlemleri için Yapı Daire Başkanlığına, teklifte 
+bulunulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+8/14
+c) Taşınmazın kiralanmasına ilişkin Bölge Müdürlüğü teklifleri ilgili İhtisas Daire Başkanlıklarınca bildirilecek 
+görüşler ile birlikte Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum Daire Başkanlığınca değerlendirilerek 
+uygun bulunması halinde ya da Genel Müdürlükçe yapılan kiralamalarda Genel Müdürlük Satma ve Satın Alma 
+Komisyonunca uygun bulunması halinde Yapı Daire Başkanlığına/İş Yeri Planlama ve Kurulum Daire 
+Başkanlığına bildirilir ve Yapı Daire Başkanlığınca/İş Yeri Planlama ve Kurulum Daire Başkanlığınca Yönetim 
+Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmazın kiralanmasına ilişkin teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca/ İş Yeri Planlama ve Kurulum Daire Başkanlığınca Yönetim Kurulu Kararı doğrultusunda gereği 
+sağlanmak üzere ilgili Bölge Müdürlüğüne bildirilir.
+d)Sözleşmesi devam eden kiralamalarda; malik değişikliği veya aynı malike ait ve kiralı alanın bulunduğu aynı 
+taşınmazda bulunan bir mahallin ek olarak kiralanmasına ve/veya yer değişikliğine ihtiyaç duyulması halinde bu 
+mahallerin kiralanmasına Genel Müdür yetkilidir.
+e)Gerçek ve tüzel kişilerden sembolik bedelle taşınmaz kiralanmasına veya bedelsiz taşınmaz tahsis kabullerine 
+Yapı Daire Başkanlığı/ İş Yeri Planlama ve Kurulum Daire Başkanlığının bağlı bulunduğu ilgili Genel Müdür 
+yardımcısı yetkilidir.
+f)   İlgili Bölge Müdürlüğünce düzenlenen YAP.FR121 PTT Kiralı veya Tahsisli Taşınmaz Bilgi Formu Yapı Daire 
+Başkanlığına/İş Yeri Planlama ve Kurulum Daire Başkanlığına gönderilir.
+g) Taşınmaz kiralamasına ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde Yapı Daire 
+Başkanlığınca/İş Yeri Planlama ve Kurulum Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.2.2.2 Mülkiyeti hazine, belediye, üniversite, hastanelere vb. kamu kurum ve kuruluşlara ait taşınmazların, 
+hizmetlerimiz için ihaleli/ihalesiz kiralanması;
+a)PTT ihtiyacı doğrultusunda kiralanacak taşınmaza ilişkin ilgili Bölge Müdürlüğünce YAP.LS11 Taşınmazların 
+Yönetim Prosedürü Gerekli Evrak Listesi Ek-5’de belirtilen belgeler Bölge Müdürlüğüne veya Genel Müdürlükçe 
+düzenlenen YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-5’de belirtilen belgeler Yapı 
+Daire Başkanlığına/İş Yeri Planlama ve Kurulum Daire Başkanlığına gönderilir.
+b)Uygun bulunması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-5’de 
+belirtilen belgeler ile birlikte ilgili ihtisas Daire Başkanlıkları dağıtımında;
+•b.1) PTT Müdürlüğü, PTT Müdürlüğüne bağlı Posta Dağıtım-Gelen-Giden Birimi, Şube, Şube Şefliği, Kargo 
+Şubesi, Kargomat ve Pttmatikler için gerekli kiralama işlemleri ile söz konusu iş yerlerine ait yer değişikliği veya 
+devam eden kiralama işlemleri için İş Yeri Planlama ve Kurulum Daire Başkanlığına,
+•b.2) Yukarıda b.1 maddesi dışında kalan, müstakil ve müstakil olmayan (PTT Müdürlüğü ve Şube içeren binalar 
+da dâhil olmak üzere) Bölge Müdürlüğü, PİM, KİM, DTM, PDM, her nitelikte depo, ambar, arşiv, lojman, otopark 
+vb. binalar ile ilgili kiralama işlemleri için Yapı Daire Başkanlığına, teklifte bulunulur.
+c)Taşınmazın kiralanmasına ilişkin Bölge Müdürlüğü teklifleri ilgili İhtisas Daire Başkanlıklarınca bildirilecek 
+görüşler ile birlikte Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum Daire Başkanlığınca değerlendirilerek 
+uygun bulunması halinde veya Genel Müdürlükçe yapılan kiralamalarda Genel Müdürlük Satma ve Satın Alma 
+Komisyonunca uygun bulunması halinde Yapı Daire Başkanlığına/ İş Yeri Planlama ve Kurulum Daire 
+Başkanlığına bildirilir ve Yapı Daire Başkanlığınca/İş Yeri Planlama ve Kurulum Daire Başkanlığınca ihaleye 
+katılma, sözleşme imzalama, teminat yatırma vb. hususta Genel Müdür Onayı ile ilgili Bölge Müdürlüğüne yetki 
+verilir.
+ç)  Taşınmazın kiralama işleminin ihale yolu ile yapılması durumunda muhammen bedelin %20 (yüzde yirmi) sine 
+kadar artış yapma hususunda Genel Müdür yetkilidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+9/14
+d)İlgili Bölge Müdürlüğünce ihaleye katılım sağlanarak ihalenin Bölge Müdürlüğü uhdesinde kalması durumunda 
+kiralamanın yapılarak sözleşmenin onaylı bir sureti ile YAP.FR121 PTT Kiralı veya Tahsisli Taşınmaz Bilgi 
+Formu Yapı Daire Başkanlığına/İş Yeri Planlama ve Kurulum Daire Başkanlığına gönderilir.
+e)Kiralamaya ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde teklif Yapı Daire Başkanlığına/İş 
+Yeri Planlama ve Kurulum Daire Başkanlığına iade edilir. Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum 
+Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.3Hibe kabulü ve hibe edilmesi
+6.3.1 Hibe
+6.3.1.1 Taşınmaz hibe kabulü
+PTT’ye hibe edilecek taşınmazlarla ilgili teklifler;
+a)Bölge Müdürlüğünce düzenlenen YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-3’de 
+belirtilen belgeler ile birlikte ilgili ihtisas Daire Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur ve Yapı 
+Daire Başkanlığınca Yönetim Kuruluna sunulur.
+b)Hibenin kabul edilmesi halinde Yönetim Kurulu Kararı Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne 
+bildirilir.
+c)  İlgili Bölge Müdürlüğüne, tapu tescil işlemi tamamlanan taşınmaza ilişkin tapu aslı, taşınmazın MDV kaydına 
+alınabilmesi için Finans ve Muhasebe Başkanlığına, tapunun bir örneği ile YAP.FR120 PTT İdare Malı Taşınmaz 
+Bilgi Formu ise Yapı Daire Başkanlığına gönderilir.
+ç)  Bölge Müdürlüğünce yapılan taşınmaz hibe kabulüne ilişkin teklifin herhangi bir aşamada uygun bulunmaması 
+halinde teklif Bölge Müdürlüğüne iade edilir.
+6.3.1.2 Taşınmazın hibe edilmesi
+PTT taşınmazlarından ihtiyaç fazlası olan ancak işletme maliyetleri yüksek, büyük oranda bakım ve onarım 
+gerektiren veya izbe ve atıl lokasyonda bulunan, satışı yapılamayan taşınmazların kamu kurum ve kuruluşları, 
+belediye, il özel idareleri ile sermayesinin yüzde ellisinden fazlasının bu kurum ve kuruluşlara ait olan şirketler, 
+Türkiye Varlık Fonu, Türkiye Varlık Fonunun kuracağı fonlar ve şirketler ile PTT AŞ iştirakleri, kamu kurum ve 
+kuruluşu niteliğindeki meslek kuruluşlarınca hibe talebinde bulunulması halinde;
+a)Taşınmazın Hibe edilebilmesi için ilgili Bölge Müdürlüğüne YAP.LS11 Taşınmazların Yönetim Prosedürü 
+Gerekli Evrak Listesi Ek-1’de belirtilen belgeler Yapı Daire Başkanlığına gönderilir.
+b)Uygun bulunması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-1’de belirtilen 
+belgeler ile birlikte ilgili ihtisas Daire Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+c)İhtisas Daire Başkanlıklarınca bildirilecek görüşler Yapı Daire Başkanlığınca değerlendirilerek teklif Yönetim 
+Kuruluna sunulur.
+ç)  Taşınmazın hibe edilmesi işleminin Genel Müdürlükçe yapılması halinde, konu Genel Müdürlük Satma ve Satın 
+Alma Komisyonunca değerlendirilerek Yapı Daire Başkanlığına bildirilir ve Yapı Daire Başkanlığınca Yönetim 
+Kuruluna sunulur.
+d)Yönetim Kurulu tarafından taşınmazın hibe edilmesine yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+10/14
+e)Yetkili makamlarca taşınmazın hibe edilmesine yönelik teklifin uygun bulunması halinde, Yönetim Kurulu 
+Kararı doğrultusunda taşınmazın hibe edilmesi Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce 
+gerçekleştirilir.
+f)Tapu tescil işlemi tamamlanan taşınmazların MDV kaydından çıkartılması hususu Yapı Daire Başkanlığınca 
+Finans ve Muhasebe Başkanlığına bildirilir.
+g)Taşınmazın hibe edilmesine ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde, teklif Yapı Daire 
+Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.4 Leh ve aleyhte rehin, ipotek, irtifak, intifa, terk, ifraz, tevhit, ihdas,
+6.4.1 Lehte ve aleyhte rehin, ipotek, irtifak, intifa
+6.4.1.1 Lehte rehin, ipotek, irtifak, intifa
+a)PTT ihtiyacı doğrultusunda lehte rehin, ipotek, irtifak, intifa hakkı tesis edilecek taşınmaza ilişkin ilgili Bölge 
+Müdürlüğünce YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-7’de belirtilen belgeler 
+Bölge Müdürlüğü Genel Müdürlükçe YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-7’de 
+belirtilen belgeler Yapı Daire Başkanlığına gerekli işlemler yapılmak üzere gönderilir.
+b)Uygun bulunması halinde YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-7’de 
+belirtilen belgeler Yapı Daire Başkanlığına teklifte bulunulur. Bölge Müdürlüğünce taşınmazın lehte rehin, ipotek, 
+irtifak, intifa hakkı tesisi uygun bulunması halinde ya da Genel Müdürlükçe taşınmazın lehte ipotek, intifa ve irtifak 
+hakkı tesisi
+c)Genel Müdürlük Satma ve Satın Alma Komisyonunca uygun bulunması halinde konu Yapı Daire Başkanlığına 
+bildirilir ve Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmazın lehte rehin, ipotek, irtifak, intifa hakkı tesisine yönelik teklifin uygun 
+bulunması halinde, taşınmazın lehte rehin, ipotek, irtifak, intifa hakkı tesisi Yapı Daire Başkanlığınca veya ilgili 
+Bölge Müdürlüğünce gerçekleştirilir.
+d)İlgili Bölge Müdürlüğünce yapılması halinde; lehte rehin, ipotek, irtifak, intifa hakkı tesisine yönelik imzalı 
+sözleşme ile taşınmazın tapu tesciline ilişkin düzenlenen senedin bir sureti Yapı Daire Başkanlığına gönderilir.
+e)Lehte rehin, ipotek, irtifak, intifa hakkı tesisine ilişkin teklifin herhangi bir aşamada uygun bulunmaması 
+halinde, teklif Yapı Daire Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.4.1.2 Aleyhte rehin, ipotek, irtifak, intifa
+6.4.1.2.1 Aleyhte rehin, ipotek, irtifak, intifa hakkı tesisinin ihalesiz yapılması
+a)Taşınmazın aleyhte rehin, ipotek, irtifak, intifa hakkı tesisi için ilgili Bölge Müdürlüğünce düzenlenen 
+YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen belgeler Bölge Müdürlüğüne 
+veya Genel Müdürlükçe YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen 
+belgeler Yapı Daire Başkanlığına gerekli işlemler yapılmak üzere gönderilir.
+b)Bölge Müdürlüğünce ya da Genel Müdürlükçe taşınmaza aleyhte ipotek, intifa, irtifak hakkı tesisi Genel 
+Müdürlük Satma ve Satın Alma Komisyonunca uygun bulunması halinde aleyhte rehin, ipotek, irtifak, intifa hakkı 
+tesisi kurulabilmesi için Satma ve Satın Alma Komisyon Kararı düzenlenerek YAP.LS11 Taşınmazların Yönetim 
+Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen belgeler ile birlikte Yapı Daire Başkanlığına bildirilir ve Yapı 
+Daire Başkanlığınca Yönetim Kuruluna sunulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+11/14
+c)Yönetim Kurulu tarafından taşınmaza aleyhte rehin, ipotek, irtifak, intifa hakkı tesisine yönelik teklifin uygun 
+bulunması halinde, Yapı Daire Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+ç) Yetkili Makamlarca taşınmazın aleyhte rehin, ipotek, irtifak, intifa hakkı tesisine yönelik teklifin uygun 
+bulunması halinde, Yönetim Kurulu Kararı doğrultusunda aleyhte rehin, ipotek, irtifak, intifa hakkı tesisine yönelik 
+işlem Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce gerçekleştirilir.
+d)Bölge Müdürlüğünce ya da Genel Müdürlükçe Yönetim Kurulu Kararı doğrultusunda aleyhte rehin, ipotek, 
+irtifak, intifa hakkı tesisi işlemi gerçekleştirilir. İlgili Bölge Müdürlüğünce yapılması halinde; aleyhte rehin, ipotek, 
+irtifak, intifa hakkı tesisine yönelik imzalı sözleşme ile taşınmazın tapu tesciline ilişkin düzenlenen senedin bir sureti 
+Yapı Daire Başkanlığına gönderilir. Yapı Daire Başkanlığınca, taşınmazın tapu aslının MDV kaydına alınabilmesi 
+için tapunun bir örneği Finans ve Muhasebe Başkanlığına gönderilir.
+e)Aleyhte rehin, ipotek, irtifak, intifa hakkı tesisine ilişkin teklifin herhangi bir aşamada uygun bulunmaması 
+halinde, teklif Yapı Daire Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.4.1.2.2 Aleyhte irtifak hakkı tesisinin ihaleli yapılması
+a)Taşınmaza aleyhte irtifak hakkı tesisi için ilgili Bölge Müdürlüğünce YAP.LS11 Taşınmazların Yönetim 
+Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen belgeler Bölge Müdürlüğüne veya Genel Müdürlükçe YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen belgeler Yapı Daire Başkanlığına gerekli 
+işlemler yapılmak üzere gönderilir.
+b)Bölge Müdürlüğünce uygun bulunması halinde aleyhte irtifak hakkı tesisi kurulabilmesi için YAP.LS11 
+Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-8’de belirtilen belgeler ile birlikte ilgili ihtisas Daire 
+Başkanlıkları ve Yapı Daire Başkanlığına teklifte bulunulur.
+c)Taşınmazın aleyhte irtifak hakkı tesisi ilgili uygun bulunması halinde ya da Genel Müdürlükçe aleyhte irtifak 
+hakkı tesisi Genel Müdürlük Satma ve Satın Alma Komisyonunca uygun bulunması halinde Yapı Daire 
+Başkanlığına bildirilir ve Yapı Daire Başkanlığınca Yönetim Kuruluna sunulur.
+ç) Yönetim Kurulu tarafından taşınmazın aleyhte irtifak hakkı tesisine yönelik teklifin uygun bulunması halinde, 
+Yapı Daire Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+d)Yetkili Makamlarca taşınmazın aleyhte irtifak hakkı tesisine esas teklifin uygun bulunması halinde, taşınmazda 
+aleyhte irtifak hakkı tesisinin Yönetim Kurulu Kararı doğrultusunda ihale usulü ile yapılabilmesi için gereği Yapı 
+Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce gerçekleştirilir.
+e)Bölge Müdürlüğünce ya da Genel Müdürlükçe ihalesi yapılarak YAP.LS11 Taşınmazların Yönetim Prosedürü 
+Gerekli Evrak Listesi Ek-8’de belirtilen belgeler ve Bölge Müdürlüğü mütalaası, Yapı Daire Başkanlığına Yönetim 
+Kurulundan onay alınması için gönderilir.
+f)Yapı Daire Başkanlığınca taşınmazın aleyhte irtifak hakkı tesisine ait Satma ve Satın Alma Komisyon Kararı 
+veya ihale onayı diğer belgeleri ile birlikte Yönetim Kuruluna sunulur.
+g)Yönetim Kurulunca uygun bulunması halinde taşınmazın aleyhte irtifak hakkı tesisine yönelik işlem gereği 
+sağlanmak üzere Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce gerçekleştirilir.
+ğ) İrtifak hakkı tesisine yönelik imzalı sözleşme ile taşınmazın tescile ilişkin tapu müdürlüğünce düzenlenen 
+senedinin bir sureti Yapı Daire Başkanlığına gönderilir.
+h)Taşınmazın aleyhte rehin, ipotek, irtifak, intifa hakkı tesisine ilişkin teklifin herhangi bir aşamada uygun 
+bulunmaması halinde, teklif Yapı Daire Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge 
+Müdürlüğüne bildirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+12/14
+6.4.2 Terk, ifraz, tevhit, ihdas
+3194 sayılı İmar Kanunun ilgili maddeleri doğrultusunda yapılacak uygulama neticesinde; Terk, İfraz, Tevhit, İhdas 
+işlemleri Bölge Müdürlüğü ve Genel Müdürlükçe YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak 
+Listesi Ek-9’da belirtilen belgeleri ile birlikte gerekli işlemler yapılmak üzere Yönetim Kurulu Kararı ile yapılır.
+a)Taşınmazın Terk, İfraz, Tevhit, İhdas işlemleri için ilgili Bölge Müdürlüğünce YAP.LS11 Taşınmazların 
+Yönetim Prosedürü Gerekli Evrak Listesi Ek-9’da belirtilen belgeler Bölge Müdürlüğüne veya Genel Müdürlükçe 
+YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-9’da belirtilen belgeler Yapı Daire 
+Başkanlığına gönderilir.
+b)Bölge Müdürlüğünce Terk, İfraz, Tevhit, İhdas, işlemleri için YAP.LS11 Taşınmazların Yönetim Prosedürü 
+Gerekli Evrak Listesi Ek-9’da belirtilen belgeler ile birlikte Yapı Daire Başkanlığına teklifte bulunulur.
+c)Bölge Müdürlüğünce   taşınmazın Terk, İfraz, Tevhit, İhdas, işlemleri uygun bulunması halinde ya da Genel 
+Müdürlükçe taşınmazın Terk, İfraz, Tevhit, İhdas, işlemleri Genel Müdürlük Satma ve Satın Alma Komisyonunca 
+uygun bulunması halinde Yapı Daire Başkanlığına bildirilir ve Yapı Daire Başkanlığınca Yönetim Kuruluna 
+sunulur.
+ç) Bölge Müdürlüğünce   veya Genel Müdürlükçe Yönetim Kurulu Kararı doğrultusunda Terk, İfraz, Tevhit, İhdas, 
+işlemleri gerçekleştirilir. Rehin, ipotek, irtifak, intifa hakkı tesisine yönelik imzalı sözleşme ile taşınmazın tapu 
+tesciline ilişkin düzenlenen senedin bir sureti Yapı Daire Başkanlığına gönderilir.
+6.5 Yapının yıktırılması ve taşınmaz cins tahsisi
+6.5.1 Yapının yıktırılması
+Mülkiyeti PTT’ ye ait arsaların üzerinde bulunan ve çeşitli sebeplerle istifade edilemez hale gelen, işlevi itibari ile 
+ihtiyaç duyulmayan, teknik açıdan ekonomik ömrünü tamamlamış, güçlendirme ve tadilat maliyeti yeni yapım 
+yaklaşık maliyetinin %40 (yüzde kırk) ını aşan (%40 dahil) yapılar, riskli yapılar, metruk yapılar ile can ve mal 
+güvenliğini tehlikeye sokacak her türlü bina ekleri ve çıkmalarının yıkılması, enkazının kaldırılması ve enkazdan 
+çıkan hurdaların yıkım karşılığı satılmasına Genel Müdürlük/ Bölge Müdürlüğü Satma ve Satın Alma Komisyon 
+kararına istinaden Genel Müdür yetkilidir.
+6.5.2 Taşınmaz cins tashihi
+Bina yıkım ve yapım işleminin gerçekleşmesini müteakip cins tashihinin yapılabilmesi için Bölge Müdürlüğü Satma 
+ve Satın Alma Komisyon kararına istinaden Yönetim Kurulundan yetki alınır.
+6.6 Yürürlükten kaldırılan mevzuat
+YAP.PR02 Doküman kodlu ve 16.07.2018 yayın tarihli Taşınmazların Yönetim Prosedürü yürürlükten 
+kaldırılmıştır.
+6.7 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi
+PTT’nin merkez ve taşra teşkilatındaki taşınmazları ile ilgili hizmet alımı, satış, kiraya verme, satın alma, kiralama, 
+taşınmaz ihaleleri, trampa, hibe, terk, ifraz, tevhit, ihdas, leh ve aleyhte rehin, ipotek, irtifak, intifa ve benzeri 
+işlemlerin teklifi esnasında istenilen evraklar, YAP.LS11 doküman kodlu Taşınmazların Yönetim Prosedürü Gerekli 
+Evrak Listesinde aşağıdaki gibi sıralanmıştır:
+Ek1:Taşınmaz satışı veya trampasına yönelik Bölge Müdürlüklerimizce düzenlenecek evrak listesi
+Ek2:Taşınmaz kiraya verilmesine yönelik Bölge Müdürlüklerimizce düzenlenecek evrak listesi
+Ek3:Taşınmaz satın alınmasına yönelik Bölge Müdürlüklerimizce düzenlenecek evrak listesi  
+Ek4:Taşınmaz kiralamasında Bölge Müdürlüklerimizce düzenlenecek evrak listesi          
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+13/14
+Ek5:Mülkiyeti hazine, belediye, hastane vb. yerlere ilişkin yapılacak kiralama evrak listesi                    
+Ek6:İhalesi gerçekleştirilip kiraya verilen ve satışı yapılan taşınmazlara ilişkin evrak listesi  
+Ek7: Bölge Müdürlüklerimizce düzenlenecek leyhte irtifak hakkı evrak listesi     
+Ek8: Bölge Müdürlüklerimizce düzenlenecek aleyhte irtifak hakkı evrak listesi  
+Ek 9: Terk (yol, yeşil alan, park vb.) işlemlerinde Bölge Müdürlüğünce düzenlenecek evrak listesi
+6.8 Aşağıda kodları verilen Referans Dokümanların içeriğinde, ihtiyaç duyulması halinde değişiklik yapılmasına 
+Genel Müdür yetkilidir. Genel Müdür tarafından gerek görülmesi halinde bu yetki Genel Müdür Yardımcısına 
+devredilebilir.
+YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi,
+YAP.FR120 PTT İdare Malı Taşınmaz Bilgi Formu,
+YAP.FR124 Kira Teklif Mektubu,
+YAP.FR128 Taşınmaz Satış Şartnamesi,
+YAP.FR129 Satış Teklif Mektubu,
+YAP.FR159 PTT Kiralanan, Kiraya Verilen, Tahsisli Taşınmaz Bilgi Formu,
+YAP.FR160 Taşınmaz Kiraya Verme İhale İlanı,
+YAP.FR161 Taşınmaz Kiraya Verme Şartnamesi,
+YAP.FR164 Taşınmazın Kiraya Verilmesine İlişkin Sözleşme,
+YAP.FR165 Taşınmaz Satış İhale İlanı.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.037-6098 sayılı Türk Borçlar Kanunu 
+KN.080-4721 sayılı Türk Medeni Kanunu
+KN.084-2644 sayılı Tapu Kanunu
+KN.085-3402 sayılı Kadastro Kanunu
+KN.086-3194 sayılı İmar Kanunu 
+SZL.005-PTT AŞ Esas Sözleşmesi
+YAP.FR120-PTT İdare Malı Taşınmaz Bilgi Formu 
+YAP.FR124-Kira Teklif Mektubu 
+YAP.FR128-Taşınmaz Satış Şartnamesi
+YAP.FR129-Satış Teklif Mektubu 
+YAP.FR159-PTT Kiralanan, Kiraya Verilen, Tahsisli Taşınmaz Bilgi Formu 
+YAP.FR160-Taşınmaz Kiraya Verme İhale İlanı 
+YAP.FR161-Taşınmaz Kiraya Verme Şartnamesi 
+YAP.FR164-Taşınmazın Kiraya Verilmesine İlişkin Sözleşme
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Doküman Adı
+PTT AŞ Taşınmazların Yönetimi Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+YAP.PR07
+İlk Yayım Tarihi
+5.10.2020
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+3
+Sayfa Sayısı
+14/14
+YAP.FR165-Taşınmaz Satış İhale İlanı 
+YAP.LS11-Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+3 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına ihtiyaç 
+duyulmuştur. 
+2 24.02.2023
+“Muhasebe Daire Başkanlığı”, “Emlak Müdürü”. “ PTT Merkez ” "A.Ş." 
+"İşyerleri" Şirketimiz tarafından kullanılmadığı ve değişikliğe uğradığından, bu 
+ibareler yeni şekli ile güncellenmiştir. 
+1 24.03.2022 Doğrudan satışı yapılabilecek kurumlara PTT Biriktirme Yardım Sandığı 
+eklenmiştir. 
+0 5.10.2020 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

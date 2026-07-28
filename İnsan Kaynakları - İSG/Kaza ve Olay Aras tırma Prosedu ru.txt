@@ -1,0 +1,255 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+İNSAN KAYNAKLARI 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Dokümanın Adı
+Kaza ve Olay Araştırma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR18
+İlk Yayım Tarihi
+14.07.2021
+Revizyon Tarihi
+3.01.2024
+Revizyon No
+2
+Sayfa Sayısı
+1/4
+1.AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’ne ait iş yerlerinde meydana gelen iş kazaları, 
+meslek hastalıkları, ramak kala olaylarının araştırılarak analizlerin yapılması olayların yeniden meydana gelmesinin 
+engellenmesi, yasal yükümlülüklere uyumun sağlanması ve istatistiksel verilerin toplanması ile ilgili usul ve esaslar 
+ile yetki ve sorumlulukları belirlemektir.
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nde yürütülen rutin ve rutin olmayan faaliyetlerinde veya iş 
+yerlerinde gerçekleşen ramak kala olayları ve iş kazaları ile ilgili usul ve esaslar dahilinde tüm birimleri ve 
+çalışanları kapsamaktadır.
+3.DAYANAK
+Bu prosedür, 6331 sayılı İş Sağlığı ve Güvenliği Kanunu Madde 14 – İş kazası ve meslek hastalıklarının kayıt ve 
+bildirimi maddesine dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1   Birim: Kurul, İştirakler Başkanlığı, Müşavirlik, Daire Başkanlığı, Birimleri, Başmüdürlükleri ifade eder.
+4.2 Birim Yöneticisi: Merkez teşkilatında Şube/Teknik Müdürleri, taşra teşkilatında ise Teknik Müdürleri/ 
+Müdürleri (İhtisas) ve PTT Müdürlerini ifade eder.
+4.3Çalışan Temsilcisi: İş sağlığı ve güvenliği ile ilgili çalışmalara katılma, çalışmaları izleme, tedbir alınmasını 
+isteme, tekliflerde bulunma ve benzeri konularda çalışanları temsil etmeye yetkili çalışandır.
+4.4 Düzeltici Faaliyet (DF): Saptanan bir uygunsuzluğun sebebini yok etmek için yapılan faaliyettir.
+4.5 EBYS: Elektronik Belge Yönetim Sistemidir.
+4.6 EYS Yazılımı: Şirket içerisinde yönetim sistemlerinin dokümantasyon ve işleyişinin yürütüldüğü yazılımdır.
+4.7İSG Kurulu: Taşra teşkilatında iş sağlığı ve güvenliği ile ilgili iş ve işlemleri yürütmek için kurulan iş sağlığı 
+ve güvenliği kuruludur.
+4.8İSG Şube Müdürlüğü: İş Sağlığı ve Güvenliği Şube Müdürlüğüdür.
+4.9İş Kazası: İş yerinde veya işin yürütümü nedeniyle meydana gelen, ölüme sebebiyet veren veya vücut 
+bütünlüğünü ruhen ya da bedenen engelli hâle getiren olayı ifade eder.
+4.10  İş Yeri Hekimi: İş sağlığı ve güvenliği alanında görev yapmak üzere iş yeri hekimliği belgesine sahip PTT ile 
+sözleşme imzalamış ve Bakanlıkça yetkilendirilmiş kişidir.
+4.11  İzleme: Gereken veya beklenen performans seviyesinden değişimi belirlemek için durumun sürekli kontrolü, 
+yönetilmesi, kritik olarak izlenmesi veya belirlenmesidir. Bir sistem süreç veya faaliyetin durumunun tayinidir.
+4.12  Kayıt: Delil teşkil edebilecek şekilde her türlü belge üzerinde ve elektronik ortamda yer alan bilgilerdir.
+4.13  Kaza Olay Araştırma Ekibi: İş kazası gerçekleştiğinde olay yerini inceleyen ekiptir, risk değerlendirme 
+ekibinde yer alan kişilerden oluşur.
+4.14  Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.15  Meslek Hastalığı: Mesleki risklere maruziyet sonucu ortaya çıkan hastalıktır.
+4.16 Ramak Kala Olay: İş yerinde meydana gelen çalışan, iş yeri ya da ekipmanını zarara uğratma potansiyeli 
+olduğu halde uğratmayan olaydır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+Kaza ve Olay Araştırma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR18
+İlk Yayım Tarihi
+14.07.2021
+Revizyon Tarihi
+3.01.2024
+Revizyon No
+2
+Sayfa Sayısı
+2/4
+4.17 SGK: Sosyal Güvenlik Kurumunu ifade eder.
+4.18Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.19 Sorumlu Birim: Hedefin gerçekleştirilmesi için çalışacak olan birimdir.
+4.20Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.21 Yüklenici Firma (Alt İşveren): PTT AŞ adına bir işi üstlenen firmayı ifade eder.
+5. SORUMLULUKLAR
+5.1 Bu prosedürün yönetilmesi İnsan Kaynakları Daire Başkanlığı’nın, uygulanması ise tüm personelin 
+sorumluluğundadır.
+5.2Bu prosedürle ilgili diğer sorumluluklar aşağıdaki gibidir;
+a) Tüm büyük ve küçük iş kazaları için İKD.FR69 İş Kazası Bildirim Formunun hazırlanarak yasal süre olan 3 (üç) 
+iş gününde SGK’ya bildirimde bulunulmasını teminen olaydan haberdar olunur olunmaz en kısa süre içinde İnsan 
+Kaynakları birimine gönderilmesinden iş yeri birim yöneticisi,
+b) Resmi Kurumlarla iletişimden ve kaza bildirimlerin yapılmasından Merkez Teşkilatında İnsan Kaynakları Daire 
+Başkanlığı, Taşra Teşkilatında İnsan Kaynakları ile ilgili hizmetleri yürütmekle sorumlu birimler,
+c) Kaza ve ramak kala olaylarına ilişkin araştırma ve incelemelerin yapılarak gerekli tedbirlerin alınması için İSG 
+Kuruluna sunulmasından Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İSG Şube Müdürlüğü, Taşra 
+Teşkilatında ise İnsan Kaynakları Müdürlüğü/Şefliği,
+ç)  İş yeri içerisinde iş kazası geçiren çalışana ilk müdahalenin yapılmasından ve hastaneye sevkinden varsa iş yeri 
+hekimi veya ilk yardım eğitimi almış personel ile ilgili birim amiri,
+d) Herhangi bir yangın durumu varsa yangının duyurulmasından tüm personel, itfaiye ekipleri olay yerine 
+ulaşıncaya kadar yangına müdahale edilmesinden yangın söndürme ekibi,
+e)İş kazaları ve ramak kala olayların değerlendirilmesinde, araştırılmasında Merkez Teşkilatında İnsan Kaynakları 
+Daire Başkanlığı İSG Şube Müdürlüğü, Taşra Teşkilatında ise İnsan Kaynakları Müdürlüğü/Şefliği,
+f) Kazaya ilişkin gelen bilgiler doğrultusunda İKD.FR69 Kaza Bildirim Formu’nun doldurulup EBYS üzerinden 
+ivedi olarak İnsan Kaynakları birimine iletilmesinden ilgili birim amiri, kazanın yasal süresi içerisinde SGK iş 
+kazası bildirim portalı üzerinden veya posta yoluyla/elden bildiriminin yapılmasından Merkez Teşkilatında İnsan 
+Kaynakları Daire Başkanlığı, Taşra Teşkilatında ise İnsan Kaynakları Müdürlükleri/Şeflikleri,
+g) Alt işveren çalışanlarının iş kazası yaşaması durumunda kazanın SGK’ya bildirimi ilgili firma tarafından yapılır. 
+Ancak iş kazalarının EYS Yazılımına kaydedilmesi ve bildirimin yapılıp yapılmadığının kontrolü kazanın yaşandığı 
+iş yerinin birim amiri,
+ğ) Hazırlanan iş kazası istatistik ve raporlamalarını Üst Yönetime sunulmasından Merkez Teşkilatında İnsan 
+Kaynakları Daire Başkanlığı, Taşra Teşkilatında İnsan Kaynakları Müdürlükleri/Şeflikleri, sorumludur.
+6. UYGULAMA
+6.1İş Kazası ve Olay Araştırma
+6.1.1 Genel
+Birim Yöneticisi ve iş kazalarına anında ivedi olarak aşağıdaki aksiyon planına göre hareket eder ve daha sonra kaza 
+araştırmasına devam eder.
+6.1.2 Kaza Müdahale Planı
+Kaza haberi alınır alınmaz kazanın durumuna ve Acil Durum Eylem Planına göre;
+6.1.2.1 Yaralıya varsa iş yeri hekimi veya ilk yardım eğitimi almış çalışan tarafından ilk müdahale (ilk yardım) 
+yapılır. İhtiyaç duyulması halinde sağlık ekipleri (112) çağırılır. Kolluk Kuvvetlerine (112) derhal haber verilir. Olay 
+yeri gerekli araştırma ve incelemelerin yapılması için güvenlik çemberine alınır. Ekip olay yerine ulaşana kadar 
+yaralı gözetim altında tutulur. Ekibin olay yerine ulaşmasıyla hastanın durumu ekibe iletilir ve hastanın durumu 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+Kaza ve Olay Araştırma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR18
+İlk Yayım Tarihi
+14.07.2021
+Revizyon Tarihi
+3.01.2024
+Revizyon No
+2
+Sayfa Sayısı
+3/4
+ekibe iletilir ve hastanın sevki sağlanır.
+6.1.2.2Olay mahalli güvenli hale getirildikten sonra fotoğrafları çekilir.
+6.1.2.3İş kazası ve ramak kala olaylar EYS Yazılımına kaydedilerek istatistiksel verilerin tutulması sağlanır.
+6.1.2.4 Kaza/ramak kala olay araştırması sonucunda gerekli görülürse EYS.PR02 Düzeltici Faaliyet Prosedürü’ne 
+göre faaliyet başlatılır.
+6.1.3 Raporlama
+6.1.3.1 Öneri ve Tespit Raporlaması
+Personelden iş yeri birim yöneticisine ya da çalışan temsilcisine iletilen iş sağlığı ve güvenliği ile ilgili öneri ve 
+tespitler ilgili kişi tarafından İSG Kuruluna sunulur.
+6.1.3.2 Ramak Kala Olayların Raporlanması
+Ramak kala olayı ile karşılaşan tüm personel EYS Yazılımı üzerinden ramak kala bildirimini yapar. Merkez 
+Teşkilatında İnsan Kaynakları Daire Başkanlığı İSG Şube Müdürlüğüne Taşra Teşkilatında ise İnsan Kaynakları 
+Müdürlüğü/Şefliğine gelen raporlar İSG Kuruluna sunulur. Kurul tarafından yapılan değerlendirme sonucunda 
+gerekli tedbirler alınır. Kurulun değerlendirilmesi sonucunda düzeltici faaliyet başlatma ihtiyacı doğarsa EYS.PR02 
+Düzeltici Faaliyet Prosedürü’ne göre süreç yönetilir.
+6.1.3.3İş Kazasının Raporlanması
+6.1.3.3.1 İKD.FR69 İş Kazası Bildirim Formu yasal olarak doldurulması gereken bir formdur. İş Kazası Bildirimi 
+bu form üzerinden İnsan Kaynakları tarafından SGK’nın portalı (E- Bildirim) kullanılarak yapılır veya SGK’ya 
+posta yoluyla/elden iletilir.
+6.1.3.3.2 İKD.FR69 İş Kazası Bildirim Formunun doldurulması ve İnsan Kaynaklarına iletilmesi çalışanın bağlı 
+bulunduğu iş yeri birim yöneticisi tarafından yapılır. Formun özellikle “İş Kazası Bilgileri” kısmının eksiksiz olarak 
+doldurulması gerekmektedir.
+6.1.3.3.3 Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İSG Şube Müdürlüğü Taşra Teşkilatında ise İnsan 
+Kaynakları Müdürlüğü/Şefliği; gelen iş kazası bildirimini değerlendirir, büyük iş kazalarında ve gerekli gördüğü 
+hallerde iş kazası araştırması için olay mahalline gider, hazırlanan rapor toplantı gündemine alınmak üzere ISG 
+Kuruluna sunulur.
+6.1.3.3.4 Raporların kurul tarafından değerlendirilmesi sonucunda çalışanların kaza sebepleri ve benzer kazalardan 
+korunması ile ilgili eğitim ihtiyacına karar verilirse gerekli eğitimler EGT.PR01 Eğitim Prosedürü’ne göre Eğitim 
+Daire Başkanlığı tarafından gerçekleştirilir.
+6.1.3.3.5 Kurulun değerlendirilmesi sonucunda düzeltici faaliyet başlatma ihtiyacı doğarsa EYS.PR02 Düzeltici 
+Faaliyet Prosedürü’ne göre süreç yönetilir. Benzeri olayların tekrarını engellemek için faaliyet başlatılır. Olay 
+sonrası PTT AŞ’ye ait tüm birimlerin bilgilendirilmesi olay, olayın sebebi ve olayın tekrar yaşanmaması için 
+alınması gereken tedbirleri içerecek şekilde EBYS üzerinden Merkez Teşkilatında İnsan Kaynakları Daire 
+Başkanlığı İSG Şube Müdürlüğü, Taşra Teşkilatında ise İnsan Kaynakları Müdürlüğü/Şefliği tarafından yapılır.
+6.1.3.3.6 İKD.FR69 İş Kazası Bildirim Formları doldurulduktan sonra EYS.PR20 EYS Risk ve Fırsatların Yönetimi 
+Prosedürü’ne göre risk değerlendirmesi revize edilebilir ya da yeniden yapılır. 
+6.1.3.3.7Olaydan etkilenen taşeron, ziyaretçi, stajyer, müşteri vb. olsa dahi yukarıdaki işlemlerin SGK’ya kazanın 
+raporlanması hariç, tamamı uygulanır.
+6.1.4 Kaza/Olay Araştırması
+6.1.4.1 İş kazası, ramak kala ve meslek hastalığının kök sebeplerinin belirlenmesi için olay araştırma ekibi kurulur 
+ve bu ekip tarafından detaylı olay araştırması yapılır.
+6.1.4.2 Detaylı kaza/olay araştırması İKD.FR70 Kaza Olay Araştırma ve İnceleme Raporu düzenlenerek yapılır. Bu 
+form Merkez Teşkilatında İnsan Kaynakları Daire Başkanlığı İSG Şube Müdürlüğü Taşra Teşkilatında ise İnsan 
+Kaynakları Müdürlüğü/Şefliği tarafından kayıt altına alınır ve muhafaza edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+Kaza ve Olay Araştırma Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+İKD.PR18
+İlk Yayım Tarihi
+14.07.2021
+Revizyon Tarihi
+3.01.2024
+Revizyon No
+2
+Sayfa Sayısı
+4/4
+6.2 Meslek Hastalığı
+Çalışanın yaptığı işin niteliğinden dolayı tekrarlanan bir sebeple veya işin yürütüm şartları yüzünden uğradığı geçici 
+veya sürekli hastalık, bedensel veya ruhsal engellilik halleridir. Çalışan meslek hastalığı şüphesi bulunması halinde; 
+6.2.1 Varsa iş yeri hekimince yetkili sağlık hizmet sunucularına yönlendirilir.
+6.2.2 Şirket mesleki risklerin önlenmesi eğitim ve bilgi verilmesi dâhil her türlü tedbirin alınması, organizasyonun 
+yapılması, gerekli araç ve gereçlerin sağlanması, sağlık ve güvenlik tedbirlerinin değişen şartlara uygun hale 
+getirilmesi, mevcut durumun iyileştirilmesi için çalışmalar yapar.
+6.2.3 Yetkili kuruluşlarca meslek hastalığı tanısı konulan çalışanın bilgileri Merkez Teşkilatında İnsan Kaynakları 
+Daire Başkanlığı İSG Müdürlüğü, Taşra Teşkilatında İnsan Kaynakları Müdürlüğü/Şefliğince EYS Yazılımında yer 
+alan Olay Bildirim modülüne kaydedilir.
+6.2.4 Yetkili kuruluşların meslek hastalığı teşhisi ile ilgili istediği dokümanlar, Şirket tarafından ilgili kuruluşlara 
+temin edilir.
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+EGT.PR01-Eğitim Prosedürü
+EYS.PR02-Düzeltici Faaliyet Prosedürü
+EYS.PR20-EYS Risk ve Fırsatların Yönetimi Prosedürü
+İKD.FR69-İş Kazası Bildirim Formu
+İKD.FR70-Kaza Olay Araştırma ve İnceleme Raporu
+KN.022-6331 Sayılı İş Sağlığı Ve Güvenliği Kanunu
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+2 3.01.2024
+Prosedürde yer almayan tanımların çıkarılması, İSGYS Şube 
+Müdürlüğü ve İSG Şube Müdürlüğünün ayrılması, yazım 
+hatalarının düzeltilmesi amacıyla prosedür revize edilmiştir. 
+1 23.03.2022 İKD.PR20 dokümanı revize edilmesi sonucu revizyon yapılmıştır. 
+0 14.07.2021 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

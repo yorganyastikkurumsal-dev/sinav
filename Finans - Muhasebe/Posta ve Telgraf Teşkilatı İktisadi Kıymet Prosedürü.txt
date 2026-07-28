@@ -1,0 +1,477 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+FİNANS VE MUHASEBE 
+BAŞKANLIĞI BAŞKAN
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/8
+1.AMAÇ
+Posta ve Telgraf Teşkilatı Anonim Şirketi bünyesinde kullanılacak iktisadi kıymetin temini, kayıtlara alınması, 
+takibi, nakli, kullanıma verilmesi, bakımı, kayıtlardan çıkarılması ve bunlarla ilgili diğer işlemlerin yürütülmesini 
+sağlamaktır.
+2.KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketinde kullanılan iktisadi kıymetler ile ilgili iş ve işlemleri 
+kapsar.
+3.DAYANAK
+Bu prosedür, 213 sayılı Vergi Usul Kanunu, 193 sayılı Gelir Vergisi Kanunu, 5520 sayılı Kurumlar Vergisi 
+Kanunu, 3065 sayılı Katma Değer Vergisi Kanunu ve Genel Tebliğleri ile Posta ve Telgraf Teşkilatı Anonim Şirketi 
+tarafından yayımlanan ilgili prosedürler dayanak alınarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Acente: Belirli bir komisyon karşılığında Posta ve Telgraf Teşkilatı Anonim Şirketi adına görev yapan gerçek 
+ya da tüzel kişidir.
+4.2 Amortisman: Bir yıldan fazla kullanılan, yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan 
+iktisadi kıymetin değerinin 213 sayılı Vergi Usul Kanunu ve Genel Tebliğleri hükümlerine göre gider 
+kaydedilmesidir.
+4.3 Birikmiş Amortisman: İktisadi kıymetin, kullanılabileceği süre içerisinde ilgili dönemlerde gider kayıtlanan 
+toplam tutarıdır.
+4.4 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.5 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim 
+Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür.
+4.6 Değer Tespit Komisyonu: İktisadi kıymetin emsal veya rayiç bedelini tespit eden 1 (bir) başkan ve en az 2 
+(iki) üyeden oluşan komisyondur.
+4.7 Değerleme: İktisadi kıymetin bedelinin takdir ve tespitidir.
+4.8 Değerleme Günü: İktisadi kıymete değerleme işleminin yapıldığı tarihtir.
+4.9 Demirbaş Eşya: 213 sayılı Vergi Usul Kanunu Genel Tebliğ eki liste ile belirlenen fatura düzenleme tutarını 
+aşmayan ve belli bir süreye tâbi olmaksızın uzun süre kullanılabilen amortismana tabi olmayan iktisadi 
+kıymetlerdir. 
+4.10 Envanter Kaydı: Belirli bir tarihe ilişkin borç, alacak ve varlıkların miktarlarının, donanımlar için seri 
+numaralarının ve değerlerinin sayım, kontrol ve düzeltme yapılarak saptanmasıdır.
+4.11 Emsal Bedel: Gerçek bedeli bilinmeyen veya doğru olarak tespit edilemeyen iktisadi kıymetin, değerleme 
+gününde emsaline nazaran haiz olacağı değerdir.
+4.12 Faydalı Ömür: Amortisman ve Tükenme Payı Süre ve Oranları Listesi ile tespit ve ilan edilen, iktisadi 
+kıymetin kullanılabileceği ve faydalanılabileceği beklenen süredir.
+4.13 Hibe: Bir bedel veya başkaca bir karşılık alınmaksızın iktisadi kıymetin, malın, hizmetin veya nakdin 
+mülkiyetinin başkasına devredilmesidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/8
+4.14 Hurda: Teknik ve fiziki nedenlerle alınış amaçları doğrultusunda kullanılma imkânı kalmayan, tamiri 
+mümkün olmayan veya bakım onarım masraflarının karşılanmasının ekonomik olmadığı arızalar nedeniyle 
+kullanılmasında yarar görülmeyen iktisadi kıymetin hizmet dışı bırakılmasıdır.
+4.15 İdari/Teknik Heyet: Hurdaya ayrılması veya terkin edilmesi gereken iktisadi kıymetin niteliğine göre ilgili 
+ihtisas biriminin üst yöneticisi tarafından görevlendirilen ekiptir.
+4.16 İktisadi Kıymet: Tek Düzen Hesap Planına göre Şirket kayıtlarında bulunan maddi ve maddi olmayan duran 
+varlıklar ile nazım hesaplarda takip edilen demirbaş eşya niteliğinde olan kıymetlerdir.
+4.17 İz Bedeli: Faydalı ömrünü tamamladığı halde fiilen kullanılmasına devam edilen iktisadi kıymetin, maliyet 
+bedeli ile birikmiş amortismanı arasındaki en düşük (0,01 TL) tutardır.
+4.18 Limit: 213 sayılı Vergi Usul Kanunu Genel Tebliğ eki liste ile belirlenen fatura düzenleme tutarı ve iktisadi 
+kıymet alt sınırıdır.
+4.19 Maddi Duran Varlık: Mal veya hizmet üretimi veya arzında kullanılmak, başkalarına kiraya verilmek veya 
+idari amaçlar çerçevesinde kullanılmak üzere temin edilen ve tahmini kullanma süresi bir yıldan fazla olan, değeri 
+limit ve limit üstünde olan fiziki varlıklardır.
+4.20 Maddi Olmayan Duran Varlık: Fiziksel niteliği bulunmayan ve belli bir şekilde yararlanılan veya 
+yararlanılmayı bekleyen aktifleştirilen giderler ile belli koşullar altında hukuken himaye gören değeri limit ve limit 
+üstünde olan varlıklardır.
+4.21 Maliyet Bedeli: İktisadi kıymetin elde edilmesi, kullanıma hazır hale gelmesi ve değerinin artırılması 
+nedeniyle yapılan harcamalar ile bunlara ilişkin tüm giderlerin toplamıdır.
+4.22 Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.23 Muhasebe Birimi: Merkez Teşkilatında Finans ve Muhasebe Başkanlığı, Taşra Teşkilatında Finans ve 
+Muhasebe Müdürlükleridir.
+4.24 Net Bedel: Amortismana tabi iktisadi kıymetin maliyet bedelinden, o iktisadi kıymet için ayrılan birikmiş 
+amortismanın düşülmesinden sonra kalan bedeldir.
+4.25 Olağanüstü Amortisman: Amortismana tâbi olup yangın, deprem, su basması gibi afetler neticesinde 
+değerini tamamen veya kısmen kaybeden, yeni icatlar dolayısıyla teknik verim ve kıymetleri düşerek tamamen veya 
+kısmen kullanılmaz hale gelen, cebri çalışma nedeniyle normalden fazla aşınma ve yıpranmaya maruz kalan iktisadi 
+kıymete uygulanan amortisman yöntemidir. 
+4.26 Ödenek: Posta ve Telgraf Teşkilatı Anonim Şirketi faaliyetlerinin gerçekleştirilmesi için ayrılan, önceden 
+hesaplanarak bütçeye konulan paradır.
+4.27 Rayiç Bedel: İktisadi kıymetin değerleme günündeki normal alım satım değeridir.
+4.28 Sicil Kartı: Posta ve Telgraf Teşkilatı Anonim Şirketi kayıtlarında bulunan iktisadi kıymetlere ilişkin 
+bilgilerin detaylı olarak kaydedildiği elektronik ortamda oluşturulan kartlardır.
+4.29 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.30 Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.31 Terkin: Kayıtlarda mevcut iken varlığı çeşitli nedenlerle zarar gören, kullanılmaz hale gelen, kaybolan veya 
+çalınan iktisadi kıymetin kayıtlardan çıkarılmasıdır.
+4.32 Trampa: İktisadi kıymetin karşılıklı olarak el değiştirilmesidir.
+4.33 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/8
+5.SORUMLULUKLAR
+5.1 Birim Üst Yöneticisi: Biriminde bulunan iktisadi kıymetlerle ilgili iş ve işlemlerin prosedür hükümlerine uygun 
+olarak yürütülmesini sağlamaktan sorumludur.
+5.2 Değer Tespit Komisyonu: Gerektiği durumlarda piyasa bedelleri, yıpranma dereceleri vb. hususları gözeterek 
+iktisadi kıymetin değerini tespit etmekle sorumludur.
+5.3 Finans ve Muhasebe Başkanlığı: Bu prosedürün hazırlanması, uygulanması ve yönetiminden, iktisadi 
+kıymetlerin muhasebe işlemleri ve ödeneklerinin takibinden, hurdaya ayrılacak ve terkin edilecek amortismana tabi 
+iktisadi kıymetlerin Yönetim Kuruluna sunulmasından sorumludur.
+5.4 Genel Müdür: Prosedürün yürütmesinden Genel Müdür sorumludur.
+5.5 İdari/Teknik Heyet: Hurdaya ayrılması gereken veya terkin edilecek iktisadi kıymetlere ilişkin rapor 
+düzenlemekten sorumludur.
+5.6 Yönetim Kurulu: Bu prosedürün onaylanmasından, amortismana tabi iktisadi kıymetlerin hurdaya ayrılma ve 
+terkin edilmesi için gerekli onayın verilmesinden sorumludur.
+5.7 Bu prosedürün uygulanmasından ilgili personel sorumludur.
+6.UYGULAMA
+6.1 İktisadi Kıymetler
+İktisadi kıymetlerden; maddi ve maddi olmayan duran varlıklar Tek Düzen Hesap Planında 25 ve 26, bunlara ilişkin 
+amortismanlar 257 ve 268 hesap grubunun altında, demirbaş eşya niteliğinde olanlar ise 9 grubundaki ilgili nazım 
+hesaplarda takip edilir.
+6.1.1 Maddi Duran Varlıklar
+6.1.1.1 250 Arazi ve Arsalar
+PTT AŞ’nin aktifine kayıtlı her türlü arazi ve arsalar ile bunlardan tahsise konu edilen toprak parçalarıdır.
+6.1.1.2 251 Yeraltı ve Yerüstü Düzenleri
+Herhangi bir işin gerçekleşmesini sağlamak veya kolaylaştırmak amacıyla, yeraltında veya yerüstünde inşa edilmiş 
+her türlü tünel, yol, köprü, bölme, iskele vb. yapılardır.
+6.1.1.3 252 Binalar
+Yapıldığı malzeme ve yapılış amacına göre hizmet veren ve tesisatlarından ayrı olarak düşünülemeyen daimî veya 
+geçici yapılardır. Bir temel üzerine inşa edilmiş bütünü ile tek bir kitle meydana getiren her bina çeşitli bölümleri 
+kapsasa dahi; bir birim kabul edilir.
+6.1.1.4 253 Tesis, Makine ve Cihazlar
+PTT AŞ faaliyetlerinin yürütülmesinde kullanılan her türlü makine, tesis ve cihazlar ile bunların eklentileri ve bu 
+amaçla kullanılan taşıma gereçleridir.
+6.1.1.5 254 Taşıtlar
+Yolcu ve yük taşımacılığında kullanılanlar ile özel amaçlı kullanımlar için muhtelif cihazlarla donatılmış bulunan 
+her türlü araçları ifade eder.
+6.1.1.6 255 Döşeme ve Mefruşat
+PTT AŞ faaliyetlerinin yürütülmesinde kullanılan her türlü büro teçhizatları ile döşeme, masa, koltuk, dolap, 
+mobilya gibi varlıklardır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/8
+6.1.1.7 256 Diğer Maddi Duran Varlıklar
+Yukarıda belirtilen maddi duran varlıkların kapsamına girmeyen, özellikle kendi bölümlerinde tanımlanmayan 
+maddi duran varlıklardır.
+6.1.2 Maddi Olmayan Duran Varlıklar
+6.1.2.1 264 Özel Maliyetler (Kiralık Binalar)
+Kiralanan binalara değişiklik, ilave vb. sebeplerle yapılan maliyetler, bu bölümde yer alır.
+6.1.2.2 265 Yazılım
+Faaliyetlerin yürütülmesine yardımcı olarak kullanılan programlar bu bölümde yer alır.
+6.1.3 Demirbaş Eşya
+Amortismana tabi tutulmayıp doğrudan gider yazılarak maliyet bedeli ile nazım hesaplarda takip edilen iktisadi 
+kıymetlerdir.
+6.2 Genel Hükümler
+6.2.1 İktisadi kıymetin muhasebe işlemleri ve ödeneklerinin takibi Muhasebe Birimleri tarafından yürütülür.
+6.2.2 İktisadi kıymet, kayıtlı olduğu birim ve hesaba göre; takip eden sicil numarası verilerek elektronik ortamda 
+oluşturulan tek bir sicil kartı ile takip edilir. Her bir sicil numarası sadece bir iktisadi kıymeti temsil eder. 
+Donanımlarda seri numarası da sicil kartına işlenir. Herhangi bir nedenle kayıtlardan çıkarılmış olsa dahi iktisadi 
+kıymete verilen sicil numarası diğerine verilemez.
+6.2.3 Arazi, arsa ve binaların tapu senetleri, envanter kayıtlarının bulunduğu yerde muhafaza edilir, tapu senetlerinin 
+takibi nazım hesaplarda yapılır.
+6.2.4 Taşıta ait motorlu taşıt sicil kartı, trafik ve tescil belgeleri, sigorta poliçe örnekleri, bakım ve onarım bilgileri, 
+lastik ve akü takip kartı, motorlu taşıtlar vergisi ödeme belgeleri, muayene işlemleri ve taşıtla ilgili diğer iş ve 
+işlemlere ilişkin belgelerin yer aldığı her bir taşıt için ayrı açılacak olan sicil dosyaları, taşıtların çalıştırıldığı ilgili 
+ihtisas birimince dijital ortamda Araç Takip Sistemine (ATS) kaydedilerek muhafaza edilir.
+6.3 Edinim
+6.3.1 İktisadi kıymet satın alma, inşa, imal, devir, hibe, trampa, promosyon veya başka bir şekilde bedelli veya 
+bedelsiz olarak edinilebilir.
+6.3.2 Edinilen iktisadi kıymet maliyet bedeli ile hesaplara alınır. İktisadi kıymetin elde edilmesi ve işler hale 
+getirilmesi için yapılan her türlü giderler (faiz ve kur farkları dahil) maliyet bedeli olarak kabul edilir. Edinim 
+şekline göre 6.3.12.1 madde kapsamında tespit edilen emsal/rayiç bedel, maliyet bedeli olarak kabul edilir.
+6.3.3 Kullanımdaki iktisadi kıymete (ilk defa iktisap edilenler hariç) ait bakım-onarım harcamaları, ilgili gider 
+hesaplarından karşılanır.
+6.3.4 Amortismana tabi iktisadi kıymet ile arazi ve arsaların değerini veya kullanım süresini arttıracak nitelikteki 
+harcamalar, yapılmakta olan yatırımlar hesabından geçirilerek iktisadi kıymetin maliyetine ilave edilir.
+6.3.5 Bedelsiz edinimler, iktisadi kıymetin nakli nedeniyle edinimler ve iktisadi kıymetin bedel tashihleri için 
+ödenek şartı aranmaz.
+6.3.6 Satın Alma
+6.3.6.1 Amortismana tabi iktisadi kıymet ve bedeli limit üstünde amortismana tabi olmayan iktisadi kıymetin satın 
+alınması, yıllık yatırım programı kapsamında belirlenen ödeneğe dayanılarak PTT AŞ’nin tabi olduğu alım 
+mevzuatları çerçevesinde gerçekleştirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/8
+6.3.6.2 Yıllık program haricinde yapılacak satın alımlar, Yönetim Kurulunca onaylanan “İhale Yetkilisi, Sözleşme 
+İmzalama Yetkilisi ve Yetki Devri ile Parasal Yetki Sınırları” hükümleri kapsamında ilgili Makamın Onayı ile 
+gerçekleştirilir.
+6.3.6.3 Bedeli limit altında olan amortismana tabi olmayan iktisadi kıymetin satın alınması, Stok-Mübayaa programı 
+kapsamında PTT AŞ’nin tabi olduğu alım mevzuatları çerçevesinde gerçekleştirilir.
+6.3.6.4 Bedeli limitin altında olan amortismana tabi iktisadi kıymetin Stok-Mübayaa veya yatırım programı 
+kapsamında satın alınması durumunda, amortismana tabi olmayan iktisadi kıymet kapsamında değerlendirilerek 
+muhasebe kayıtlarına alınır. 
+6.3.7 Amortisman İşlemleri
+6.3.7.1 Amortisman, Hazine ve Maliye Bakanlığı tarafından her yıl güncellenen Amortisman ve Tükenme Payı Süre 
+ve Oranları Listesi ile tespit ve ilan edilen faydalı ömürler ve amortisman oranları dikkate alınarak 213 sayılı Vergi 
+Usul Kanunu ve Genel Tebliğleri hükümlerine göre Şirketimizce belirlenen amortisman ayırma yöntemi dahilinde 
+hesaplanır.
+6.3.7.2 Arsa ve araziler hariç diğer maddi duran varlıklar ve maddi olmayan duran varlıklar amortismana tabidir.
+6.3.7.3 Amortismana tabi iktisadi kıymet için belirlenen amortisman oranı, oran değişse dahi o iktisadi kıymet 
+kendini amorti edene kadar değiştirilemez, başka bir orana tabi tutulamaz.
+6.3.7.4 Amortisman süresi, amortismana tabi olan iktisadi kıymetin aktife girdiği yıldan başlar. Net bedel, iz 
+bedeline düşene kadar amortisman ayrılmasına devam edilir.
+6.3.7.5 Amortismana tabi iktisadi kıymete, yılın son gününde aktife girmiş olsa dahi binek otomobiller hariç o yıla 
+isabet eden amortisman oranı tam olarak uygulanır. Binek otomobillere, aktife girdiği hesap dönemi için ay kesri 
+tam ay sayılmak suretiyle kalan ay süresi kadar kıst amortisman uygulanır.
+6.3.7.6 213 sayılı Vergi Usul Kanunu’nun 278 ve 317’nci maddeleri kapsamına giren iktisadi kıymet, olağanüstü 
+amortismana tabi tutulabilir veya SAT.PR01 Dahili Sigorta İşlemleri Prosedürü kapsamında işlem tesis ettirilebilir.
+6.3.7.7 Olağanüstü amortisman ayrılmak suretiyle işlem tesis edilmesi durumunda; mahalli mülki amirlikler 
+vasıtasıyla tespit yaptırılarak vergi dairesi, defterdarlık veya Merkez Teşkilatı aracılığı ile afetin meydana geldiği yıl 
+içerisinde konu Hazine ve Maliye Bakanlığına intikal ettirilerek izin alınır. Alınan izin doğrultusunda net bedel gider 
+olarak kaydedilir.
+6.3.7.8 Kendini amorti etmiş ve kullanılır durumda olan iktisadi kıymet ambara iade edilmez, ilgili hesap grubunda 
+takibine devam edilir.
+6.3.7.9 Limit altında kalan ve kullanılmaya devam eden kendini amorti etmiş iktisadi kıymetin nazım hesaplara 
+aktarma işlemleri Finans ve Muhasebe Başkanlığı tebliğine göre yapılır.
+6.3.8 Nakil İşlemleri
+6.3.8.1 Amortismana tabi iktisadi kıymetin başka bir birime nakli için; Merkez Teşkilatında gönderen birimin üst 
+yöneticisinden, Taşra Teşkilatında ise gönderen Bölge Müdürünün teklifi ile Merkez Teşkilatındaki ilgili ihtisas 
+birimi üst yöneticisinden onay alınır.
+6.3.8.2 Demirbaş eşyanın başka bir birime nakli için; gönderen birimin üst yöneticisinden onay alınır.
+6.3.8.3 Amortismana tabi iktisadi kıymetin maliyet bedeli ile birikmiş amortismanı gönderildiği yere ayrı ayrı, 
+demirbaş eşya ise iz bedeli üzerinden gönderildiği yere dekont edilir.
+6.3.8.4 Nakli yapılan iktisadi kıymete ilişkin ilgili birimin uygun görüş yazısı, sicil kartı ve FMB.FR11 İktisadi 
+Kıymet Teslim Tutanağı Muhasebe Birimine gönderilir.
+6.3.8.5 Nakil işlemine ilişkin varsa nakliye ve diğer giderler iktisadi kıymeti alan birim tarafından ulaştırma 
+giderlerine kaydedilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/8
+6.3.8.6 Ambara iade edilmesi gereken demirbaş eşya, gönderen birim tarafından ilgili nazım hesaplardan düşümü 
+yapılarak iz bedeli ile stok hesabına alınarak gelir kaydedilir.
+6.3.9 Elden Çıkarma İşlemleri
+6.3.9.1 Satış İşlemleri
+6.3.9.1.1 Taşınmaz mal ile Makine ve Kimya Enstitüsü Kurumuna yapılan hurda satışları haricinde kalan taşınır 
+iktisadi kıymetlerin satış işlemleri, SAT.PR03 Satış İşlemleri Prosedürü’ne göre yürütülür.
+6.3.9.1.2 Taşınmaz mal satışları YAP.PR07 PTT AŞ Taşınmazların Yönetimi Prosedürü’ne göre gerçekleştirilir.
+6.3.9.1.3 Hizmetin yürütülmesine yönelik olarak personelin kullanımına verilen cep telefonları, Genel Müdür Oluru 
+ile personele satılabilir.
+6.3.9.2 Hurdaya Ayırma İşlemleri
+6.3.9.2.1 Hurdaya ayrılacak iktisadi kıymetin niteliğine göre ilgili ihtisas biriminin üst yöneticisi tarafından 
+görevlendirilen teknik veya idari heyetçe rapor düzenlenir. Makineler, cihazlar ve taşıtlar için ayrıca, düzenlenen 
+rapor ibraz edilerek Merkez Teşkilatındaki ilgili ihtisas biriminden uygunluk alınır.
+6.3.9.2.2 Hurdaya ayrılacak amortismana tabi iktisadi kıymetler, Yönetim Kurulundan Onay alınmak üzere ekim ayı 
+sonuna kadar Finans ve Muhasebe Başkanlığına bildirilir.
+6.3.9.2.3 Finans ve Muhasebe Başkanlığı tarafından her yıl aralık ayı içinde hurdaya ayrılacak amortismana tabi 
+iktisadi kıymetler Yönetim Kurulunun Onayına sunulur.
+6.3.9.2.4 Demirbaş eşyanın hurdaya ayırma yetkisi, kullanıldığı birimin üst yöneticisindedir.
+6.3.9.2.5 Onay alınmasını müteakip iktisadi kıymet hurda olarak kayıtlardan düşülerek iz bedeli üzerinden ilgili stok 
+hesaplarına alınır.
+6.3.9.2.6 Hurdaya ayrılan iktisadi kıymetin (taşıt, silah vb.) ilgili kurumlardaki tescil kayıtları sildirilir.
+6.3.9.3 Terkin İşlemleri
+6.3.9.3.1 Terkin edilecek iktisadi kıymetin niteliğine göre ilgili ihtisas biriminin üst yöneticisi tarafından 
+görevlendirilen teknik veya idari heyetçe rapor düzenlenir. Makineler, cihazlar ve taşıtlar için ayrıca, düzenlenen 
+rapor ibraz edilerek Merkez Teşkilatındaki ilgili ihtisas biriminden uygunluk alınır.
+6.3.9.3.2 Terkin edilecek amortismana tabi iktisadi kıymetler, Yönetim Kurulundan Onay alınmak üzere ekim ayı 
+sonuna kadar Finans ve Muhasebe Başkanlığına bildirilir.
+6.3.9.3.3 Finans ve Muhasebe Başkanlığı tarafından her yıl aralık ayı içinde terkin edilecek amortismana tabi 
+iktisadi kıymetler Yönetim Kurulu Onayına sunulur.
+6.3.9.3.4 Demirbaş eşyanın terkin etme yetkisi, kullanıldığı birimin üst yöneticisindedir.
+6.3.9.3.5 Onay alınmasını müteakip terkin edilen amortismana tabi iktisadi kıymetin net bedeli zarar kaydedilmek 
+suretiyle, demirbaş eşya ise nazım hesaplardan düşülmek suretiyle muhasebe kayıtlarından çıkarılır.
+6.3.9.3.6 Çalınan iktisadi kıymet için SAT.PR01 Dahili Sigorta İşlemleri Prosedürü hükümleri uygulanır.
+6.3.9.3.7 Personelin zimmetinde iken kaybolan iktisadi kıymetin; personelin kasıt, ihmal ve tedbirsizliğinden 
+kaynaklanmadığının tespit edilmesi halinde terkin işlemi uygulanarak kayıtlardan çıkarılması sağlanır.
+6.3.9.3.8 Yangın, deprem, su basması gibi afetler nedeniyle terkin edilmesi gereken amortismana tabi iktisadi 
+kıymetler için 6.3.7.6 maddeye göre işlem tesis ettirilir.
+6.3.9.3.9 Yangın, sel, deprem gibi afetler nedeniyle yok olan demirbaş eşya, değer tespit komisyonu tarafından bu 
+hususta düzenlenen belgeye istinaden Birim Üst Yöneticisinin onayı doğrultusunda nazım hesaplarından çıkarılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/8
+6.3.10 Sayımlar
+6.3.10.1 Her yıl sonunda iktisadi kıymetlerin sayımı; sayım heyetleri tarafından Finans ve Muhasebe Başkanlığı 
+tebliği hükümleri gereğince yapılır.
+6.3.10.2 Gerekli görülen hallerde denetim elemanları ile kontrolörler veya görevlendirilenler, sayım yapabilir.
+6.3.10.3 Sayım Fazlalık ve Noksanlıkları
+6.3.10.3.1 Sayım sonucunda fazla veya noksan olduğu tespit edilen iktisadi kıymet, sayım için doldurulan 
+FMB.LS05 İktisadi Kıymet Listesi’nde belirtilerek tutanak altına alınır.
+6.3.10.3.2 Noksanlık nedeninin, kendilerine iktisadi kıymet verilenler ve kullananların kasıt, ihmal ve 
+tedbirsizliğinden kaynaklandığının tespit edilmesi halinde; iktisadi kıymetin, 6.3.12.1 madde kapsamında değer 
+tespit komisyonu tarafından bu tarihte tespit edilecek emsal veya rayiç bedeli, ilgili personelden defaten tahsil edilir.
+6.3.10.3.3 Noksanlık nedeninin, kendilerine iktisadi kıymet verilenler ve kullananların kasıt, ihmal ve 
+tedbirsizliğinden kaynaklanmadığı veya tüm araştırmalara rağmen noksanlık nedeninin tespit edilemediği 
+durumlarda; terkin işlemi uygulanır.
+6.3.10.3.4 Sayım fazlalığı olması halinde; fazlalığın nedeni araştırılır. Nedeni tespit edilemediği durumlarda; iktisadi 
+kıymet, 6.3.12.1 madde kapsamında değer tespit komisyonu tarafından bu tarihte tespit edilecek emsal veya rayiç 
+bedeli üzerinden kayıtlara alınır.
+6.3.11 Sorumluluk
+6.3.11.1 İktisadi kıymet ile ilgili tüm işlemleri yürütmek üzere her birim bir personel görevlendirir. Sorumlu 
+personelin bilgisi dışında her ne şekilde olursa olsun iktisadi kıymet girişi ve çıkışı yapılamaz.
+6.3.11.2 İktisadi kıymet; FMB.FR11 İktisadi Kıymet Teslim Tutanağı düzenlenerek, kullanacak personele imza 
+karşılığında teslim edilir. Tutanaklar sorumlu personel tarafından muhafaza edilir.
+6.3.11.3 İktisadi kıymetin takibi; tahsis edilen, kullanan, faydalanan birim ve personeline aittir. Birim, 
+sorumluluğunda bulunan iktisadi kıymet nakil işlemlerini Muhasebe Birimlerine yazılı olarak bildirmek zorundadır.
+6.3.11.4 İktisadi kıymet; görevlendirilecek personel marifetiyle yıl içinde en az bir kere gözden geçirilir, numaraları 
+araştırılır ve varsa noksanları tamamlanır.
+6.3.11.5 Görev ve işi gereği kendilerine iktisadi kıymet verilen personel, bunlardan şahsen sorumlu olup görev 
+yerinin değişmesi halinde iktisadi kıymeti (özel konfigürasyonlu-kapasiteli olanlar dahil) birimine teslim eder.
+6.3.11.6 Merkez Teşkilatı Mustafa Kemal Mahallesi Ek Hizmet Binasında çalışan personelin başka bir birime 
+geçmesi durumunda üzerine zimmetli bilgisayar kasası/monitör bağlı olduğu birime teslim edilir. Diğer Merkez 
+Teşkilatı binalarındaki birimler arasındaki personel yer değiştirmelerinde bilgisayar kasası/monitörün (özel 
+konfigürasyonlu-kapasiteli olanlar hariç) personel ile birlikte geçişi sağlanır.
+6.3.12 Diğer Hükümler
+6.3.12.1 Değer tespitleri; maliyet bedeli ve piyasa bedelleri araştırılmak ve kullanılmış olanlar için ayrıca yıpranma 
+dereceleri nazara alınmak suretiyle yapılır. Bu tespite ilişkin kayıt ve cetveller ispat edici kâğıtlar olarak muhafaza 
+edilir. Piyasada bulunmayan ve üretilmeyen bir iktisadi kıymet emsal bedeli üzerinden, üretimine devam edilen ve 
+piyasada mevcut olanlar ise rayiç bedeli üzerinden takdir edilir.
+6.3.12.2 Acentelere verilen iktisadi kıymet hususunda bu prosedür hükümleri uygulanır.
+6.3.12.3 Mahiyetlerinin özelliğine göre iktisadi kıymetler, kullanıldığı yerin Birim Üst Yöneticisinin teklifi, Merkez 
+Teşkilatında ilgili birimin uygun görüşü ve Genel Müdür Oluruyla kırılma, infilak veya mücbir sebeplerden 
+kaynaklanan tehlikelere karşı sigorta ettirilebilir.
+6.3.12.4 İktisadi kıymetlerin hibe kabul ve hibe etme işlemleri FMB.PR09 Posta ve Telgraf Teşkilatı Anonim Şirketi 
+Hibe İşlemleri Prosedürü hükümleri doğrultusunda gerçekleştirilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR10
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/8
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihten itibaren yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+FMB.FR11-İktisadi Kıymet Teslim Tutanağı
+FMB.LS05-İktisadi Kıymet Listesi
+FMB.PR09-Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+KN.029-213 sayılı Vergi Usul Kanunu
+KN.058-5520 sayılı Kurumlar Vergisi Kanunu
+KN.059-193 sayılı Gelir Vergisi Kanunu
+KN.060-3065 sayılı Katma Değer Vergisi Kanunu
+SAT.PR01-Dahili Sigorta İşlemleri Prosedürü
+SAT.PR03-Satış İşlemleri Prosedürü
+YAP.PR07-PTT AŞ Taşınmazların Yönetimi Prosedürü
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması nedeniyle revizyona ihtiyaç duyulmuştur. 
+0 27.02.2024 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,337 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+ELEKTRONİK POSTA 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ
+Yürürlük Onayı
+GENEL MÜDÜR
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+1/6
+1. AMAÇ
+Bu prosedürün amacı; Adli yargı ilk derece mahkemesi adalet komisyonları başkanlıkları veya 
+valilikler/kaymakamlıklarca verilen e-Apostil şerhli belgelerin elektronik ortamda ilgililere ulaştırılması 
+için Posta ve Telgraf Teşkilatı Anonim Şirketi’ne yetki verilmesi sebebiyle, söz konusu hizmetin idari, 
+teknik ve yasal gerekliliklerini ortaya çıkarılması ve işleyişte yetkili makamlardan gelen e-Apostil şerhi 
+içeren sonuç belgesinin, Uluslararası dolaşıma çıkmasında aracılık etme işlevini yüklenen kuruluş olarak 
+Posta ve Telgraf Teşkilatı Anonim Şirketi’nin ve başvuru sahibinin sorumluluklarının belirlenmesidir. 
+2. KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nin bir belgeye Apostil şerhi verilmesi için 
+elektronik ortamda aracılık etmesi işlemine ilişkin süreçleri kapsar.
+3. DAYANAK
+Bu prosedür 7101 Sayılı İcra ve İflâs Kanunu ve Bazı Kanunlarda Değişiklik Yapılması Hakkında 
+Kanun’a dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1Başvuru Sahibi: e-Apostil Şerhli belge almak için müracaat eden müşterilerdir.
+4.2 e-Apostil: Lahey Konferansı’nın 5 Ekim 1961 tarihli Apostil Konvansiyonu uyarınca yakın zamana 
+kadar kağıt ortamda yürütülen, bir belgeye resmiyet kazandırılması işleminin, yani bir belgenin 
+Apostillenmesi işleminin elektronik ortamda güvenli elektronik imza ve zaman damgası ile 
+gerçekleştirilmesi yöntemidir.
+4.3 e-Apostil Sonuç Belgesi: e-Apostil şerhli belge ile dayanak belgenin birleştirildiği PDF formatında 
+belgedir.
+4.4 e-Devlet Kapısı: Kamu hizmetlerine tek bir noktadan erişim imkanı sağlayan internet sitesidir.
+4.5 e-Fatura Sistemi: e-Apostil hizmetinin ödemelerinin aktarılacağı, ödemelere ilişkin e-Fatura 
+hazırlanmasını sağlayacak sistemdir.
+4.6 e-Sicil: Yetkili Kurumların saklamakla yükümlü olduğu bilgi, belge ve elektronik verilerdir.
+4.7 Elektronik İmza: Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı 
+bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veridir.
+4.8 EYP: Elektronik yazışma paketidir.
+4.9 Hash Değeri: Elektronik ortamda, dosyaların sistemde bıraktığı birbirinden benzersiz ve dosyayı 
+indirdikten sonra herhangi bir değişiklik veya bozulmaya uğramadığını kontrol etmek için kullanılan 
+değerdir.
+4.10 Hizmet Sözleşmesi: e-Apostil işlemi için başvuru sahibinin hak ve yükümlülükleri ile KVKK 
+hükümlerinin yer aldığı belgedir.
+4.11 KVKK: 6698 Sayılı Kişisel Verilerin Korunması Kanunu’dur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+2/6
+4.12 Log: Sistem hareketlerin saklanması amacıyla tutulan işlem kayıtlarıdır.
+4.13Müşteri: e-Apostil sistemi kullanıcısıdır.
+4.14 Ödeme Bilgileri: Başvuru sahibinin ödeme yapmak için kullandığı banka kartı bilgileridir.
+4.15 PDF: Taşınabilir belge dosya formatıdır.
+4.16 Portal: Başvuru sahiplerinden online olarak başvuru almak ve başvurusuna yönelik işlemleri 
+gerçekleştirmek için kullanılan https://www.eapostil.gov.tr/ web adresidir.
+4.17Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.18Uluslararası Yetkili Makamlar: e-Apostil belgesini doğrulamak isteyecek Lahey üyesi ülkelerin 
+kurum ve kuruluşlarıdır.
+4.19 Yetkili Makamlar: Adalet Bakanlığı ve İçişleri Bakanlığı’nı ifade etmektedir.
+4.20 Zaman Damgası: Bir elektronik verinin, üretildiği, değiştirildiği, gönderildiği, alındığı ve/veya 
+kaydedildiği zamanın tespit edilmesi amacıyla, elektronik sertifika hizmet sağlayıcısı tarafından 
+elektronik imzayla doğrulanan kaydıdır.
+5. SORUMLULUKLAR
+5.1 Yetkili Makamların Sorumlulukları: PTT AŞ tarafından başvurusu iletilen belgeye e-Apostil 
+şerhi verilmesi ve bilgilerinin e-Sicil sisteminde saklanmasından sorumludur.
+5.2 PTT AŞ Sorumlulukları: Yurt İçi Yetkili Makamlardan gelen e-Apostilli belgenin Uluslararası 
+dolaşıma çıkmasında aracılık etme işlevini yüklenmekten sorumludur.
+5.3 e-Apostil Başvuru Sahibinin Sorumlulukları: Başvuru sahibi, e-Devlet Kapısı üzerinden giriş 
+yaparak gerekli bilgilerin doğru ve eksiksiz olarak doldurulması, hizmet sözleşmesi koşullarını 
+onaylayarak kabul edilmesi, e- Apostil sonuç belgesinin indirilmesi, uluslararası makamlara 
+iletilmesinden sorumludur.
+5.4Uluslararası Yetkili Makamların Sorumlulukları: e-Apostil başvuru sahibinden alınan e-Apostil 
+sonuç belgesinin sisteme yüklenerek ‘‘Doğrulama’’ kısmından belgenin doğruluğunun kontrol edilmesi 
+ve kabulünden sorumludur.
+6. UYGULAMA
+6.1Müşterinin Yaptığı İşlemler
+6.1.1Başvuru İşlemleri
+6.1.1.1e-Apostil hizmetinden; Gerçek kişiler ile tüzel kişiler yararlanabilmektedir.
+6.1.1.2Sisteme https://www.eapostil.gov.tr/ web adresinden e-Devlet entegrasyonu ile giriş 
+yapılmaktadır.
+6.1.1.3Başvuru sahibi, portal üzerinden hizmet almak isteği belgeyi seçmektedir.
+6.1.1.4Ödeme ekranında müşteri talep ettiği belge için gerekli ödemeyi sanal POS kullanarak yapar ve 
+başvuruyu tamamlamış olur.
+6.1.1.5Başvuru tamamlandığında müşteriye e-Posta ve SMS yoluyla “Başvurunuz alınmıştır” iletisi 
+gelmektedir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+3/6
+6.1.2Başvuru Sorgulama İşlemleri
+Başvuru sahibi portal üzerinden tüm başvurularını aşağıdaki adımları takip ederek sorgulamaktadır.
+6.1.2.1SMS veya e-Posta ile gelen linki kullanarak başvuru sorgulama sayfasına giriş yapılır.
+6.1.2.2“Başvurumu Sorgulamak İstiyorum” seçeneği seçilir.
+6.1.2.3e-Devlet Kapısı üzerinden Kimlik Doğrulaması yapılır.
+6.1.2.4Başvuruya ait belgeler ve durumları listelenir.
+6.1.2.5Başvuru sonucu olumlu ise başvuru sahibi sonuç belgesini uluslararası yetkili makamlara iletmek 
+üzere portal üzerinden indirerek PDF formatında kaydedebilir.
+6.1.2.6Başvuru herhangi nedenle reddedilmiş ise, ret sebebi açıklama olarak görüntülenir.
+6.1.3 Belge Doğrulama 
+e-Apostil şerhi verilen belgenin gerçekliğinin bozulmadığının kontrol edilmesi için başvuru sahibi ya da 
+uluslararası yetkili makamlar tarafından portal üzerinden aşağıdaki adımlar takip edilerek belge 
+doğrulanmaktadır.
+6.1.3.1“Belge Doğrulamak İstiyorum” seçeneği seçilir. 
+6.1.3.2Belge dosyası “Dosya Yükle” seçeneği seçilerek sisteme yüklenir.
+6.1.3.3“Doğrula” seçeneği seçilerek belgenin doğrulaması yapılır.
+6.1.3.4Doğrulama sonucu ve raporu alınır.
+6.2 PTT AŞ’nin Yaptığı İşlemler
+6.2.1İdari ve Teknik Esaslar
+6.2.1.1PTT AŞ portal üzerinden yetkili makamlara iletilmek üzere e-Apostil başvurularını almaktadır.
+6.2.1.2Başvuru alındığında müşteriye SMS ve e-Posta yoluyla “Başvurunuz alınmıştır” ifadesini içeren 
+ileti gönderilmektedir.
+6.2.1.3Ücretlendirme belge türüne göre portalde yayınlanmaktadır. Yetkili kurum tarafından hukuki 
+ya da diğer sebeplerle ret sonucu gelen başvurulardan hizmet bedeli kesilerek başvuru ücreti müşteriye 
+iade edilir.
+6.2.1.4e-Faturanın 7 gün içerisinde kesilmesi için e-Fatura oluşturulacak bilgiler PTT e-Fatura 
+Sistemine gönderilmektedir. Oluşturulan e-Faturalar müşterilere e-Posta yolu ile iletilmektedir.
+6.2.1.5Alınan başvurular, yetkili makamlar ile sağlanan entegrasyonlar aracılığı ile adli belgeler için 
+Adalet Bakanlığı’na, idari belgeler için ise İçişleri Bakanlığı’na sistem üzerinden gönderilir.
+6.2.1.6Başvuru sonuçlandığında, yetkili makamlardan gelen sonuç belgesi PTT AŞ tarafından başvuru 
+sorgulama ekranına yansıtılır. Başvurunun reddedildiği durumda ise, ret sebebi ile ret yazısının portalde 
+görüntülenmesi sağlanmaktadır.
+6.2.1.7Başvuru sonucuna ilişkin müşteriye SMS ve e-Posta yoluyla “Başvurunuz sonuçlanmıştır” 
+ifadesini ve https://eapostil.gov.tr/BasvuruSorgulama linkini içeren bilgilendirme iletisi 
+gönderilmektedir.
+6.2.1.8Başvuru sahibi, aynı başvuru için üretilen sonuç belgesini birden fazla indirerek kaydedebilir. 
+Belli bir süre sonra belgeye yeniden ulaşılması gerektiğinde veya belgenin içeriğinin değişmediğine 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+4/6
+ilişkin kontrol yapılacağı zaman EYP ID ile Adalet Bakanlığının hazırlayacağı EYP web servisi 
+üzerinden sorgulanmaktadır. Benzer şekilde idari belgeler için de başvuruya ait belge ID ile İçişleri 
+Bakanlığının sağlayacağı Apostil belge indirme web servis ile sorgulama yapılabilmektedir. e-Apostil 
+belge doğrulama için, verilen belge üzerinde yer alan 
+https://www.eapostil.gov.tr/basvuruIslemleri/belgeDogrulama/ adresinden belgedeki elektronik imzanın 
+doğrulaması ve belgenin içeriğinin değişmediğinin kesinleştirilmesi yapılabilir. 
+6.2.1.9e-Apostil portali dışında, müşteriler tarafından yetkili makamlardan fiziksel ortamda alınıp 
+elektronik ortama aktarılmış ya da elektronik ortamda alınmış belgelere e-Apostil hizmeti 
+verilmemektedir. Sadece e-Apostil portali üzerinden alınan başvurulara e-Apostil şerhi verilmektedir.
+6.2.1.10e-Apostil şerhi verilmiş sonuç belgeleri, yetkili makamların e-Sicil sisteminde tutulmaktadır.
+6.2.1.11e-Apostil şerhli belge en az iki dilde (Türkçe ve İngilizce) verilmektedir.
+6.2.1.12Müşterilerden gelen öneri, şikayet ve istekler portalın “Bize Ulaşın” kısmında ve Hizmet 
+Sözleşmesinde belirtildiği üzere eapostil.destek@ptt.gov.tr e-posta adresinden iletilebilmekte olup PTT 
+AŞ tarafından belirlenen süreler dahilinde cevaplandırılmak zorundadır.
+6.2.1.13Portal görme engelli müşteriler için ekran okuma programı ile entegre olarak hizmet 
+vermektedir.
+6.2.2 Yönetimsel İşlemler
+e-Apostil portalı üzerinden, sistem yöneticisi yetkisi verilen kullanıcıların e-Apostil başvurularının 
+alınmasından itibaren tüm adımlarına ilişkin izleme ve raporlama gibi bir çok yönetsel işlemin 
+gerçekleştirildiği https://www.eapostil.gov.tr/yonetimselIslemler erişilen sistem modülü mevcuttur.
+6.2.2.1 Log Kayıtları
+Sistemde; geri izlenebilirliği sağlamak amacıyla log kayıtlarının tutulması gerekmektedir. Sistemde bilgi 
+güvenliği ve KVKK kapsamında gerekli loglar ve aşağıda yer alan delil kayıtları tutulmaktadır. 
+6.2.2.1.1Başvuru kabul edildi/reddedildi durumu,
+6.2.2.1.2Başvuru iletildi/iletilmedi durumu,
+6.2.2.1.3Belgenin geldiği zaman tarih bilgisine ait kayıtlar,  
+6.2.2.1.4Belgenin indirildiği tarih zamana ilişkin delil,
+6.2.2.1.5Belgenin doğrulandığına ilişkin tarih zamanla ilgili delil, 
+6.2.2.1.6Müşterilerin uygulamaya erişimi, başvuru talepleri, sorgulamaları gibi uygulama kayıtları,
+6.2.2.2 Raporlama
+Başvuru sorgulama, başvuru işlem adımları sorgulama, ödeme sorgulama, muhasebe raporu, hata 
+sorgulama, e-Posta ve SMS sorgulama türünden istatistiki raporlar alınabilmektedir.
+a)Günlük olarak alınan başvuruların durumu, haftalık olarak düzenlenen faturaların, sanal pos 
+hesaplarının ve aylık olarak süresi dolmuş ve iptal edilecek başvuruların takip edilmesi sağlanmaktadır.
+b)Başvuru durumlarının yanında fatura numarası ya da faturanın görüntülenmesi sağlanmaktadır.
+c)Başvuru sorgulama ekranından, kuruma gönderildiği halde 15 gün içerisinde sonuçlandırılmayan 
+başvurular günlük olarak takip edilerek, idarece ‘’İptal kodu’’ile iptal edilerek başvuru ücretlerinin iadesi 
+sağlanmakta ve Başvuru Durumu “İptal” e çekilmektedir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+5/6
+d)Başvuru bilgileri sorgulama ekranında, başvuruya ait gelirin emanet hesaba aktarılması ve fatura 
+düzenlenmesi durumları gibi detay bilgilerin gösterilmesi sağlanarak kayıtlardaki aylık mutabakatın 
+kontrolü Yönetim Hizmetleri Şube Müdürlüğü raporlarıyla karşılaştırmalı olarak gerçekleştirilmektedir.
+e)e-Fatura uygulamasında oluşturulan ya da oluşturulamayan  faturalarda hata alınması durumunda 
+hataya ait detay bilgisinin e-Apostil sistemi e-Fatura sorgulama ekranından gösterilmesi sağlanarak 
+alınan hataya müdahale edilmektedir. Alınan hata türüne göre düzeltme yapılarak ilgili kayıt tekrar e-
+Fatura sistemine gönderilmektedir.
+6.2.2.3 Kurumlar Arası Entegrasyon
+PTT AŞ ile yetkili Makamlar arasında PTT AŞ’den yetkili Makama e-Apostil başvurusunun iletilmesi, 
+başvuru sonucunun yetkili makamlardan PTT AŞ’ye gönderilmesi gibi işlemler entegrasyonlarla 
+sağlanmaktadır.
+6.3 Yetkili Makamların Yaptığı İşlemler
+6.3.1Başvurularda e-Apostillenmesi istenilen adli belgelerin onaylanması veya reddedilmesi, idari 
+belgelerin ise onaylanması sağlanır.
+6.3.2Başvuru onaylanmış ise talep edilen adli ve idari e-Apostilli belge için PDF dosyası oluşturulur. 
+Dayanak belge ile e-Apostil şerhi birleştirilerek tek PDF haline getirilir. PDF dosya adli belgeler için 
+EYP paketine eklenir, E- imza ile onaylanır. PDF dosya idari belgeler için kamu mührü ile onaylanır. 
+6.3.3Başvuru reddedilmiş ise ret yazısı adli belgeler için PDF olarak EYP paketine eklenir. İdari 
+belgeler için ise ret durumu bulunmamaktadır. 
+6.3.4Adli belgeler için sonuç bilgisi ve EYP ID, idari belgeler için yalnız sonuç bilgisi PTT AŞ’ ye 
+gönderilir.
+6.4GİZLİLİK
+6.4.1PTT AŞ ve başvuru sahipleri, birbirlerine ilişkin öğrenmiş oldukları her türlü ürün, hizmet, yazılım, 
+fikri haklar, materyal vb. herhangi bir bilgiyi üçüncü taraflara aktaramaz, bunların içeriği hakkında 
+açıklama yapamazlar. Taraflar mevzuat gereği bu gizli bilgileri üçüncü kişilere iletmekle yükümlü kaldığı 
+haller saklıdır.
+6.4.2PTT AŞ e-Apostil sistemi nedeniyle başvuru sahibine ait öğrendiği kişisel verileri ancak 
+mevzuattan kaynaklanan hallerde e-Apostil Hizmet Sözleşmesi’nin sunulabilmesi için mevzuatta 
+belirlenen amaçlara göre işleyebilir ve üçüncü kişilerle paylaşabilir.
+6.4.3Başvuru sahibi, e-Apostil hizmeti nedeniyle öğrenilen kişisel verilerine erişme, bu verilerin hangi 
+amaçla kullanıldığını öğrenme hakkına sahiptir. Bu başvuru yazılı olarak “T.C. Posta ve Telgraf Teşkilatı 
+Anonim Şirketi, Şehit Teğmen Kalmaz Caddesi No:2 06101 Altındağ ANKARA” adresine, ya da PTT 
+AŞ’nin eapostil.destek@ptt.gov.tr e-posta adresine yapılabilir.
+6.4.4Gizliliğe ait hükümler her ne şekilde olursa olsun hizmet sunumunun tamamlanması veya diğer bir 
+şekilde son bulması halinde dahi yürürlükte kalacaktır.
+6.4.5PTT AŞ bünyesinde Entegre Yönetim Sistemi kapsamında TS ISO/IEC 27001 Bilgi Güvenliği 
+Yönetim Sistemi kurulmuştur. e-Apostil sistemi dahilinde TS ISO/IEC 27001 Bilgi Güvenliği Yönetim 
+Sistemi esasları uygulanmakta olup belirli periyodlarla belgelendirme kuruluşu tarafından denetimler 
+yapılmaktadır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Elektronik Apostil Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+EPD.PR03
+İlk Yayım Tarihi
+9.06.2023
+Revizyon Tarihi
+9.06.2023
+Revizyon No
+0
+Sayfa Sayısı
+6/6
+7. ONAY
+Bu prosedür Genel Müdür tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer. 
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+KN.008-6698 Sayılı Kişisel Verilerin Korunması Kanunu
+KN.026-7101 Sayılı İcra ve İflâs Kanunu Ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun
+11.REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+0 9.06.2023 Yeni Doküman 
+ 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

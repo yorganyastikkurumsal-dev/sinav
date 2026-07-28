@@ -1,0 +1,141 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+PTTBANK DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Para Transfer Operatörleri Üzerinden Yurt Dışı Havale Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR08
+İlk Yayım Tarihi
+18.07.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/3
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi iş yerlerinde yapılan Şirket üzerinden yurt dışı 
+havale hizmetlerine ilişkin usul ve esaslar ile PTT ve bu hizmetlerden yararlananların hak, yükümlülük ve 
+sorumluluklarına ilişkin usul ve esasları, yetki ve sorumlulukları belirlemektir.
+2. KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi PTTBank Daire Başkanlığı ve tüm PTT iş yerlerinde 
+yapılan Şirket üzerinden yurt dışı havale hizmetlerine ilişkin usul ve esasları kapsar. Posta ve Telgraf Teşkilatı 
+Anonim Şirketinde tüm birimleri ve çalışanları kapsar.
+3. DAYANAK
+Bu prosedür, 6475 Sayılı Posta Hizmetleri Kanunu’nun “Faaliyet konuları ve nitelikleri” başlıklı 22. maddesinin 1.
+fıkrasına dayanılarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Alıcı: Adına veya hesabına para gönderilen kişi.
+4.2 Belge: Transfer bedellerinin kabul veya ödenmesinde PTT tarafından üretilen doküman.
+4.3 Kabul Yeri: Gönderici tarafından paranın yatırıldığı PTT iş yeri veya kabul hizmetinin gerçekleştirildiği ülke.
+4.4 Ödeme Yeri: Alıcıya ödemenin yapıldığı PTT iş yeri veya ödeme hizmetinin gerçekleştirildiği ülke.
+4.5 Şirket: Yurt dışı para transferi hususunda ilgili mevzuatla yetkilendirilmiş şirket. (Western Union, Moneygram, 
+UPT, vb.)
+4.6 Para Transferi: Gönderici tarafından belirtilen para miktarını Şirket üzerinden başka ülkede olan alıcının 
+ismine veya hesabına alacak olarak kaydedilme veya başka bir ülkeden ismine alacak olarak kaydedilmiş para 
+miktarının alıcıya ödenmesi işlemi.
+4.7 PTT: Posta ve Telgraf Teşkilatı Anonim Şirketi.
+4.8 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek 
+üzere kurduğu hizmet noktalarıdır.
+5. SORUMLULUKLAR
+İşbu Prosedürün hazırlanmasından ve güncellemesinden PTTBank Daire Başkanlığı, uygulamasından gişede görev 
+yapan personel, yapılan işlemlerin kontrol ve onayından PTT Müdürlüğü kontrol görevlileri, denetiminden Bölge 
+Müdürlükleri ve PTTBank Daire Başkanlığı sorumludur.
+6. UYGULAMA
+6.1 Şirket Üzerinden Yurt Dışı Havale
+6.1.1 Yurt Dışı Para Transferinde Yurt Dışına Gönderilebilecek Üst Sınır
+Aynı gönderici tarafından bir defada yurt dışına gönderilebilecek miktar ilgili mevzuat hükümleri de dikkate 
+alınarak sözleşme yapılan Şirketlerle mutabık kalınan tutarlar kapsamında belirlenmektedir.
+6.1.2 Yurt Dışı Para Transferinde Kullanılacak Formlar
+Sözleşme yapılan Şirket tarafından düzenlenen ve PTT tarafından onaylanan kabul ve ödeme formu kullanılır.
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Para Transfer Operatörleri Üzerinden Yurt Dışı Havale Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR08
+İlk Yayım Tarihi
+18.07.2022
+Revizyon Tarihi Revizyon No
+1
+Sayfa Sayısı
+2/3
+6.1.2.1 Yurt Dışı Para Transferinde Yurt Dışına Gönderilecek Paranın Cinsi
+Şirket ile yapılan sözleşme kapsamında belirlenmiş yabancı para cinslerinden kabul ya da ödeme işlemi yapılır.
+6.1.2.2 Yurt Dışı Para Transferinde Alınan Ücret
+Yurt dışı havale kabulü için sözleşme yapılan Şirket tarafından belirlenen veya PTT tarafından onaylanan ücret 
+tarifesinde öngörülen havale ücreti, varsa ek hizmet ücreti, vergi ve komisyonlar alınır. 
+6.1.3 Yurt Dışı Para Transferinde Kabul İşlemleri
+Sisteme açık ülkelere, geçerli para cinsi ve limitlerde, kimlik kontrolü yapılarak sistem üzerinden online yurt dışı 
+para transferi gerçekleştirilir. Müşteriye işlem dekontu verilir.
+6.1.4 Yurt Dışı Para Transferinde Havale Ödeme İşlemleri
+Gönderici tarafından alıcıya verilen referans numarasının sorgulanması sonucu iş yerlerimize başvuran alıcının 
+kimlik bilgileri de tespit ve teyit edildikten sonra ödeme gerçekleştirilir. Müşteriye işlem dekontu verilir.
+6.1.5 Yurt Dışı Para Transferinde İade İşlemleri
+Ülkemiz çıkışlı olup herhangi bir sebeple alıcısına ödenemeyerek iade edilmiş yurt dışı havalelerin ise göndericinin 
+iş yerlerimize başvurması ile geri ödemesi yapılır.
+6.1.6 Yurt Dışı Para Transferinde Hesaplaşma İşlemleri
+İlgili Şirket ve PTT arasında yapılan sözleşme kapsamında detayları belirlendiği şekilde mutabakat yapılır ve 
+kontrolü sağlanır.
+6.1.7 Yurt Dışı Para Transferinde Geçerlilik ve Bekleme Süreleri
+Sözleşmede mutabık kalınan sürelerde sistemde otomatik olarak havaleler bekler.
+6.1.8 Yurt Dışı Para Transferi Operasyonel İşlemler
+Sınırları sözleşme yapılan Şirketle mutabık kalınarak belirlendiği şekilde yurt dışı havale geri alma, adres 
+değiştirme istekleri PTT ve/veya ilgili para transfer Şirketi tarafından müşteri ya da PTT iş yerinin başvurusu 
+üzerine yerine getirilir.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Para Transfer Operatörleri Üzerinden Yurt Dışı Havale Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+PBD.PR08
+İlk Yayım Tarihi
+18.07.2022
+Revizyon Tarihi Revizyon No
+1
+Sayfa Sayısı
+3/3
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+1 1.01.2026 Doküman içeriğinde değişiklik gerektiğinden revizyon yapılmıştır. 
+0 18.07.2022 Yeni Doküman

@@ -1,0 +1,800 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+ÖDEME SİSTEMLERİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/14
+1.AMAÇ
+Bu prosedürün amacı, üye iş yeri başvurularını kabul etme, değerlendirme ve üye iş yeri firma ilişkileri tahsis 
+süreçlerinin esaslarını ve Şirketimiz personelinin üye iş yeri tahsis faaliyetleri hakkındaki sorumluluklarını 
+düzenlemektir.
+2.KAPSAM
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi, Ödeme Sistemleri Daire Başkanlığı ve PTT iş yerlerinden 
+gerçekleştirilen tüm üye iş yeri tahsis süreçlerini ve usullerini kapsar.  
+3.DAYANAK
+Bu prosedür; 12.07.2018 tarihli ve 7879 sayılı Bankacılık Düzenleme ve Denetleme Kurulu Kararı’na, Türkiye 
+Cumhuriyeti Merkez Bankası’nın 6493 Sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri 
+ve Elektronik Para Kuruluşları Hakkında Kanun maddelerine, Bankacılık Düzenleme ve Denetleme Kurumu’nun 
+5464 sayılı Banka Kartları ve Kredi Kartları Kanunu’na, 5411 Sayılı Bankacılık Kanunu’na, Türkiye Bankalar 
+Birliği’nin POS Cihazları, Banka Kartları veya Kredi Kartlarının Amaç Dışı Kullanım Hallerinin Belirlenmesi 
+Hakkında Mesleki Tanzim Kararı’na, Fiktif İşlem Değerlendirme Komitesinin Oluşumu, Çalışma Esas ve Usulleri 
+Hakkında Tebliğ’ine dayanarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 3D Secure: İnternet üzerindeki alışverişlerde güvenliğin artırılması amacıyla, Banka tarafından gönderilen şifre 
+ile kimlik doğrulamasına yönelik geliştirilen ek bir güvenlik sistemini ifade eder.
+4.2 ADSL POS: Kart üzerindeki bilgileri ve işlemler ile ilgili tüm bilgileri banka sistemine ethernet bağlantısı 
+üzerinden gönderen şarj edilebilir POS cihazını,
+4.3 BDDK: Bankacılık Düzenleme ve Denetleme Kurumunu,
+4.4 BKM (Bankalararası Kart Merkezi AŞ): Türkiye’de kartlı ödeme sistemi içerisinde ortak sorunlara çözüm 
+bulmak, ülkemizdeki banka ve kredi kartları kural ve standartlarını geliştirmek, idari ve hukuki altyapı olanağı 
+sunmak, bankalar arası takas işlemlerini yürütmek, yurt dışı kuruluş ve komisyonlar ile ilişkiler kurmak ve 
+gerektiğinde üyelerini bu kuruluşlarda temsil etmek amacı ile kurulmuş, banka, PTT ve kart kurucularına hizmet 
+veren Şirketi,
+4.5 Chargeback: Kredi kartı ile yapılan işlemlerin kurallara aykırı bir biçimde yapıldığının issuer (kartı çıkaran) 
+banka ve/veya PTT tarafından belirlenmesi ya da kart hamilinin ekstresinde yer alan bir harcamaya itiraz edilmesi 
+halinde takas aracılığı ile acquirer (kartla yapılan işleme ait slip’i tahsile gönderen) bankaya ve/veya PTT’ye 
+gönderilen ve işlem tutarının geri alınmasını sağlayan itiraz sürecini,
+4.6 Elektronik Para Kuruluşu: 6493 Sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri 
+ve Elektronik Para Kuruluşları Hakkında Kanun kapsamında elektronik para ihraç etme yetkisi verilen tüzel kişiyi,
+4.7 EPDK: Enerji Piyasası Düzenleme Kurumu’nu,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/14
+4.8 Faktoring: Firmaların mal ve hizmet satışlarından doğan yurt içi ve yurt dışı vadeli alacaklarının faktoring 
+şirketi tarafından temlik alınarak garanti, alacak ve tahsilat yönetimi, finansman hizmetlerinin bir arada sunulduğu 
+komple bir finansman yöntemini,
+4.9 Fraud: Kart ve POS işlemlerinin eş zamanlıya yakın izlenmesinin yanı sıra SMS ve e-mail gönderimi 
+fonksiyonlarını da içeren, farklı kanallardan gelen provizyon bilgisi ile beslenen kural bazlı dolandırıcılık izleme 
+yazılım programını, 
+4.10 GİB: Gelir İdaresi Başkanlığını, 
+4.11 İş Yeri Kategori Kodu (MCC): İş yerlerinin meşgul olduğu konunun ticaret özelliklerini, uzmanlaştıkları 
+alanı ve iş kanallarını gösteren kodu,
+4.12 LPG: Sıvılaştırılmış petrol gazını, 
+4.13 Mobil POS: Kart üzerindeki bilgileri ve işlemler ile ilgili tüm bilgileri banka sistemine GPRS (SIM kart ile 
+destekli, GSM yedekli) üzerinden gönderen, kablosuz, şarj edilebilir POS cihazını,
+4.14 Mülhak Vakıf: 5737 sayılı Vakıflar Kanunu’na göre, mülga 743 Sayılı Türk Kanunu Medenisi’nin yürürlük 
+tarihinden önce kurulmuş ve yönetimi vakfedenlerin soyundan gelenlere şart edilmiş vakıfları,
+4.15 Mütevelli Heyeti: Bir vakfın veya bir kuruluşun yönetim işlerinin doğrudan bağlı bulunduğu kurulu, 
+4.16 Ödeme Kuruluşu: Ödeme hizmeti sağlamak ve gerçekleştirmek için 6493 Sayılı Ödeme ve Menkul Kıymet 
+Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun’u kapsamında 
+yetkilendirilmiş tüzel kişiyi, 
+4.17 Özelge: Maliye Bakanlığınca veya Maliye Bakanlığının yetkili kıldığı makamlarca mükelleflerin vergi 
+durumları ve vergi uygulaması bakımından açık olmayan ve uygulamada şüphe duydukları noktalarla ilgili verilen 
+yazılı açıklamaları,
+4.18 POS: Point of Sale Terminali; kart hamilinin üye iş yerinde yaptığı alışverişe ait bilgileri banka ve/veya PTT 
+sistemine aktaran, yapılan işlem ile ilgili olarak gerektiğinde bankadan ve/veya PTT’den provizyon alan ve işlemle 
+finansal kaydın oluşmasını sağlayan işlem terminalini,
+4.19 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri 
+yürütmek üzere kurduğu hizmet noktaları,
+4.20 PTT Müdürü: POS Üye iş yeri başvuru işlemlerinin başlatıldığı PTT Müdürlüğünün veya PTT Şube ya da 
+Acentesinin bağlı bulunduğu PTT Müdürlüğünün yöneticisini,
+4.21 PTT Personeli: POS Üye İş yeri başvuru işlemlerini PTT iş yerlerinde gerçekleştirecek PTT çalışanını, 
+4.22 Saadet Zinciri: Üyelerinden yüklü miktar para alınarak piramidin en üstündekilerin çok para kazandığı ve 
+satılan bir ürün veya hizmetin görünürde olmadığı, sadece bu görünürde olmayan ürün veya hizmetin satın alınması 
+ile tamamen para ile para kazanma metodu üzerine kurulan sistemini,
+4.23 Sanal POS: İnternet üzerinden yapılacak alışveriş işlemlerinin banka ve/veya PTT sistemine aktarılması, işlem 
+provizyonu alınması ve finansal kaydının oluşmasını sağlayan yazılım sistemini,
+4.24 Seyahat Çeki: Seyahat edenleri, yanlarında nakit para taşımanın güçlük ve tehlikelerinden korumak amacıyla 
+bazı yabancı banka ve kuruluşlarca muhtelif kupürler (10, 20, 50, 100, 500, 1000’lik) ve konvertibl yabancı paralar 
+üzerinden dolaşıma çıkarılan ödeme araçlarını, 
+4.25 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini,
+4.26 TÜRSAB: Türkiye Seyahat Acenteleri Birliği’ni, 
+4.27 Üye İş yeri: Şirketimizin tahsis ettiği POS terminalini / yazılımını, kartla tahsilat için kullanan ticari kuruluşu,
+4.28 Üye İş Yeri Komisyonu: Kartlı Ödeme Sistemi maliyetlerine istinaden üye iş yerinden alınan POS 
+komisyonunu, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/14
+4.29 Üye İş Yeri Sözleşmesi: Kredi kartı ve banka kartı ile tahsilat yetkisi verilen üye iş yeri ile PTT AŞ arasında 
+imzalanan sözleşmeyi, 
+İfade eder.
+5.SORUMLULUKLAR
+POS Üye İş Yeri Tahsis İşlemleri Prosedürü ’nün hazırlanmasından ve güncellenmesinden Ödeme Sistemleri Daire 
+Başkanlığı, POS üye iş yeri başvuru işlemlerinin uygulanmasından PTT Personeli, yapılan işlemlerin kontrol ve 
+onayından PTT Müdürü ve Bölge Müdürlükleri, denetiminden Bölge Müdürlükleri ve Ödeme Sistemleri Daire 
+Başkanlığı sorumludur. 
+5.1 Başvuru Sürecinde Görev ve Sorumluluklar 
+5.1.1 PTT Personelinin Görev ve Sorumlulukları 
+5.1.1.1 POS talebi öncesinde müşteri ziyareti yapılmasından, 
+5.1.1.2 POS ürünü ile ilgili gerekli ödeme çeşitleri, komisyon oranı ve ödeme zamanı gibi konularda müşteriye bilgi 
+verilmesinden, 
+5.1.1.3 Başvuru aşamasında gerekli bilgi ve güncel belgelerin iş yeri tipine göre alınmasından, 
+5.1.1.4 Üye İş yeri Sözleşmesinin doldurulması ve firma yapısına göre resmi belgelerde adı geçen gerekli yetkili 
+kişilerden imzaların alınmasından,  
+5.1.1.5 Firma ile ilgili piyasa istihbaratlarının yapılarak PTT’nin zarara uğramaması için gerekli tüm tedbirlerin 
+alınmasından,
+5.1.1.6 Gerekli risk değerlendirmesinin yapılmasından, 
+5.1.1.7 Posta Web Sisteminde yer alan “Üye İş yeri Müşteri Tanımlama” ekranları üzerinden akışın 
+başlatılmasından,
+5.1.1.8 Başvuru ekranlarına müşteri bilgilerinin tam ve doğru olarak girilmesinden, (daha sonra tespiti halinde 
+eksiklerin giderilmesinden, yanlışlıkların düzeltilmesinden) 
+5.1.1.9 İş yerinin el değiştirmesi, ortaklık yapısının değişmesi, faaliyet konusunun değişmesi, tüzel yapısının 
+değişmesi gibi durumlarda, üye iş yeri sözleşmesinin yenilenmesinden ve üye iş yeri ürün/yetkilerinin yeni yapıya 
+göre revize edilmesinden/revize edilmesi için gerekli başvurularda bulunulmasından, 
+5.1.1.10 Bu prosedür çerçevesinde belirtilmiş olan; şube ziyareti ile başlayarak POS’un üye iş yerine bağlanması 
+sürecindeki alınması gereken uygunluklar dahil her türlü tamlık konularından sorumludur. 
+5.1.2 PTT Müdürünün Görev ve Sorumlulukları 
+5.1.2.1 İş yerinin fiziki olarak ziyaret edilip edilmediğinin kontrolünden,
+5.1.2.2 Üye iş yeri başvurusunun iş bu prosedüre uygun olup olmadığının kontrolünün yapılmasından, 
+5.1.2.3 POS talebinin, ekran istihbaratlarının yanı sıra piyasa istihbaratlarını da dikkate almak suretiyle 
+değerlendirilerek karara bağlanmasından,
+5.1.2.4 İş yerinin el değiştirmesi, ortaklık yapısının değişmesi, faaliyet konusunun değişmesi, tüzel kişilik yapısının 
+değişmesi gibi durumlarda, üye iş yeri sözleşmesinin yenilenmesinden ve üye iş yeri ürün/yetkilerinin yeni yapıya 
+göre revize edilmesinden/revize edilmesi için gerekli başvurularda bulunulmasından, 
+5.1.2.5 Karar sonucu olumlu olanların bir sonraki adıma yönlendirilmesinden, 
+5.1.2.6 Karar sonucu olumsuz olan başvuruların ret aksiyonu ile kapatılmasından,
+5.1.2.7 Evrakında ya da bilgilerinde eksiklik bulunan başvuruların iade edilmesinden sorumludur. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/14
+5.2 Tahsis Sürecinde Görev ve Sorumluluklar 
+5.2.1 Başvurular nezdinde mevzuata uyum konusunda ilgili birimlerin sorularına cevap vermekten, 
+5.2.2 Mevzuat değişikliklerinde gerekli bölümlere bilgilendirmelerin yapılmasından, 
+5.2.3 Üye iş yeri başvurularında; başvuru akışında bulunan bilgi ve belgeler ışığında talebin değerlendirilmesinden 
+sorumlu olup aşağıdaki kapsama dahil olan işlemler sonuçlandırılır. 
+a) İlk kez POS bağlanacak olan firmalara ait başvurular, 
+b) Ticaret sicil, vergi numarası, faaliyet alanı değişikliği olan firmalara ait başvurular, 
+c) Üye iş yeri devri yapılan firmalar.
+5.2.4 Aşağıda belirtilen kontroller yapılarak değerlendirme sonucu uygun görülen başvuruların onaylanmasından, 
+a) Kimlik Paylaşım Sistemi, 
+b) Findeks Risk Raporu, 
+c) BKM Fesih Dosyası, 
+ç) Firma faaliyet alanı/sektörü/ortaklık yapısı, 
+d) Vergi Levhası.
+5.2.5 Daha önce yapılan başvuruların eksiklerinin tamamlanması amacıyla akışın PTT iş yerine iade edilmesinden, 
+5.2.6 Onaylanmaya uygun görülmeyen başvuruların sebebini belirterek iş akışı üzerinden reddedilmesinden, 
+5.2.7 Mevzuat değişikliği, projeler ve süreç iyileştirmeleri ile ilgili hususlarda pazarlama, iç kontrol, hukuk, 
+donanım gibi ilgili gruplarla birlikte gereken desteği sağlamaktan sorumludur.
+6.UYGULAMA
+6.1 Üye İş yeri Başvuru Süreci 
+6.1.1 Üye İş yeri Başvuru Giriş Süreci 
+6.1.1.1 Başvurular, doğrudan aktif satış çalışması yapılması ya da PTT iş yerlerine doğrudan gelen taleplerin 
+değerlendirilmesi ile alınacaktır. Üye iş yeri başvurusunu alma, evrak ve gerekli dış kontrolleri yapma PTT 
+personelinin sorumluluğundadır. 
+6.1.1.2 PTT personelince gerçek veya tüzel kişi bilgilerinin doğruluğu, kimlik bilgilerinin doğruluğu, hedef kitle ve 
+risk gruplarının tespiti vb. gibi gerekli kontroller yapıldıktan sonra üye iş yeri müşteri bilgilerinin sisteme girişi 
+eksiksiz yapılarak değerlendirilmek üzere ilgili PTT iş yeri Müdürüne onaya gönderilir. 
+6.1.1.3 PTT Müdürünce onaya gelen talep, reddedilebilir veya eksiklik, hata, bilgi talebi gibi nedenlerle bir önceki 
+adıma iade edilebilir. Talebin uygun görülmesi halinde onay verilir ve akış bir sonraki adım olan Ödeme Sistemleri 
+Daire Başkanlığı Üye İş yeri Yönetimi Şube Müdürlüğüne Onay için gönderilir. 
+6.1.2 POS Başvurusunda Alınması Gereken Belgeler 
+6.1.2.1 Şahıs Şirketleri İçin; 
+a) Vergi Levhası,  
+b) T.C. Kimlik Kartı, Üzerinde TCKN yazılı olan Nüfus cüzdanı veya Sürücü Belgesi, 
+c) Adi Ortaklık İse Noter Onaylı Adi Ortaklık Sözleşmesi,
+ç) Esnaf/Oda Kayıt Belgesi, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/14
+d) Noter Onaylı İmza Beyannamesi (Bulunmuyorsa imzalı sürücü belgesi veya T.C. Kimlik Kartı),
+e) PBD.FR32 Posta Çeki Hesap Açma Sözleşmesi,  
+f) ÖSD.FR04 PTT Üye İş yeri Sözleşmesi, 
+g) ÖSD.FR09 Müşteri Bilgi Formu, 
+ğ) ÖSD.FR10 Temel Bankacılık Bilgi Formu,   
+h) Üye İş yeri Bilgilendirme Formu (Sanal POS Taleplerinde).   
+6.1.2.2 Ticari Ortaklıklar İçin;  
+a) Vergi Levhası,  
+b) Firma Ortaklarının ve/veya firmayı temsile Yetkili Kişi ya da Kişilerin T.C. Kimlik Kartı, Üzerinde TCKN yazılı 
+olan Nüfus cüzdanı veya Sürücü Belgesi, 
+c) Ticari Sicil Gazetesi,
+ç) Oda Kayıt Belgesi ve/veya Faaliyet Belgesi,
+d) Ortaklığa temsile yetkili kişi/kişilerin noter onaylı İmza Sirküleri, 
+e) Vekâleten yapılan işlemlerde yetki durumunu gösteren noter onaylı vekâletname,
+f) PBD.FR32 Posta Çeki Hesap Açma Sözleşmesi, 
+g) ÖSD.FR04 PTT Üye İş yeri Sözleşmesi, 
+ğ) ÖSD.FR09 Müşteri Bilgi Formu, 
+h) ÖSD.FR10 Temel Bankacılık Bilgi Formu,  
+ı) Üye İş yeri Bilgilendirme Formu (Sanal POS Taleplerinde). 
+6.1.2.3 Ticari Faaliyeti Olmayan Tüzel Kişilikler İçin; 
+a) Temsile Yetkili Kişinin T.C. Kimlik Kartı, Üzerinde TCKN yazılı olan Nüfus cüzdanı veya Sürücü Belgesi, 
+b) PBD.FR32 Posta Çeki Hesap Açma Sözleşmesi, 
+c) ÖSD.FR04 PTT Üye İş yeri Sözleşmesi,
+ç) ÖSD.FR09 Müşteri Bilgi Formu, 
+d) ÖSD.FR10 Temel Bankacılık Bilgi Formu, 
+e) Üye İş yeri Bilgilendirme Formunun yanında (Sanal POS Taleplerinde),
+f) Kooperatif, Vakıf, Dernek, Oda, Üniversite statüsündeki iş yerlerinin ana sözleşme/tüzük/senato/yönetim kurulu 
+kararı belgelerinde PTT’den POS talep edilmesi ve bununla ilgili sözleşmelerin imzalanması hususunda düzenleme 
+ile temsil ve ilzama yetkili kişilerin PTT’den POS alınması ve üye iş yeri imzalanmasına ilişkin kararı 
+gerekmektedir. 
+g) Mülhak Vakıf olarak iletilen üye iş yeri başvurularında, rutin süreçteki “vakıf” başvurularında temin edilmesi 
+gereken belgelerin iletilmesi yeterlidir. 
+6.1.2.4 Belediyeler için; 
+a) Belediye Meclisinden POS bağlanması ve PTT ile bu yönde sözleşme yapılmasına dair karar, 
+b) Mazbata yetki belgesi, İmza Beyannamesi, Vergi Kimlik Numarası kartı, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/14
+c) Üye İş yeri Sözleşmesini Belediye Başkanının veya Mali İşler Müdürünün (5018 sayılı Kanun’un 60/e maddesi 
+uyarınca yetkili olduğu belgelenen personel) imzaladığı durumlarda başkaca bir yetki belgesine ihtiyaç 
+bulunmamaktadır. 
+ç) Üye İş yeri Sözleşmesini Belediye Başkanı dışında bir üçüncü şahsın imzalaması durumunda aranacak yetki 
+belgesinde; 
+* “Belediyemiz alacaklarının banka kartı ve/veya kredi kartı ile tahsili temin amacıyla PTT ile Üye İş yeri 
+imzalamak üzere………. adlı şahıs” veya,
+** “Belediyemiz alacaklarının 3. Kişilerden banka kartı ve/veya kredi kartı ile tahsilini temin amacıyla Belediye 
+nezdinde POS Terminali tesis edilmek üzere PTT ile sözleşme imzalamak üzere……. adlı şahıs”, 
+ *** “PTT ile üye iş yeri sözleşmesi imzalamaya……….. adlı şahıs” gibi yetkiler içeren ya da bu şekilde 
+“Belediyemizi borç altına sokmak üzere…….. adlı şahıs” veya “Belediyemizi PTT nezdinde temsil ve ilzam 
+etmeye………. adlı şahıs”  
+İbarelerinden herhangi birinin olması gerekmektedir. 
+6.1.2.5 Site/Apartman Yönetimleri için;
+Üye iş yeri sözleşmesi imzalamaya yetkili kişinin belirlendiği (Site Yöneticisinin alacağı noter onaylı) karar defteri,
+6.1.2.6 Dernekler için; 
+a) Derneğin merkezinin bulunduğu mahalli en büyük mülki amirliği tarafından verilmiş derneğin kurulduğunu 
+bildirir yazı, 
+b) Dernek Tüzüğü, 
+c) Dernek Yönetim Kurulu Kararını içeren karar defterinin noter onaylı bir sureti veya imza sirküleri, 
+ç) Yetkililerin noterden alınmış imza beyannameleri, 
+d) Derneğin vergi kimlik numarası belgesi(vergi dairelerince mühürlenip tasdiklenmiş bir vergi kimlik numarası 
+belgesinden PTT personelince fotokopi çekilerek elde edilen bir nüshası).
+6.1.2.7 Vakıf/Özel Üniversiteler için;  
+a) Mütevelli heyetinden alınmış karar (bir karar defteri bulunmasa dahi bu kararda tahsis edilecek POS talebinin 
+kimler tarafından yapılacağına, sözleşmenin kimler tarafından imza edileceğine dair yetkilendirme ibarelerini 
+içermesi gerekmektedir) veyahut bir yetkilendirme yazısı, 
+b) İmza Sirküleri; Noter tasdikli, dayanak kısmında mütevelli kararına atıf yapılmış imza sirküleri, Yetkili kişilerin 
+imza örnekleri sirkülerde bulunmuyorsa imza sirküleri ile birlikte güncel imza beyannameleri de alınmalıdır. 
+c) Resmi Gazete yayınlanmış üniversite yönetmeliği. 
+6.1.2.8 Noterler için;
+Tayin ve atama yazısı (noterin adı, soyadını içeren ve noter olarak atandığını/tayin edildiğini gösterir tayin/atama 
+yazısı), 
+6.1.2.9 Elçilik/Konsolosluk/Temsilcilik için; 
+a) Büyükelçi/konsolos olarak atandığını gösterir atama yazısı ve diplomatik misyon kimlik bilgisi (Diplomatik 
+misyon kimlik belgesi, Dışişleri Bakanlığı tarafından düzenlenen temsilcilik adına işlem yapmaya yetkili olduğunu 
+gösterir belgedir. T.C. Dışişleri Bakanlığı Yabancı Temsilcilik Personel Kimlik Kartı şeklinde 
+düzenlenebilmektedir.) 
+b) Elçilik/konsolosluk/temsilcilik adına PTT’den POS alınması için yetkilendirilen kişi/kişilerin yetkilerini gösterir 
+yetki belgesi (Yetki belgesinin ıslak imzalı olması ve konsolosluk mührünü içermesi gerekmektedir.) 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/14
+6.1.2.10 Ödeme kuruluşu ve Elektronik Para Kuruluşları için; 
+6493 Sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları 
+Hakkında Kanun kapsamında, Türkiye Cumhuriyeti Merkez Bankasından alınan ödeme kuruluşu/elektronik para 
+kuruluşu olarak faaliyette bulunma izin belgesinin, resmi gazetedeki ilanı. (01.01.2020 tarihinden önce kurulmuş 
+firmalar için, BDDK’dan alınan ödeme kuruluşu/elektronik para kuruluşu olarak faaliyette bulunma izin belgesinin 
+resmi gazetedeki ilanı),
+6.1.2.11 İş yerinin yasal statüsünün şahıs şirketi olması halinde noter onaylı imza beyannamesi bulunmayanlar için 
+üzerinde müşteri imzası bulunan sürücü belgesi ve/veya T.C. kimlik kartının aslının görülüp, fotokopisinin alınması 
+yeterli olacaktır.
+6.1.2.12 POS alınması ile ilgili kararlarda yetkilendirilen kişilerin isimleri net bir şekilde belirtiliyor ise dernek, 
+vakıf, oda, site yönetimi, kooperatif vb. gibi statüye sahip iş yerlerine ait imza sirkülerini talep etmeden yetkili 
+kişilerin imza beyannameleri yeterli olacaktır. Ayrıca, ticari faaliyeti olmayan kooperatif, vakıf, dernek, oda, 
+üniversite, site ve apartman yönetimi gibi tüzel kişiliklerce talep edilen POS için, POS’un amacı dışında 
+kullanılmayacağına dair taahhütname alınması gerekmektedir. Ancak bu tüzel kişiliklerin kuruluş amaçlarını 
+gerçekleştirmek üzere işlettikleri ticari işletmeler için talep edilen POS cihazı başvurularında bu taahhütnamenin 
+alınması zorunluluğu bulunmamaktadır.
+6.1.2.13 Faaliyet Alanına Göre Alınması Gereken Belgeler;
+Faaliyet Alanı Yetki Belgeleri, Seyahat Acenteleri TÜRSAB Seyahat Acente Belgesi, Marka firmalarda Bayilik 
+Sözleşmesi, Derneklerde Valilik İzin Belgesi ve Dernek Tüzüğü, Pazarcılarda Belediye Tezgah/Pazar Yeri Tahsis 
+Belgesi, LPG/Benzin Ürünleri Satış EPDK belgesi (LPG/Otogaz Bayilik Lisansı), Özel Hastanelerde Sağlık 
+Bakanlığı Faaliyet İzin Belgesi Eczanelerde Valilik tarafından onaylanan Ruhsatname, turistik tesislerde Turizm 
+Bakanlığı'ndan temin edilecek Turizm İşletme Belgesi, market, lokanta ve büfelerde İş yeri Açma ve Çalışma 
+Ruhsatı, Araba Kiralama/Vakıflar Ruhsat Belgesi, Bar, Gece kulübü Turizm Bakanlığı'ndan Onaylanmış İşletme 
+Ruhsatı Türkiye’deki yerleşik firmalarda Telekom Hizmetleri için Telekomünikasyon Kurumu Lisansları, Türkiye 
+Cumhuriyeti Merkez Bankasından alınan ödeme kuruluşu/elektronik para kuruluşu olarak faaliyette bulunma izin 
+belgesinin, resmi gazetedeki ilanı (01.01.2020 tarihinden önce kurulmuş firmalar için, BDDK’dan alınan ödeme 
+kuruluşu/elektronik para kuruluşu olarak faaliyette bulunma izin belgesinin resmi gazetedeki ilanı),
+6.1.2.14 Ayrıca dikkat edilecek diğer hususlar aşağıdaki gibidir;
+6.1.2.14.1 Pazarlama Satış ekibi ya da PTT iş yerleri tarafından alınan başvurularda üye iş yeri fotoğrafları Üye İş 
+yeri Yönetimi Şube Müdürlüğünce talep edilmesi halinde temin edilmesi gerekir.
+6.1.2.14.2 Talepte bulunan iş yeri, oto kiralama firması ise, araçların ruhsat fotokopileri, araçlar 3. kişilerden 
+kiralanmış ise Kira Sözleşmelerinin asıllarının görülerek, birer örneğinin temin edilmesi gerekir.
+6.1.2.14.3 Unvan değişikliği nedeniyle POS başvurusu yapan üye iş yeri için (vergi numarası ve ortak bilgileri aynı 
+devam ediyor sadece unvan değişiyor ise) yeniden bir Üye İş yeri Sözleşmesi imzalanmasına gerek 
+bulunmamaktadır. Unvan değişikliğinin yayınlandığı ticaret sicil gazetesinin ilgili üye iş yerinden temin edilerek, 
+üye iş yeri unvan bilgilerinin güncellenmesi ve belgenin aslının görülerek, fotokopisinin müşteri dosyasında 
+saklanması yeterlidir.
+6.1.2.14.4 Kira bedelinin tahsilatı için, POS talebinde bulunan şirketin üye iş yeri başvuru belgelerine ek olarak 
+özelge sunması gerekmektedir.
+6.1.2.14.5 Üye İş yerini işleten ortaklığın ortaklık yapısının, ortaklık türünün veya faaliyet konusunun değişmesi gibi 
+durumlarda, üye iş yeri sözleşmesi yenilenir ve üye iş yeri ürün ve yetkileri son duruma göre güncellenir. 
+Güncellemelerin yapılabilmesi için PTT iş yerlerine güncellemeler için başvuruda bulunması gerekmektedir.
+6.1.2.14.6 Üye iş yerinin devir olması halinde yeni POS başvurusunda izlenen süreç takip edilecektir. 
+Güncellemelerin yapılabilmesi için PTT iş yerlerine başvuruda bulunulması gerekmektedir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+8/14
+6.1.2.14.7 Kolektif şirketlerde; Gelir Vergisi Beyannamesi ortaklık adına değil, ortaklar tarafından ayrı 
+verilmektedir ve her bir ortak için ayrı vergi levhası hazırlanmaktadır. Bu nedenle başvuru girişlerinde vergi 
+dairesinden alınacak Kolektif şirket adına verilen vergi numarasını içeren vergi kimlik kartının ve/veya vergi 
+numarasını gösteren vergi tahakkuk fişinin de temin edilmesi gerekmektedir.
+6.1.2.14.8 Görme engellilerin işlemlerinde bir şahit aranması, talepleri halinde şahit olmaksızın imzalarını el yazısı 
+ile atmaları sağlanır. 
+6.1.2.14.9 Okur-yazar olmayanlardan ve/veya imza atamayanlardan noter onaylı mühür veya parmak izi örneği ile 
+işlem yapılacaktır
+6.1.2.14.10 POS talebinde bulunan firma, talep tarihinden en az 6 (altı) ay öncesinde kurulmuş olmalıdır. Firmanın 
+kuruluş tarihinin 6 (altı) aydan daha yakın bir tarih olması halinde PTT Müdürü ve/veya ilgili Bölge 
+Müdürlüklerinin olumlu görüşü alınması halinde Üye İş yeri Yönetimi Şube Müdürlüğü ve/veya Üye İş yeri 
+Kazanım Şube Müdürlüğü ve/veya Başkanlık Makam Onayı görüşü ile müşteri başvurusu değerlendirilecektir.
+6.2 Üye İş yeri Değerlendirme ve Onay Süreci  
+6.2.1 Aşağıdaki üye iş yeri grupları, yasal uyum, dolandırıcılık ve PTT itibarını zedeleme riski içerdiğinden üye iş 
+yeri faaliyet alanı dışındadır. Bu gruplarda faaliyet gösteren işletmeler ile üye iş yeri sözleşmesi ve iş ilişkisi tesis 
+edilemez. 
+a) Online/sanal kumarhaneler ve casinolar, 
+b) e-Ticaret veya mail order yoluyla çalışan eczaneler, 
+c) e-Ticaret veya mail order yoluyla tütün ve tütün ürünleri satan iş yerleri, 
+ç) Döviz büroları veya döviz alım/satımı yapan iş yerleri, 
+d) Pornografik yayınlar, 
+e) Sanal ortam arkadaşlık siteleri, (3D Secure ile tam olarak çalışan iş yerleri hariç) 
+f) Saadet zinciri şeklinde çalışan iş yerleri, 
+g) Seyahat çeki ödeyen veya keşide eden iş yerleri, 
+ğ) Manuel/elektronik olarak kredi kartı ile para havalesi yapan veya çek keşidesi yapan iş yerleri, 
+h) 900’lü telefon hatları, (Yasal mevzuata uygun olanlar hariç)
+ı) Siyasi partiler,
+i) Ev sahibi ülke kanun veya yönetmeliklerine yahut uluslararası sözleşme veya anlaşmalara göre yasadışı sayılan 
+veya uluslararası yasaklara tabi olan herhangi bir ürün üretimi veya ticareti veya faaliyeti ile uğraşan iş yerleri, 
+(Örneğin; ilaçlar, pestisitler/herbisitler, ozon tüketen maddeler, poliklorlu bifeniller (PCB), CITES (Nesli Tehlikede 
+Olan Yabani Bitki ve Hayvan Türlerinin Uluslararası Ticaretine İlişkin Sözleşme) kapsamındaki yabanî hayat ve 
+ürünleri gibi)
+j) Silah ve mühimmat üretimi veya ticareti yapan iş yerleri,
+k) Ana faaliyet konusu tütün üretimi veya ticareti olan iş yerleri, 
+l) Kumar oynatan yerler, kumarhaneler ve eşdeğer işletmeler, 
+m) Radyoaktif madde üretimi veya ticareti yapan iş yerleri, (Bu yasak medikal cihaz, kalite kontrol (ölçme) cihazları 
+ve IFC’nin radyoaktif kaynağını önemsiz (trivial) bulduğu ve/veya yeterli koruyucu düzeneğin var olduğunu 
+düşündüğü cihazların alımında uygulanmaz) 
+n) Asbest lifleri üretimi veya ticareti ile uğraşan iş yerleri, (Bu yasak, asbest muhtevasının % 20’nin altında olduğu 
+ve asbestin levhaların içinde yer aldığı asbestli çimento levhası alımı veya kullanımında uygulanmaz)
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+9/14
+o) Deniz ortamında uzunluğu 2.5 km’yi aşan drift net tipi ağlar kullanılarak uygulanan balık avcılığı yapan iş yerleri,
+ö) Zorla çalıştırma/çocuk işçiliği gibi zararlı veya istismar edici çalıştırma biçimlerine başvurarak yapılan üretim 
+veya faaliyetlerle uğraşan iş yerleri, 
+p) Tropikal yağmur ormanlarında gerçekleştirilecek ticari ormancılık faaliyetleri ile uğraşan iş yerleri, 
+r) Sürdürülebilir ormancılık faaliyetlerinden elde edilenler hariç olmak üzere ahşap ve diğer orman ürünlerinin 
+üretim ve ticaretini yapan iş yerleri,
+s) Spor müsabakalarına dayalı, sabit ihtimalli veya müşterek bahis ya da şans oyunları ile bağlantılı olup yasal izni 
+olmayan yerler, w. Mail order veya e-ticaret yönetimi ile lens, ilaç ve/veya gıda takviyesi, vitamin satışı yapan iş 
+yerleri, 
+ş) Resmi yazılar ile Şirketimize yasaklı olarak bildirilen iş yerleri, 
+t) Komite kararı sonucu fiktif işlem yapan iş yerleri, 
+u) Mahkeme kararı ile kısıtlanan üye iş yerleri, 
+ü) Politik Parti Bağışları, 
+v) Politize olmuş dernek veya vakıflara bağışlar, 
+y) Faktoring Şirketleri, 
+z) Mail order yöntemi ile çalışan kontör satışı yapan iş yerleri,  
+6.2.2 Her ne gerekçeyle olursa olsun mal veya hizmet karşılığı olmaksızın komisyon karşılığı nakit para temin ettiği, 
+kendi ya da başkasının nakit ihtiyaçlarını fonlama amaçlı işlem yaptığı saptanmış firmalarla POS çalışması 
+yapılmayacaktır. 
+6.2.3 İş yeri sahibi, iş yerine ortaklık adına işleme yetkili kılınan kişi ve/veya ortaklarında 18 yaş sınırı aranacaktır. 
+18 yaşını doldurmayanlar ile üye iş yeri sözleşmesi imzalanmayacaktır. 
+6.2.4 Turizm ve seyahat acenteleri, kuyumcu, halıcı, bar/disko, derici, tur organizatörleri, araba kiralama şirketleri, 
+çiçekçiler ve cep telefon mağazaları POS kullanımı açısından riskli grupta olduklarından dolayı daha dikkat edilmesi 
+gereken iş yerleridir. 
+6.2.5 En çok dolandırıcılık işlemi gerçekleştirilen (POS tefeciliği olarak adlandırılan) 28 (yirmi sekiz) iş yeri tipinin, 
+MCC kodları aşağıdaki gibi olup değerlendirme ve onay aşamasında belirtilen iş yerleri için daha dikkatli olunması 
+gerekmektedir. 
+a)4722-Seyahat Acenteleri ve Tur Operatörleri,
+b)4812- Telekomünikasyon Cihazları ve Telefon Satışları,
+c)4813- Telekomünikasyon Hizmetleri-Key Entry Lokal ve Uzun Mesafeli Telefon Aramaları,
+ç) 4814- Telekomünikasyon Hizmetleri-Kredi Kartıyla Yapılan Şehir içi ve Şehirlerarası Telefon 
+Görüşmeleri, Manyetik Şerit Kart Okuyucu Telefonlar,
+d)4816- Bilgisayar Network ve Bilgi Servisleri,
+e)4821- Telgraf Hizmetleri,
+f)5045- Bilgisayar, Bilgisayar Donanım ve Yazılım,
+g)5065- Elektrikli Parçalar ve Ekipman,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+10/14
+ğ) 5094-Saat Dükkanları,
+h)5172-Petrol/Benzin İstasyonu,
+ı) 5541-Servis İstasyonları, (Asistans-Yardım Servisi Olan veya Olmayan)
+i) 5542-Yakıt dolum otomatları,
+j)5722- Elektrikli Ev Aletleri Dükkanları,
+k)5732- Çeşitli Elektrik, Elektronik ve Beyaz Eşya Dükkanları ve Yazarkasa Sağlayıcıları,
+l) 5734- Bilgisayar Yazılım Mağazaları,
+m) 5813-İçkili Yerler (Alkollü İçkiler)- Barlar, Tavernalar, Gece Kulüpleri, Kokteyl Salonları ve 
+Diskotekler,
+n)5921-Ambalajlı Ürün Dükkanları- Bira, Şarap ve Alkollü İçecekler,
+o) 5944-Kıymetli Taşlar ve Madenler, Mücevher ve Gümüş Takı Dükkanları,
+ö) 5946- Kamera ve Fotoğraf gereçleri Dükkanları,
+p) 5960-Doğrudan Pazarlama- Sigorta Hizmetleri,
+r)5993-Sigara dükkanları ve Büfeleri,
+s)7011-Konaklama- Oteller, Moteller, Tatil Yerleri (Başka Yerde Sınıflandırılmayan),
+ş) 7379- Bilgisayar Bakım, Tamir ve Hizmetleri-Başka Yerde Sınıflandırılmayan,
+t) 7512-Araç Kiralama Acentesi,
+u) 7523-Otomobil Park Yerleri ve Garajlar,
+ü) 7800- Milli Piyango Satış,
+v) 7995-Kumarhane Fişleri, Off-Track ve Hipodrom Bahisleri Dahil Bahisler,
+y) 8641-Sosyal Dernekler ve Koruma Dernekleri,
+6.2.6 Üye İş yeri Tahsis Sistem Kontrol Kriterleri 
+a) Kimlik Paylaşım Sistemi (KPS) Sorgulama; Kimlik paylaşım sistemi nüfus doğrulama ekranından sorgulanan 
+bilgiler ile müşteri tarafından ibraz edilen kimlik bilgilerinin doğrulanması ve kontrolü yapılacaktır. 
+b) Vergi Levhası Doğrulama; https://ivd.gib.gov.tr internet adresinden, e-vergi levhası doğrulaması yapılacaktır.
+c) Ticaret Sicil Gazetesi Sorgulama; http://tsg.tobb.org.tr internet adresinden ticaret sicil gazetesi sorgulanarak; 1. 
+Firma adresi, 2. Ortaklık yapısı, 3. İmzaya yetkili kişilerin teyidi yapılır. 
+ç) İş yerinin yasal statüsünün şahıs şirketi olması halinde firma sahibinin findeks risk raporu sorgusu yapılacaktır. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+11/14
+d) İş yerinin yasal statüsünün tüzel kişilik olması halinde firmanın Vergi Kimlik numarası ile findeks risk raporu 
+sorgusu yapılacaktır. 
+e) Firmanın findeks risk raporunun alınamaması halinde Üye İş yeri Yönetimi Şube Müdürlüğünün uygun gördüğü 
+firma ortaklarının findeks risk raporu sorgusu yapılacaktır. 
+f) Findeks kredi notu alınabilen müşterilerin puanının >700 (yedi yüzden büyük) olması gerekmektedir.
+g) Findeks kredi notu alınamayan ya da puanı <700 (yedi yüzden düşük) olan müşteriler için PTT müdürü ve/veya 
+ilgili Bölge Müdürlükleri yöneticisinin olumlu görüşü alınması halinde Üye İş yeri Yönetimi Şube Müdürlüğü 
+ve/veya Üye İş yeri Kazanım Şube Müdürlüğü ve /veya Başkanlık Makam Onayı görüşü ile müşteri başvurusu 
+değerlendirilecektir.
+İş yerinin, ortaklık adına işleme yetkili ve/veya firma ortaklarından; 
+i) Güncel gecikme kaydı bulunan firmalardan PTT Müdürü ve/veya ilgili Bölge Müdürlükleri yöneticisinin olumlu 
+görüşü alınması halinde Üye İş yeri Yönetimi Şube Müdürlüğü ve/veya Üye İş yeri Kazanım Şube Müdürlüğü 
+ve/veya Başkanlık Makam Onayı görüşü ile müşteri başvurusu değerlendirilecektir. 
+ii) İdari ve/veya yasal takibi findeks risk raporunda izlenebilen ancak takibi kapalı durumda olan müşteriler için PTT 
+Müdürü ve/veya ilgili Bölge Müdürlükleri yöneticisinin olumlu görüşü alınması halinde Üye İş yeri Yönetimi Şube 
+Müdürlüğü ve/veya Üye İş yeri Kazanım Şube Müdürlüğü ve/veya Başkanlık Makam Onayı görüşü ile müşteri 
+başvurusu değerlendirilecektir. 
+iii) Açık idari ve/veya yasal takip kaydı bulunan firmalarla POS çalışması yapılmayacaktır. 
+ğ) Üye İş yeri Yönetimi Şube Müdürlüğünce istihbarat için gerekli görülmesi halinde başvuru yapılan ve/veya bağlı 
+olduğu grup firmalarına Çek Risk Raporu sorgusu yapılabilecektir. 
+i) Sorgulama yapılması halinde başvuru yapılan ve/veya bağlı olduğu grup firmalarına ait karşılıksız çek kaydı 
+olanlar ile POS çalışması yapılmayacaktır. 
+ii) Son 1(bir) yıl içinde ödentisi olsa dahi 20 (yirmi) adet ve fazla sayıda çeki yazılanlar, başka bankalarda açık 
+takibi olanlar ile POS çalışması yapılmayacaktır. 
+6.2.6.7 BKM Fesih Dosyası Kontrolü 
+6.2.6.7.1 Düzenleyici ve Denetleyici Kurumlar nezdinde yayımlanan ve üye bankalar tarafından sözleşmesi 
+feshedilen iş yeri bilgilerini içeren listede fesih kararına ilişkin neden kodları yer almaktadır. Bu neden kodlarından 
+fiktif işlem sebebiyle fesih kaydı alınması halinde fiktif işlem karar tarihinden itibaren firmaya 1 (bir) yıl süre ile; 
+fiktif işlem kararı tarihinden itibaren 5 (beş) yıl içinde, aynı eylemin tekrarlanması halinde 3 (üç) yıl süre ile POS 
+tahsis edilmeyecektir. 
+6.2.6.7.2 BKM fesih sorgusu firma açılış tarihinden itibaren 5 (beş) yıl geriye dönük olarak yapılacaktır. 
+6.2.6.7.3 Firma açılış tarihinden önceki 5 (beş) yıl içerisinde fesih kaydı varsa ve müşteri başka bir banka ile hali 
+hazırda çalışıyorsa;
+a) Müşterinin hangi banka ile çalıştığı öğrenilecektir. 
+b) Fraud ekibine üye iş yeri bilgileri ve anlaşmalı olduğu banka bilgileri gönderilecektir. 
+c) Fraud ekibi karşı banka istihbaratını yapacaktır.
+ç) İstihbarat sonucuna göre onay/ret verilebilecektir.
+6.2.6.7.4 Firma açılış tarihinden sonra BKM fesih kaydına rastlanması halinde; 
+a) Fesih listesine alınma tarihi ve alınma nedeni öğrenilecektir. 
+b) Fesih listesine alınma tarihinden itibaren 5 (beş) yıl içinde bir kayıt var ise fesih listesine alınma nedenine göre 
+değerlendirme yapılarak ret/onay verilebilecektir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+12/14
+c) Fesih listesine alınma tarihinden itibaren 5 (beş) yılın sonunda herhangi bir fesih kaydı olmaması durumunda PTT 
+müdürü ve/veya ilgili Bölge Müdürlüklerinin olumlu görüşü alınması halinde Üye İş Yeri Yönetimi Şube 
+Müdürlüğü ve/veya Üye İş Yeri Kazanım Şube Müdürlüğü ve/veya Başkanlık Makam Onayı görüşü ile müşteri 
+başvurusu değerlendirilecektir. 
+6.2.6.8 Sanal POS Tahsis Kriterleri 
+a) İş yerinin e-ticaret sitesi varsa ürün kataloğu, alışveriş sepeti ve satış sistemi bulunmalıdır.
+b) Firmanın web sayfası erişilebilir, sitedeki ödeme adımları çalışıyor olmalıdır.
+c) Ödeme sayfasında kredi kartı ile ödeme seçeneği yer almalıdır. 
+ç) Ödeme sayfasının çalışır olduğu test edilmelidir.
+d) Firma, sanal mağazasında güvenli alışveriş ortamını sağlamak için yetkili kuruluşlardan geçerli SSL sertifikası 
+almalıdır. 
+e) SSL sertifikasının süresi kontrol edilmeli ve sertifikanın süresinin dolmasına 1 (bir) ay veya daha az süre kalmışsa 
+firma aranılarak sertifika yeniletilmelidir.
+f) Firmanın faaliyet tipine sanal POS kullanımı uygun olmalıdır. (Uygun faaliyet alanları 5.2.1 maddede detaylıca 
+belirtilmiştir.) 
+g) İş yerinin sitesindeki linkler çalışıyor olmalıdır. Kategorideki tüm ürünlere girilebilmelidir. 
+ğ) İş yerinin web sitesinde tüketici hakları (iade, iptal ve garanti koşulları) konusunda içerik olmalıdır.
+h) Web sayfasında "gizlilik taahhüdü ve güvenlik politikası" ile ilgili yazılı içerikler yer almalıdır.
+ı) Web sayfasında ürün teslimatına veya hizmet sunumuna ilişkin bilgiler yer almalıdır. Şehir içi ve şehir dışı 
+teslimat süreleri ile ilgili olarak sitede açıklama yapılması müşteri memnuniyeti açısından önem teşkil etmektedir.
+i) Web sayfasında firmanın adı, açık adresi, sabit telefon ve fax numaraları, e-posta adresi gibi tüm iletişim bilgileri 
+doğru ve güncel olarak yer almalıdır. 
+j) Firma, faaliyet alanına göre yetkili kurumlardan aldığı evrakları başvuru esnasında iletmelidir. (Faaliyet alanına 
+göre alınması gereken belgeler 5.1.3.13 maddede detaylıca belirtilmiştir.) 
+k) İş yerinin sitesinde sattığı ürünler Türkiye Cumhuriyeti kanunlarına uygun olmalıdır.
+l) POS talebinde bulunan firma talep tarihinden en az 6 (altı) ay öncesinde kurulmuş olmalıdır. Firmanın kuruluş 
+tarihinin 6 aydan daha yakın bir tarih olması halinde PTT müdürü ve/veya ilgili Bölge Müdürlüklerinin olumlu 
+görüşü alınması halinde Üye İş Yeri Yönetimi Şube Müdürlüğü ve/veya Üye İş Yeri Kazanım Şube Müdürlüğü 
+ve/veya Başkanlık Makam Onayı görüşü ile müşteri başvurusu değerlendirilecektir.
+m) POS talebinde bulunan firmanın Türkiye’de kurulu, en az 1 (bir) banka ve/veya Ödeme Kuruluşu ile sanal POS 
+çalışması bulunmalıdır. Firmanın yeni kuruluş olması ve PTT müdürü ve/veya ilgili Bölge Müdürlükleri 
+yöneticisinin olumlu görüşü alınması halinde Üye İş Yeri Yönetimi Şube Müdürlüğü ve/veya Üye İş Yeri Kazanım 
+Şube Müdürlüğü Şube Müdürlüğü ve/veya Başkanlık Makam Onayı görüşü ile müşteri başvurusu 
+değerlendirilecektir.
+n) Sanal POS, sözleşmede belirtilen web site adres/adresleri dışında kullanılmayacaktır. 
+o) Sanal POS’un sözleşmede belirtilen web site adres/adresleri dışında kullanıldığının ve site içeriğinin izinsiz 
+değiştirildiğinin tespiti durumunda sözleşme feshedilecek ve gerekli durumlarda iş yeri ile ilgili hukuki süreç 
+başlatılacaktır. 
+ö) Bilgi gizliliği ve güvenliği kapsamında; Payment Card Industry Data Security Standarts (PCI DSS) üye iş yerinin 
+data saklaması yasaktır. Kart bilgilerinin iş yerinin sistem/serverlarında tutulmaması gerekmekte olup bilgilerin 
+firmanın sisteminde tutulduğunun tespit edilmesi halinde Sanal POS üyeliği kapatılır ve kart kuruluşları (Visa, 
+Mastercard, BKM, Troy) tarafından uygulanan cezalar firmadan tahsil edilir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+13/14
+p) Sanal POS üzerinden yapılan işlemlerde kart fiziki olarak geçirilmediğinden chargeback riski yüksektir. Sanal 
+POS üzerinden gerçekleştirilen sahtecilik amaçlı işlemlerde kart kuruluşları kuralları gereğince sorumluluk üye iş 
+yerindedir. Bu nedenle işlemler %100 3D SECURE ile çalışmalıdır.
+r) Fraud ve Üye İş Yeri Yönetimi Şube Müdürlüğünce web sitesi kontrol edilmeli, farklı bir siteye/yurt dışı adrese 
+yönlendirme olup olmadığı örnek işlem üzerinden denenerek diğer banka POS’u ve/veya Ödeme Kuruluşu POS’u 
+doğrulanmalıdır. Gerekiyorsa güncel POS ekstresi talep edilmeli, işlem tutarları da kontrol edilmelidir. 
+6.2.7 Tahsis Değerlendirme ve Onay Sürecinde İş Akışı
+6.2.7.1 PTT Müdürü tarafından onaylanarak Ödeme Sistemleri Daire Başkanlığı Üye İş Yeri Yönetimi Şube 
+Müdürlüğüne iletilen talep, iş bu prosedürde yer alan tahsis kriterlerine göre değerlendirilir.
+6.2.7.2 Uygunluk verilmesi halinde ilgili PTT iş yerince sisteme giriş yapılarak ilgili Firmaya/Şirkete PTT hesapları 
+açılır. 
+6.2.7.3 Uygunluk verilmemesi halinde düzeltme yapılması için Ödeme Sistemleri Daire Başkanlığı Üye İş Yeri 
+Yönetimi Şube Müdürlüğünce ilgili PTT iş yerine talep iade edilebilir ya da tamamen talep reddedilebilir. 
+6.2.7.4 İade edilmesi durumunda PTT iş yerince gerekli düzeltmeler yapılması sonrasında nihai onay için talep, 
+Ödeme Sistemleri Daire Başkanlığı Üye İş Yeri Yönetimi Şube Müdürlüğüne iletilir. 
+6.2.7.5 Ödeme Sistemleri Daire Başkanlığı Üye İş Yeri Yönetimi Şube Müdürlüğünce nihai onay verilmesi halinde 
+ilgili firmaya/Şirkete POS tahsis edilir.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.028-6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para 
+Kuruluşları Hakkında Kanun 
+KN.045-5464 sayılı Banka Kartları ve Kredi Kartları Kanunu 
+KN.046-5411 sayılı Bankacılık Kanunu
+KR.003-7879 sayılı Bankacılık Düzenleme ve Denetleme Kurulu Kararı
+KR.004-Türkiye Bankalar Birliği’nin POS Cihazları, Banka Kartları veya Kredi Kartlarının Amaç Dışı Kullanım 
+Hallerinin Belirlenmesi Hakkında Mesleki Tanzim Kararı
+ÖSD.FR04-PTT Üye İş Yeri Sözleşmesi Formu
+ÖSD.FR09-Müşteri Bilgi Formu
+PBD.FR32-Posta Çeki Hesap Açma Sözleşmesi
+TBL.008-Türkiye Bankalar Birliği’nin Fiktif İşlem Değerlendirme Komitesinin Oluşumu, Çalışma Esas ve 
+Usulleri Hakkında Tebliği
+YNT.070-Banka Kartları ve Kredi Kartları Hakkında Yönetmelik
+11. REVİZYON BİLGİLERİ
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Doküman Adı
+Ödeme Sistemleri Pos Tahsis Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+ÖSD.PR01
+İlk Yayım Tarihi
+31.03.2023
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+14/14
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+0 31.03.2023 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

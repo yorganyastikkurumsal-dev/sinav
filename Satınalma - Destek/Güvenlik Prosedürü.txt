@@ -1,0 +1,511 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan:
+DESTEK HİZMETLERİ VE 
+ULAŞIM D. BŞK.
+Süreç Sahibi:
+DESTEK HİZMETLERİ VE 
+ULAŞIM D. BŞK. DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM SİSTEMİ 
+DAİRE BAŞKANLIĞI DAİRE 
+BAŞKANI
+Onaylayan / İdari
+GENEL MÜDÜR
+Doküman No
+DHU.PR01.11/1110.05.2021
+Dokümanın Adı:
+GÜVENLİK PROSEDÜRÜ
+Gizlilik Derecesi:
+Tüm 
+Kullanıcılar
+Doküman No:
+DHU.PR01
+İlk Yayın Tarihi
+11.07.2018
+Revizyon Tarihi
+10.05.2021
+Revizyon No:
+1
+Sayfa Sayısı:
+1/11
+REVİZYON TARİHÇESİ
+Revizyon 
+No Revizyon Tarihi Açıklama
+1 10.05.2021
+5.1.2.2. maddesi " Genel Müdür, Genel Müdür Yardımcıları, Yönetim 
+Kurulu Üyeleri, Sayıştay Denetçileri, I. Hukuk  Müşaviri, Başkan ve Daire 
+Başkanları, , Başmüdürler, Başkan Yardımcıları, Hukuk Müşavirleri,  
+Müfettişler/Denetçiler, Avukatlar ile Genel Müdürlük Müşavirleri VIP 
+girişinden geçiş yapar." ifadesi "Genel Müdür, Genel Müdür Yardımcıları, 
+Yönetim Kurulu Üyeleri, Sayıştay Denetçileri,  I. Hukuk Müşaviri, Başkan ve 
+Daire Başkanları, Başmüdürler, Başkan Yardımcıları, Hukuk Müşavirleri,  
+Müfettişler/Denetçiler ile Avukatlar VIP girişinden geçiş yapar." şeklinde 
+güncellenmiştir.
+0 11.07.2018  
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman No
+DHU.PR01.12/1110.05.2021
+1.AMAÇ
+Bu prosedürün amacı Posta ve Telgraf Teşkilatı Anonim Şirketine ait işyerlerinde çalışanların, müşterilerin, 
+ziyaretçilerin, can ve mal güvenliğinin sağlanması ile demirbaş, malzeme, araç, gereç ve müşteri 
+mülkiyetinin her türlü sabotaj, saldırı ve hırsızlığa karşı korunmasını sağlamak için gerekli tedbirleri 
+belirlemektir.
+2.KAPSAM
+Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketine ait tüm lokasyonlarda çalışanların, müşterilerin, 
+bina, araç, gereç ve diğer varlıklarının güvenliğinin sağlanması için alınacak tedbirler ile bu tedbirleri 
+uygulamaktan sorumlu tüm birimleri ve çalışanları kapsar.
+3.TANIMLAR VE KISALTMALAR
+3.1 Kamera Sistemi (CCTV): PTT İşyerlerinin, çevre ve bina içi güvenliğinin sağlanmasına yardımcı 
+olmak için kurulan ve kayıt yapabilen sistemler.
+3.2 Şirket/PTT: Posta Telgraf Teşkilatı Anonim Şirketi.
+4. SORUMLULUKLAR
+Bu prosedürün uygulanmasından Genel Müdürlükte Destek Hizmetleri ve Ulaşım Daire Başkanlığı, 
+Başmüdürlüklerde Başmüdürler ve bağlı işyerlerinde ise o işyerinin birim yöneticisi sorumludur.
+5.UYGULAMA
+5.1 Genel Müdürlük Hizmet Binalarının Güvenliği 
+Güvenli alanların fiziksel ve çevresel güvenliği Güvenli Alanların Fiziksel ve Çevresel Güvenliği 
+Talimatına göre yapılır.
+5.1.1 Özel Güvenlik Görevlilerinin Çalışma Düzeni
+Özel güvenlik görevlileri 7/24 saat esasına göre görev yaparlar.
+5.1.2 Personel Giriş Çıkışları
+5.1.2.1 Genel Müdürlüğümüz ana ve ek hizmet binalarına her türlü giriş ve çıkışlar kartlı geçiş sisteminden 
+yapılır.  Güvenlik görevlilerinden aksi yönde talepte bulunulmaz.
+5.1.2.2 Genel Müdür, Genel Müdür Yardımcıları, Yönetim Kurulu Üyeleri, Sayıştay Denetçileri,  I. Hukuk 
+Müşaviri, Başkan ve Daire Başkanları, Başmüdürler, Başkan Yardımcıları, Hukuk Müşavirleri,  
+Müfettişler/Denetçiler ile Avukatlar VIP girişinden geçiş yapar.
+5.1.2.3 Giriş kartını unutan çalışanlar Kartı Olmayan veya Kartını Unutan Çalışanlara Ziyaretçi Giriş 
+Kartı Verilmesine İlişkin Tutanağı imzalayarak kimlik karşılığı ziyaretçi giriş kartı alır ve o gün giriş-
+çıkışını bu kart ile yapar, mesai bitiminde kartı teslim eder.
+5.1.2.4 Temizlik şirketi, mutfak ve çay ocaklarında çalışanlar hariç personel, mesai başlama saatine yarım 
+saat kala binaya alınmaya başlanır. Bu saatten önce binalara gelen personel fazla çalışma kapsamında 
+değerlendirilerek Dairesince önceden bildirilmiş ise binaya alınır, aksi takdirde binaya girişine müsaade 
+edilmez. Binaya giriş saatine kadar ziyaretçi salonunda bekler.
+5.1.2.5 Garaj katından Genel Müdürlük şoförleri, yemekhane girişinden de yemek almaya gelen şoförler 
+dışında kimse binaya giriş-çıkış yapamaz.
+5.1.2.6 Kendi giriş kartını başkasına kullandıran ya da başkasının giriş kartını kullanarak binaya giriş çıkış 
+yapanların tespit edilmesi durumunda görevlilerce tutanak tutulur,  personel hakkında gereği sağlanmak 
+üzere ilgili birim sorumlusuna bildirilir.
+5.1.2.7 Tüm personel kendilerine verilmiş bulunan Personel Kimlik Kartını binaya girişte ve mesai süresince 
+dışarıdan görülebilecek şekilde yakasına veya boynuna takılı bulundurur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman No
+DHU.PR01.13/1110.05.2021
+5.1.2.8 Şirketimizde staj yapacak öğrenciler için, ilgili birim 1 adet fotoğraf ve nüfus cüzdanı fotokopisini 
+Destek Hizmetleri ve Ulaşım Daire Başkanlığına talep yazısı ile birlikte göndererek, stajyer kimlik kartı ve 
+geçici giriş kartı çıkartılmasını sağlar. Stajyerlerin, çalıştıkları süre içinde kimlik kartlarını yakalarına 
+takmaları veya boyunlarına asmaları sağlanır, staj bitiminde ise kimlik ve geçici giriş kartı çalıştığı 
+dairesince teslim alınarak 3 gün içinde Destek Hizmetleri ve Ulaşım Daire Başkanlığına iade edilir, Kimlik 
+Kartı ve geçici giriş kartının teslim edilmemesinden doğacak sorumluluk ilgili birime aittir.
+5.1.2.9 Giriş kartı kaybolan ya da arızalanan çalışanlar, kart bedelinin Muhasebe Daire Başkanlığına 
+yatırıldığına dair makbuz ile birlikte Destek Hizmetleri ve Ulaşım Daire Başkanlığından yazılı olarak yeni 
+kart talep eder.
+5.1.2.10 Genel Müdürlükten ayrılan çalışanlara ait giriş çıkış kartı ilgili birimce teslim alınarak 3 gün içinde 
+Destek Hizmetleri ve Ulaşım Daire Başkanlığına iade edilir, yeni başlayanlar için giriş çıkış kartı talebi 
+gerekli bilgilerle (ad, soyad, sicil no) birlikte yazılı olarak 3 gün içerisinde talep edilir.
+5.1.2.11 Genel Müdürlükde göreve başlayan çalışanların sicil, unvan, oda numarası, ev adresleri, GSM, ev 
+ve iş telefonları ilgili birim tarafından kartlı geçiş sistemine işlenir.
+5.1.2.12 Tüm çalışanlar mesai başlangıcında kapı detektöründen (hamile bayanlar, kalp pili olanlar hariç, 
+bunlar ana binadan giriş yapar) geçer. Binalara kesinlikle silahla girilmez, varsa taşıma ruhsatlı silah 
+binalarımıza girerken güvenlik görevlisine teslim edilir. Güvenlik görevlisi bu silahı usulüne uygun olarak 
+silah kasasında muhafaza eder. Silahı teslim eden personel ile teslim alan güvenlik görevlisi, Silah Devir 
+Teslim ve Rapor Defterini girişte ve çıkışta karşılıklı imzalayarak silahı devralacak ve teslim edeceklerdir. 
+Binalarımıza ruhsatlı veya ruhsatsız silah ile girdiği tespit edilen personel hakkında Disiplin Prosedürüne 
+göre gerekli işlem yapılır.
+5.1.2.13 Hafta içi günlerde mesai saatleri dışında fazla çalışmasına ihtiyaç duyulan personelin isim listesi 
+aynı gün saat 16.30’a kadar, hafta sonları fazla çalışmasına ihtiyaç duyulan personelin isim listesi ise Cuma 
+günü saat 16.30’a kadar Destek Hizmetleri ve Ulaşım Daire Başkanlığına yazılı olarak bildirilir. Saat 
+16:30’dan sonra gelişen acil durumlarda çalışacakların listesi e-posta  ile görevli personele bildirilebilir. 
+Daire Başkanı, Başkan Yardımcıları ve Şube Müdürleri dışında ismi bildirilmeyen personelin mesai saati 
+bitiminde binayı terk etmesi sağlanır, mesai saatleri dışında binalara alınmazlar.
+5.1.2.14 Kendisine ait herhangi bir malzemesini unutmuş olması vesilesiyle mesai saati dışında gelen 
+personelin odaları güvenlik görevlisi nezaretinde açılır ve ilgili personelin odadan alacağı eşya görüldükten 
+sonra kurumu ilgilendiriyor ise konu ile ilgili tutanak tutulur (Tutanak ilgili personel ve güvenlik görevlisi 
+tarafından imzalanır.). Yine güvenlik görevlisi nezaretinde kapı kilitlenerek, anahtar, kat anahtar dolabına 
+asılır.
+5.1.3 Evrak ve Haberleşme Güvenliği
+5.1.3.1 Güvenlik önlemleri kapsamında evrak güvenliğine azami özen gösterilir, gizlilik derecesi yüksek 
+evraklar açıkta bırakılmaz ve gizlilik ihlaline meydan verilmeden gizli yazışmaların dağıtımları ve işlem 
+görmesi esnasında usulüne uygun hareket edilir.
+5.1.3.2 Arşivde muhafazası gereken evraklar ile imhası gerekli görülen evraklar hakkında Arşiv Yönetmeliği 
+hükümlerine göre işlem yapılır.
+5.1.3.3 Personel kendi aralarında ve diğer kurum ve kuruluşlarla gizlilik derecesi yüksek konuları telli veya 
+telsiz haberleşme vasıtasıyla görüşmez, faks ve e-posta ile gizlilik dereceli evrak gönderilmez. Dinlemeye 
+karşı özellik arz eden cihazlar ve gerekli görülen yerler arama ve kontrole tabi tutulur.
+5.1.4 İrtibat Bürosu
+5.1.4.1 İrtibat bürosu tarafından önemli gelişmeler 7/24 saat esasına göre mesai saatleri içerisinde ilgili 
+Daire Başkanlığına, mesai saatleri dışında ve tatil günlerinde ise Genel Müdürlük nöbetçi personeline haber 
+verilir. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman No
+DHU.PR01.14/1110.05.2021
+5.1.4.2 Haberleşmede Acil Durum İletişim Formunda yer alan numaralar dikkate alınır. Bakanlık Afet ve 
+Acil Durum Merkezinden ve Başmüdürlüklerden nöbetçi personele gelen evraklar irtibat bürosu tarafından 
+ilgili Daire Başkanına iletilir.
+5.1.5 Daire Emniyet Memurluğu
+5.1.5.1 İşyeri birim veya ünite amirleri tarafından kendi birimine ait çalışma odalarını ve bu odaların giriş 
+çıkışa açıldığı koridorları kontrol etmek üzere her gün için bir personel Daire Emniyet Memuru olarak 
+görevlendirilir. Görevlendirmeler Aylık Emniyet Memuru Görevlendirme Listesine göre tüm çalışanlara 
+duyurulur.
+5.1.5.2 Daire Emniyet Memurunun görevi sabah mesaisi ile başlar, akşam mesai bitiminde koridor ve 
+çalışma odalarının emniyet ve temizlik kontörlünü yaptıktan sonra sona erer. Nöbet çizelgeleri aylık olarak 
+düzenlenir ve günlük kontroller yapıldıktan sonra Daire Emniyet Memuru tarafından imzalanacak olan ekli 
+Günlük Emniyet Kontrol Formu dosyasında muhafaza edilir.
+5.1.5.3 Daire Emniyet Memuru, ziyaretçilerin koridorlarda keyfi dolaşmalarını önler, şüpheli harekette 
+bulunanların takibini yaparak gerektiğinde güvenlik personeline bildirir. Mesai bitimi yöneticilerin bilgisi 
+dışında personel ve ziyaretçi kalıp kalmadığını kontrol eder. Büroda çalışma odalarındaki kasa, masa ile 
+dolap kilitlerini ve açıkta gizlilik dereceli evrak bulunup bulunmadığını gözden geçirerek, varsa emniyete 
+alır. Odalarda çalışır durumdaki gereksiz elektrik cihazlarının sebep olabileceği yangınlara karşı gerekli 
+önlemleri alır ve çalışma odalarının temizlik ve emniyet kontrolünü yaptıktan sonra gereksiz lambaları 
+söndürür, gizlilik dereceli evrak ve malzemelerin bulunduğu odaların kapılarını kilitler, kapı ve pencereleri 
+kapatır ve anahtarları ilgili kasada güvenlik görevlisine teslim eder. Büronun emniyet ve güvenlik 
+kontrolünü son kez yaparak Günlük Emniyet Kontrol Formunu imzalar ve görev yerinden ayrılır.
+5.1.6 Ziyaretçi Giriş Çıkışları
+5.1.6.1 Genel Müdür, Genel Müdür Yardımcıları ve Yönetim Kurulu Üyelerinin randevulu ziyaretçileri 
+sekreterlerine haber verilerek makamlarına alınır, bu kişiler giriş çıkışlarda VIP girişini kullanır. Bunlar 
+dışındaki tüm ziyaretçiler kesinlikle ziyaretçi giriş kartı ile içeri alınır.
+5.1.6.2 Sayıştay Denetçileri, , I. Hukuk Müşaviri, Başkan ve Daire Başkanları,  Başmüdürler, Başkan 
+Yardımcıları, Hukuk Müşavirleri, Müfettişler, Denetçiler ile Genel Müdürlük müşavirleri, Şube Müdürleri, 
+Teknik Müdürler ve Sekreterlerin ziyaretçileri teyit alındıktan ve ziyaretçi kartı verildikten sonra odalara 
+çıkmasına izin verilir.
+5.1.6.3 Personelin birinci derece yakınları (Eşi, çocukları, anne, baba ve kardeşleri) ziyaretçi kartı 
+verildikten sonra odalarında, diğer ziyaretçileri ise ziyaretçi salonunda kabul etmeleri sağlanır.
+5.1.6.4 Daire Başkanları ve üst unvanlardaki çalışanlarımız ve bu unvanlara vekalet eden kişilerin misafirleri 
+hariç diğer misafirler en geç saat 17:30’da bina dışına çıkış yapar.
+5.1.6.5 İş takibi ve ziyaret amacıyla gelen PTT personeli ve emeklileri, ilgililerden teyit alındıktan ve 
+kimlikleri alınıp ziyaretçi kartı verildikten sonra çalışma düzenini aksatmayacak şekilde odalarında 
+ziyaretleri sağlanır.
+5.1.6.6 Ziyarete gelenler teyit alınarak ziyaret yerlerine gönderilir. Misafirlerinin ilgili yere ulaşıp 
+ulaşmadığının teyidi alınır. Şayet ziyaretçi ilgili yere ulaşmamış ise güvenlik görevlileri konu ile ilgili 
+araştırma yapar, durumundan şüphelenilenler acilen dışarı çıkarılır.
+5.1.6.7 Mesai saatleri dışında (saat 17.30’dan sonra, cumartesi, pazar ve resmi tatil günleri) kesinlikle 
+ziyaretçiler katlara alınmaz. Böyle durumlarda ziyaretçiler ziyaretçi salonunda kabul edilir.
+5.1.6.8 Ulus PTT Merkez Müdürlüğü ve Kantin amirliğinde çalışan personelimizin birinci derece yakınları 
+dahil misafirleri ile görüşmeleri ziyaretçi salonunda yapılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman No
+DHU.PR01.15/1110.05.2021
+5.1.6.9 Bankalardan, sigorta ve kargo şirketlerinden, eczanelerden gelen kişiler, pazarlamacılar, yemek, 
+çiçek, paket vb. getirenler bina içerisine kesinlikle alınmaz, bunların görüşmek istediği personele telefonla 
+haber verilerek ziyaretçi salonunda görüşmesi veya adına gelen eşyayı bina girişinde teslim alması sağlanır.
+5.1.6.10 Temizlik firması ve çay ocağı çalışanlarının mesai saatleri içerisinde ziyarete gelen birinci derece 
+yakınları bulundukları katta kendilerini kısa süreli ziyaret edebilecektir. Hafta sonları ve tatil günleri birinci 
+derece yakınlar dahil hiç kimse katlara çıkarılmaz.
+5.1.7 Taşeron Çalışanların Giriş Çıkışları
+5.1.7.1 Binalarımızda temizlik, mutfak ve çay ocağı işlerini yürüten firmalar, çalıştıracakları elemanlara 
+geçici giriş kartı çıkarılması için nüfus cüzdanı fotokopisi ve adli sicil kaydını şirket kaşesi ve yetkilisinin 
+imzası ile yazılan bir dilekçe eşliğinde Destek Hizmetleri ve Ulaşım Daire Başkanlığına gönderir.
+5.1.7.2 Geçici giriş kartları firmalara zimmetlenecek olup, işten ayrılan çalışanların geçici giriş kartları ilgili 
+firma tarafından teslim alınır ve Destek Hizmetleri ve Ulaşım Daire Başkanlığına iade edilir.
+5.1.7.3 Teslim alınamayan kartların kullanıma kapatılabilmesi için numaraları Destek Hizmetleri ve Ulaşım 
+Daire Başkanlığına bildirilir, kart bedelleri ilgili firmadan tahsil edilir. Bildirim yapılmayan kartlardan 
+kaynaklanan problemlerden ilgili firma sorumlu tutulur.
+5.1.7.4 Binalarımızın temizlik, mutfak ve çay ocağı işlerini yürüten firma elemanları saat 06.30’dan itibaren 
+kendilerine verilen geçici giriş kartını turnikeden okutmak suretiyle binaya alınmaya başlanır, 
+5.1.7.5 Sabah mesaiye gelen temizlik firması elemanları sorumlu oldukları kata ait dolap anahtarlarını 
+Anahtar Teslim Formu doldurularak imza karşılığı teslim alır ve temizliklerini yaparlar.
+5.1.7.6 Temizlik firması elemanları sadece temizlik yapacağı odayı açıp diğerlerini kapalı bulunduracak, 
+sırasıyla yapılacak bu işlemde kapalı olan odaların anahtarları firma elemanının kontrolünde olacaktır.
+5.1.7.7 Temizlik firması çalışanları sabah gelip odayı açtıklarında, normal olmayan bir durumla 
+karşılaştıklarında hiçbir eşyaya dokunmadan odayı kilitleyip, durumu görevli personele ve güvenlik 
+görevlilerine bildirir, sorumlu personel veya güvenlik görevlisi konu ile ilgili gerekli çalışmayı yapar ve 
+işlem bittikten sonra tutanağını tutar.
+5.1.7.8 Tatil günlerinde temizliğe gelen görevliler, görevli personelden sorumlu oldukları kata ait dolap 
+anahtarlarını Anahtar Teslim Formu ile alarak temizliklerini yaparlar. Temizlik bittikten sonra odada 
+yanan lamba, açık kalan pencere, tuvaletlerde açık kalan musluk varsa kapatılır, bilahare odaların kapılarını 
+kilitleyerek anahtarlarını katlardaki anahtar dolabına asar, kat anahtar dolaplarını da kilitleyip, anahtarlarını 
+görevli personele teslim eder ve buna ilişkin Anahtar Teslim Formunu imzalar.
+5.1.7.9 Taşeron firma elamanlarının mesai çıkışlarında gerek görüldüğü takdirde çanta ve üst araması 
+yapılır.
+5.1.7.10 Daire Başkanlıklarında göreve başlayan Taşeron Firma elemanları için geçici giriş kartı talebi ve 
+takibi ilgili Başkanlık tarafından yapılır. Kart talebi yapılırken kart talep yazısına nüfus cüzdan fotokopisi 
+eklenir ve ilgilinin görevinden ayrılması durumunda kartı teslim alınarak Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığına gönderilir.
+5.1.8 Hizmet, Tanıtım, Bakım veya Onarım İçin Gelen Taşeron Firma Temsilcilerinin Giriş ve 
+Çıkışları
+5.1.8.1 Genel Müdürlük Posta Sarayı ile ek hizmet binasında tadilat, tamirat, bakım, malzeme taşıma gibi 
+sebeplerle elaman çalıştırılmasına ihtiyaç olması halinde işi yaptıran birim tarafından belirlenen sorumlu 
+personel ile çalışacak taşeron firma elemanlarının isimleri, çalışma saatleri, eğer çalışma saatleri dışında da 
+devam edecek ise çalışmanın biteceği saat Destek Hizmetleri ve Ulaşım Daire Başkanlığına yazılı olarak 
+bildirilir.
+5.1.8.2 Proje ile ilgili sorumlu bir personel (Projeyi yürütme görevi Başmüdürlüğe verilmiş ise 
+Başmüdürlükten proje ile ilgili sorumlu personel) görevlendirilerek, işin başlangıcından bitimine kadar 
+çalışan elemanların başında bulunacak, bu süre zarfında hem işin projeye uygun yapılıp yapılmadığını, hem 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman No
+DHU.PR01.16/1110.05.2021
+de güvenlik açısından çalışan şahısların yaptıkları işle ilgili olmayan yerlere girip çıkmasını, bina içerisinde 
+kontrolsüz dolaşmalarını engelleyecektir. Bu süre zarfında ilgili Dairesinden görevli personelle birlikte özel 
+güvenlik görevlilerinden biri de nöbet görevi ile ilgili işlerini aksatmayacak şekilde çalışan şahısları kontrol 
+eder.
+5.1.8.3 İsimleri bildirilmeyen ve başlarında sorumlu personel bulunmayanların çalışmasına müsaade 
+edilmez. Ani gelişen arıza vb. durumlarda ilgili birim sorumlusundan telefon ile izin alınarak personel ve 
+harici kişilere görevli personel tarafından izin verilir, sonrasında kişilerin isimlerinin de yer aldığı konu ile 
+ilgili tutanak tanzim edilir.
+5.1.9 Araç Giriş Çıkışı
+5.1.9.1 Bina önünde bulunan araç park yerine, Genel Müdür, Genel Müdür Yardımcıları, Yönetim Kurulu 
+Üyeleri, Sayıştay Denetçileri ve bu makamlara gelen misafirlerin araçları, şirketimizin görev araçları ve iş 
+için Şirketimize gelen resmi araçlar dışında araç park edilmez.
+5.1.9.2 Garajda sivil araçlar için ayrılan park yerlerine Genel Müdür Yardımcıları, I. Hukuk Müşaviri, 
+Başkan ve Daire Başkanları ile  Danışmanlar sisteme tanımlanmış araçlarını park edebilecektir. Ancak park 
+yeri sayısının sınırlı olması nedeniyle bu bölümde yer kalmadığı takdirde park yapılmaz, görevli personele 
+bu yönde baskı yapmak suretiyle görevini yapmasına engel olacak davranışlarda bulunulmaz.
+5.1.9.3 LPG ve CNG yakıtı kullanan araçların kapalı garajlara girmesi yasak olduğundan bu araçlar garaja 
+kesinlikle alınmaz. 
+5.1.9.4 Garajda görevli nöbetçi şoför araçların anahtarlarının alımı, garajın düzeni, sivil araçların 
+anahtarlarının bir dolapta muhafaza edilmesi gibi konulardan sorumlu olacak, sivil araç anahtarlarının mesai 
+bitiminde güvenlik görevlisine teslim edilmesini sağlayacaktır.
+5.1.9.5 Kurum araçlarımızdan gün içinde kullanılacaklar sabah bina önündeki araç park yerine çekilir, saat 
+17:30’dan sonra nöbetçi araç hariç diğerleri garaja çekilir.
+5.1.9.6 Garaja park edilen araçların içinde değerli eşya ve para bırakılmaz, bu tür kıymetlerin kaybından 
+şoför ve güvenlik görevlisi sorumlu tutulmaz.
+5.1.9.7 Garaja bırakılan sivil araçlar saat 21:00’den önce alınır. Bu saatten sonra çalışmaya devam edilecek 
+ise araç sahibi tarafından (Genel Müdür, Genel Müdür Yardımcıları, Yönetim Kurulu Üyeleri ve Sayıştay 
+Denetçileri hariç) bina önündeki park alanına çekilir.
+5.1.9.8 Kurum şoförleri ile özel güvenlik görevlilerinin özel araçları kullanması kesinlikle yasak olduğundan 
+bu yönde herhangi bir talepte bulunulmaz.
+5.1.9.10 Ana binaya mesai saatleri dahilinde malzeme getirenler ve buradan malzeme çıkarmak isteyenler 
+(malzemesi az olanlar hariç) garaja yönlendirilir, getirilen veya çıkarılan malzemenin yük asansörü 
+vasıtasıyla garajdan nakli sağlanır. 
+5.1.9.11 Malzeme çıkaracak birimler bu malzemelere ait çıkış yazısını güvenlik görevlisine teslim eder. 
+Malzeme getiren kişiler garaj güvenliğine kimlik bırakıp ziyaretçi kartı alarak binaya giriş yapar. Kimlik 
+bilgileri ziyaretçi takip programına kaydedilir.
+5.1.9.12 Ek binaya malzeme getirenler ve buradan malzeme çıkarmak isteyenler, kantin giriş kapısını 
+kullanacak ve bu işlemler 09:00-11:30 / 13:30-16:30 saatleri arasında gerçekleştirilecektir. Bu saatler 
+haricinde malzeme getirmesi veya çıkarması gereken birimler tarafından, Destek Hizmetleri ve Ulaşım 
+Daire Başkanlığına önceden yazılı olarak bilgi verilir. Malzeme getiren kişiler ek bina girişindeki güvenliğe 
+kimlik bırakıp, ziyaretçi kartı aldıktan sonra binaya giriş yapar. Kimlik bilgileri ziyaretçi takip programına 
+kaydedilir. Malzeme çıkaracak birimler bu malzemelere ait çıkış yazısını güvenlik görevlisine teslim ettikten 
+sonra kapı açılır.
+5.1.10 Kantin Amirliği, Mutfak, Avrasya Lokali, Berber ve Bayan Kuaförü
+5.1.10.1 Lokalden PTT personeli, PTT emeklileri ile kamu çalışanları ve yanında getirdikleri misafirleri 
+yararlanabilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman No
+DHU.PR01.17/1110.05.2021
+5.1.10.2 Lokale gelenlerden kimlik kartı alınır, turnikeden giriş kartı verilir, kimlik kartını güvenlik 
+görevlisine vermeyen kişiler bina içerisine alınmaz. Kimlik bilgileri bilgisayar programına kaydedilir. Öğle 
+yemeği için gelenler 12.30’dan önce içeri alınmaz.
+5.1.10.3 Lokale gelenlerde silah tespit edilmesi halinde, silah güvenlik görevlilerince alınarak Silah Devir 
+Teslim ve Rapor Defterine kayıt yapılır, çıkışta imza karşılığında iade edilir.
+5.1.10.4 Mutfaktan yapılacak yemek sevkiyatları için mutfak kapısı 10:00-11:00 saatleri arasında bir 
+güvenlik görevlisi nezaretinde açık bulundurulur. 10:00-11:00 saatleri dışında mutfağa malzeme geldiği 
+zaman mutfak kapısı önünde bulunan zile basılmak suretiyle gelen malzemeler için yine bir güvenlik 
+görevlisi tarafından kapı açılarak malzemelerin teslim alınması sağlanır.
+5.1.10.5 Berber hizmetinden mesai saatlerinde, bayan kuaförlük hizmetinden mesai saatleri ve cumartesi 
+günleri, PTT personeli, eş ve çocukları, PTT emeklileri yararlanabilir. Bu kişiler kendilerine PTT Genel 
+Müdürlüğü tarafından verilen emekli kartını, personel kartını, PTT binalarına giriş kartını veya personelin eş 
+veya çocuğu olduğunu gösterir belgeyi güvenlik görevlisine ibraz eder, aksi takdirde bu hizmetten 
+faydalanamaz.
+5.1.10.6 Erkek kuaförü, bayan kuaförü ve çay ocaklarında çalışan kişiler normal mesai günleri saat 17:30’da 
+bina dışına çıkar. Müşteriler buna göre kabul edilir, bu saatin dışına sarkabilecek müşteri alınmaz, temizlik, 
+toparlanma v.b mazeretler kabul edilmez. Bayan kuaförü cumartesi günü randevulu müşterisi varsa binaya 
+gelir, randevu listesini güvenliğe verir, son müşterisine hizmet verdikten sonra en geç 30 dakika içinde 
+binadan ayrılır.
+5.1.11 Kargo, Malzeme ve Gönderilerin Giriş ve Çıkışları
+5.1.11.1 Özel kargo firmalarının bina içinde dağıtımına izin verilmez. Bu tür kargolar alıcısı tarafından bina 
+girişinde güvenlik kontrolü yapıldıktan sonra teslim alınır.
+5.1.11.2 Şirketimizce dağıtımı yapılan kargo vb. gönderiler yetkilendirilmiş çalışanımız aracılığı ile bina 
+içerisinde ilgili birime ulaştırılır.
+5.2 Başmüdürlük Hizmet Binalarının Güvenliği
+5.2.1 Güvenlik personeli çalışma düzeni: Özel güvenlik görevlisi bulunan başmüdürlük hizmet 
+binalarında, özel güvenlik görevlilerinin çalışma düzeni mesai saati ve sayısına göre başmüdürlükçe 
+düzenlenir.
+5.2.2 Binalara giriş çıkışlarda mümkün olduğunca tek kapı kullanılır. Güvenlik görevlisi bulanan yerlerde 
+giriş çıkışlar güvenlik görevlisi tarafından takip edilir. Kartlı geçiş sistemi bulunan binalarda giriş çıkışlar 
+söz konusu sistem ile takip edilir.
+5.2.3 Gelen ziyaretçiler turnike sistemi olan yerlerde ziyaretçi modülüne, turnike sistemi olmayan yerlerde 
+ise görevli personel tarafından Ziyaretçi Takip Defterine kayıt edilir. Ziyarete gelinen kimseden teyit 
+alındıktan sonra girişi sağlanır. 
+5.2.4 Taşeron firma elemanları da giriş çıkışlarını personel gibi yapar. Ancak görevli olmadıkları alanlara 
+girişlerine izin verilmez.
+5.2.5 Tanıtım, bakım veya onarım için gelen taşeron firma elemanlarına şirketimiz personelinin gözetimi 
+altında çalışmalarının yaptırılması sağlanır.
+5.2.6 Özel kargo firmalarına bina içinde dağıtım için izin verilmez. Bu tür kargolar alıcısı tarafından bina 
+girişinde güvenlik kontrolü yapıldıktan sonra teslim alınır.
+5.2.7 Kamera sistemlerinin kurulumu ve bakımı Yapı Daire Başkanlığının görevini taşrada yürüten 
+müdürlük, işletimi ise Destek Hizmetleri ve Ulaşım Daire Başkanlığı görevini taşrada yürüten birim 
+tarafından yapılır.
+5.2.8 Binanın çevre aydınlatması yapılır, yere yakın pencerelere demir parmaklık taktırılır, uygun yerlere 
+kamera sistemi kurularak güvenlik görevlilerince takibi sağlanır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Doküman No
+DHU.PR01.18/1110.05.2021
+5.2.9 Güvenli alanların fiziksel ve çevresel güvenliği Güvenli Alanların Fiziksel ve Çevresel Güvenliği 
+Talimatına göre yapılır.
+5.2.10 Başmüdürlükler ve bağlı işyerlerinde silah ile ilgi iş ve işlemleri takip etmek üzere (ruhsat, sevk ve 
+muhafazaya ilişkin konularda dahil olmak üzere) Destek Hizmetler ve Ulaşım birimlerinde görevli birim 
+yöneticisi ve onun belirleyeceği bir personel olmak üzere iki personel görevlendirilir 
+5.3 Diğer PTT Hizmet Binalarının Güvenliği
+5.3.1 Merkez ve şube gibi parasal işlem yapan işyerlerinde hiçbir şekilde banko arkasına personel dışında 
+kimsenin geçmesine izin verilmez. 
+5.3.2 Parasal işlem yapan personel çekmecesini açık şekilde bırakmayacaktır.  Çekmecelerde fazla para 
+birikmesi durumunda kasaya aktarılır.
+5.3.3 Buralarda görev yapan güvenlik personeli sürekli müşteri salonunu gözetler, müşterilerin kendi 
+aralarında veya personel ile tartışmalarına izin vermez.
+5.3.4 Şüpheli durumlar ve şüpheli gördükleri kişilerle ilgili kolluk kuvvetlerine bilgi verirler.
+5.3.5 Alarm sistemi ve kamera kayıt sisteminin çalışıp çalışmadığı sürekli kontrol edilerek aktif durumla 
+olmaları sağlanır.
+5.3.6 Özel güvenlik görevlisi bulunan Merkez Müdürlüğü hizmet binalarında, özel güvenlik görevlilerinin 
+çalışma düzeni mesai saati ve sayısına göre bağlı bulunduğu Başmüdürlükçe düzenlenir.
+5.4 Alarm Sistemi 
+5.4.1 Alarm sistemi kurulmadan hiçbir işyeri hizmete açılmaz.
+5.4.2 Alarm sistemleri kesinlikle her akşam mesai bitiminde kurulup aktif hale getirilir, her sabah çözülerek 
+pasif hale getirilir. İşyerinin kısa süreli ya da anlık terk edilmesi durumunda da sistem aktif hale getirilir.
+5.4.3 Personel hareketleri sonucunda özellikle tek kişi çalışan şubelerde görevlendirilen personel, alarm 
+sistemlerinin kullanılması hakkında bilgi verilmeden göreve başlatılmaz ve gerekli önlemler birim 
+yöneticilerince alınır. 
+5.4.4 Panik butonlarının yerleri konusunda işyerindeki bütün personelin bilgi sahibi olması sağlanır, lüzumu 
+dışında panik butonunun kullanılmaması konusunda personel uyarılır. Aksi durumda personel sorumlu 
+tutulur.
+5.4.5 Personele alarm sisteminin kullanılması ve panik butonu hakkında bilgi verildiği Eğitim Katılım 
+Formu ile kayıt altına alınır.
+5.4.6 Sistem Kurulu bulunan yerlerde yapılacak herhangi bir tamirat, tadilat vb durumlar nedeniyle sistem 
+kullanılmayacaksa, tadilata gireceği tarihten önce ve tadilat bittiğinde alarm izleme merkezine yazı veya e-
+posta ile bildirilir. 
+5.4.7 Mesai sonunda işyeri kapatıldıktan sonra elektrik şalteri ve işyerine ait modem kesinlikle kapatılmaz. 
+Alarm sistemleri mutlaka UPS üzerinden beslenir.
+5.4.8 Sistem Kurulu bulunan bütün işyerlerinde sistemin bağlı olduğu telefon hattının mutlaka 
+şehirlerarasına açık olması sağlanır.
+5.4.9 Asılsız alarma sebep olan etkenler ortadan kaldırılır.
+5.4.10 Şifre Değiştirme;
+5.4.10.1 Yetkili amir tarafından kendisine şifre verilmesi uygun görülen personel ismi ilgili firmaya 
+bildirilerek şifre talep edilecektir. 
+5.4.10.2 Firma söz konusu kişiye şifre vererek kendisine telefonla bildirir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Doküman No
+DHU.PR01.19/1110.05.2021
+5.4.10.3 Firma tarafından verilen şifre, şifreyi alan personel tarafından değiştirilerek gizli tutulur. Şifrenin 
+başkaları tarafından öğrenilmesi veya güvenlik açığı oluştuğunun düşünülmesi durumunda kişi Alarm 
+Sistemi Şifre Talep Formunu doldurup yeni şifre talep eder.
+5.4.10.4 Her işyeri için düzenlenen Alarm (Olay) Anında İlk Aranılacak Personel Bilgi Formu sürekli 
+güncel bulundurulur, değişiklik olması durumunda derhal ilgili firmaya bildirilir.
+5.4.11 Arızaların Bildirilmesi; 
+5.4.11.1 Alarm sistemlerinde meydana gelen arızalar yetkili amirin imzası ile ilgili firmaya bildirilir.
+5.4.11.2 Firma, bildirilen arızaları müdahale dahil 48 saat içerisinde giderecektir.
+5.5 Kamera Sistemi:
+5.5.1 Kamera sistemlerinin kurulumu; 
+5.5.1.1 Kamera sisteminin kurulumu Yapı İşleri Dairesi Başkanlığı koordinesinde yapılır.
+5.5.2 Kamera sistemlerinin işletimi;
+5.5.2.1 CCTV'nin 24 saat işletilmesi esas olup bu işletim; Genel Müdürlükte Destek Hizmetleri ve Ulaşım 
+Dairesi Başkanlığı, taşra teşkilatında CCTV'nın kurulu bulunduğu binanın ilgisine göre Başmüdürlük veya 
+merkez müdürlüğü tarafından sağlanır.
+5.5.2.2 Yetkisiz kişilerin erişimini engellemek üzere cihazlarda şifre, kod, kilitli muhafaza gibi gerekli 
+önlemler, Genel Müdürlükte Destek Hizmetleri ve Ulaşım Dairesi Başkanlığı, Başmüdürlüklerde ise ilgili 
+Başmüdürlükçe alınır.
+5.5.3 Görüntülerin izlenmesi
+5.5.3.1 Gerek görülmesi halinde kamera görüntüleri; Genel Müdürlükte; Destek Hizmetleri ve Ulaşım 
+Dairesi Başkanı veya görevlendireceği personel tarafından, taşra teşkilatında ise CCTV kurulu bulunan 
+binaların birim yöneticisi veya görevlendireceği personel tarafından izlenir.
+5.5.4 Kayıtların saklanması
+5.5.4.1 Kamera kayıtlarının, kamera kayıt cihazlarında 60 gün süre ile muhafaza edilmesi işletilmesinden 
+sorumlu birim tarafından sağlanır. 
+5.5.4.2 Yetkili makamlarca CCTV görüntü kaydı talep edilmesi halinde, talep te belirtilen tarih ve saate ait 
+görüntü kayıtları birinci fıkradaki süreye ek olarak 60 gün daha yedeklenerek saklanır.
+5.5.5 Görüntülerin incelenmesi
+5.5.5.1 İnceleme ya da soruşturma kapsamında geçmişe dönük kamera kayıt görüntüleri;,
+5.5.5.1.1  İnceleme ve soruşturma yapmakla görevli Denetim elemanlarının Destek Hizmetleri ve Ulaşım 
+Daire Başkanlığına, taşrada ise Başmüdürlüklere yapacakları yazılı talep üzerine Denetim elemanları 
+tarafından,
+5.5.5.1.2 Genel Müdürlükte, Başkanlıklarca Destek Hizmetleri ve Ulaşım Daire Başkanlığına yapılacak 
+yazılı talep sonucu, ilgili birimden görevlendirilen bir personel ile Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığı tarafından yetkilendirilen personel tarafından,
+5.5.5.1.3 Başmüdürlüklerde herhangi bir idari soruşturma kapsamında ihtiyaç duyulması halinde disiplin 
+amiri tarafından bizzat veya görevlendireceği personel tarafından,
+5.5.5.1.4 Kasa açığı, fazla veya eksik ödeme gibi durumların tespit edilmesine ihtiyaç duyulması halinde, 
+yazılı talep üzerine Başmüdürlük makamından alacakları olura istinaden merkez müdürünün nezaretinde en 
+az iki personel tarafından,  incelenebilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Doküman No
+DHU.PR01.110/1110.05.2021
+5.5.6 Kayıtların verilmesi
+5.5.6.1 Merkez ve taşra teşkilatında inceleme ve soruşturma yapmakla görevli denetim elemanlarının Genel 
+Müdürlükte; Destek Hizmetleri ve Ulaşım Daire Başkanlığına, Başmüdürlüklerde ise Başmüdürlük 
+Makamına verecekleri yazılı talebi üzerine,
+5.5.6.2  Kurum dışından tarih ve saat belirtilmek suretiyle yazılı olarak yapılan talep üzerine kamera kayıt 
+görüntüleri; bir soruşturma ya da kovuşturma kapsamında Cumhuriyet Savcısı, Hakim ya da mahkemelere, 
+bir suç soruşturması ya da kovuşturmasıyla ilgili Cumhuriyet Savcısı ya da Hakimin yazılı emriyle kolluk 
+görevlilerine,
+5.5.6.3 Diğer kurum, makam veya denetim birimlerinde soruşturmayla görevlendirilen denetim 
+elemanlarının, görüntü kaydı istenmesine ilişkin yazılı talebin ilgili Cumhuriyet Başsavcılığınca havale 
+edilmesi şartıyla veya kanunlarındaki yetkiyi içeren hükmü belirten yazılı talepleri üzerine yada ilgili 
+denetim elemanının, görevlendirme yazısı ile birlikte, PTT Rehberlik ve Kontrol Hizmetleri Daire 
+Başkanlığına müracaat etmeleri halinde PTT Rehberlik ve Kontrol Hizmetleri Daire Başkanlığının uygun 
+görüşü üzerine,
+görüntü kayıtları verilir.
+5.5.7 Çeşitli Hükümler
+5.5.7.1 Görüntü kayıtlarının verilmesine yönelik olarak, 60 günlük süre geçtikten sonra yapılan müracaatlar, 
+başka yönden değerlendirmeye tabi tutulmaksızın yazılı olarak reddedilir.
+5.5.7.2 Bir soruşturma ya da kovuşturma kapsamında Cumhuriyet Savcısı, Hakim ya da mahkemelerce veya 
+bir suç soruşturması ya da kovuşturmasıyla ilgili Cumhuriyet Savcısı veya Hakimin yazılı emriyle kolluk 
+görevlileri tarafından kuruluşumuz işyerlerinde bulunan kamera kayıt cihazları veya hard-disk (HDD) 'nin 
+talep edilmesi halinde, ilgili Başmüdürlük Genel Müdürlükten yetki ve ödenek talep etmeksizin gerekli 
+cihazları temin ederek bu talebi yerine getirir.
+6. YÜRÜRLÜK
+Bu prosedür yayınlandığı tarihte yürürlüğe girer.
+7. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+8. REFERANS DOKÜMANLAR:
+DHU.FR14-Alarm (Olay) Anında İlk Aranacak Personel Bilgi Formu
+DHU.FR15-Alarm Sistemi Şifre Talep Formu
+DHU.FR16-Anahtar Teslim Formu
+DHU.FR18-Günlük Emniyet Kontrol Formu
+DHU.FR21-Kartı Olmayan veya Kartını Unutan Çalışanlara Ziyaretçi Giriş Kartı Verilmesine 
+İlişkin Tutanak
+DHU.FR23-Olay Durum Tutanağı
+DHU.FR24-Silah Devir Teslim ve Rapor Defteri
+DHU.FR25-Ziyaretçi Takip Defteri
+DHU.LS04-Aylık Emniyet Memuru Görevlendirme Listesi
+EGT.LS01-Eğitim Katılımcı Listesi
+EYS.TL06-Güvenli Alanların Fiziksel ve Çevresel Güvenliği Talimatı
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Doküman No
+DHU.PR01.111/1110.05.2021
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

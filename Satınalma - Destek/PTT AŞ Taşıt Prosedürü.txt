@@ -1,0 +1,394 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+DESTEK HİZMETLERİ VE 
+ULAŞIM DAİRE 
+BAŞKANLIĞI BAŞKANLIK 
+DAİRE BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+1/7
+1. AMAÇ
+Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından yürütülen hizmetlerde ihtiyaç 
+duyulacak, hizmet alımı suretiyle taşıt edinilmesi, taşıtların tahsisi, kullanılması, sevk ve idaresi, akaryakıt 
+giderlerinin takibi, taşıma hizmeti satın alınması, özmal taşıt satın alınması ve özmal taşıtların tasfiye 
+sürecine ilişkin prosedürü belirlemektir.
+2. KAPSAM
+Ana ve tali posta hatları ile ücretsiz personel servisi için edinilecek taşıtlar hariç olmak üzere, Posta ve 
+Telgraf Teşkilatı Anonim Şirketi hizmetlerinde kullanılacak taşıtların hizmet alımı suretiyle edinilmesi, 
+özmal ve kiralama yöntemiyle edinilen taşıtların kullanılması, satın alınması ile envanterde bulunan özmal 
+taşıtların tasfiye işlemlerini kapsar.
+3. DAYANAK
+Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi’nin Yönetim Kurulunun görev ve yetkileri 
+başlıklı 16. maddesinin birinci fıkrasının j bendine dayanarak hazırlanmıştır.
+4. TANIMLAR VE KISALTMALAR
+4.1 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.2 Çalışan: PTT AŞ’de hizmet alım yöntemiyle çalışanlar dâhil görev yapan kişilerdir.
+4.3 Firma Elemanı: PTT AŞ’nin hizmet alımı yoluyla çalıştırdığı kişidir.
+4.4 Gün: Takvim günüdür.
+4.5 Havuz Taşıtı: Genel Müdürün onayı ile birimlerin hizmetinde kullanılmak üzere verilen taşıttır.
+4.6 İhtisas Daire Başkanlığı: Motorlu taşıtlarla ilgili tüm iş ve işlemlerin yürütüldüğü Daire Başkanlığıdır.
+4.7 Özmal Taşıt: PTT AŞ adına tescil edilmiş taşıtlardır.
+4.8 Personel: PTT AŞ’de 399 sayılı KHK’ye tabi görev yapanlar, İdari Hizmet Sözleşmeli olarak görev 
+yapanlar ve diğer kadrolu personeldir.
+4.9 PTT AŞ İştirak Şirketi: PTT AŞ’nin, sermayesinde ortaklığı bulunan, yönetiminde ya da ortaklık 
+politikalarının belirlenmesinde pay sahibi olduğu şirkettir.
+4.10 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.11 Şoför: Karayolunda ticari olarak tescil edilmiş bir motorlu taşıtı sürmeye haiz kişidir.
+4.12 Şoförlü Taşıt Edinme: Taşıtın şoförle birlikte edinilmesi yöntemidir.
+4.13 Şoförlü Taşıt Edinme Yönteminde Şoför: Taşıtın maliki veya iş akdine istinaden edinilen taşıtı süren 
+kişidir.
+4.14 Şoförsüz Taşıt Edinme: Taşıtın şoförü olmadan edinilmesi yöntemidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+2/7
+4.15 Tasfiye: Özmal taşıtın satılması veya hurdaya ayrılması suretiyle söz konusu taşıtın trafik tescil ve 
+vergi kayıtlarının PTT AŞ kayıtlarından düşürülerek envanterden silinmesidir.
+4.16 Taşıt Tanıtım Kartı: Görevli, Hizmet Taşıtı, Makam vb. ibareli ve taşıt plaka numarası ile birlikte 
+PTT AŞ kurumsal kimliğine uygun şekilde basılan karttır.
+4.17 Taşıma Hizmeti: PTT AŞ’nin personel, yük veya malzeme taşıtılması hizmetlerinin yürütülmesi için; 
+vergi, sigorta, bakım/onarım ve benzeri işletme giderleri yüklenicisi tarafından karşılanan ve sözleşmesinde 
+belirtilen hükümler çerçevesinde sadece günün belirli zaman dilimlerinde, belirlenen mesafelerde, 
+belirlenen noktalar arasında çalıştırılmak üzere alınan taşıma hizmetidir.
+4.18 Taşıt: Karayolu Trafik Kanunu kapsamına giren motorlu bütün ulaştırma araçlarını ve PTT AŞ 
+bünyesinde kullanılan, mevzuat kapsamındaki yerli veya yabancı menşeili özmal ve kiralama yöntemiyle 
+edinilen taşıtlardır. 
+4.19 Taşıt Görev Emri: Taşıt göreve çıkmadan önce talep birimince düzenlenmesi gereken belgedir.
+4.20 Yüklenici: Yapılan ihale üzerine sözleşme imzalanan isteklidir.
+5. SORUMLULUKLAR
+PTT AŞ hizmetlerinde kullanılacak taşıtların hizmet alımı suretiyle edinilmesinde, satın alınmasında, 
+taşıtları talep eden, sevk eden, kullanan, takip eden, denetleyen, envanterde bulunan özmal taşıtların tasfiye 
+işlemlerinde görev alan tüm çalışanlar sorumludur.
+6. UYGULAMA
+6.1 Hizmet Alımı Suretiyle Taşıt Edinilmesi 
+6.1.1 Filo Yöntemi ile Taşıt Edinilmesi
+6.1.1.1 Bölge Müdürlüklerinden taşıt taleplerinin toplanması, teknik şartnamenin hazırlanması ve yaklaşık 
+maliyetin tespit edilmesi işlemleri, mal ve hizmet alım işine ait prosedüre istinaden, İhtisas Daire Başkanlığı 
+tarafından teşekkül ettirilecek komisyon marifetiyle yapılır.
+6.1.1.2 Komisyon tarafından, Bölge Müdürlüklerinden gelen taşıt talep durumuna göre edinilecek taşıtların 
+cins, hacim ve sayıları tespit edilerek taşıt listesi hazırlanır. Bu listeye göre hazırlanan teknik şartname, ilgili 
+Daire Başkanlıklarının görüşüne sunulur. Daire Başkanlıklarından gelen görüşlere göre komisyonca teknik 
+şartnameye son şekli verilir. İdari şartname ve sözleşmede bulunması gereken hususlar tespit edilir. 
+Yaklaşık maliyet ilgili veya İhtisas Daire Başkanlığınca belirlenerek Satınalma Daire Başkanlığına 
+gönderilir.
+6.1.1.3 Hizmet alımı gerçekleştirildikten ve sözleşme yapıldıktan sonra teknik şartname ve sözleşmede 
+tespit edilen teslim süresine göre, muayene ve kabul işlemi İhtisas Daire Başkanlığı veya yetki vereceği 
+Bölge Müdürlüğü tarafından yapılır. Muayene ve kabul işlemi sonucunda muayene ve kabul tutanağı tanzim 
+edilir.
+6.1.1.4 Edinilen taşıtlar, şartname ve sözleşme hükümleri çerçevesinde tahsis edildiği birime sevk edilir. 
+Bölge Müdürlüğü tarafından taşıt, teslim tutanağı tanzim edilerek teslim alınır. Tanzim edilen taşıt teslim 
+tutanağı Destek Hizmetleri ve Ulaşım Daire Başkanlığına gönderilir.
+6.1.2 Bölge Müdürlükleri Tarafından Hizmet Alımı Suretiyle Taşıt Edinilmesi
+6.1.2.1 Hizmetin önem ve aciliyetine binaen Bölge Müdürlükleri tarafından, Genel Müdürlükten yazılı onay
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+3/7
+alınarak taşıt edinilebilir. 
+6.1.2.2 Edinilecek taşıtların yaşları, menşei ve teknik özellikleri ile şoförlerde aranacak özellikler, ilgili 
+mevzuat hükümleri esas alınmak suretiyle hazırlanan teknik şartnamede belirtilir.
+6.1.2.3 Taşıtlar; yakıt hariç/dâhil, şoförlü veya şoförsüz olarak edinilir.
+6.1.2.4 Edinilen taşıtlara ait bilgiler, Bölge Müdürlükleri tarafından Araç Takip Sistemine (ATS) kayıt 
+edilir.
+6.1.2.5 Bu prosedüre göre edinilecek taşıtlar için hazırlanacak olan ihale dokümanında aşağıdaki maddeler 
+kapsamında düzenleme yapılır.
+6.1.2.5.1 Yükleniciler, Karayolları Trafik Mevzuatı hükümlerine uyar.
+6.1.2.5.2 Yüklenicilerce çalıştırılan şoförlerin sözleşmeye aykırı her türlü davranışları ile bunların taşıtlara, 
+PTT AŞ’ye ve üçüncü şahıslara verecekleri zararlardan dolayı yükleniciler sorumlu olur.
+6.1.2.5.3 Her ne ad altında olursa olsun çalıştırılacak işçiler ve şoförlerle ilgili 6331 sayılı İş Sağlığı ve 
+Güvenliği Kanunu’nun iş sağlığı ve iş güvenliğine ilişkin hükümleri yüklenici tarafından yerine getirilir. 
+5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortaları Kanunu, 6331 sayılı İş Sağlığı ve Güvenliği 
+Kanunu’nun ilgili maddeleri gereğince iş kazasından kaynaklanan her türlü tazminatlar ile 4857 sayılı İş 
+Kanunu’nun ilgili maddelerinde yer alan ücret, prim, kıdem tazminatı, tazminat ve benzeri her türlü 
+yükümlülük yükleniciye aittir.
+6.1.2.5.4 Genel Müdürlükçe yetki verilerek edinilen taşıtların üzerine herhangi bir şekilde, taşıt sahibi veya 
+üçüncü şahısların reklam ve tanıtımı amacıyla yapılmış şekil, yazı, resim ve PTT AŞ tarafından uygun 
+görülmeyen benzeri ibare bulunmayacaktır. Bölge Müdürlüklerince edinilen taşıtlarda ise Bölge 
+Müdürlüklerince uygun görülmeyen taşıt sahibi veya üçüncü şahısların reklam ve tanıtımı amacıyla 
+yapılmış şekil, yazı, resim bulunmayacaktır.
+6.1.2.5.5 Edinilen araçlardan çıkan atık akümülatörler, atık lastikler, atık yağ vb. için Çevre Yönetim 
+Sistemi, Atık Yönetimi Yönetmeliği ve ilgili mevzuatının öngördüğü yükümlülükler yüklenici tarafından 
+yerine getirilecek olup, aksi halde bu konuda PTT AŞ’nin karşılaşacağı her türlü maddi zarar yükleniciye 
+rücu edilir.
+6.1.2.5.6 Yüklenici tarafından araçlardan çıkan akü, lastik, yağ vb. malzemelerin araç bakımının yapıldığı 
+yetkili servislerde değiştirildiğine dair kayıtlar, söz konusu atıkların yönetimine ilişkin işlerin yapıldığı 
+işletmeler tarafından Çevre, Şehircilik ve İklim Değişikliği Bakanlığı yazılımı üzerinden yapılacak atık 
+beyanları vb. belgeler, istenmesi halinde PTT AŞ’ye teslim edilir.
+6.1.2.5.7 Taşıtların her türlü vergi, sigorta ve bakım-onarım gibi giderleri yükleniciye aittir. Otoban, köprü 
+ve vapur geçiş ücreti ve benzeri diğer maliyet unsurlarından hangilerinin yükleniciye, hangilerinin PTT 
+AŞ’ye ait olacağı sözleşmede açıkça belirtilir.
+6.2 Özmal Taşıt Satın Alınması
+6.2.1 PTT AŞ’nin özmal taşıt talepleri tespit edilir. 
+6.2.2 Tespiti yapılan taşıt ihtiyacına göre, yatırım programı hakkındaki ilgili prosedür çerçevesinde, yatırım 
+programına taşıt alımı için ödenek konulur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+4/7
+6.2.3 Alım ödeneği ve harcama onayı alındıktan sonra, Satınalma Daire Başkanlığının SAT.PR04 PTT 
+AŞ Mal ve Hizmet Alımı Prosedürü’ne istinaden teşekkül ettirilecek komisyon marifetiyle hazırlanan 
+teknik şartname ve yaklaşık maliyet Satınalma Daire Başkanlığına aktarılır.
+6.2.4 Satınalma Daire Başkanlığınca, alım işlemi gerçekleştirildikten ve sözleşme yapıldıktan sonra teknik 
+şartname ve sözleşmede tespit edilen teslim süresine göre, muayene ve kabul işlemi yapılır. Buna ilişkin 
+muayene ve kabul tutanağı düzenlenerek tahsis edildiği Birime sevk edilir.
+6.3 Özmal Taşıtların Tasfiye İşlemleri
+6.3.1 PTT AŞ’nin hizmetlerinde kullanılan özmal taşıtlardan ekonomik ömrünü dolduran ya da tamir bakım 
+masrafları yüksek olması sebebiyle tasfiye edilecek taşıtlara ait komisyon raporlarının hazırlanması Bölge 
+Müdürlüklerinden istenir.
+6.3.2 Bölge Müdürlükleri, DHU.FR97 Taşıt Muayene ve Kontrol Raporu ve DHU.FR98 Tasfiye Edilecek 
+Taşıt Çizelgesi’ni Destek Hizmetleri ve Ulaşım Daire Başkanlığına gönderir.
+6.3.3 Destek Hizmetleri ve Ulaşım Daire Başkanlığınca teşekkül ettirilecek komisyon tarafından, Bölge 
+Müdürlüklerinden gelen tasfiye talepleri değerlendirilir. Tasfiye edilmesi uygun görülen taşıt sayısı 250 
+adete kadar Genel Müdür Onayına sunulur, 250 adet ve üzeri Yönetim Kuruluna arz edilir.
+6.3.4 Onaylanan tasfiye listesi gereği için Satınalma Daire Başkanlığına aktarılır.
+6.3.5 Tasfiye talepleri uygun görülmeyen taşıt listesi ilgili Bölge Müdürlüklerine tebliğ edilir.
+6.3.6 Onaylanan taşıtların tasfiye yöntemleri şunlardır.
+6.3.6.1 Satılarak Tasfiye Edilmesi
+6.3.6.1.1 30318 sayılı Araçların Satış, Devir ve Tescil Hizmetlerinin Yürütülmesi Hakkında Yönetmelik 
+kapsamında işlem tesis edilir. 
+6.3.6.1.2 Taşıtlar, Satınalma Daire Başkanlığının satış işlemlerine ilişkin SAT.PR03 Satış İşlemleri 
+Prosedürü’ne göre satışı yapılarak tasfiye edilir. Tasfiye edilen taşıtlar Finans ve Muhasebe Başkanlığının 
+FMB.PR10 Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü’ne göre işlem tesis edilerek, 
+envanterden/muhasebe kayıtlarından düşülür. 
+6.3.6.2 Ekonomik Ömrünü Doldurmuş veya Kaza Sonrası Hurdaya Ayrılacak Taşıtların İlgili 
+Mevzuat Kapsamında Teslim Edilme İşlemleri
+6.3.6.2.1 Kaza sonrası hurdaya ayrılması gereken taşıtlar için, Satınalma Daire Başkanlığının sigorta 
+işlemlerine ilişkin prosedürü veya ilgili mevzuat çerçevesinde işlem tesis edilir.
+6.3.6.2.2 Satılarak tasfiye edilemeyecek ve doğrudan hurdaya ayrılacak taşıtlar için, yürürlükteki mevzuat 
+kapsamında işlem tesis edilir.  
+6.3.6.2.3 İlgili mevzuat kapsamında, satılarak tasfiye edilen ve hurdaya ayrılarak teslim edilen taşıtlar; 
+trafik/vergi kayıtları sildirilerek Finans ve Muhasebe Başkanlığının FMB.PR10 Posta ve Telgraf Teşkilatı 
+İktisadi Kıymet Prosedürü’ne göre envanterden/muhasebe kayıtlarından düşülür. Yapılan işlem sonucundan 
+Genel Müdürlüğe bilgi verilir.
+6.4 Taşıt Tahsisi
+6.4.1 Genel Müdüre fiilen görevde olduğu süre içinde öncelikle hizmetlerimiz ve diğer kullanımlar için 
+yakıt dahil taşıt tahsis edilir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+5/7
+6.4.2 Genel Müdürün Onayı ile belirlenen birimlere hizmetlerimizde kullanılmak amacıyla havuz taşıtı 
+görevlendirilir. Bu taşıtlar, görev ve ihtiyaçlar doğrultusunda il içinde ve bölge içinde kullanılabilir. Yurt 
+dışı, bölge dışı ve il dışı kullanımlarında ise Makam Onayına tabidir. Yukarıda belirtilen havuz taşıtları için 
+DHU.FR85 Taşıt Görev Emri düzenlenmeyecektir. Havuz taşıtlarının görevlendirilmesi ile ilgili hususlar 
+6.6.3 ve 6.6.4 maddeleri ile düzenlenmiştir.
+6.5 Taşıtların Kullanımı
+6.5.1 PTT AŞ’nin hizmetlerinde kullanılan tüm taşıtlar, taşıtın kullanılması için gerekli sürücü belgesine ve 
+yürürlükteki Karayolları Trafik Kanunu ve ilgili yönetmeliklerce alınması gereken diğer belgelere sahip 
+çalışanlar tarafından kullanılır.
+6.5.2 Yürürlükteki Karayolları Trafik Kanunu ve ilgili yönetmeliklerce alınması gereken SRC Belgesi, 
+Psikoteknik Raporu gibi alınması/yenilenmesi için yapılacak harcamalar PTT AŞ personeli için PTT AŞ 
+tarafından, hizmet alımı yöntemiyle edinilen firma elemanı için ise kendileri veya çalıştıkları yüklenici 
+tarafından karşılanır.
+6.5.3 Taşıtın, yürürlükteki Karayolları Trafik Kanunu ve ilgili yönetmeliklere uygun olarak kullanılmaması 
+nedeniyle yazılan trafik cezaları ilgili çalışan tarafından ödenir.
+6.5.4 Görevli gidilen yerde park etme imkânının olmadığı hallerde, taşıt en yakın otoparka park edilir ve 
+park ücreti PTT AŞ tarafından karşılanır.
+6.5.5 Taşıt kullanılmadığı zamanda uygun bir yerde park edilir ve tüm güvenlik tedbirleri alınır. Taşıtla 
+ilgili yaşanabilecek tüm olumsuz durumlarda (kaza, yangın, çalınma, hırsızlık ve benzeri) ilgili birimlere 
+bilgi verilir.
+6.5.6 Taşıtlar için otopark abonelik yetkisi Destek Hizmetleri ve Ulaşım Daire Başkanlığından talep edilir 
+ve abonelik ücreti PTT AŞ tarafından karşılanır.
+6.5.7 Taşıt Tanıtım Kartı, GÖREVLİ, HİZMET TAŞITI, MAKAM vb. ibareli ve taşıt plaka numarası ile 
+birlikte PTT AŞ kurumsal kimliğine uygun şekilde Destek Hizmetleri ve Ulaşım Daire Başkanlığı 
+koordinasyonunda basılır/bastırılır.
+6.5.7.1 PTT AŞ hizmetlerinde kullanılan taşıtlar için basılan Taşıt Tanıtım Kart’ını Destek Hizmetleri ve 
+Ulaşım Daire Başkanlığı tarafından uygun görülen taşıtlar kullanır. 
+6.5.7.2 PTT AŞ İştirak Şirketleri, Destek Hizmetleri ve Ulaşım Daire Başkanlığı tarafından Genel Müdürden 
+alınacak onay doğrultusunda taşıtlarında Taşıt Tanıma Kartı kullanırlar. Bu taşıtların kullanacakları tanıtım 
+kartları Destek Hizmetleri ve Ulaşım Daire Başkanlığınca basılır/bastırılır. PTT AŞ İştiraklerince 
+kullanılacak Taşıt Tanıtım Kartlarında “PTT AŞ” ibaresi olmak zorundadır.
+6.5.7.3 PTT AŞ ve İştirak Şirketlerinde çalışan personel şahsi taşıtlarında PTT AŞ ibareli ve benzeri Taşıt 
+Tanıtım Kartı kullanamazlar.   
+6.6 Taşıt Görevlendirilmesi
+6.6.1 Havuz taşıtları haricindeki taşıtlar için göreve çıkmadan önce, taşıtı talep eden birim amiri tarafından 
+DHU.FR85 Taşıt Görev Emri düzenlenir. 
+6.6.2 Genel Müdürlükteki havuz taşıtları haricindeki taşıtlar il dışına, taşıt talep eden Birimlerce taşıt ve 
+taşıtı kullanacak şoför bilgilerinin Destek Hizmetleri ve Ulaşım Daire Başkanlığından alınarak bağlı 
+oldukları Genel Müdür veya Genel Müdür Yardımcısından, 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+6/7
+Bölge Müdürlüğündeki havuz taşıtları haricindeki taşıtlar bölge içindeki ve dışındaki illere Bölge 
+Müdüründen veya Bölge Müdür Yardımcısından alınacak onay ile görevlendirilir.
+6.6.3 Genel Müdürlükte kullanılan havuz taşıtları, il dışı ve yurt dışına; taşıt talep eden Birimlerce, bağlı 
+oldukları Genel Müdür veya Genel Müdür Yardımcısından alınacak onay ile görevlendirilir.
+6.6.4 Bölge Müdürlüklerinde kullanılan havuz taşıtları, Bölge dışına veya yurt dışına Destek Hizmetleri ve 
+Ulaşım Daire Başkanlığından alınacak onay ile görevlendirilir.
+6.7 Bu Prosedürde Yer Almayan Hususlar
+Bu prosedürde yer almayan hususlarda genel mevzuat hükümleri uygulanır.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+DHU.FR85-Taşıt Görev Emri
+DHU.FR97-Taşıt Muayene ve Kontrol Raporu
+DHU.FR98-Tasfiye Edilecek Taşıt  Çizelgesi
+EYS.PR13-Tehlikeli Atıkların Yönetimi Prosedürü
+FMB.PR10-Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+KN.003-5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu
+KN.014-2918 sayılı Karayolları Trafik Kanunu
+KN.020-4857 sayılı İş Kanunu
+KN.022-6331 sayılı İş Sağlığı ve Güvenliği Kanunu
+SAT.PR03-Satış İşlemleri Prosedürü
+SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+YNT.001-Atık Yönetimi Yönetmeliği
+YNT.029-Ömrünü Tamamlamış Araçların Kontrolü Hakkında Yönetmelik
+YNT.095-Araçların Satış, Devir ve Tescil Hizmetlerinin Yürütülmesi Hakkında Yönetmelik
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+PTT AŞ Taşıt Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+DHU.PR17
+İlk Yayım Tarihi
+15.02.2022
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+4
+Sayfa Sayısı
+7/7
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon 
+Tarihi Revizyon Nedeni
+4 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+3 28.07.2025
+17 Mayıs 2024 tarihli ve 32549 sayılı Resmî Gazete'de yayımlanan 
+Tasarruf Tedbirleriyle ilgili 2024/7 Sayılı Cumhurbaşkanlığı 
+Genelgesi kapsamında tasarruf sağlanması amacıyla taşıt tahsisleri 
+ve uygulamada tespit edilen hususlara ilişkin düzenleme yapılmıştır. 
+2 7.01.2025
+Referans Dokümanlarda yer alan MUH.PR07 Maddi Duran 
+Varlıklar Prosedürünün revize edilmiş olması, 17 Mayıs 2024 tarihli 
+ve 32549 sayılı Resmî Gazete'de yayımlanan Tasarruf Tedbirleriyle 
+ilgili  2024/7  Sayılı  Cumhurbaşkanlığı  Genelgesi'nde  kamu  kurum  
+ve  kuruluşlarının  harcamalarında tasarruf sağlanması kapsamında 
+yakıt limitlerinde sınırlandırılmaya gidilmesi ve değişen şartlar ile 
+uygulamada tespit edilen farklılıklar doğrultusunda revizyon 
+yapılmıştır. 
+1 12.04.2022 Taşıt tahsisleri hususunda güncelleme yapılmasına ihtiyaç 
+duyulmuştur. 
+0 15.02.2022 Yeni Doküman 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

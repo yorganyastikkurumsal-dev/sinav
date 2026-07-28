@@ -1,0 +1,854 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+SATINALMA DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+1/14
+1. AMAÇ
+Bu prosedürün amacı; yapım ihaleleri hariç olmak üzere Posta ve Telgraf Teşkilatı AŞ tarafından her türlü mal ve 
+hizmetin; doğru kaynaktan, doğru zamanda, doğru miktarda ve uygun kalitede olmak koşulu ile iç ve dış piyasadan 
+temin şekli ve şartlarına ait esasları belirlemek, uyulması gerekli prensipleri tespit etmek ve satın alma sürecinin 
+aksatılmadan yürütülmesini sağlamaktır.
+2. KAPSAM
+Bu prosedür, yapım ihaleleri hariç olmak üzere, Posta ve Telgraf Teşkilatı AŞ tarafından alımı gerçekleştirilecek her 
+türlü mal ve hizmet alımını kapsar.
+3. DAYANAK
+Bu prosedür, 6475 sayılı Posta Hizmetleri Kanununun “Kuruluş” başlıklı 21. maddesine ve Posta ve Telgraf Teşkilatı 
+AŞ Esas Sözleşmesine dayanılarak hazırlanmıştır. 
+4. TANIMLAR VE KISALTMALAR
+4.1 Alternatif Teklif: İhale dokümanında hüküm bulunması halinde, isteklinin ihale konusu malın teknik 
+şartnamesinde belirlenen asgari özellik ve şartları sağlamakla birlikte birbirinden farklı teknik özelliklere sahip 
+ürünlerin, asıl teklifin yanı sıra alternatif olarak sunulmasıdır.
+4.2 Çerçeve Anlaşma: Şirketin sürekli ve yoğun kullanımına ihtiyaç duyduğu malzeme ve hizmetlerin süratli ve 
+zamanında temini gayesiyle, şirket ile bir veya birden fazla istekli arasında akdedilen, belirli bir zaman aralığında 
+gerçekleştirilecek alımlara ait fiyat ve miktar gibi kriterlerin belirlendiği, net sipariş içermeyen süreli ön anlaşmadır.
+4.3 Global Ödenek: Genel Müdürlükçe Bölge Müdürlüklerine her sene belirli harcama kalemleri için tahsis edilen 
+ödenektir.
+4.4 Hizmet: Posta ayırım, dağıtım ve taşıma, özel güvenlik, lojistik ihtiyaçlar [depo, gümrük müşavirliği, araç 
+kiralama, yazılım, elleçleme (otomatik ve manuel), forwarder (taşıma aracılığı)] ve yapılan sözleşmeler gereği 
+yapılacak alımlar, özel bakım ve işletme teknik elemanları, temizlik, malzemeli-malzemesiz yemek hizmeti alımı, 
+aşçı ve/veya garson çalıştırılmasına dair hizmet alımı, çağrı merkezi, posta hatları, filo yöntemi ile taşıt edinimi, 
+personel ve dağıtıcı servisi, yeni veya mevcut hizmet binalarının yapımı veya tadilatı için ihtiyaç duyulan her türlü 
+proje, imar uygulamaları, etüd, inceleme, müşavirlik, danışmanlık, haritacılık ve değerleme işleri ile hizmetin 
+devamına ilişkin her türlü makine teçhizatın bakım ve onarımı, haberleşme, sigorta, araştırma ve geliştirme, 
+muhasebe, piyasa araştırması ve anket, danışmanlık, tanıtım, basım ve yayım, toplantı, organizasyon, sergileme, 
+meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine yönelik hizmetler ile yazılım hizmetleri, 
+taşınırların kiralanması ve benzeri diğer hizmetlerdir.
+4.5 İstisna Listesi: Bölge Müdürlüklerinin Genel Müdürlükten izin almaksızın davet usulünü kullanabilecekleri alım 
+konusu iş bazında (mal ve hizmet) ve/veya parasal miktara göre hazırlanan listedir.
+4.6 Kısa Liste: Yaptırılacak belli bir işe ilişkin olarak, o işin yaptırılması için belirlenen onaylı tedarikçi listesinden 
+seçilmiş olan sınırlı sayıdaki aday şirketin sıralandığı, teklif toplamaya temel olan listedir.
+4.7 Mal: Her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve haklardır.
+4.8 PTT İştirakleri: Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından kurulan ve/veya ortak olunan Şirketlerdir.
+4.9 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+4.10 Ürün Kataloğu: Posta ve Telgraf Teşkilatı Anonim Şirketi’nin hizmetlerinin yürütülmesi için ihtiyaç duyulan 
+malzemenin yer aldığı listedir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+2/14
+5. SORUMLULUKLAR
+5.1 Bu prosedürün kapsamına giren işlerde, kendilerine görev verilen her kademedeki personel üstlenmiş olduğu 
+görevi ve yetkisi çerçevesinde sorumludur.
+5.2 Görevliler, görevlerini kanunî gereklere uygun veya tarafsızlıkla yapmadıklarının, taraflardan birinin zararına yol 
+açacak ihmalde veya kusurlu hareketlerde bulunduklarının tespiti halinde, haklarında ilgili mevzuatları gereğince 
+disiplin cezası uygulanır. Ayrıca, fiil veya davranışlarının özelliğine göre haklarında ceza kovuşturulması da yapılır 
+ve hükmolunacak ceza ile birlikte tarafların uğradıkları zarar ve ziyan genel hükümlere göre kendilerine tazmin 
+ettirilir.
+5.3 Bu prosedürün uygulanmasında görevliler ile danışmanlık hizmeti sunanlar; yüklenicilerin iş ve işlemlerine, 
+teknik ve mali yapılarına ilişkin olarak gizli kalması gereken bilgi ve belgeleri ifşa edemezler, kendilerinin veya 
+üçüncü şahısların yararına kullanamazlar. Aksine hareket edenler hakkında ilgisine göre PTT ihalelerinden 
+yasaklama hükümleri uygulanır, görevliler hakkında da ilgili mevzuatı gereği işlem tesis edilir.
+6. UYGULAMA
+6.1 Temel İlkeler
+PTT, bu prosedüre uygun olarak yapacağı alımlarda aşağıda yer alan temel ilkelere bağlı kalır. PTT’nin bu prosedüre 
+uygun olarak yapacağı alımlarda; 
+a) İhtiyaçların uygun şartlarla ve zamanında karşılanması ile rekabetin, saydamlığın, eşit muamelenin, güvenilirliğin, 
+gizliliğin, kamuoyu denetiminin ve kaynakların verimli kullanılmasının sağlanması,
+b) Karlılık ve verimlilik esas alınmak kaydı ile mal ve hizmet alımlarında PTT İştirakleri (PTT’nin tüm e-ticaret 
+platformları) ve kamu kurum ve kuruluşları ile bunların sahip oldukları iştirak ve işletmelerinin öncelikli olarak 
+tercih edilmesi,
+c) Alımların mümkün olduğunca aracısız olarak ilk kaynağından temin edilmesi,
+ç) Alımların toplu alımların sağladığı fiyat avantajından azami ölçüde yararlanılmak ve en az 3 (üç) muteber 
+firmadan teklif alınmak suretiyle mümkün olan en kısa süre içerisinde yapılması,
+d) Alımların bütçe dâhilinde yapılması ve harcamalarda aşıma gidilmemesi,
+e) İhtiyaçların öncelikle yurt içinde üretilen veya üretilmesi mümkün olan mal ve hizmetlerden karşılanması esastır.
+f) İhtiyaçlarının tespitinde, ileride gereksiz mal stoklarının birikmesini engelleyici tedbirler alınması ve biriken fazla 
+mal stoklarının en iyi şekilde değerlendirilmesi,
+g) Piyasa araştırması yapılarak en uygun kalitedeki malzemenin, en uygun fiyat, ödeme ve teslimat koşullarıyla 
+muteber firmalardan tedarik edilmesi,
+ğ) Muhtelif ihtiyaçların karşılanmasına yönelik münferit alımların öncelikli olarak PTT’nin tüm e-ticaret platformları 
+başta olmak üzere e-ticaret siteleri üzerinden veya kurumsal büyük (elektronik, mobilya, ofis-büro, yapı market vb.) 
+mağazalardan temin edilmesi,
+h) Acil ve özel durumlar hariç, tüm alımların öngörülen plan ve program içinde yapılması,
+ı) Malzeme ve hizmetin talep edilen sürede ve kalitede teslim edilmesini sağlayacak bir yaklaşımın benimsenmesi,
+i) Kullanım ömrü uzun ve önemli ölçüde işletme, bakım ve onarım giderlerini gerektiren mal ve hizmetlerin 
+alımında, yalnız teklif edilen fiyatların karşılaştırılmasının yeterli olamayacağının göz önüne alınarak, belirtilen 
+giderlerin uzun dönemdeki durumunu içeren ekonomik analizlerinin de değerlendirmelerde fiyat dışı unsur olarak 
+dikkate alınması,
+j) Mal ve hizmet alımlarında, uzun vadeli avantajların ötesinde, sadece en düşük fiyat değil, piyasada kalitesi 
+ispatlanmış, PTT’nin amaç ve menfaatlerine uygun, teslim, ödeme, bakım şartları taşıyan en uygun teklifin tercih 
+edilmesi,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+3/14
+k) Şartname ve sözleşmelerin kolaylıkla incelenebilmelerini ve anlaşılmalarını mümkün kılacak şekilde 
+hazırlanması, ilan edilmesi veya tedarikçilere bildirilmesi ve rekabet bakımından tedarikçilerin çeşitlendirilerek 
+birçok tedarikçinin teklif vermesinin sağlanması,
+l) PTT ile uzun sürelerle ve takdir edilen performansla çalışmış olan firmaların vereceği tekliflerin bu prosedürün 
+6.24 fıkrası kapsamında değerlendirilmesi,
+m) Sürekli alım yapılan mal ve hizmetler için, belirli aralıklarla söz konusu mal veya hizmeti üreten/pazarlayan yeni 
+tedarikçilerin olup olmadığının araştırılması ve tedarikçi çeşitlendirilmesine gidilmesi,
+n) Satın alınan mal ve hizmetlerin Şirketimizde uygulanan Entegre Yönetim Sistemi kapsamındaki standartların 
+şartlarına uygunluğunun sağlanması,
+o) Satın almayı gerçekleştirecek birimlerde çalışanlarla satın alma komisyonunda görevli personelin, icra organı veya 
+onay makamının eşleri ve üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın hısımlarıyla evlatlıkları, evlat 
+edinenleri ve bunların ortak oldukları tüzel kişiler PTT tarafından yapılacak alım ve satımlara doğrudan veya dolaylı 
+olarak katılmaması,
+ö) Ödemelerin fatura, fiş ve makbuz gibi ödemeyi tevsik eden ve vergi yasalarında düzenlemelerine yer verilmiş 
+belgeler karşılığında yapılması,
+p) Satın alma işlemini gerçekleştiren birim/birimler tarafından satın alma sürecinde firmalarla yapılan tüm 
+yazışmalar ve alınan tekliflerin düzenli bir biçimde kayıt altına alınması,
+r) Satın alınan mal ve hizmetlerin PTT’nin kurumsal kimliğine uygunluğunun sağlanması,
+s)İhale yetki ve yetkilisini belirleyen parasal limitlere bağlı kalınarak alımın kısımlara bölünmeden 
+gerçekleştirilmesi,
+kural ve ilkeleri geçerlidir.
+6.2 Bildirim ve Tebligat Esasları
+6.2.1 Bildirim ve tebligatlar; imza karşılığı elden, alma haberli posta gönderisi ile elektronik ortamda (KEP, EKAP, 
+e-posta vb.) ve faksla yapılabilir. Tebligat usulünün seçiminde PTT yetkilidir.
+6.2.2 Alma haberli posta gönderisi ile yapılan tebligatlarda, fiili tebliğ tarihi esas alınır. KEP hariç elektronik 
+ortamda veya faks ile yapılan tebligatlarda bildirim tarihi tebliğ tarihi sayılır.
+6.2.3 Bu prosedürde hüküm bulunmayan hallerde yapılacak tebliğler hakkında Tebligat Kanunu hükümleri, sürelerin 
+hesabında ise Borçlar Kanunu hükümleri uygulanır.
+6.3 İhale Yetkilisi ve Yetki Devri
+6.3.1 Satınalma ve harcama işlemlerini ve ihale kararlarını onaylamaya, satınalma yapacak kişi veya komisyonları 
+görevlendirmeye, ihale süreci içerisinde herhangi bir aşamada ihaleyi ertelemeye, iptal etmeye veya varsa itirazları 
+değerlendirmeye yetkili olan ihale yetkilisi, Yönetim Kuruludur.
+6.3.2 Yönetim Kurulu bu yetkisini ihalenin konusu ve/veya parasal limitlerine göre sınırlarını açıkça belirlemek 
+suretiyle Genel Müdüre, Genel Müdür de aynı şekilde astlarına devredebilir.
+6.3.3 Satınalma ve harcama kararının verilebilmesi için yazılı onay alınması gereken makamları belirleyen ihale 
+yetkililerinin parasal yetki limitlerinin belirlenmesi ve güncelleştirilmesi Satınalma Daire Başkanlığı’nın talebi, 
+Genel Müdür'ün uygun görüşü ve Yönetim Kurulu Kararı ile gerçekleştirilir ve teşkilata tebliğ edilir.
+6.4 Satınalma Talebi
+6.4.1 İhtiyaç sahibi birimlerce satınalma talebi oluşturulur ve satınalma birimine gönderilir.
+6.4.2 Satınalma talebi ile birlikte aşağıda yer alan belgeler satınalma birimine gönderilir.
+a) Mal veya hizmetin ihtiyaç duyulduğu ilgili birimin yetkilisince imzalanmış gerekçe raporu,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+4/14
+b) Bütçe bilgisi,
+c) Yaklaşık maliyet (kapalı zarfta/gizli),
+ç) Satın alınacak mal veya hizmetin, varsa teknik şartnamesinin ve öngörülmüşse fiyat dışı unsurlara ilişkin ölçütler,
+d) Varsa, marka model, ilgili proje, teknik tasarım, çizim veya numunenin, ilgili firma isim ve adresleri, tek firmadan 
+alınması zorunlu olan ihtiyaçlar için mal ve hizmet tanımı ile bunlara ilişkin gerekçeler.
+6.4.3 Ürün kataloğunda yer alan ürünlerin toplu talep toplanarak ve çerçeve anlaşmalar yapılarak karşılanması esas 
+olmakla birlikte; katalogda yer alan ürünler, Satınalma Daire Başkanlığınca hazırlanacak plan ve program 
+çerçevesinde münferit olarak da talep edilip mahallen veya ilgili firmasından sipariş edilerek de karşılanabilir.
+6.4.4 Bölge Müdürlüklerine tahsis edilen global ödenekler kapsamında yapılacak alımlar ve/veya doğrudan temin 
+yöntemi ile yapılacak alımlarda öncelikli olarak PTT’nin tüm e-ticaret platformlarında yer alan fiyatlar alınır. Alınan 
+bu fiyatlar piyasa fiyatları ve/veya PTT’nin tedarikçi havuzunda kayıtlı tedarikçilerinden alınan fiyatlar ile 
+karşılaştırılarak avantajlı olan fiyat üzerinden alım gerçekleştirilir.
+6.5 Onay Belgesi
+6.5.1 Satınalma ve harcama işlemlerine, ihale yetkilisinden onay alınmak suretiyle başlanır.
+6.5.2 Onay belgesinde; alım konusu işin adı/tanımı ve gerekçesi, miktarı, kullanılabilir ödeneği ve bütçe tertibi, alım 
+usulü, duyuru şekli ve ihale yetkilisince uygun görülen diğer hususlara yer verilir.
+6.5.3 Onay belgesine, idari şartname, teknik şartname, sözleşme tasarısı, yaklaşık maliyet (kapalı zarf içinde/gizli) ile 
+gerekli görülen diğer dokümanlar eklenerek ihale yetkilisinin onayına sunulur.
+6.5.4 İhale yetkilisinin onayını müteakip EKAP üzerinden ihale kayıt numarası (İKN) alınarak alım işlemlerine 
+başlanır. İhaleli alımların dışındaki alımlarda İKN alınması zorunlu değildir.
+6.6. İhale Komisyonları
+6.6.1 PTT’nin merkez teşkilatında yapılan ihalelerde, biri başkan olmak üzere en az beş ve tek sayıda kişiden oluşan 
+ihale komisyonu Genel Müdürlükçe belirlenir ve yedek üyeler de dahil olmak üzere ihale yetkilisince görevlendirir.
+6.6.2 PTT’nin taşra birimlerinde yapılan ihalelerde, biri başkan olmak üzere en az 3 (üç) ve tek sayıda kişiden oluşan 
+ihale komisyonu Bölge Müdürlüklerince belirlenir ve yedek üyeler de dahil olmak üzere ihale yetkilisince 
+görevlendirir.
+6.6.3 Hukuk birimlerinin bulunduğu yerlerde, komisyona üye olarak bir hukuk müşaviri veya avukat veya hukukçu 
+uzman/uzman yardımcısı görevlendirilebilir.
+6.6.4 Mevcut bir çerçeve anlaşmaya dayalı olarak bu anlaşmaya taraf olan tedarikçilerden yapılacak alımlar, en az üç 
+ve tek sayıda kişiden oluşan komisyonca gerçekleştirilir.
+6.6.5 Alımın yapılmasına onay veren ihale yetkilisi, o ihalenin ihale komisyonunda başkan veya üye olarak görev 
+alamaz.
+6.6.6 İhale komisyonu eksiksiz olarak toplanır. Komisyon kararları çoğunlukla alınır ve kararlarda çekimser 
+kalınamaz. Karşı oy kullanan komisyon üyeleri, gerekçesini komisyon kararına yazmak ve imzalamak zorundadır.
+6.6.7 Tekliflerin değerlendirilmesi ve uygun teklifin seçimi İhale Komisyonları tarafından yapılır ve ihale yetkilisinin 
+onayına sunulur.
+6.7 Yaklaşık Maliyet ve İhale Türünün Tespiti
+6.7.1 Yaklaşık maliyet, alımın niteliğine göre talep birimlerince ve/veya Genel Müdürün uygun göreceği alımlarda 
+satınalma birimince oluşturulacak bir komisyon marifetiyle, Satınalma Daire Başkanlığınca hazırlanan SAT.TL03 
+Mal ve Hizmet Alımlarda Kullanılacak Yaklaşık Maliyet Talimatı’na uygun olarak katma değer vergisi hariç olmak 
+üzere hesaplanır. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+5/14
+6.7.2 İhale konusu işin bir kısmına teklif verilmesinin mümkün olduğu hallerde, yaklaşık maliyet her bir kısım için 
+ayrı ayrı olmak üzere işin tamamı dikkate alınarak hesaplanır.
+6.7.3 Yaklaşık maliyete duyuruda yer verilmez, yaklaşık maliyet isteklilere veya ihale süreci ile resmi ilişkisi 
+olmayan diğer kişilere açıklanamaz.
+6.7.4 Yaklaşık maliyet, fiyat görüşmesi yapılmayan ihalelerde ilk oturumda teklif zarflarının açılmasından önce; 
+fiyat görüşmesi yapılan ihalelerde ise, fiyatların yazılı olarak alınması halinde son tur fiyatlarına ilişkin teklif 
+zarflarının açılmasından önce, fiyatların sözlü olarak alınması halinde son tur fiyatların alınmasından sonra açıklanır.
+6.7.5 Kapsamında mal ve hizmet bulunan ihalelerde ihale türünün tespitinde, yaklaşık maliyet içerisinde parasal 
+tutarı en fazla olan esas alınır.
+6.7.6 Talep biriminin veya satınalma biriminin ve/veya ihale komisyonunun, yaklaşık maliyetin ihale sürecinde 
+değişikliğe uğradığını belirlemesi durumunda, değişikliğin gerekçeleri belirtilmek suretiyle yaklaşık maliyet 
+hazırlama komisyonu veya ihale komisyonu tarafından güncellenen yaklaşık maliyet dikkate alınır.
+6.8 Şartnameler
+Şartnameler satın alınacak mal ve hizmet işinin sahip olması istenen teknik özellikleri ve alım işleminin hukuki, 
+ticari, mali ve idari her türlü özelliğini belirtir. Şartnamelerde belirlenecek şartların, bütün istekliler için fırsat eşitliği 
+sağlaması, rekabeti engelleyici hususlar içermemesi ve verimliliği ve fonksiyonelliği sağlamaya yönelik olması 
+esastır. İlan /davet yapıldıktan sonra şartname ve eklerinde değişiklik yapılamaz. Değişiklik yapılması zorunlu ise 
+yapılan değişiklik isteklilere duyurulur, isteklilere yeni değişikliğe göre teklif verebilmeleri için ek süre tanınır.
+6.8.1 Teknik Şartnameler
+6.8.1.1 Teknik şartnameler ve tip teknik şartnameler, ihtiyaç konusu alımın bütün özelliklerini, özellikle malzemenin 
+cins ve karakteristiği, varsa kod numarası ile Türk ve dünya standartları ve normlarını kapsayacak şekilde ihtiyaç 
+bildiren birim tarafından, ilgili diğer birimlerle iş birliği yapılmak suretiyle hazırlanarak satınalma birimine 
+gönderilir. Gerekmesi halinde teknik şartnameler danışmanlık hizmeti alınmak suretiyle de hazırlattırılır.
+6.8.1.2 Teknik şartnamelerde, varsa ulusal ve/veya uluslararası teknik standartlara uygunluğu sağlamaya yönelik 
+düzenlemeler de yapılır. Bu şartnamelerde teknik özelliklere ve tanımlamalara yer verilir. PTT tarafından, belli bir 
+marka, model, patent, menşei, kaynak veya ürün ve belirli bir marka veya modele yönelik özellik ve tanımlamalara 
+yer verilebilir.
+6.8.1.3 Teknik şartnamelerde, alınacak mal ve hizmetler için istenen çevre şart/şartları (çevreye duyarlılık, çevre 
+mevzuatına uygunluk, geri dönüşüm vb.) iş sağlığı ve güvenliği, enerji verimliliği ve tasarrufu kriterleri 
+tanımlanmalıdır.
+6.8.2 İdari Şartnameler
+6.8.2.1 İdari şartnameler ise, işin niteliğine uygun olarak teklif alma, teklifleri sunma ve değerlendirme şartlarını 
+kapsayacak şekilde satınalma birimlerince hazırlanır.
+6.8.2.2 İdari şartnamelerde bulunabilecek hususlar aşağıda belirtilmiştir:
+a) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı,
+b) Satınalma yapan birimin adı, adresi, telefon, KEP adresi ve varsa faks numarası,
+c) Satınalma usulü, tarih ve saati ile tekliflerin nereye verileceği,
+ç) İhale saatinden önce veya sözleşme imzalanıncaya kadar her aşamada, tüm katılımcılara bildirilmek şartıyla 
+ihalenin ertelenmesi, tekliflerin reddedilmesi ve ihalenin iptal edilmesinde PTT’nin serbest olduğu ve bu nedenle 
+isteklilerce PTT’den herhangi bir hak talebinde bulunulamayacağı,
+d) Katılmaya ilişkin hususlar, istenen belgeler ve yeterlik kuralları,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+6/14
+e) İhale konusu işin süresi, teslim veya işin yapılacağı yeri, teslim şartları ve teslimatta gecikme olması hâlinde 
+alınacak önlemler,
+f) İhale dokümanında değişiklik veya açıklama yapılması,
+g) İhale dokümanına veya ihale kararına itiraz edilmesi,
+ğ) İhaleye katılamayacak olanlar ve ihale dışı bırakılma,
+h) Tekliflerin hazırlanması ve sunulmasına ilişkin hususlar,
+ı) Teklif mektuplarının şekli ve içeriği,
+i) Tekliflerin türü ve geçerlilik süresi,
+j) Teklif fiyata dahil olan masraflar,
+k) Tekliflerin alınması, açılması ve değerlendirilmesi ile tekliflere açıklık getirilmesine ilişkin hususlar,
+l) Teminatlara ilişkin hususlar,
+m) İhalenin karara bağlanması, ihale kararının onaylanması ve isteklilere bildirilmesine ilişkin hususlar.
+n) Sözleşmeye davet, sözleşme yapılmasında isteklinin ve PTT’nin görev ve sorumlulukları,
+o) Aşırı düşük teklif sorgulaması yapılmasına ilişkin hususlar,
+ö) PTT tarafından belirlenen diğer hususlar. (ortak girişim, konsorsiyum, tekliflerin eşit olması, alternatif teklif, fiyat 
+dışı unsurlar ve değerlendirme kriterleri vb.)
+6.9 İdari şartnamelerde yukarıdaki hususlara yer verilmesi esas olmakla birlikte asgari hususlar Satınalma Daire 
+Başkanlığı’nca hazırlanacak mal veya hizmet alımına ilişkin tip idari şartnamelerde düzenlenir. İdari şartnamede yer 
+almayan hususlara ek şartlarda yer verilir.
+6.10 Duyuru
+6.10.1 Duyurunun şekli (ilan/davet) ve süresi yapılacak alımın tutarı ve özelliğine göre belirlenir ve Onay Belgesinde 
+yer alır.
+6.10.2 Duyurularda aşağıdaki hususlara yer verilmesi zorunludur.
+a) Bu prosedürün 6.8.2.2 bendinin (a), (b), (c), (ç), (d) ve (e) alt bentlerinde yer alan hususlar,
+b) İhale dokümanının nerede görülebileceği ve nasıl temin edileceği,
+c) İhalenin nerede, hangi tarih ve saatte yapılacağı,
+ç) Tekliflerin hangi tarih ve saate kadar nereye verileceği.
+6.10.3 İlan yolu ile yapılacak duyurular, ihale tarihinden en az beş gün önce, PTT’nin internet sitesi üzerinden 
+yayımlanır. Sürelerin hesabında ilânın yayımlandığı gün dikkate alınır, ihale günü dikkate alınmaz. PTT tarafından 
+gerek görülmesi halinde, kamu ihale bülteni, resmi gazete, yerel veya ulusal gazetelerden bir veya birkaçında da ilan 
+yolu ile duyuru yapılabilir.
+6.10.4 Duyuruların ilan yolu ile yapılması esas olmakla birlikte PTT Genel Müdürlüğünce veya Bölge 
+Müdürlüklerine verilecek yetki çerçevesinde yapılacak alımlardan aşağıda belirtilenler, davet yolu ile de yapılabilir.
+a) PTT İştirakleri ile kamu kurum ve kuruluşları ile bunların sahip oldukları iştirak ve işletmeleri, üniversiteler ve 
+öğretim görevlilerinden yapılacak alımlar,
+b) Doğrudan temin ile yapılacak alımlar,
+c) PTT’nin tedarikçi havuzunda yer alması uygun görülenlerden yapılacak alımlar,
+ç) PTT’nin ana faaliyetlerinin ifası ile ilgili alımlar,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+7/14
+d) İlan yolu ile yapılan ancak ihalenin sonuçlandırılamadığı alımlar,
+e) Etüt ve proje, plan, tasarım, şartname hazırlama, denetim gibi teknik, malî, hukuki veya benzeri alanlarda özel 
+uzmanlık ve deneyim gerektiren müşavirlik/danışmanlık hizmetleri,
+f) Acil ve/veya özel durumlar gereği mal ve hizmetin belirli bir tedarikçiden karşılanmasının zorunlu olduğu 
+alımlar,
+g) Kurumsal kimlik kapsamında yapılacak alımlar ile Ar-Ge, özel projeler ve ürün kataloğu kapsamında yapılacak 
+alımlar,
+ğ) PTT’nin tanıtım ve reklam faaliyetlerine yönelik mal ve hizmetler ile organizasyonlar,
+h) Bilişim güvenliği dahil güvenliğe dair tüm alımlar ile ticari mahremiyet gibi nedenlerle gizli tutulması 
+zorunluluğu olan alımlar,
+ı) PTT’nin imajını, itibarını, güvenilirliğini sarsabilecek veya PTT’yi zarara uğratabilecek durumların önlenebilmesi 
+amacıyla yapılacak acil alımlar,
+i) Yaklaşık maliyeti SAT.TB04 İhale Yetkilisi ile PTT AŞ Mal ve Hizmet Alımı Prosedüründe Uygulanacak Parasal 
+Limitler Tablosunun 2.1 maddesinde belirtilen limite kadar olan alımlar,
+6.10.5 Davet usulünde, en az üç muteber firmanın ihaleye davet edilmesi esastır. Piyasa şartları gereği üç firmanın 
+davet edilmesinin mümkün olmadığı hallerde bir veya iki firma davet edilerek de ihale sonuçlandırılabilir.
+6.10.6 Bölge Müdürlüklerinin, PTT İştirakleri, kamu kurum ve kuruluşları ile bunların sahip oldukları iştirak ve 
+işletmelerinden yapacakları alımları ile doğrudan temin dışındaki alımlarında davet usulünü kullanabilmeleri için 
+Genel Müdürlükten ayrıca yetki ve izin alması zorunludur. Bu yetki münferit olarak alınabileceği gibi Satınalma 
+Daire Başkanlığınca alım konusu işe ve/veya parasal miktarına göre hazırlanacak “İstisna Listesi” ile de verilebilir.
+6.10.7 İlan/Davette hata bulunması ve/veya ihale dokümanında değişiklik yapılması gerektiğinde ihale tarihinden üç 
+gün öncesine kadar düzeltme ilanı/daveti aynı duyuru şekli ile yapılarak ihale gerçekleştirilebilir.
+6.11 İhale Dokümanında Değişiklik veya Açıklama Yapılması
+6.11.1 Duyuru yapıldıktan sonra ihale dokümanında değişiklik yapılmaması esastır. Ancak; duyuru yapıldıktan sonra 
+tekliflerin hazırlanmasını veya işin gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya eksikliklerin 
+tespit edilmesi veya isteklilerce yazılı olarak bildirilmesi halinde, ihale dokümanında değişiklik yapılabilir. Yapılan 
+bu değişikliklere ilişkin zeyilname teklif verme gününden en az üç gün öncesinde ihale dokümanı alanların tamamına 
+ulaştırılır. Yapılan değişiklikler nedeniyle ek süreye ihtiyaç duyulması halinde, ihale, ihale yetkilisinin onayına 
+istinaden ertelenir ve bu durum isteklilere bildirilir.
+6.11.2 Zeyilname düzenlenmesi hallerinde, önceden teklif vermiş olan isteklilere tekliflerini geri çekerek, yeniden 
+teklif verme imkânı sağlanır. İhalenin ertelenmesi nedeniyle isteklilerce PTT’den herhangi bir hak talebinde 
+bulunulamaz ve PTT ihalenin ertelenmesi nedeniyle herhangi bir yükümlülük altına girmez.
+6.11.3 İsteklilerce başvurulması ya da PTT tarafından gerek görülmesi halinde, ihale dokümanına ilişkin olarak teklif 
+verme gününden üç gün öncesine kadar açıklama yapılabilir. Açıklama metni doküman alanların tamamına aynı süre 
+içerisinde ulaştırılır.
+6.12 İhaleli Alımlar
+6.12.1 PTT İştirakleri ile kamu kurum ve kuruluşları ile bunların sahip oldukları iştirak ve işletmeleri, üniversiteler 
+ve öğretim görevlilerinden yapılan alımlar ve Doğrudan Temin ile yapılan alımlar dışındaki tüm alımlar ihale yolu 
+ile yapılır.
+6.12.2 İlk tekliflerin kapalı yazılı olarak alınması esas olmakla birlikte, ihale dokümanında belirtilmek kaydıyla, 
+alternatif teklif alma, birden fazla tur şeklinde sözlü/yazılı açık eksiltme veya kapalı yazılı teklif alınması ya da her 
+ikisinin birlikte uygulanması şeklinde isteklilerle fiyat görüşmesi yapılabilir. Teklifleri geçerli olan isteklilerden ilk 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 8 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+8/14
+fiyat tekliflerini aşmamak üzere, ihale kararına esas olacak son yazılı fiyat teklifleri alınarak ihale sonuçlandırılır. 
+Nihai tekliflerin, belgelendirmek şartı ile temsile yetkili kişilerce ve/veya vekâleten imzalanması gerekir.
+6.12.3 İstekliler ilanda belirtilen ihale saatine kadar ihale komisyonlarına ulaşmış olmak şartıyla, tekliflerini alma 
+haberli posta gönderisi ile de gönderebilirler. Teklif sahibi komisyonda hazır bulunmadığı takdirde posta ile 
+gönderilen teklif son ve kesin teklif olarak kabul edilir.
+6.12.4 Alımın niteliğine ve PTT menfaatlerine göre uygulanacak tedarik şekli (teknik şartname, numune, marka-
+model ve/veya tedarikçi, kısa liste, konsinye, iskonto, proje esasına dayalı alımlar vb.) Satınalma Daire 
+Başkanlığınca belirlenir ve uygulamaya ilişkin bir genelge ile tebliğ edilir.
+6.13 Kapsam Dışı Alımlar
+6.13.1 Karlılık ve verimlilik esas alınmak kaydıyla; PTT İştirakleri, PTT Biriktirme Yardım Sandığı ve iştirakleri, 
+kamu kurum ve kuruluşları ile bunların sahip oldukları iştirak ve işletmeleri, üniversiteler ve öğretim görevlilerinden 
+yapılan alımlar, doğrudan doğruya temin edilebilir.
+6.13.2 İlan yapılmaksızın, teminat alınmaksızın, ihale komisyonu kurma, bu prosedürdeki yeterlik kurallarını arama 
+ve sözleşme yapma zorunluluğu bulunmaksızın, iş bu prosedürde yer alan tedarikçi değerlendirme hükümleri 
+uygulanmaksızın temin edilebilir. Gerekmesi halinde ilgili kurum/kuruluş/iştirak ile protokol veya sözleşme 
+imzalanabilir, avans ödemesi yapılabilir.
+6.13.3 PTT İştiraklerinden yapılan alt yüklenici çalıştırılması öngörülen mal ve hizmet alımlarında kesin teminata 
+ilişkin hususlara sözleşmede yer verilir.
+6.14 Doğrudan Temin
+6.14.1 Aşağıda belirtilen hallerde ihtiyaçların en uygun şekilde karşılanması amacıyla, ilan yapılmaksızın davet 
+edilecek istekli/isteklilere tekliflerin hazırlanması için yeterli süre tanınmak suretiyle, teknik şartlar ve fiyat üzerinde 
+görüşme yapılarak da alım yapılması mümkündür.
+a) İhtiyacın sadece gerçek veya tüzel, tek kişi tarafından karşılanabileceğinin tespit edilmesi,
+b) Tek bir gerçek veya tüzel kişinin ihtiyaç ile ilgili özel bir hakka sahip olması,
+c) Mevcut mal, ekipman, teknoloji veya hizmetlerle uyumun ve standardizasyonunun sağlanması için ihtiyaç duyulan 
+yedek parça, malzeme veya hizmetin ilk alım yapılanın dışında başka gerçek veya tüzel kişiden temin edilememesi,
+ç) Önceden öngörülmesi mümkün olmayan ani ve beklenmeyen durumların ortaya çıkması üzerine imalat ve hizmet 
+süreçlerinde meydana gelebilecek kesintileri ve gecikmeleri önlemek amacıyla acele olarak alım yapılmasının 
+zorunlu olması,
+d) Yaklaşık maliyeti SAT.TB04 İhale Yetkilisi ile PTT AŞ Mal ve Hizmet Alımı Prosedüründe Uygulanacak Parasal 
+Limitler Tablosunun 2.3 maddesinde belirtilen limitlerden az olan alımlar,
+e) Araç ve cihaz bütünlüğünün sağlanmasına yönelik alımlar ile bakım onarım hizmetlerinin sağlanması 
+kapsamındaki mal ve hizmet alımları,
+f) PTT’nin ihtiyacına uygun taşınmaz mal alımı veya kiralanması,
+g)Özelliğinden ve belli bir süre içinde kullanılma zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil 
+durumlarda kullanılacak olan malzeme alımları.
+6.14.2 İlan yapılmaksızın, teminat alma ihale komisyonu kurma ve bu prosedürdeki yeterlik kurallarını arama ve 
+sözleşme yapma zorunluluğu bulunmaksızın ihale yetkilisince görevlendirilecek kişi veya kişiler tarafından piyasada 
+fiyat araştırması yapılarak ihtiyaçlar bu yöntemle temin edilebilir. 6.14.1 bendinin (a), (b), (c) alt bentleri istisnadır.
+6.14.3 Alımın özelliğine göre teminat alınabilir ve sözleşme imzalanabilir. Alımın ivedilik gerektirmesi ve sözleşme 
+edimlerinin yerine getirilmemesinin yanı sıra teminatın getirilmemesi hali fesih sebebi olarak belirtilmek kaydıyla, 
+PTT tarafından uygun görülmesi halinde teminat, sözleşme imzalandıktan sonra da alınabilir. Bu durumda teminatın 
+getirilme süresi 1 (bir) aydan fazla olamaz. Teminat getirilmediği sürece ödeme yapılmaz.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 9 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+9/14
+6.14.4 İhtiyacın, 6.14.1 bendinin (d) alt bendine göre (mal ve hizmet alımı) temin edilmesi halinde;
+6.14.4.1 Alımlarda en az üç muteber firmadan kapalı yazılı teklif istenir. Teklifler e-posta veya faks yolu ile 
+istenebileceği gibi internet ilanları üzerinden fiyat araştırması yapılarak alınabilir. Alımların en az üç personel 
+tarafından tutanağa bağlanmak suretiyle gerçekleştirilir.
+6.14.4.2 Muhtelif ihtiyaçların karşılanmasına yönelik münferit alımların kurumsal büyük mağazalardan (elektronik, 
+mobilya, ofis-büro, yapı market vb.) temin edildiği alımlar ile Finans ve Muhasebe Başkanlığınca her yıl belirlenen 
+mutemet avansı tutarına kadar olan alımlar en az iki personel tarafından tutanağa bağlanmak suretiyle temin edilir.
+6.14.4.3 Temin edilecek mal veya hizmeti sunan tedarikçilerin ikiden az olması halinde bu durum en az üç personel 
+tarafından tutanak altına alınarak alım gerçekleştirilir.
+6.15 İhale Dokümanına veya İhale Kararına İtiraz
+6.15.1 İhale dokümanına yönelik olarak, ihale dokümanı satın alan istekliler tarafından, ihale gününden en az üç gün 
+öncesine kadar ihaleyi yapan birime itiraz başvurusu yapılabilir. İtirazın geçerli olabilmesi için başvuranın, yetkili 
+olduğunu gösterir belgeler ile imza sirkülerinin aslı veya yetkili mercilerce onaylı örneklerinin itiraz başvuru 
+dilekçesine eklemesi gerekir. Başvuru sahibi ihaleye teklif verdi ise, ihale dokümanının içeriğine yönelik itiraz 
+başvurusu değerlendirilmeye alınmaz.
+6.15.2 Başvurular ihale yetkilisince değerlendirilir. İhale yetkilisi bizzat yapacağı veya yaptıracağı inceleme 
+sonucuna göre kararını verir. Karar, ihale dokümanında değişiklik yapılmasını gerektiriyor ise yapılan değişiklik tüm 
+istekilere, değişiklik gerektirmiyor ise sadece başvuru sahibine bildirilir. Başvuruya karşı herhangi bir cevap 
+verilmemesi başvurunun reddedildiği anlamına gelir. Bu tür durumlarda istekli, başvuruya cevap beklediği için teklif 
+vermediği şeklinde bir iddia ve talepte bulunamaz.
+6.15.3 İstekliler, kesinleşen ihale kararına karşı kararın kendilerine tebliği edildiği günden itibaren üç gün içinde 
+PTT'ye itiraz yoluna başvurabilir. SAT.TB04 İhale Yetkilisi ile PTT AŞ Mal ve Hizmet Alımı Prosedüründe 
+Uygulanacak Parasal Limitler Tablosunun 2.4 maddesinde belirtilen tutarda itiraz başvuru bedeli alınır.
+İtirazlar en geç on gün içinde sonuca bağlanır. (PTT tarafından belirtilen hesaba yatırılır.)
+6.16 Teklifler
+6.16.1 Teklif mektuplarının aşağıdaki şartları taşıması zorunludur.
+a) Yazılı olması,
+b) İhale dokümanının tamamen okunup kabul edildiğinin belirtilmesi,
+c) Teklif edilen bedelin rakam ve yazı ile yazılması,
+ç) Üzerinde kazıntı, silinti düzeltme bulunmaması,
+d) İsteklinin adı, soyadı veya ticaret unvanı yazılmak veya bu bilgileri içeren kaşe basılmak suretiyle yetkili kişilerce 
+imzalanmış olması,
+e) İsteklinin, teklif mektubunda bildirime esas açık adresini belirtmesi.
+6.16.2 İhaleye ait teklif mektubu ve geçici teminata ilişkin belge dahil istenen tüm belgeler bir zarf içine konularak 
+sunulur. Bu zarfın üzerinde isteklinin adı, soyadı veya ticari unvanı, açık adresi veya bu bilgileri taşıyan kaşesi, 
+teklifin hangi ihaleye ait olduğu ve ihaleyi yapan birimin açık adresi belirtilir. Teklif zarfı bu bilgileri içermese dahi 
+üzerinde ilgili ihaleye ilişkin İhale Kayıt Numarası (İKN) bilgisinin bulunması ve söz konusu ihaleye ait olması 
+durumunda da zarf kabul edilir ve değerlendirmeye alınır.
+6.16.3 İstekli veya teklif vermeye yetkili kılınan kişi tarafından zarfın yapıştırılan yerine kaşe/mühür basılıp 
+imzalanarak ihale saatine kadar ihalenin yapılacağı yere verilir veya alma haberli posta gönderisi ile gönderilir. Posta 
+ile gönderilecek tekliflerin ihale saatine kadar ihale komisyonunun toplantı yerine ulaşması şarttır. Postadaki 
+gecikme nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir ve değerlendirmeye 
+alınmaz.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 10 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+10/14
+6.16.4 Verilen teklifler, zeyilname düzenlenmesi hali hariç, herhangi bir sebeple geri alınamaz veya değiştirilemez.
+6.16.5 İstekliler teklif mektubunu sunmakla ihale dokümanında belirtilen bütün şartları kabul etmiş sayılır.
+6.16.6 Tekliflerin hazırlanması ve sunulması, teklif mektuplarının şekli ve içeriği, tekliflerin türü ve asgari geçerlilik 
+süresi, teklif fiyata dahil olan masraflar ile tekliflerin alınması, açılması ve değerlendirilmesine ve teklifle birlikte 
+sunulacak belgelere ilişkin hususlara idari şartnamede yer verilir.
+6.16.7 Belirli bir temin ve hazırlık süresini gerektiren ve yıllara yaygın olarak temin edilen mal ve hizmet alımlarında 
+aşırı düşük teklif sorgulaması yapılır.
+6.17 Teminatlar
+6.17.1 Teminat olarak kabul edilecek değerler aşağıda gösterilmiştir.
+a) Tedavüldeki Türk Parası,
+b) Mevduat bankaları ve katılım bankaları tarafından verilen teminat mektupları,
+c) Hazine Müsteşarlığınca ihraç edilen Devlet İç Borçlanma Senetleri ve bu senetler yerine düzenlenen belgeler,
+ç) Türkiye’de yerleşik sigorta şirketleri tarafından kefalet sigortası kapsamında düzenlenen kefalet senetleri.
+6.17.2 İlgili mevzuatına göre Türkiye'de faaliyette bulunmasına izin verilen yabancı bankaların düzenleyecekleri 
+teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri kredi kuruluşlarının kontrgarantisi 
+üzerine Türkiye'de faaliyette bulunan bankaların yabancı istekli adına düzenleyecekleri teminat mektupları da 
+teminat olarak kabul edilir.
+6.17.3 Teminat mektupları dışındaki teminatlar ihale komisyonlarınca teslim alınamaz. Bunların ilgili muhasebe 
+müdürlüklerine yatırılması zorunludur.
+6.17.4 Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
+6.17.5 Teminat mektupları ihaleyi yapan birime muhatap ve Türkçe olmalıdır. Teminat mektuplarında; hangi işe ait 
+oldukları, kimin adına verildiği, muhatabın ve lehtarın adları belirtilmelidir.
+6.17.6 Yabancı banka ve katılım bankalarının teminat mektuplarının 5411 sayılı Bankacılık Kanununa göre kurulmuş 
+bir bankanın veya katılım bankasının kontrgarantisinde olduğunun belgelenmesi gerekir.
+6.17.7 Teminat mektupları ile teklif mektupları aynı para biriminden verilir.
+6.17.8 Fiyat farkı veya iş artışı olarak ödenecek bedelin o sözleşme için belirlenen kesin teminat yüzdesi oranında, 
+teminat olarak kabul edilen değerler üzerinden veya ilk hak edişten kesinti yapılmak suretiyle ek kesin teminat alınır. 
+Ek kesin teminat, kesin teminata ilişkin hükümlere tabiidir.
+6.17.9 Teklif edilen bedelin yüzde üçünden az olmamak üzere alınacak geçici teminat ve sözleşme aşamasında 
+sözleşme bedelinin yüzde altısından az olmamak üzere alınacak kesin teminatın şekli ve içeriği (ek kesin teminat 
+dahil) ile bunların sürelerine ve iade edilmesi/geri verilmesine ilişkin hususlara ilgili dokümanında yer verilir.
+6.18 İhale Kararının Onaylanması ve İsteklilere Bildirilmesi
+6.18.1 İhale komisyon kararları, ihale onay belgesini imzalayan ihale yetkilisi makamının onayına sunulur. Kararda 
+isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi istekli üzerine yapıldığı, ihale 
+yapılmamış ise nedenleri belirtilir.
+6.18.2 İhale kararları ihale yetkilisince onaylanmadan önce, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en 
+avantajlı ikinci teklif sahibi isteklinin ihalelerden yasaklı olup olmadığı Kamu İhale Mevzuatına göre sorgulanarak 
+buna ilişkin belgeler ihale kararına eklenir.
+6.18.3 Kararın ihale yetkilisine sunulmasından sonra ihale yetkilisi ihale kararını onaylar veya uygun görmediği 
+takdirde yeniden değerlendirilmek üzere ihale komisyonuna iade edebilir. İhale komisyonu ihale yetkilisinin iade 
+gerekçesini dikkate alarak yeniden değerlendirme yapar ve karar yeniden ihale yetkilisinin onayına sunulur. İhale 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 11 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+11/14
+yetkilisi kararı onaylar veya alımı iptal eder. Kısmi teklife açık ihalelerde ihale yetkilisi ihalenin bir veya birkaç 
+kısmına ait ihale kararlarını onaylama veya iptal etmeye yetkilidir.
+6.18.4 Bölge Müdürlüklerince yapılan ve İhale yetkilisinin Yönetim Kurulu, Genel Müdür ve Genel Müdür 
+Yardımcısı olduğu ihalelerde tetkik ve arz işlemleri Satınalma Daire Başkanlığınca yapılır.
+6.18.5 İhale kararları ihale yetkilisi tarafından onaylandıktan sonra ihale üzerinde bırakılan dahil ihaleye teklif veren 
+bütün isteklilere bildirilir. Bildirim yazısında değerlendirme dışı kalan isteklinin değerlendirme dışı kalma 
+gerekçeleri de belirtilir.
+6.19 Sözleşmeye Davet
+6.19.1 İhale sonucunun bildirilmesini müteakip, ihale üzerinde kalan istekliye on takvim gününe kadar süre 
+verilerek, verilen süre içinde yasal yükümlülüklerini yerine getirerek sözleşmeyi imzalaması için davet edilir.
+6.19.2 Davet yazısı kapsamında, mevzuatı gereği ödenmesi gereken vergilerinin ödendiğine dair belgeler, kesin 
+teminat ve ihale tarihinde 4734 sayılı Kanunun 10 uncu maddesinin dördüncü fıkrasının (a), (b), (c), (d), (e) ve (g) 
+bentlerinde sayılan durumlarda olmadığına dair belgeler, işin özelliğine göre istenilmesi gerekli olan diğer belgeler 
+ile iş ortaklığı olunması durumunda Noter Onaylı İş ortaklığı sözleşmesi istenir.
+6.19.3 Davet yazısı, bildirim usullerinden biriyle tebliğ edilir. Verilen süre tebliğ tarihini izleyen gün başlar.
+6.19.4 Sözleşme imzalanmadan önce Kamu İhale Kurumunun internet sayfasından yasaklılık sorgusu yapılır. 
+Sorgulama sonucunda isteklinin ihalelere katılmaktan yasaklı olduğunun tespit edilmesi halinde söz konusu 
+gerçek/tüzel kişi ile sözleşme imzalanmaz.
+6.20 Sözleşmeler
+6.20.1 Sözleşme yapılmasında isteklinin ve PTT’nin görev ve sorumlulukları ile ihalenin sözleşmeye bağlanması ve 
+sözleşmenin uygulanmasına ilişkin hususlara idari şartnamede yer verilir.
+6.20.2 Sözleşmelerde bulunabilecek hususlar aşağıda belirtilmiştir.
+a) İşin adı, niteliği, türü ve miktarı, hizmetlerde iş tanımı,
+b) Satınalma yapan birimin adı ve adresi,
+c) Yüklenicinin adı veya ticaret unvanı, tebligata esas adresi,
+ç) Varsa alt yüklenicilere ilişkin bilgiler ve sorumlulukları,
+d) Sözleşmenin bedeli, türü ve süresi,
+e) İş artışı veya eksilişine dair şartlar,
+f) Ödeme yeri ve şartları,
+g) Ek şartlarda öngörülmesi halinde fiyat farkına ilişkin hususlar,
+ğ) Ulaşım, sigorta, vergi, resim ve harç giderlerinden hangisinin sözleşme bedeline dahil olacağı,
+h) Vergi, resim ve harçlar ile sözleşmeyle ilgili diğer giderlerin kimin tarafından ödeneceği,
+ı) Montaj, işletmeye alma, eğitim, bakım-onarım, yedek parça gibi destek hizmetlerine ait şartlar,
+i) Kesin teminat ve ek kesin teminat ile bunların iadesine ilişkin hususlar,
+j) Garanti istenilen hallerde süresi ve garantiye ilişkin şartlar,
+k) İşin yapılma yeri, teslim etme ve teslim alma şekil ve şartları,
+l) Ceza ve kesintiler,
+m) Mücbir sebepler ve süre uzatımı verilebilme şartları,
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 12 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+12/14
+n) Denetim, muayene ve kabul işlemlerine ilişkin şartlar,
+o) Sözleşmede değişiklik yapılma şartları,
+ö) Sözleşmenin devri, feshi veya tasfiyesine ilişkin şartlar,
+p) Yüklenicinin sözleşme konusu iş ile ilgili çalıştıracağı personele ilişkin özlük hakları ve sorumluluklarına ilişkin 
+hususlar ile iş sağlığı ve güvenliğine ilişkin yükümlülükler,
+r) İhale dokümanında yer alan bütün belgelerin sözleşmenin ayrılmaz parçası olduğu ve belgeler arasındaki üstünlük 
+sıralamasına dair hükümler,
+s) Anlaşmazlıkların çözüm yeri,
+ş) Avans verilip verilmeyeceği, avans verilecekse şartları ve miktarı.
+6.21 Ödeme Şartları
+6.21.1 İhale dokümanında “ödeme yeri ve şartları” başlığı altında mal ve hizmet alımı ile ilgili hak ediş ödemelerinin 
+şekli ile ödemeye esas evraklarla ilgili hususlara yer verilir.
+6.21.2 Personel çalıştırılmasına dayalı hizmet alımı ihalelerinde söz konusu hizmette çalışan işçilerin ücretlerinin ve 
+sigorta primlerinin zamanında ve tam olarak yatırılmasını sağlamak amacıyla ek şartlar veya sözleşmede farklı 
+ödeme esasları belirlenebilir.
+6.22 Parasal Limitler ve Sürelerin Değiştirilmesi
+6.22.1 SAT.TB04 İhale Yetkilisi ile PTT AŞ. Mal ve Hizmet Alımı Prosedüründe Uygulanacak Parasal Limitler 
+Tablosunda yer alan parasal limitler ile bu prosedürde geçen sürelerin değiştirilmesinde yönetim kurulu yetkilidir.
+6.22.2 SAT.TB04 İhale Yetkilisi ile PTT AŞ. Mal ve Hizmet Alımı Prosedüründe Uygulanacak Parasal Limitler 
+Tablosunda yer alan parasal limitlere ilişkin değişiklikler Satınalma Daire Başkanlığınca teşkilata tebliğ edilir.
+6.23 İş Bitirme Belgesi
+6.23.1 Alımı gerçekleştirilen işlerde düzenlenecek iş deneyim belgeleri 4734 sayılı Kanun ve ikincil mevzuatı 
+doğrultusunda tanzim edilir.
+6.23.2 İş deneyim belgeleri, sözleşmenin yürütücüsü ve/veya işin kabulünü yapan ünite tarafından fiyat farkı ve 
+KDV hariç olarak EKAP üzerinden düzenlenir ve sözleşmeyi yapan yetkili makam tarafından onaylanır. Sözleşme 
+süresinin uzatılması durumlarında uzatılan süre bitmeden iş bitirme belgesi düzenlenmez.
+6.24 Tedarikçiler
+6.24.1 PTT’nin ihtiyacı olan malzeme ve hizmetlerin güvenilir tedarikçilerden istenilen niteliklerde sürekli olarak 
+temin edilmesi için tedarikçi firmalar değerlendirilir ve Satınalma Daire Başkanlığınca belirlenen plan ve program 
+dahilinde onaylı tedarikçi listeleri oluşturulur.
+6.24.2 Satınalma Daire Başkanlığı sürekli alım yapılan her bir tedarikçi için SAT.FR72 Tedarikçi Performans İzleme 
+Formu-Raporu’nu hazırlar ve söz konusu form, satın alınan hizmetin ve malzemenin kontrol ve takibini yapan birim 
+veya bölge müdürlükleri tarafından doldurularak firmalar değerlendirilir. 
+6.24.3 Genel tedarikçi seçimi, ürün kataloğunda yer alan markaların üretici firma ve bayileri, varsa daha önce 
+PTT’ye yaptığı işler, referansları, bilinirliği (ürettiği mal ve hizmette marka haline gelmesi) iş deneyim belgeleri, 
+uzman personeli, sahip olunan belge/sertifikalar, imalatçı ise kapasite raporu vb. kriterler; çalışılan tedarikçiler, 
+zamanında işe başlama teslim, kalite, istenen şartları sağlaması, satış sonrası hizmetleri, iş kabiliyetleri ile 
+taahhütlerine bağlılıkları, yeterli ekipmana sahip olma vb. kriterler baz alınarak oluşturulur.
+6.24.4 Yapılan değerlendirme sonucu değerlendiren birimin kanaatlerini de içeren bilgilerle beraber SAT.FR72 
+Tedarikçi Performans İzleme Formu-Raporu düzenlenerek sözleşmesi yenilenecek veya onaylı tedarikçi listesinde 
+çıkartılacak firmalar belirlenir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 13 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+13/14
+6.24.5 PTT’nin çok uzun süreler çalıştığı ve çalışma ilkelerini iyi bildiği, tedarikçi seçimi sonucu seçtiği ve piyasada 
+çok uzun yıllar çalıştığı bilinen firmalar onaylı tedarikçi listesine kaydedilir.
+6.24.6 Yapılan değerlendirmeler sonucunda 70 puanda fazla alan tedarikçiler ile çalışılabilirken,
+a) 50-70 arasında puan alan tedarikçiler 6 (altı) ay süre ile 50 puanın altında kalan veya Genel Müdürün Onayı ile 
+belirlenen tedarikçiler 1 (bir) yıldan az olmamak üzere 2 (iki) yıla kadar,
+b) Sözleşmeye davet edildiği halde mücbir sebep halleri dışında usulüne göre sözleşme yapmayanlar hakkında 6 
+aydan az olmamak üzere 1 (bir) yıla kadar,
+c) 4734 sayılı Kamu İhale Kanunun 17. maddesi ile 4735 sayılı Kamu İhale Sözleşmeleri Kanununun 25. 
+maddesinde sayılan yasak fiil veya davranışta bulundukları tespit edilenler hakkında fiil veya davranışın özelliğine 
+göre 1 (bir) yıldan az olmamak üzere 2 (iki) yıla kadar,
+Onaylı tedarikçi listesinden çıkarılarak liste güncellenir. Söz konusu firmalar İhale yetkilisinin onayı ile PTT 
+alımlarına istekli olarak katılamaz.
+6.25 Ürün Kataloğunun Hazırlanması
+6.25.1 Kurumsal kimlik ve tanıtımdan sorumlu birim/daire başkanlığı ile konusuna göre ilgili diğer daire 
+başkanlıkları ile birlikte Satınalma Daire Başkanlığı, satın almaya konu ürünler için kodlama sistemi dâhilinde bir 
+ürün kataloğu oluşturur. Ürün kayıtlarında cins, ad, özellik, logo, kullanım yeri, ömür, varsa marka-model, 
+kullanacak birim ve/veya personel, miktar vb. bilgiler yer alır.
+6.25.2 Ürün kataloğuna alınacak olan ürünlere ilişkin şartların belirlenmesi, piyasa fiyat araştırmalarının yapılması 
+ve kataloğun güncellenmesine ilişkin iş ve işlemler, katalogda yer alma koşulları, piyasadaki pazar payları ve gerekli 
+görülen diğer hususlar araştırılarak, Satınalma Daire Başkanlığınca ve/veya koordinasyonunda yapılır.
+6.26 Hüküm Bulunmayan Haller
+Bu prosedürde hüküm bulunmayan hallerde, ilgisine göre 4734 sayılı Kanun ve 4735 sayılı Kanun hükümleri, bu 
+Kanunlarda hüküm bulunmaması halinde ise Borçlar Kanunu hükümleri uygulanır 
+6.27 İşlemlerde Temsil ve İlzam
+Alımlara dair iş ve işlemlerde PTT’nin Temsil ve İlzama ilişkin güncel düzenlemeleri esas alınır.
+6.28 İlan Edilmiş veya Duyurusu Yapılmış İhale İşlemleri
+Bu prosedürün yürürlük tarihi ve öncesinde ilan edilmiş veya duyurusu yapılmış ihale işlemleri o tarihteki tabi 
+olduğu mevzuat hükümlerine göre tamamlanır.
+7. ONAY
+Bu prosedür, Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+KN.012-6475 sayılı Posta Hizmetleri Kanunu
+KN.031-4734 sayılı Kamu İhale Kanunu
+KN.033-4735 sayılı Kamu İhale Sözleşmeleri Kanunu 
+KN.037-6098 sayılı Türk Borçlar Kanunu 
+KN.046-5411 sayılı Bankacılık Kanunu
+SAT.FR72-Tedarikçi Performans İzleme Formu-Raporu
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 14 ====================
+
+Dokümanın Adı
+PTT AŞ Mal ve Hizmet Alımı Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR04
+İlk Yayım Tarihi
+7.12.2018
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+10
+Sayfa Sayısı
+14/14
+SAT.TB04-İhale Yetkilisi ile PTT AŞ Mal ve Hizmet Alımı Prosedüründe Uygulanacak Parasal Limitler Tablosu
+SAT.TL03-Mal ve Hizmet Alımlarında Kullanılacak Yaklaşık Maliyet Talimatı
+SZL.005-PTT AŞ Esas Sözleşmesi
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+10 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+9 20.10.2025
+Şirketimiz mal ve hizmet alımlarına ilişkin iş ve işlemlerin 
+gerçekleştirilmesi hususunda Prosedürde revizyona gidilmesine ihtiyaç 
+duyulmuştur. 
+8 19.09.2024
+Şirketimiz mal ve hizmet alımlarına ilişkin iş ve işlemlerin 
+gerçekleştirilmesi hususunda Prosedürde revizyona gidilmesine ihtiyaç 
+duyulmuştur. 
+7 29.05.2024
+Şirketimiz mal ve hizmet alımlarına ilişkin iş ve işlemlerin 
+gerçekleştirilmesi hususunda Prosedürde yer alan “Doğrudan Temin” 
+başlıklı 6.14.1/d maddesinde yer alan parasal tutarların güncellenmesi için 
+revizyona gidilmesine ihtiyaç duyulmuştur. 
+6 27.02.2024
+Şirketimiz mal/hizmet alımlarına ilişkin iş ve işlemlerin gerçekleştirilmesi 
+hususunda Prosedürde yer alan parasal tutarların güncellenmesi için 
+revizyona gidilmesine ihtiyaç duyulmuştur 
+5 19.06.2023 Şirketimiz mal/hizmet alımlarına ilişkin iş ve işlemlerin gerçekleştirilmesi 
+hususunda Prosedürde revizyona gidilmesi ihtiyacı duyulmuştur. 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

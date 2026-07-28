@@ -1,0 +1,405 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+FİNANS VE MUHASEBE 
+BAŞKANLIĞI BAŞKAN
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+1/7
+1.AMAÇ
+Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından ayni veya nakdi olarak hibe edilecek 
+veya Posta ve Telgraf Teşkilatı Anonim Şirketine ayni veya nakdi olarak verilecek hibelere ilişkin yetkilerin ne 
+şekilde kullanılacağı ve bunlara dair işlemlerin nasıl yürütüleceğinin belirlenmesini sağlamaktır.
+2.KAPSAM
+Bu prosedür başka bir kuruma, kişiye, personele veya ülkeye; Posta ve Telgraf Teşkilatı Anonim Şirketi tarafından 
+ya da Posta ve Telgraf Teşkilatı Anonim Şirketine buralarca yapılacak ayni ve nakdi hibelerle ilgili iş ve işlemleri 
+kapsar.
+3.DAYANAK
+Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesinin “Amaç ve Faaliyet” başlıklı 3’üncü 
+maddesinin üçüncü fıkrasının (f) bendinde yer alan “Şirket; yapılan bağışları kabul edebilir, bir önceki yılsonu 
+Şirket aktif toplamının 0,025’ini (binde yirmi beşini) geçmemek üzere her türlü eğitim ve bilgilendirme 
+faaliyetlerinde bulunabilir, sosyal sorumluluk projelerine katılabilir, bağış yapabilir.” hükmü ile 5520 sayılı 
+Kurumlar Vergisi Kanunu, 6098 sayılı Borçlar Kanunu, 193 sayılı Gelir Vergisi Kanunu ve 213 sayılı Vergi Usul 
+Kanunu dayanak alınarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1 Amortisman: Bir yıldan fazla kullanılan, yıpranmaya, aşınmaya veya kıymetten düşmeye maruz bulunan 
+iktisadi kıymetin değerinin 213 sayılı Vergi Usul Kanunu ve Genel Tebliğleri hükümlerine göre gider 
+kaydedilmesidir.
+4.2 Bölge Müdürlüğü Satma ve Satın Alma Komisyonu: Bölge Müdür Yardımcısı başkanlığında, Yapı ve 
+Teknoloji Müdürü, Finans ve Muhasebe Müdürü, Posta Kargo ve Lojistik Operasyonları Müdürlüğü ve taşınmaz 
+işlerinden sorumlu bir personel olmak üzere bir başkan ve dört üyeden teşkil olunur. Bölge Müdür Yardımcısının 
+bulunmaması halinde komisyon, Yapı ve Teknoloji Müdürünün başkanlığında toplanır, ayrıca Yapı ve Teknoloji 
+Müdürlüğünden ilgili bir teknik eleman da komisyonda yer alır.
+4.3 Birikmiş Amortisman: İktisadi kıymetin, kullanılabileceği süre içerisinde ilgili dönemlerde gider kayıtlanan 
+toplam tutarıdır.
+4.4 Birim: Kurul, Başkanlık, Müşavirlik, Daire Başkanlığı, Birimler, Özel Kalem Müdürlüğü ve Bölge 
+Müdürlükleridir.
+4.5 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim 
+Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür. 
+4.6 Değer Tespit Komisyonu: İktisadi kıymetin emsal veya rayiç bedelini tespit eden 1 (bir) başkan ve en az 2 (iki) 
+üyeden oluşan komisyondur.
+4.7 Değerleme: İktisadi kıymetin bedelinin takdir ve tespitidir.
+4.8 Değerleme Günü: İktisadi kıymete değerleme işleminin yapıldığı tarihtir.
+4.9 Demirbaş Eşya: 213 sayılı Vergi Usul Kanunu Genel Tebliğ eki liste ile belirlenen fatura düzenleme tutarını 
+aşmayan ve belli bir süreye tâbi olmaksızın uzun süre kullanılabilen amortismana tabi olmayan iktisadi 
+kıymetlerdir.
+4.10 Emsal Bedel: Gerçek bedeli bilinmeyen veya doğru olarak tespit edilemeyen iktisadi kıymetin, değerleme 
+gününde emsaline nazaran haiz olacağı değerdir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+2/7
+4.11 Faydalı Ömür: Amortisman ve Tükenme Payı Süre ve Oranları Listesi ile tespit ve ilan edilen, iktisadi 
+kıymetin kullanılabileceği ve faydalanılabileceği beklenen süredir.
+4.12 Genel Müdürlük Satma ve Satın Alma Komisyonu: Yapı Daire Başkanlığı/İş Yeri Planlama ve Kurulum 
+Daire Başkanlığından sorumlu Genel Müdür Yardımcısı Başkanlığında, Finans ve Muhasebe Başkanı veya 
+Yardımcısı, Yapı Daire Başkanı/İş Yeri Planlama ve Kurulum Daire Başkanı esas üye olmak üzere taşınmazın 
+vasfına ve kullanımına yönelik iki ihtisas Daire Başkanının katılımıyla beş kişiden teşkil olunur, Satma ve Satın 
+Alma Komisyon Kararı Genel Müdür tarafından onaylanır. İlgili Daire Başkanlarının bulunmaması halinde Başkan 
+Yardımcısı üye olarak komisyonda yer alır. Taşınmazın niteliğine göre Komisyon sayısı tek sayı olmak üzere 
+arttırılabilir.
+4.13 Hibe: Bir bedel veya başkaca bir karşılık alınmaksızın iktisadi kıymetin, malın, hizmetin veya nakdin 
+mülkiyetinin başkasına devredilmesidir.
+4.14 İdari/Teknik Heyet: Hurdaya ayrılması veya terkin edilmesi gereken iktisadi kıymetin niteliğine göre ilgili 
+ihtisas biriminin üst yöneticisi tarafından görevlendirilen ekiptir.
+4.15 İktisadi Kıymet: Tek Düzen Hesap Planına göre Şirket kayıtlarında bulunan maddi ve maddi olmayan duran 
+varlıklar ile nazım hesaplarda takip edilen demirbaş eşya niteliğinde olan kıymetlerdir.
+4.16 Limit: 213 sayılı Vergi Usul Kanunu Genel Tebliğ eki liste ile belirlenen fatura düzenleme tutarı ve iktisadi 
+kıymet alt sınırıdır.
+4.17 Maddi Duran Varlık: Mal veya hizmet üretimi veya arzında kullanılmak, başkalarına kiraya verilmek veya 
+idari amaçlar çerçevesinde kullanılmak üzere temin edilen ve tahmini kullanma süresi bir yıldan fazla olan, değeri 
+limit ve limit üstünde olan fiziki varlıklardır.
+4.18 Maddi Olmayan Duran Varlık: Fiziksel niteliği bulunmayan ve belli bir şekilde yararlanılan veya 
+yararlanılmayı bekleyen aktifleştirilen giderler ile belli koşullar altında hukuken himaye gören, değeri limit ve limit 
+üstünde olan varlıklardır.
+4.19 Maliyet Bedeli: İktisadi kıymetin elde edilmesi, kullanıma hazır hale gelmesi ve değerinin artırılması 
+nedeniyle yapılan harcamalar ile bunlara ilişkin tüm giderlerin toplamıdır.
+4.20 Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+4.21 Muhasebe Birimi: Merkez Teşkilatında Finans ve Muhasebe Başkanlığı, Taşra Teşkilatında Finans ve 
+Muhasebe Müdürlükleridir.
+4.22 Net Bedel: Amortismana tabi iktisadi kıymetin maliyet bedelinden, o iktisadi kıymet için ayrılan birikmiş 
+amortismanın düşülmesinden sonra kalan bedeldir.
+4.23 Rayiç Bedel: İktisadi kıymetin değerleme günündeki normal alım satım değeridir.
+4.24 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+4.25 Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+4.26 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+5.SORUMLULUKLAR
+5.1 Finans ve Muhasebe Başkanlığı: Bu prosedürün hazırlanması, uygulanması ve yönetiminden sorumludur.
+5.2 Genel Müdür: Prosedürün yürütmesinden, Yönetim Kurulu tarafından kendisine verilen hibe kabulü ve hibe 
+etme yetkisini kullanmaktan sorumludur.
+5.3 Yönetim Kurulu: Bu prosedürün onaylanmasından, Posta ve Telgraf Teşkilatı Anonim Şirketi Esas 
+Sözleşmesinin 16’ncı maddesi ile kendisine verilen hibe kabulü ve hibe etme yetkisini kullanmaktan sorumludur.
+5.4 Bu prosedürün uygulanmasından ilgili personel ile hibe eden ve hibe edilen kişi, kurum ve kuruluşlar 
+sorumludur.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+3/7
+6.UYGULAMA
+6.1 Hibe İşlemlerinde Yetki
+6.1.1 Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesinin “Yönetim Kurulunun Görev ve Yetkileri” 
+başlıklı 16’ncı maddesinin (r) bendinde belirlenen oran tutarında, hibe kabulü ve hibe etme işlemlerinde Yönetim 
+Kurulu yetkilidir.
+6.1.2 Yönetim Kurulu hibe kabulü ve hibe etme yetkisini, sınırlarını belirlemek kaydıyla kısmen Genel Müdüre 
+devredebilir.
+6.1.3 Genel Müdür hibe alma ve hibe etme yetkisini Yönetim Kurulunca Şirketimiz alacaklarının terkin edilebilmesi 
+için belirlenen limitler dâhilinde Genel Müdür Yardımcıları ve Başkanlara devredebilir.
+6.2 Hibe Kabul İşlemleri
+6.2.1 Taşınmaz Hibe Kabulü
+PTT AŞ’ye hibe edilecek taşınmazlarla ilgili teklifler;
+6.2.1.1 Bölge Müdürlüğünce YAP.LS11 Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi Ek-3’te belirtilen 
+belgeler ile birlikte ilgili ihtisas birimi ve Yapı Daire Başkanlığına teklifte bulunulur ve Yapı Daire Başkanlığınca 
+Yönetim Kuruluna sunulur.
+6.2.1.2 Hibenin kabul edilmesi halinde Yönetim Kurulu Kararı Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne 
+bildirilir.
+6.2.1.3 Arazi, arsa ve binaların tapu senetleri, envanter kayıtlarının bulunduğu yerde muhafaza edilir, YAP.FR120 
+PTT İdare Malı Taşınmaz Bilgi Formu Yapı Daire Başkanlığına gönderilir.
+6.2.1.4 Taşınmazın muhasebe kayıtlarına alınabilmesi için tapunun örneği ile gerekli belgeler Muhasebe Birimine 
+gönderilir, tapu senetlerinin takibi nazım hesaplarda sağlanır.
+6.2.1.5 Bölge Müdürlüğünce yapılan taşınmaz hibe kabulüne ilişkin teklifin herhangi bir aşamada uygun 
+bulunmaması halinde teklif Bölge Müdürlüğüne iade edilir.
+6.2.2 Diğer Hibe Kabulleri
+Hibe kabulünün; taşınır iktisadi kıymet, sarf malzemesi, hizmet veya nakden gerçekleşmesi durumunda;
+6.2.2.1 PTT AŞ’ye hibe yapmak isteyenin hibe teklifine ilişkin yazılı müracaatı ile birlikte; hibeyi kabul edecek 
+ihtisas biriminin uygun görüşü doğrultusunda hibe, kabul onayına sunulur.
+6.2.2.2 Kabul edilen hibelere ilişkin; hibe teklif yazısı, hibe kabul onayı, varsa faturası, faturası yoksa değer tespit 
+komisyonu tarafından belirlenecek emsal/rayiç bedeline ilişkin belge ile birlikte kayıtlara alınmak üzere Muhasebe 
+Birimine aktarılır.
+6.2.3 Hibe Kabulü Muhasebe İşlemleri
+6.2.3.1 Kabulü yapılan hibenin amortismana tabi iktisadi kıymet veya arsa/arazi olması durumunda; fatura bedeli, 
+faturası yoksa değer tespit komisyonu tarafından belirlenecek emsal/rayiç bedeli üzerinden ilgili hesaba alınarak 
+gelir kaydedilir.
+6.2.3.2 Kabulü yapılan hibenin demirbaş eşya olması durumunda; fatura bedeli, faturası yoksa değer tespit 
+komisyonu tarafından belirlenecek emsal/rayiç bedeli üzerinden nazım hesaplara alınır.
+6.2.3.3 Kabulü yapılan hibenin sarf malzemesi olması durumunda; fatura bedeli, faturası yoksa değer tespit 
+komisyonu tarafından belirlenecek emsal/rayiç bedeli üzerinden ilgili stok hesaplarına alınarak gelir kaydedilir.
+6.2.3.4 Kabulü yapılan hibenin nakden yapılması durumunda; hibe tutarı gelir olarak kayıtlara alınır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+4/7
+6.3 Hibe Etme İşlemleri
+6.3.1 Taşınmaz Hibe Edilmesi
+PTT AŞ taşınmazlarından ihtiyaç fazlası olan ancak işletme maliyetleri yüksek, büyük oranda bakım ve onarım 
+gerektiren veya izbe ve atıl lokasyonda bulunan, satışı yapılamayan taşınmazların kamu kurum ve kuruluşları, 
+belediye, il özel idareleri ile sermayesinin yüzde ellisinden fazlası bu kurum ve kuruluşlara ait olan şirketler, 
+Türkiye Varlık Fonu, Türkiye Varlık Fonunun kuracağı fonlar ve şirketler ile PTT AŞ bağlı ortaklıkları ve 
+iştirakleri, kamu kurum ve kuruluşu niteliğindeki meslek kuruluşlarınca hibe talebinde bulunulması halinde;
+6.3.1.1 Taşınmazın hibe edilebilmesi için Bölge Müdürlüğünce uygun bulunması halinde YAP.LS11 Taşınmazların 
+Yönetim Prosedürü Gerekli Evrak Listesi Ek-1’de belirtilen belgeler ile birlikte ilgili ihtisas birimine ve Yapı Daire 
+Başkanlığına teklifte bulunulur.
+6.3.1.2 İhtisas birimince bildirilecek görüş Yapı Daire Başkanlığınca değerlendirilerek teklif Yönetim Kurulu 
+Onayına sunulur.
+6.3.1.3 Taşınmazın hibe edilmesi işleminin Genel Müdürlükçe yapılması halinde, konu Genel Müdürlük Satma ve 
+Satın Alma Komisyonunca değerlendirilerek Yapı Daire Başkanlığına bildirilir ve Yapı Daire Başkanlığınca 
+Yönetim Kurulu Onayına sunulur.
+6.3.1.4 Yönetim Kurulu tarafından taşınmazın hibe edilmesine yönelik teklifin uygun bulunması halinde, Yapı Daire 
+Başkanlığınca yetkili makamlardan izin alınmak üzere onaya sunulur.
+6.3.1.5 Yetkili makamlarca taşınmazın hibe edilmesine yönelik teklifin uygun bulunması halinde, Yönetim Kurulu 
+Kararı doğrultusunda taşınmazın hibe edilmesi Yapı Daire Başkanlığınca veya ilgili Bölge Müdürlüğünce 
+gerçekleştirilir.
+6.3.1.6 Tapu tescil işlemi tamamlanan taşınmazların muhasebe kayıtlarından çıkartılması hususu Yapı Daire 
+Başkanlığınca Muhasebe Birimine bildirilir.
+6.3.1.7 Taşınmazın hibe edilmesine ilişkin teklifin herhangi bir aşamada uygun bulunmaması halinde, teklif Yapı 
+Daire Başkanlığına iade edilir. Yapı Daire Başkanlığınca ilgili Bölge Müdürlüğüne bildirilir.
+6.3.2 Taşıtların Hibe Edilmesi
+6.3.2.1 Şirketimiz envanterinde kayıtlı taşıta dair hibe talebinde bulunan kişi, kurum veya kuruluştan alınan talep 
+yazısı ve Destek Hizmetleri ve Ulaşım Daire Başkanlığının uygun görüşü ile Genel Müdürlük Makamından alınan 
+Olur doğrultusunda hibe işlemi Yönetim Kurulu Onayına sunulur.
+6.3.2.2 Yönetim Kurulunca taşıtın hibesinin uygun görülmesi durumunda; hibe edilen taşıta dair devir işlemlerinin 
+yapılması için taşıtın bulunduğu birime ve hibenin yapıldığı kişi/kurum/kuruluşa Destek Hizmetleri ve Ulaşım Daire 
+Başkanlığı tarafından bilgi verilir.
+6.3.2.3 Devir işlemlerinin tamamlanmasını müteakip hibe talep yazısı, hibe onayı ve faturası taşıtın kayıtlardan 
+çıkarılması için Muhasebe Birimine gönderilir.
+6.3.3 Donanım Hibe Edilmesi
+6.3.3.1 Bölge Müdürlüğü ihtiyaçları dışında kalan donanımlara dair, Şirketimizden donanım (bilgisayar kasası, 
+monitör, yazıcı vb.) hibe talebi yapan kurum ve kuruluşların, bu taleplerini bağlı bulunduğu yerleşim yerindeki 
+Kaymakamlık ya da Valilik üzerinden gerçekleştirmesi sonrasında Bilgi Teknolojileri Daire Başkanlığının uygun 
+görüşü, Genel Müdür Oluru ile hibe edilir. 
+6.3.3.2 Genel Müdürlük ihtiyaçları dışında bulunan donanımlar, Şirketimizden donanım (bilgisayar kasası, monitör, 
+yazıcı vb.) hibe talebi yapan kurum ve kuruluşların yazılı talepleri ve Bilgi Teknolojileri Daire Başkanlığının uygun 
+görüşü doğrultusunda alınacak Genel Müdür Oluru ile hibe edilir.
+6.3.3.3 Hibe işleminin alım yapılmak suretiyle gerçekleşmesi durumunda; Şirketimizden donanım (bilgisayar kasası, 
+monitör, yazıcı vb.) hibe talebi yapan kurum ve kuruluşların yazılı talepleri ile Bilgi Teknolojileri Daire 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+5/7
+Başkanlığının uygun görüşü ve 6.1 maddesi ile verilen yetki kapsamında alınacak Olur, Satınalma Daire 
+Başkanlığına aktarılır.
+6.3.3.4 Satınalma Daire Başkanlığı tarafından alımın gerçekleştirilmesini müteakip hibe işleminin gerçekleştirilmesi 
+için Bilgi Teknolojileri Daire Başkanlığına bilgi verilir.
+6.3.3.5 Donanımların hibe edilebileceğine dair yazılı bilgi, Bilgi Teknolojileri Daire Başkanlığı tarafından talep 
+merciine bildirilerek teslim işlemi gerçekleştirilir.
+6.3.3.6 6.3.3.1 ve 6.3.3.2 maddesi kapsamında hibe edilen donanımların kayıtlardan çıkarılması için, 6.3.3.3 
+maddesi kapsamında yapılan alımlar ise bilgi amaçlı Muhasebe Birimine bildirilir.
+6.3.3.7 Hizmetin yürütülmesine yönelik, Mobil Donanımlar Donanım Profiline uygun olarak kendilerine verilen 
+dizüstü bilgisayar, tablet bilgisayar, harici disk ve USB disklerin aktife giriş tarihinden itibaren faydalı ömrünü 
+tamamlamış ve en az 2 (iki) yıldır kendisi (emekli olan personel dâhil) tarafından aktif olarak kullanılanlar için, hibe 
+işlemini yapacak birim BTD.FR49 Donanım Hibe Formu’nu doldurarak Bilgi Teknolojileri Daire Başkanlığı ile 
+Muhasebe Birimine gönderir. İş ve işlemlerin tamamlanmasını müteakip donanımlar hibe edilmiş sayılır. Bu 
+husustaki vergisel yükümlülükler Şirket bütçesinden karşılanır.
+6.3.3.8 Hizmetin yürütülmesine yönelik, Mobil Donanımlar Donanım Profiline uygun olarak kendilerine verilen 
+dizüstü bilgisayar, tablet bilgisayar, harici disk ve USB disklerden, faydalı ömrünü tamamlamamış veya en az 2 (iki) 
+yıldır kendisi tarafından aktif olarak kullanılmamış donanımlardan, Şirketten ayrılan veya görevinden alınanlara 
+(Emekliler dâhil) verilenlerin hibe edilmesi işlemi, ilgili birimin uygun görüşü ve Genel Müdür Oluru ile yapılır. 
+Hibe talebinde bulunacak birim BTD.FR49 Donanım Hibe Formu’nu doldurarak Bilgi Teknolojileri Daire 
+Başkanlığı ile Muhasebe Birimine gönderir. Bu husustaki vergisel yükümlülükler Şirket bütçesinden karşılanır.
+6.3.4 Diğer Hibe Etme İşlemleri
+Hibe etme işleminin; taşınır iktisadi kıymet, sarf malzemesi, hizmet veya nakden gerçekleşmesi durumunda;
+6.3.4.1 Hibeye konu varlık ile ilgili ihtisas biriminin uygun görüşü doğrultusunda hibe etme işlemi onaya sunulur.
+6.3.4.2 Yapılacak hibeye ilişkin; hibe onay yazısı, hibe etme onayı ve faturası kayıtlardan çıkarılmak üzere 
+Muhasebe Birimine aktarılır.
+6.3.4.3 Hizmetin yürütülmesine yönelik olarak personelin (Emekli ve Şirketten ayrılanlar dâhil) kullanımına verilen 
+cep telefonları tahsisi yapan birimin uygun görüşü ve Genel Müdür Oluru ile personele hibe edilebilir. Olurun 
+muhteviyatında cep telefonunun fatura/emsal/rayiç bedelinin ve/veya vergisel yükümlülüklerden biri veya 
+tamamının Şirketimiz bütçesinden karşılanacağı belirtilir. Aksi takdirde fatura/emsal/rayiç bedel ve/veya vergisel 
+yükümlülükler personelden tahsil edilir.
+6.3.4.4 Faydalı ömrünü tamamlayan cep telefonları faydalı ömrünü tamamladığı yılı takip eden yıl içerisinde 
+kullanıcılarına hibe edilmek üzere tahsisi yapan birim tarafından Genel Müdür Oluruna sunulur.
+6.3.5 Hibe Etme Muhasebe İşlemleri
+6.3.5.1 Hibenin, kanunların gösterdiği gerek üzerine bedelsiz olarak yapılan mal teslimi ve hizmet ifalarının Katma 
+Değer Vergisinden istisna edildiği kurum ve kuruluşlara yapılması durumunda; fatura, hibenin net bedeli üzerinden 
+KDV’siz olarak, üçüncü kişilere ve diğer kurumlara yapılan hibelerde ise fatura emsal/rayiç bedel üzerinden KDV’li 
+olarak düzenlenir. Personele yapılan hibelerde emsal/rayiç bedeli üzerinden ücret olarak değerlendirilerek fatura 
+düzenlenir.
+6.3.5.2 Hibe edilecek varlığın amortismana tabi iktisadi kıymet veya arsa/arazi olması ve hibe yapılanın kamu 
+kurumu olmaması durumunda; hibenin net bedeli ile emsal/rayiç bedeli arasındaki fark gelir veya gider olarak 
+kayıtlara alınır.
+6.3.5.3 Hibe edilecek varlığın demirbaş eşya olması durumunda; nazım hesaplarda olan bedel üzerinden nazım 
+hesaplardan çıkarılır.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+6/7
+6.3.5.4 Hibe edilecek varlığın sarf malzemesi ve hibe yapılanın kanunların gösterdiği gerek üzerine bedelsiz olarak 
+yapılan mal teslimi ve hizmet ifalarında Katma Değer Vergisinden istisna edilmiş kamu kurumu olmaması 
+durumunda; değer tespit komisyonu tarafından belirlenecek emsal/rayiç bedeli ile stok bedeli arasındaki fark gelir 
+veya gider olarak kayıtlara alınır.
+6.3.5.5 Hibenin nakden yapılması durumunda; hibe tutarı gider olarak kayıtlara alınır.
+6.4 Genel Hükümler
+6.4.1 Hibenin mal ve hizmet alımı yapılmak suretiyle gerçekleşmesi durumunda söz konusu alım; PTT AŞ’nin tabi 
+olduğu alım mevzuatlarına göre, ödeme işlemleri FMB.PR01 Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve 
+Hizmet Alımı Ödeme Prosedürü hükümlerine göre gerçekleştirilir.
+6.4.2 Hibeye ilişkin iş ve işlemler hibenin konusuna göre ilgili ihtisas birimlerince yürütülerek kayıtlara 
+alma/kayıtlardan çıkarma veya tahsilat/ödeme işlemleri için Muhasebe Birimine aktarılır.
+6.4.3 Hizmetin yürütülmesine yönelik olarak kendilerine verilen dizüstü bilgisayar, tablet bilgisayar, harici disk, 
+USB disk ve cep telefonu kullanan personelin vefat etmesi halinde; söz konusu donanım ve cihazlar geri alınmaz. 
+Donanım ve cihazlarda bulunan, görevle ilgili gizlilik değeri taşıyan bilgi ve belgeler Bilgi Teknolojileri Daire 
+Başkanlığı tarafından en kısa sürede silinir. Bu kapsamda doğacak vergisel yükümlülükler PTT AŞ tarafından 
+karşılanır.
+6.4.4 6.2.1.1, 6.3.1.2, 6.3.1.3 ve 6.3.2.1 maddelerinde Yönetim Kurulu Onayı gerektiren hibe kabulü veya hibe 
+edilmesi hususlarında, Yönetim Kurulu tarafından Genel Müdüre yetki verilmiş olması durumunda; söz konusu 
+maddelerdeki Yönetim Kurulu Onayı şartı aranmaz.
+7. ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihten itibaren yürürlüğe girer.
+9. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+BTD.FR49-Donanım Hibe Formu
+FMB.PR01-Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Ödeme Prosedürü
+KN.029-213 sayılı Vergi Usul Kanunu
+KN.037-6098 sayılı Türk Borçlar Kanunu 
+KN.058-5520 sayılı Kurumlar Vergisi Kanunu
+KN.059-193 sayılı Gelir Vergisi Kanunu
+SZL.005-PTT AŞ Esas Sözleşmesi
+YAP.FR120-PTT İdare Malı Taşınmaz Bilgi Formu 
+YAP.LS11-Taşınmazların Yönetim Prosedürü Gerekli Evrak Listesi
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+Posta ve Telgraf Teşkilatı Hibe İşlemleri Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+FMB.PR09
+İlk Yayım Tarihi
+27.02.2024
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+1
+Sayfa Sayısı
+7/7
+11. REVİZYON BİLGİLERİ
+Revizyon 
+No Revizyon Tarihi Revizyon Nedeni
+1 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyona ihtiyaç 
+duyulmuştur. 
+0 27.02.2024 Yeni Doküman 
+ 
+ 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

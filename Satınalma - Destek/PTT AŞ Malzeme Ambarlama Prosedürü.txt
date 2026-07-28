@@ -1,0 +1,364 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+Hazırlayan Birim Onayı
+SATINALMA DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+EYS Onayı
+ENTEGRE YÖNETİM 
+SİSTEMİ DAİRE 
+BAŞKANLIĞI DAİRE 
+BAŞKANI
+Kontrol Onayı
+HUKUK MÜŞAVİRLİĞİ 
+HUKUK MÜŞAVİRLİĞİ I. 
+HUKUK MÜŞAVİRİ
+Yürürlük Onayı
+YÖNETİM KURULU
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+1/7
+1.AMAÇ
+Bu prosedürün amacı Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatının 
+ihtiyaçları için Satınalma Daire Başkanlığınca alınan malzemeler ile Bölge Müdürlüklerinin kendi 
+ihtiyaçlarını karşılamak üzere aldıkları malzemelerin korunmasına dair usul ve esasları belirlemektir.
+2.KAPSAM
+Bu prosedür Posta ve Telgraf Teşkilatı Anonim Şirketinin Merkez ve Taşra Teşkilatının taleplerini 
+karşılamak üzere Satınalma Daire Başkanlığınca veya diğer Genel Müdürlük birimleri ile Bölge 
+Müdürlüklerince alımı yapılan malzemelerin korunması ve bakımına dair usul ve esasları kapsar.
+3.DAYANAK
+Bu prosedür, 213 sayılı Vergi Usul Kanunu, 193 sayılı Gelir Vergisi Kanunu, 5520 sayılı Kurumlar Vergisi 
+Kanunu, 3065 sayılı Katma Değer Vergisi Kanunu ve Genel Tebliğleri ile FMB.PR10 Posta ve Telgraf Teşkilatı 
+Anonim Şirketi İktisadi Kıymet Prosedürü’ne dayanılarak hazırlanmıştır.
+4.TANIMLAR VE KISALTMALAR
+4.1Ada: Bazı malzemeye yer sağlamak veya malzemeyi sınıflara göre ayırmak amacıyla ambar içinde, açık 
+sahada veya bir sundurmanın zemini üzerinde, çizgilerle işaretlenerek bölünmüş kısımları,
+4.2Ana Depo: Posta ve Telgraf Teşkilatı Anonim Şirketi Satınalma Daire Başkanlığı’nca satın alınan malzemenin 
+korunarak Şirketin Merkez ve Taşra Teşkilatlarının ihtiyaçlarını karşılamak üzere tesis edilen ambarları,
+4.3Ambalaj: Ambalajlama işinde kullanılan sarma malzemesi, paket, kutu, kap, sandık vs. malzemeyi,
+4.4 Ambalajlama: Malzemeyi sararak, paket yaparak, bir kaba veya sandığa yerleştirerek, normal durumunu 
+muhafaza, sevkiyat ve nakliyatını kolaylaştırma işlerini,
+4.5Ambar: Malzemenin korunduğu yeri,
+4.6Çalışma Sahası: Giriş kapısı civarında teslim alma ve gönderme işleminin yapılacağı sahayı ifade eder.
+4.7Dolap: Kıymetli malzemenin konulduğu kapalı ve kilitli rafları,
+4.8Parsel: Adalarda ranza veya malzemenin kendi ambalajları ile yerleştirilmeleri için, zemin üzerinde iki tarafı 
+ana ve tali koridorlarla 1-1,5 metre genişliğinde yollarla çevrelenerek veya birbirine bitişik olarak tesis edilen 
+çizgilerle bölünmüş kısımları,
+4.9Ranza: Parsellere yerleştirilen, üzerine malzeme istiflemeye yarayan bir veya birkaç katlı ahşap veya 
+madeni düzeneği,
+4.10 Raf: Üzerinde malzemenin yerleştirilmesine yarayan yatay ve dikey bölmelerle gözlere ayrılmış düzeneği, 
+4.11 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 2 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+2/7
+5.SORUMLULUKLAR
+Bu prosedürün yürütülmesi ve takip edilmesinden Satınalma Daire Başkanlığı, uygulanmasından ise Bölge 
+Müdürlükleri sorumludur.
+6.UYGULAMA
+6.1Ambarlarda Genel Kurallar ve Yerleşme
+6.1.1 Ambar Sorumlusu ve Yardımcıları
+Her ambarın malzeme giriş, kayıt, çıkış ve korunması işlemlerinden yetkili amiri tarafından görevlendirilen memur 
+sorumludur. İşin çok fazla olduğu ambarlarda ise yardımcı memur verilir. Yardımcılar ambar sorumlusuna bağlı 
+çalışırlar ve ona karşı sorumludurlar.
+6.1.2Ambarın Kilitli Tutulması
+Ambarlar, çalışma saatleri dışında ve iş olmadığı zamanlar ambar sorumlularınca kilitli bulundurulur.
+6.1.3 Ambar Anahtarları
+6.1.3.1Her ambar kilidinin iki anahtarı bulunur. Anahtarlara ambar numaralarını gösterir madeni levhalar takılır.
+6.1.3.2 Anahtarlardan biri ambar sorumlusunda, diğeri Ana Depo Müdürü veya malzeme servisi amiri 
+odasında, özel olarak yapılmış ve Bölge Müdürlüğünün mührü ile mühürlenmiş bir kutu içinde 
+bulundurulur.
+6.1.4 Ambar Sorumlusunun Bulunmadığı Hallerde Ambarın Açılışı
+Ambar sorumlusunun bulunmadığı durumlarda ambarlar, Ana Depo Müdürü veya malzeme servisi amirinin   
+katılacağı üç kişilik bir kurul tarafından tutanakla usulüne göre açılıp, kapanabilir.
+6.1.5 Ambarlarda Yerleşme ve İstifleme
+Ambarlarda yerleşme ve istifleme hususunda aşağıdaki maddeler dikkate alınmalıdır.
+a) Ambarlarda ambarın hacminden plan yapılmak suretiyle en iyi şekilde yararlanılması esastır.
+b) Büro, koridorlar, ara yollar ve gerekli sahalar, verimli bir depoculuğun gerektirdiği ölçülerde kullanılmalıdır.
+c) Taban dayanıklılığı döşemenin durumu göz önünde bulundurulmalıdır.
+ç) Döşeme sahasından tasarruf etmek amacıyla imkan olan her yerde malzeme dikey olarak yerleştirilmelidir.
+6.2 Yer Sembolleri ve Yer Sembollerinin Kayıtlarda Kullanılması
+6.2.1 Ambarlarda Yer Sembolleri
+Malzemenin ambar içerisindeki yerini kolaylıkla bulabilmek için; Her ambar, ada, parsel, ranza, raf, dolap    ve 
+göze göre bir yer sembolü verilerek aşağıdaki gibi işaretlenir.
+a)Her ambara, bağlı olduğu Bölge Müdürlüğüne bir sıra numarası verilir. Tanımayı kolaylaştırmak üzere 
+bu numara göze çarpacak bir yerde ambarın dışına konur.
+b) Her ada veya ambar bölümü, bir büyük harfle tanınır. Bu harf göze çarpan bir yere konur.
+c) Bir ambar bölmesi veya adaya ait olan her parsel, giriş yönündeki ana veya tali koridorun solunda 
+bulunanlara tek numaralar, sağında bulunanlara çift numaralar verilmek suretiyle, numaralarla işaretlenir. Adada 
+veya ambar bölmesi içerisindeki parseller karşılıklı olmayıp, bir taraflı ise parsellere sıra ile numara verilir. (1-
+3-4 gibi.)
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 3 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+3/7
+ç) Her ranza, raf ve dolap yerleştirilmiş olduğu parselin numarasını alır. Bir parsele yerleştirilen raf, başka bir 
+parsele nakledilirse, yeni parselin numarası ile işaretlenir. Bunların numaraları koridora dik olan yüzlerine düzgün 
+bir şekilde işaretlenir. Bu numaralar, tavandan aşağıya sarkıtılmış levhalarla da gösterilebilir.
+d) Raf ve dolapların içerisindeki gözlerin yeri yatay olarak küçük harflerle dikey olarak da rakamlarla gösterilir. 
+Harf sırası aşağıdan yukarıya doğru olup, harfler yatay bölmelerin her birine koridora yakın en baş taraftaki bölme 
+tahtası üzerine gelmek üzere tespit edilir. Rakamlar koridor tarafından başlamak üzere sıra ile her bölmeye bir 
+rakam olmak üzere rafın en üst tahtasına konulurlar.
+6.2.2 Yer Sembollerinin Kayıtlarda Kullanımı
+Malzemenin istendiği anda yerinin kolaylıkla bulunulabilmesi için Ambar Kartı ve Stok Kartları üzerindeki 
+yer hanesine yer sembolleri aşağıdaki gibi yazılır.
+a) Gözlerde: Malzeme gözler içerisinde ise; yerini göstermek için malzemenin bulunduğu ambar numarası, ambar 
+bölmesi veya adayı gösterir büyük harf, ranza raf veya dolap numarası gözün bulunduğu yatay bölmedeki küçük 
+harf gözün dikey bölmesini gösterir rakam sıra ile yazılmak suretiyle işaret edilir.
+b)  Parsellerde: Önce ambarı gösteren numara, adayı veya ambar bölümünü gösteren büyük harf, parseli gösteren 
+numara yazılmalıdır.
+1: Ambar numarasını A: Adayı, 2: Parsel numarasını gösterir.
+6.3 Ambarlama Yöntemleri
+6.3.1 Genel Ambarlama Yöntemleri
+Mevcut ambarlarda imkanlar dahilinde en çok faydayı sağlamak için aşağıdaki hususlar göz önünde 
+bulundurulmalıdır.
+a) Malzeme, hava, nem, hareketin yıpratıcı, haşaratın harap edici tesirlerinden ve hırsızlığa karşı emin bir yerde 
+korunmalıdır.
+b) Ambarlarda, ambar bölümlerinde, parsellerde veya ranza ve raflarda malzeme grupları için yeteri derecede yer 
+ayrılmalı ve bunlara tahsis edilmelidir.
+c) Değişik malzeme grupları birbirine karıştırılmamalıdır.
+ç)  En eski stoklar, en önce dağıtılmalıdır.
+d) Stokların muayene ve sayımı kolaylıkla yapılabilmelidir.
+e) Malzemenin dağıtım veya sevki için bulunduğu yerden alınmasında en az emek sarf edilmesi    gerekmektedir.
+f) Çok harcanan malzeme, bir arada gruplandırılmalı ve dağıtıma uygun bir yerde depo edilmelidir.
+g) Planlı ve ekonomik depolama şekli ile saha israfı önlenmelidir.
+ğ) Yangın söndürme ve emniyet cihazları uygun ve kolaylıkla kullanılabilir yerlere yerleştirilmelidir.
+h) Malzemenin yerleştirilmesinde döşemenin azami dayanıklılığı göz önünde bulundurulmalıdır.
+ı)  Sık sık yeniden yerleştirmeye ihtiyaç duyulmamalıdır.
+i) İleride ambara gelmesi muhtemel malzeme için, lüzumlu yerler açık bırakılmalıdır.
+6.3.2 Raflarda Ambarlama Yöntemleri
+6.3.2.1 Raflar, normal olarak orijinal sandıklar içindeki miktardan az olarak dağıtılan ve ranzalarda depo 
+edilmeyen küçük malzeme için kullanılmalıdır.
+6.3.2.2 Raflar, imkan olan yerlerde ana koridorlara dik olarak konulmalıdır. Yükseklikleri 3 metreyi 
+geçmemelidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 4 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+4/7
+6.3.3 Ranzalarda Ambarlama Yöntemleri
+Malzeme, ranzalara yerleştirilerek ambarlanacaksa, aşağıdaki hususlara dikkat edilmelidir.
+a) Ranzalar, imkan olduğu kadar ana koridora veya tali koridora dik kurulmalıdır. Ranzaların boyutları tavanın 
+yüksekliğine, depolanacak malzemenin büyüklüğüne ve kullanılan istifleme araçlarına bağlıdır.
+b) Ranzalar, daha ziyade ambalajsız ve raflara sığmayan malzeme için kullanılmalıdır.
+c)Ambalajlı veya sandıklar içinde bulunan malzeme, sadece ranzaya konmak maksadı ile yerlerinden 
+çıkarılmazlar, böyle malzeme dağıtılıncaya veya muayenesine kadar bulunduğu sandıklar içerisinde korunmalıdır.
+6.3.4 Parsellerde Ambarlama Yöntemleri
+Parsellerde ambarlama yapıldığı takdirde, dikkat edilecek hususlar.
+a) Sandık ve ambalaj içinde bulunan malzeme dağıtılıncaya veya raf ve ranzada eksilenleri tamamlamak 
+maksadı ile açılıncaya kadar, parsellerde cins cins bir araya getirilerek istiflenir.
+b) İstiflerdeyükseklik,tavanın yüksekliğine,istiflenen malzemeye, istiflemearacına, 
+döşemenin dayanıklılığına, kap ve sandık sağlamlığına göre değişir.
+c) Parsellerde istiflenecek malzemeyi, yer rutubetinden korumak amacıyla tabandan en az 15 cm yükseklikte 
+kalaslar ve ızgaralar üzerine istiflemek lazımdır.
+6.4Stokların Düzenlenmesi
+6.4.1 Ranza ve Raflardaki Stokların Düzenlenmesi
+Ranza ve raflarda stokların düzenlenmesinde malzeme, kataloğundaki stok numarası sırasına uygun olarak 
+yerleştirmeye dikkat edilmelidir. Şayet, yer durumu gerektirirse katalog sırasına uyulmayarak malzeme grupları 
+için ayrılan uygun büyüklükteki ranza ve raf gözlerine yerleştirilebilir.
+6.4.2 Orijinal Ambalajın Bozulmaması
+Sayımları, devir ve teslimleri, saymayı kolaylaştırmak, malzemeyi korumak için her dolu sandık veya paketi 
+(orijinal ambalajı), mecburiyet olmadıkça bozulmamalıdır.
+6.4.3 Paket ve Kutuların Düzenlenmesi
+Paket ve kutular, ranzalarda ambarlandığı zaman, 1nci sütun ön sol köşesinden başlar, sütun 
+tamamlanıncaya kadar istiflenir. Bütün paketler, baş yukarı ve etiketler dışa gelecek şekilde yerleştirilir.
+6.4.4Ambalajsız Malzemenin Düzenlenmesi
+Ambalajsız malzeme, ranzalarda ambarlandığı zaman, yerinden çıkarılmadan sayılacak şekilde yerleştirilmelidir.
+6.4.5 Parsellerdeki Ağır Malzemenin Düzenlenmesi
+Parsellerde ambarlanan kaba ve ağır malzeme, malzeme grubuna göre mümkün olduğu kadar aynı biçimde ve 
+düzgün bir şekilde yerleştirilmelidir.
+6.5 Stokların Tanınması
+6.5.1 Raf ve Ranza Stoklarının Tanınması
+Raf ve ranza üzerindeki her bir gözde ve bölümünde parçanın, varsa stok veya parça numarası ile ismini gösterir bir 
+etiket bulunur. Bu etiketler göz alt kısmındaki yatay raf tahtası ortasına konulmalıdır.
+6.5.2 Toplu Stokların Tanınması 
+Her sandık veya kutu ambalajsız malzemeyi kapsayan kaplar, malzemenin stok ve parça numarası ismini 
+gösterecek şekilde işaretlenmeli veya etiketlenmelidir.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 5 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+5/7
+6.6 Yangından Korunma ve Alınması Gereken Tedbirler
+6.6.1 Yangından Koruma Yönetmeliği
+Yangından koruma yönetmeliğinin tüm hususları göze önüne alınarak, ambarın yangından korunması 
+sağlanmalıdır. Bu yönetmelikte belirtilen hususlar personelin göreceği yere asılmalıdır.
+6.6.2 Alet Edevat ve Personelin Kontrolü
+Yangından koruma yönetmeliğinde öngörülen yangın alet, edevat ve araçlarının yeterliliği, sık sık kontrol edilmeli 
+ve işler vaziyette bulundurulmalıdır.
+Gerektiğinde personele yangından korunma tatbikatı yaptırılmalıdır.
+6.6.3 Elektrik Tesisleri
+Elektrik tesisleri hizasına veya daha yukarısına istifler yapıldığı zaman, emniyet aralığı her tarafından 50 cm 
+olmalıdır. Ambarlama yerinde elektrik ampulleri tel kafesler içinde saklı bulunmalıdır.
+6.6.4 Isıtma Aydınlatma Donanımının Kontrolü
+Isıtma, aydınlatma ve servis donanımı çok önemli yangın tehlikesi teşkil edebileceğinden, daima normal çalışıp 
+çalışmadıkları kontrol edilerek, bunların neden olacağı zararlar önlenmelidir.
+6.6.5 Sigara
+Sigara, yalnız depo müdürü veya ambar şefi tarafından müsaade edilen yerlerde içilmelidir. Sigara içilmeyecek 
+yerlere ise göze çarpacak şekilde sigara ve ateş yasağını gösterir levhalar asılmalıdır. Sigaraların atılması için kum 
+kovaları temin edilmelidir.
+6.6.6 Ambalaj Malzemeleri
+Yanıcı ambalaj malzemeleri ambarlardan uzakta mümkün ise içi madeni levha kaplı ve kapaklı sandıklarda, 
+depolarda saklanmalı, gerektiğinde oralardan yeteri kadar alınmalıdır.
+6.6.7 Çöplerin Toplanıp Yakılması
+6.6.7.1 Kağıt ve çöp sınıfına dahil yanıcı maddeler her günün sonunda veya birikmelerine göre daha sık 
+bulundukları kaplardan boşaltılmalıdır.
+6.6.7.2 Çöp tenekeleri kapaklı olmalıdır.
+6.6.7.3Ambarların çevresinde kendiliğinden biten kurumuş yaban otlar toplanıp kontrol altında yakılmalıdır.
+6.6.7.4Biriktirilen çöpler, yakılmak suretiyle imha ediliyorsa güvenli bir yerin seçilmesi zorunludur.
+6.6.8 Koridorların Açık Bulundurulması
+Bütün koridorlar daima açık bulunmalıdır.
+6.6.9 Kendiliğinden Yanma
+Kendiliğinden yanan ve parlayan maddelerin depo edildiği yerler, havadar olmalı soba vs.den uzak bulunmalı ve sık 
+sık kontrol edilmelidir.
+6.6.10 Tehlikeli Malzeme
+Tehlikeli maddeler, teknik şartnamede belirtilen talimatlara göre ambarlanır ve korunur.
+6.6.11Ambalaj Yapmada Esaslar
+6.6.11.1Ambalajlama işlerini ambar sorumlusu ve yardımcıları yapar.
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 6 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+6/7
+6.6.11.2 Malzeme; sevkiyatı esnasında meydana gelebilecek her türlü hasara karşı azami derecede muhafaza 
+edilebilecek şekilde ambalajlanır. 
+6.6.11.3 Ambalajın, içinin takozlanması, çemberlenmesi, ambalaj köpüğü ile sarılması, sarsıntılara karşı 
+korunması ve ambalajın mukavvalara sarılması, kutusunun veya sandığının yapılması, nakil vasıtası cinsine bağlı 
+olduğu kadar da malzemenin ebadına, şekline, ağırlığına, hacmine, dayanıklılığına, gevşekliğine, hassasiyetine, 
+diğer malzemelerle birlikte bulunabilme özelliğine, yoğunluğuna vs. bağlıdır.
+7.ONAY
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8.YÜRÜRLÜK
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9.YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+10.REFERANS DOKÜMANLAR
+FMB.PR10-Posta ve Telgraf Teşkilatı İktisadi Kıymet Prosedürü
+KN.029-213 sayılı Vergi Usul Kanunu
+KN.058-5520 sayılı Kurumlar Vergisi Kanunu
+KN.059-193 sayılı Gelir Vergisi Kanunu
+KN.060-3065 sayılı Katma Değer Vergisi Kanunu
+11.REVİZYON BİLGİLERİ
+Revizyon 
+No
+Revizyon Tarihi Revizyon Nedeni
+2 1.01.2026 Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına 
+ihtiyaç duyulmuştur. 
+1 19.09.2024  “Dayanak” ve “Onay” maddelerin eklenmesi ve doküman gözden 
+geçirilmesi sonucu revizyon edilmiştir. 
+0 28.01.2019 Yeni Doküman 
+ 
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+
+==================== SAYFA 7 ====================
+
+Doküman Adı
+PTT AŞ Malzeme Ambarlama Prosedürü
+Erişilebilirlik 
+Derecesi
+Tüm Kullanıcılar
+Doküman No
+SAT.PR05
+İlk Yayım Tarihi
+28.01.2019
+Revizyon Tarihi
+1.01.2026
+Revizyon No
+2
+Sayfa Sayısı
+7/7
+ 
+“Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

@@ -1,0 +1,1746 @@
+﻿
+
+==================== SAYFA 1 ====================
+
+1 
+ 
+KAYITLI ELEKTRONİK POSTA HİZMET SAĞLAYICILARININ BİRLİKTE 
+ÇALIŞABİLİRLİĞİNE İLİŞKİN USUL VE ESASLAR  
+ 
+ 
+ 
+BİRİNCİ BÖLÜM 
+Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar 
+ 
+Amaç 
+MADDE 1 - (1) Bu usul ve esasların amacı, kayıtlı elektronik posta hizmet 
+sağlayıcılarının birlikte çalışabilirliğine i lişkin teknik kriterler i ve ilgili usul ve esasları 
+belirlemektir. 
+ 
+Kapsam  
+MADDE 2  - (1) Bu usul ve esaslar kayıtlı elektronik posta sistemini kuran ve işleten 
+kayıtlı elektronik posta hizmet sağlayıcılarını kapsar. 
+ 
+Dayanak 
+MADDE 3  - (1) Bu usul ve esaslar 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret 
+Kanununun 1525 ’inci maddesi  kapsamında hazırlanan ve 25/8/2011 tarih li ve 28036 sayılı 
+Resmi Gazete’de yayımlanan Kayıtlı Elektronik Posta Sistemine İlişkin Usul ve Esas lar 
+Hakkında Yönetmeli k ile Kayıtlı Elektronik Posta Sistemi İle İlgili Süreçlere ve Teknik 
+Kriterlere İlişkin Tebliğe  ve 16/5/2012 tarihli ve 28294 sayılı Resmi Gazete’de yayımlanan 
+Kayıtlı Elektronik Posta Rehberi ve Kayıtlı Elektronik Posta Hesabı Adreslerine İlişkin Tebliğ e 
+dayanılarak hazırlanmıştır. 
+ 
+Tanımlar ve kısaltmalar  
+MADDE 4 - (1) Bu usul ve esaslarda geçen; 
+ 
+a) Alıcı: Orijinal iletinin alıcısı durumundaki hesap sahibini veya işlem yetkilisini, 
+ 
+b) Alıcı KEPHS: Elektronik iletinin “kime (to)” veya “bilgi (cc)” alanlarında yer alan 
+KEP hesap adreslerinin ait olduğu KEPHS’yi,  
+ 
+c) Alt işlem yetkilisi: Hesap sahibinin tüzel kişi olduğu durumlarda ilgili KEP hesabına 
+ilişkin bazı işlemleri tüzel kişi nam ve hesabına gerçekleştirmek üzere işlem yetkilisi tarafından 
+yetkilendirilmiş kişi veya kişileri,  
+ 
+ç) CAdES (CMS Advanced Electronic Signature): CMS gelişmiş elektronik imzayı, 
+ 
+d) CMS (Cryptographic Message Syntax ): Kriptografik mesaj sözdizimini, 
+ 
+e)  Elektronik tebligat: Elektronik Tebligat Yönetmeliğine uygun olarak elektronik 
+ortamda yapılan tebligatı, 
+ 
+f) Elektronik tebligat hizmeti alanlar listesi: Tebligat çıkarmaya yetkili merciler 
+nezdindeki işlemlerde kulla nılmak üzere muhataplara ait elektronik tebligata elverişli KEP 
+hesabı adreslerinin ve bu adreslere ilişkin değişikliklerin yer verildiği listeyi,
+
+
+==================== SAYFA 2 ====================
+
+2 
+g) Elektronik Tebligat Yönetmeliği: 19/1/2013 tarihli ve 28533 sayılı Resmi Gazete’de 
+yayımlanan Elektronik Tebligat Yönetmeliğini, 
+ 
+ğ) Erişim verisi: Sakla -bildir çalışma modelinde orijinal iletiye erişim için kullanılan 
+parola, biyometrik değer gibi verileri, 
+ 
+h)  e-Yazışma paketi (EYP): e -Yazışma projesi kapsamında üretilen kamu kurum ve 
+kuruluşları arasında iletilecek resmi yazışmalara ilişkin bilgi ve bileşenlerin, tanımlanmış 
+kurallara uygun şekilde tek bir elektronik dosya olarak biçimlendirilmiş halini, 
+ 
+ı) e-Yazışma projesi: 28/7/2006 tarihli ve 26242 sayılı Resmi Gazete'de yayımlanan, 
+2006/38 sayılı Yüksek Planlama Kurulu Kararı ile uygulamaya konan, Bilgi Toplumu Stratejisi 
+eki Eylem Planı’nda yer verilen 73 no’lu “Ortak Hizmetlerin Oluşturulması” eylemi ka psamında 
+kamu kurum ve kuruluşları arasındaki resmi yazışmaların elektronik ortamda yürütülmesini 
+sağlayacak ortak kurallar setinin geliştirilmesini amaçlayan ve Kalkınma Bakanlığı tarafından 
+16/2/2011 tarihinde başlatılan projeyi,  
+ 
+i) Gönderici: Orijinal iletinin göndericisi durumundaki hesap sahibini veya işlem 
+yetkilisini, 
+ 
+j) Gönderici KEPHS: Elektronik iletinin “kimden (from)” alanında yer alan KEP hesap 
+adresinin ait olduğu KEPHS’yi,   
+k) Hesap sahibi: Adına KEP hesabı tahsis edilen gerçek kişiyi vey a kamu veya özel 
+hukuk tüzel kişisini, 
+ 
+l)  IETF RFC (Internet Engineering Task Force Request for Comments): İnternet 
+mühendisliği görev grubu yorum talebini, 
+ 
+m) IMAP (Internet Message Access Protocol; İnternet Mesaj Erişim Protokolünü, 
+ 
+n) IP (Internet P rotocol) Adresi: Bir ağdaki cihazların birbirini tanımak, birbirleriyle 
+iletişim kurmak ve veri alışverişinde bulunmak için kullandıkları benzersiz numarayı, 
+ 
+o) IPSec (Internet Protocol Security): Ağ üzerindeki IP trafiğinin güvenliğini sağlayan 
+protokolü, 
+ 
+ö) İşlem kaydı: KEP sisteminde yapılan işlemlerin daha sonraki bir tarihte 
+tanımlanabilmesini sağlamak amacıyla tutulan elektronik kayıtları,  
+ 
+p) İşlem yetkilisi: Hesap sahibinin tüzel kişi olduğu durumlarda ilgili KEP hesabına 
+ilişkin tüm işlemleri tüzel kişi nam ve hesabına yapan gerçek kişi veya kişileri, 
+ 
+r) Kanun: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu, 
+ 
+s) KEP: Kayıtlı elektronik postayı, 
+ 
+ş) KEP hesabı: Orijinal ileti gönderme ve alma ile KEP iletisi alma yeteneğine sahip 
+KEP sisteminde oluşturulan elektronik posta hesabını,  
+ 
+t) KEP hesabı adresi: KEP hesabına verilen adı,  
+ 
+u) KEP hesabı arayüzü: KEP hesabının kullanılması için KEPHS tarafın dan hesap 
+sahibine sağlanan elektronik ortamı,
+
+
+==================== SAYFA 3 ====================
+
+3 
+ü) KEPHS: Kayıtlı elektronik posta hizmet sağlayıcısını, 
+ 
+v) KEP delili: Belirli bir işlemin belirli bir zamanda meydana geldiğini gösteren, KEP 
+sisteminde üretilen ve KEPHS’nin işlem sertifikası ile imzalanmış veriyi, 
+ 
+y) KEP iletisi: KEP sistemi içerisinde KEPHS tarafından üretilen KEP delilini içeren ve 
+KEPHS’nin işlem sertifikası ile imzalanmış iletiyi, 
+ 
+z) KEP paketi: Orijinal iletiyi içeren ve KEPHS’nin işlem sertifikası ile imzalanmış 
+iletiyi, 
+ 
+aa) Kurul: Bilgi Teknolojileri ve İletişim Kurulunu, 
+ 
+bb) Kurum: Bilgi Teknolojileri ve İletişim Kurumunu, 
+ 
+cc) Muhatap: Elektronik tebligatı alan gerçek veya tüzel kişiyi, 
+ 
+çç) Orijinal ileti: Gönderici tarafından üretilen ve göndericinin güvenli elektronik imzasını 
+taşıyan iletiyi, 
+ 
+dd) Servis adresi: KEPHS’nin kullanımına mahsus olarak ve özel bir amaçla oluşturulan 
+KEP hesabı adresini, 
+ 
+ee) PAdES (PDF Advanced Electronic Signature) : PDF gelişmiş elektronik imzayı, 
+ 
+ff) SHA (Secure Hash Algorithm): Güvenli özet algoritmasını, 
+ 
+gg) S/MIME (Secure/Multipurpose Internet Mail Extension): Güvenli çok amaçlı internet 
+posta uzantısını, 
+ 
+ğğ) SMTP (Simple Mail Transfer Protocol): Elektronik posta gönderme protokolünü, 
+ 
+hh) VPN (Virtual Private Network): Sanal özel ağı, 
+ 
+ ıı) Yönetmelik: 25/8/2011 tarihli ve 28036 sayılı Resmi Gazete’de yayımlanan Kayıtlı 
+Elektronik Posta Sistemine İlişkin Usul ve Esaslar Hakkında Yönetmeliği,  
+ 
+ii) Web servi s: B ilgisayarlar arasında ağ üzerinden etkileşimi ve uyumluluğu sağlayacak 
+yazılım servisini, 
+ 
+jj) XML (Extensible Markup Language) : Genişletilebilir işaretleme dilini, 
+ 
+kk) XAdES (XML Advanced Electronic Signature): XML gelişmiş elektronik imzayı 
+ 
+ifade eder. 
+ 
+(2) Bu usul ve esaslarda geçen, ancak yukarıda yer almayan tanımlar için ilgili mevzuatta 
+yer alan tanımlar geçerlidir.
+
+
+==================== SAYFA 4 ====================
+
+4 
+İKİNCİ BÖLÜM 
+KEP Çalışma Modeli ve KEP Sisteminde İleti Akışı  
+ 
+KEP çalışma modeli 
+Madde 5 - (1) KEP sisteminde; 
+ 
+a) Orijinal ileti, KEP paketi içerisinde, 
+ 
+b) KEP delili, KEP iletisi içerisinde 
+taşınır.  
+ 
+(2) Her bir KEP iletisi bir tane KEP delili içerir. 
+ 
+(3) KEP hesabı arayüzünde asgari, “Gelen”, “Giden” ve “Delil” kutusu bulunur. 
+ 
+(4) KEP hesabı arayüzündeki;  
+a) “Gelen” kutusunda gelen KEP paketleri, 
+  
+b) “Giden” kutusunda, herhangi bir sebeple red olanlar da dahil olmak üzere  gönderilen 
+KEP paketleri veya orijinal iletiler,  
+ 
+c) “Delil” kutusunda ise KEP iletileri veya KEP delilleri 
+yer alır. 
+ 
+ (5) “Kurumsal entegrasyonlarda hesap sahibi isterse, KEP iletilerini veya KEP delillerini 
+“delil” kutusu yerine “gelen” kutusuna yönlendirebilir.” 
+ 
+(6) Gönderici KEPHS ve alıcı KEPHS, orijinal iletiye ilişkin kendileri tarafından üretilen 
+ve k endileri ile payla şılan tüm KEP delillerini  KEP sistemlerinde tut ar ve hesap sahiplerinin 
+erişimine sunar. 
+ 
+(7) Orijinal iletinin özet değeri , 6/1/2005 tarih li ve 25692 sayılı Resmi Gazete ’de 
+yayımlanan Elektronik İmza ile İlgili Süreçlere ve Teknik Kriterlere İlişkin Tebliğ ’in 
+“Algoritmalar ve Parametreler” başlıklı 6’ncı maddesinin birinci fıkrasının (c) be ndinde yer alan 
+algoritmalar kullanılarak alınır ve ilgili yerlerde “BASE 64 ENCODED” olarak kullanılır. 
+ 
+KEP sisteminde ileti akışı  
+MADDE 6 - (1) Sakla-ilet çalışma modelini kullanan KEP sisteminde, KEP iletisi alma  
+ve gönderme, kullanıcılarla KEP iletisi ve KEP delili paylaşma işlemi , KEPHS tarafından bu 
+fıkra kapsamında gerçekleştirilir. 
+  
+a) Gönderici, orijinal iletiyi oluşturur ve kendi güvenli elektronik imzası ile imzala yarak 
+gönderir.  
+ 
+b) Gönderici KEPHS, orijinal ileti nin ilgili mevzuata ve mevzuatta belirtilen standartlara 
+uygunluğunu kontrol eder. Bu kontrol sonucunda gönderici KEPHS aykırı bir durum tespit;
+
+
+==================== SAYFA 5 ====================
+
+5 
+Durum Yapılacak İşlem 
+1)  ETMEMESİ 
+halinde 
+“KEPHS tarafından Kabul Edildi”  
+(SubmissionAcceptanceRejection:Acceptance) delili üretip 
+KEP iletisinin ekine koyar ve imzalayarak göndericiye iletir. 
+Orijinal iletiyi, oluşturacağı KEP paketinin ekine koyup bu 
+paketi imzalar. 
+KEP Paketini alıcı KEPHS’ye iletir. 
+2) ETMESİ halinde 
+“KEPHS tarafından Reddedildi” 
+(SubmissionAcceptanceRejection:Rejection) delilini üretip 
+göndericiye iletir. 
+ 
+c)  KEP paketi ve “ KEPHS tarafından Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delilini içeren KEP iletisi gönderiminin; 
+Durum Yapılacak İşlem 
+1) BAŞARILI olması 
+halinde; 
+Alıcı KEPHS’nin kontrol süreci başlar. 
+2) İlk gönderimde 
+BAŞARISIZ olması 
+halinde; 
+Gönderici KEPHS , yirmi dört saat boyunca asgari altı 
+saatlik periyotlarla dört defa daha  KEP paketini göndermeyi 
+dener. Bu denemeler sonucunda iletimin başarısız olması 
+halinde “Alıcı KEPHS’ye Ula şılamadı” 
+(RelayToREMMDFailure) delilini üretip KEP iletisinin 
+ekine koyar ve bu KEP iletisini imzalayarak göndericiye 
+iletir. 
+ 
+ç) Alıcı KEPHS , gelen KEP paketinin ve KEP iletisinin ilgili mevzuata ve mevzuatta 
+belirtilen standartlara uygunluğunu kontrol eder. Bu kontrol sonucunda a lıcı KEPHS aykırı bir 
+durum tespit; 
+Durum Yapılacak İşlem 
+1) ETMEMESİ 
+halinde;  
+“Alıcı KEPHS tarafından Kabul Edildi” 
+ (RelayToREMMDAcceptanceRejection:Acceptance) delilini 
+üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+2) ETMESİ halinde; 
+“Alıcı KEPHS tarafından Kabul Edilmedi” 
+ (RelayToREMMDAcceptanceRejection:Rejection) delilini 
+üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir.
+
+
+==================== SAYFA 6 ====================
+
+6 
+d) Alıcı KEPHS, KEP paketini alıcıya teslim;  
+Durum Yapılacak İşlem 
+1) ETMESİ halinde;  
+“Teslim Edildi” 
+(DeliveryNonDeliveryToRecipient:Delivery) delilini üretip 
+KEP iletisinin  ekine koyar, bu KEP iletisini imzalayarak 
+göndericiye (iletilmek üzere gönderici KEPHS’ye)  gönderir 
+ve “Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delil ini içeren 
+KEP iletisi ile KEP paketini alıcıya teslim eder. 
+2) EDEMEMESİ 
+halinde; 
+Alıcı KEPHS, “Teslim Edilemedi” 
+ (DeliveryNonDeliveryToRecipient:DeliveryExpiration) 
+delilini üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+ 
+e) KEP paketi alıcıya teslim edildikten sonra; alıcı KEPHS, KEP paketinin alıcı 
+tarafından açılıp açılmadığını  kontrol eder. Alıcı nın, hesabına KEP paketi teslim edildikten 
+sonraki iş günü sonuna kadar teslim edilen KEP paketini; 
+ 
+Durum Yapılacak İşlem 
+1) AÇMASI halinde 
+ Alıcı KEPHS, “Alıcı tarafından Okundu” 
+ (RetrievalNonRetrievalByRecipient:Retrieval) delilini  üretip 
+KEP iletisinin ekine koyar ve bu KEP iletisini göndericiye 
+iletir. 
+2) AÇMAMASI 
+halinde 
+ Alıcı KEPHS, “Alıcı Tarafından Okundu Kabul Edildi” 
+(RetrievalNonRetrievalByRecipient:RetrievalExpiration) 
+delili üretip KEP iletisinin  ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir.  
+ 
+ 
+(2) Gönderici KEPHS’nin s akla-bildir çalışma modelini kullanması durumunda , KEP 
+iletisi alma, gönderme ve kullanıcılarla KEP iletisi ve KEP delili paylaşma işlemi, KEPHS 
+tarafından bu fıkra kapsamında gerçekleştirilir. 
+  
+a)  Gönderici, hizmet aldığı KEPHS’nin KEP hesabı arayüzüne erişerek orijinal iletiyi 
+oluşturur ve kendi güvenli elektronik imzası ile imzalayarak gönderir. 
+ 
+b) Gönderici KEPHS, orijinal iletinin ilgili mevzuata ve mevzuatta belirtilen standartlara 
+uygunluğunu kontrol eder. Bu kontrol sonucunda gönderici KEPHS aykırı bir durum tespit;
+
+
+==================== SAYFA 7 ====================
+
+7 
+Durum Yapılacak İşlem 
+1) ETMEMESİ halinde 
+”KEPHS tarafından Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delili üretip 
+KEP iletisinin ekine koyar ve imzalayarak göndericiye iletir. 
+Orijinal iletiyi ke ndi depolama alanına kaydeder.  Bu iletiye 
+erişmek üzere bir referans oluşturur , bu referansı  ve 
+referansa erişmek üzere oluşturacağı bir erişim verisini KEP 
+iletisinin içerisine koyup bu paketi imzalar. 
+Orijinal iletiye erişmek üzere oluşturulmuş olan referansı 
+içeren KEP İletisini alıcı KEPHS’ye gönderir. 
+2) ETMESİ halinde 
+“KEPHS tarafından Reddedildi”  
+(SubmissionAcceptanceRejection:Rejection) delilini üretip 
+göndericiye iletir. 
+ 
+c)  Orijinal iletiye erişmek üzere oluşturulmuş olan referansı içeren KEP İletisini  ve 
+“KEPHS tarafından Kabul Edildi”  (SubmissionAcceptanceRejection:Acceptance) delilini içeren 
+KEP iletisi gönderiminin; 
+ 
+Durum Yapılacak İşlem 
+1) BAŞARILI 
+olması halinde; 
+Alıcı KEPHS’nin kontrol süreci başlar. 
+2) İlk gönderimde 
+BAŞARISIZ 
+olması halinde; 
+Gönderici KEPHS, yirmi dört saat boyunca asgari altı saatlik 
+periyotlarla dört defa daha KEP paketini göndermeyi dener. Bu 
+denemeler sonucunda iletimin başarısız olması halinde “ Alıcı 
+KEPHS’ye Ulaşılamadı” (RelayToREMMDFailure)  delilini 
+üretip KEP iletisinin ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir. 
+ 
+ç) Alıcı KEPHS, gelen KEP paketinin ve KEP iletisinin ilgili mevzuata ve mevzuatta 
+belirtilen standartlara uygunluğunu kontrol eder. Bu kontrol sonucunda alıcı KEPHS,  aykırı bir 
+durum tespit;
+
+
+==================== SAYFA 8 ====================
+
+8 
+Durum Yapılacak İşlem 
+1) ETMEMESİ 
+halinde;  
+“Alıcı KEPHS tarafından Kabul Edildi” 
+(RelayToREMMDAcceptanceRejection:Acceptance) delilini 
+üretip KEP iletisinin ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+2) ETMESİ halinde; 
+“Alıcı KEPHS tarafından Kabul Edilmedi” 
+(RelayToREMMDAcceptanceRejection:Rejection) delilini 
+üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+ 
+d) Alıcı KEPHS, orijinal iletiye erişmek üzere oluşturulmuş olan referansı içeren KEP 
+iletisini alıcıya teslim;  
+Durum Yapılacak İşlem 
+1) ETMESİ halinde;  
+“Teslim Edildi” (DeliveryNonDeliveryTo Recipient:Delivery) 
+delilini üretip KEP iletisinin ekine koyar, bu KEP iletisini 
+imzalayarak göndericiye gönderir ve “Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delil ini içeren 
+KEP iletisi ile KEP paketini alıcıya teslim eder. 
+2) EDEMEMESİ 
+halinde; 
+Alıcı KEPHS, “Teslim Edilemedi” 
+(DeliveryNonDeliveryToRecipient:DeliveryExpiration) 
+delilini üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+ 
+e) KEP paketi alıcıya teslim edildikten sonra; alıcı KEPHS, KEP paketinin alıcı 
+tarafından açılıp açılmad ığını kontrol eder. Alıcının, hesabına KEP paketi teslim edildikten 
+sonraki iş günü sonuna kadar teslim edilen KEP paketini; 
+ 
+Durum Yapılacak İşlem 
+1) AÇMASI halinde 
+Alıcı KEPHS, “Alıcı tarafından Okundu” 
+(RetrievalNonRetrievalByRecipient:Retrieval) delilini üretip 
+KEP iletisinin ekine koyar ve bu KEP iletisini göndericiye 
+iletir. 
+2) AÇMAMASI 
+halinde 
+ Alıcı KEPHS, “Alıcı Tarafından Okundu Kabul Edildi” 
+(RetrievalNonRetrievalByRecipient:RetrievalExpiration) 
+delili üretip KEP iletisinin ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir.
+
+
+==================== SAYFA 9 ====================
+
+9 
+ 
+f) KEP paketi alıcıya teslim edildikten sonra; Gönderici KEPHS, KEP paketinin 
+içerisindeki referansın gösterdiği depolama alanından orijinal iletinin indirilip indirilmediğini 
+kontrol eder . Alıcının, hesabına KEP paketi teslim edildikten sonraki iş günü sonuna kadar 
+iletiyi; 
+ 
+Durum Yapılacak İşlem 
+1) İNDİRMESİ 
+halinde 
+Gönderici KEPHS, “Alıcı tarafından İndirildi” 
+(DownloadNonDownloadByRecipient:Download) delilini  
+üretip KEP iletisinin  ekine koyar ve bu KEP iletisini 
+göndericiye iletir. 
+2) İNDİRMEMESİ 
+halinde 
+Alıcı KEPHS,” Alıcı Tarafından Okundu Kabul Edildi” 
+(DownloadNonDownloadByRecipient:DownloadExpiration) 
+delili üretip KEP iletisinin  ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir.  
+ 
+(3) Gönderici KEPHS’nin sakla -bildir çalışma modelini kullanmadığı ancak alıcı 
+KEPHS’nin sakla -bildir modelini kullanması durumunda, KEP iletisi alma, gönderme ve 
+kullanıcılarla KEP iletisi ve KEP delili paylaşma işlemi, KEPHS tarafından bu fıkra kapsamında 
+gerçekleştirilir. 
+  
+a)  Gönderici, hizmet aldığı KEPHS’nin KEP hesabı arayüzüne erişerek orijinal iletiyi 
+oluşturur ve kendi güvenli elektronik imzası ile imzalayarak gönderir. 
+  
+b) Gönderici KEPHS, orijinal iletinin ilgili mevzuata ve mevzuatta belirtilen standartlara 
+uygunluğunu kontrol eder. Bu kontrol sonucunda gönderici KEPHS aykırı bir durum tespit;  
+ 
+Durum Yapılacak İşlem 
+3) ETMEMESİ halinde 
+“KEPHS tarafından Kabul Edildi”  
+(SubmissionAcceptanceRejection:Acceptance) delili üretip 
+KEP iletisinin ekine koyar ve imzalayarak göndericiye iletir. 
+Orijinal iletiyi, oluşturacağı KEP paketinin ekine koyup bu 
+paketi imzalar. 
+KEP Paketini alıcı KEPHS’ye iletir. 
+4) ETMESİ halinde 
+“KEPHS tarafından Reddedildi” 
+(SubmissionAcceptanceRejection:Rejection) delilini üretip 
+göndericiye iletir.
+
+
+==================== SAYFA 10 ====================
+
+10 
+c)  KEP paketi ve “KEPHS tarafından Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delilini içeren KEP iletisi gönderiminin; 
+ 
+Durum Yapılacak İşlem 
+1) BAŞARILI 
+olması halinde; 
+Alıcı KEPHS’nin kontrol süreci başlar. 
+2) İlk gönderimde 
+BAŞARISIZ 
+olması halinde; 
+Gönderici KEPHS, yirmi dört saat boyunca asgari altı saatlik 
+periyotlarla dört defa daha KEP paketini göndermeyi dener. Bu 
+denemeler sonucunda iletimin başarısız olması halinde “ Alıcı 
+KEPHS’ye Ulaşılamadı” (RelayToREMMDFailure)  delilini 
+üretip KEP iletisinin ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir. 
+ 
+ç) Alıcı KEPHS, gelen KEP paketinin ve KEP iletisinin ilgili mevzuata ve mevzuatta 
+belirtilen standartlara uygunluğunu kontrol eder. Bu kontrol sonucunda alıcı KEPHS,  aykırı bir 
+durum tespit; 
+ 
+Durum Yapılacak İşlem 
+1) ETMEMESİ 
+halinde;  
+“Alıcı KEPHS tarafından Kabul Edildi” 
+ (RelayToREMMDAcceptanceRejection:Acceptance) delilini 
+üretip KEP iletisinin  ekine koyar v e bu KEP iletisini imzalayarak 
+göndericiye gönderir. 
+2) ETMESİ 
+halinde; 
+“Alıcı KEPHS tarafından Kabul Edilmedi” 
+ (RelayToREMMDAcceptanceRejection:Rejection) delilini üretip 
+KEP iletisinin  ekine koyar  ve bu KEP iletisini imzalayarak 
+göndericiye gönderir. 
+ 
+d) Alıcı KEPHS, orijinal iletiyi kendi depolama alanına kaydeder. Bu iletiye erişmek 
+üzere bir referans oluşturur, bu referansı ve referansa erişmek üzere oluşturacağı bir erişim 
+verisini KEP iletisinin içerisine koyup bu paketi imzalar. 
+ 
+e) Alıcı KEPHS, orijinal iletiye erişmek üzere oluşturulmuş olan referansı içeren KEP 
+İletisini alıcıya teslim;
+
+
+==================== SAYFA 11 ====================
+
+11 
+Durum Yapılacak İşlem 
+1) ETMESİ halinde;  
+“Teslim Edildi” (DeliveryNonDeliveryTo Recipient:Delivery) 
+delilini üretip KEP iletisinin  ekine koyar, bu KEP iletisini 
+imzalayarak göndericiye gönderir ve “Kabul Edildi” 
+(SubmissionAcceptanceRejection:Acceptance) delil ini içeren 
+KEP iletisini alıcıya teslim eder. 
+2) EDEMEMESİ 
+halinde; 
+Alıcı KEPHS, “Teslim Edilemedi” 
+ (DeliveryNonDeliveryToRecipient:DeliveryExpiration) delilini 
+üretip KEP iletisinin  ekine koyar v e bu KEP iletisini 
+imzalayarak göndericiye gönderir. 
+ 
+f) KEP paketi alıcıya teslim edildikten sonra; Alıcı KEPHS, orijinal iletiye erişmek üzere 
+oluşturulmuş olan referansı içeren KEP İletisini içerisindeki referansın gösterdiği depolama 
+alanından orijinal iletinin indirilip indirilmediğini kontrol eder. Alıcının, hesabına KEP iletisi 
+teslim edildikten sonraki iş günü sonuna kadar iletiyi; 
+ 
+Durum Yapılacak İşlem 
+1) İNDİRMESİ 
+halinde 
+ Gönderici KEPHS, “Alıcı tarafından İndirildi” 
+(DownloadNonDownloadByRecipient:Download) delilini 
+üretip KEP iletisinin ekine koyar ve bu KEP iletisini 
+göndericiye iletir. 
+2) İNDİRMEMESİ 
+halinde 
+ Alıcı KEPHS,” Alıcı Tarafından Okundu Kabul Edildi” 
+(DownloadNonDownloadByRecipient:DownloadExpiration) 
+delili üretip KEP iletisinin ekine koyar ve bu KEP iletisini 
+imzalayarak göndericiye iletir.  
+ 
+ (4) Sakla-bildir çalışma modelinde KEPHS , orijinal iletiye yetkisiz erişimi ve orijinal 
+iletinin yetkisiz taraflarca indirilmesini engellemek üzere gerekli tedbirleri alır.  
+ 
+(5) Sakla-bildir çalışma modelinde orijinal iletiye erişmek üzere oluşturulan referans 
+vasıtasıyla orijinal iletinin 3 ay içerisinde indirilmemesi durumunda KEPHS tarafından ilgili 
+orijinal ileti silinebilir.
+
+
+==================== SAYFA 12 ====================
+
+12 
+ÜÇÜNCÜ BÖLÜM 
+Orijinal İleti, KEP Paketi ve KEP İletisi Başlık Bilgileri ile KEP Hesabı Arayüzleri 
+ 
+Orijinal iletinin başlık bilgileri 
+MADDE 7 - (1) Orijinal iletinin başlık bilgileri, ileti S/MIME haline getirilmeden önce 
+eklenir.  
+ 
+(2) Orijinal ileti oluşturulurken eklenmesi gereken başlık bilgileri; 
+  
+Başlık Adı Değer Açıklama Zorunlu/ 
+İsteğe Bağlı 
+X-TR-REM-iletiTip 
+“eTebligat” Elektronik tebligat gönderiminde 
+kullanılır. 
+Zorunlu “eYazisma” İletinin ekinde e-Yazışma paketi 
+olması halinde kullanılır. 
+“standart” Diğer gönderimler için 
+kullanılır. 
+X-TR-REM-iletiID <Sayı> 
+Elektronik tebligat iletileri için 
+tebligatı çıkaran merci 
+tarafından belirlenen tebligat 
+numarası kullanılır.  Zorunlu 
+Elektronik tebligat iletisi değilse 
+boş bırakılır. 
+X-TR-REM-iletiDetay <DetayDeğeri> 
+X-TR-REM-iletiTip alanının alt 
+alanı olabilecek veya 
+sınıflandırmada kullanılabilecek 
+serbest bir değer olarak 
+kullanılır. 
+İsteğe Bağlı 
+ 
+şeklinde olmalıdır.  
+(3) Başlık bilgilerindeki alanlar büyük ve küçük harf duyarlı olmalıdır. 
+(4) Başlık bilgilerindeki tüm alanlar RFC 5322 madde 2.1.1’de belirtilen uzunluk kısıtına 
+uygun olarak oluşturulur. 
+ 
+KEP paketi ve KEP iletisi başlık bilgileri 
+MADDE 8 - (1) KEP paketi ve KEP iletisi KEPHS tarafından oluşturulur. 
+ 
+ (2) ETSI TS 102 640 -2 standardının 4.1’inci maddesinde tanımlanan “X-REM-
+<component>: <value>” ifadesinin; 
+ 
+a) <component> alanı “MessageIdentifierByREMMD” şeklinde, 
+ 
+b) <value> alanı ise orijinal iletinin gönderici KEPHS’nin sistemine ulaştığı anda KEP 
+sisteminde tekil olacak şekilde üretilmiş olan kimliğini tanımlayıcı değer  
+ 
+olmalıdır.
+
+
+==================== SAYFA 13 ====================
+
+13 
+  (3) KEP paketi ve KEP iletisi başlık bilgileri; 
+ 
+ Mesaj Türleri 
+No ETSI TS 102 640 
+Standardındaki Yeri Başlık İsmi 
+KEP 
+İletisi  
+KEP 
+Paketi  
+Zorunlu (Z) /  
+Kullanılmaz (K)  
+1 
+ETSI TS 102 640-2 
+V2.2.1 (2011-09) - 4.1 
+ve 
+ETSI TS 102 640-5 
+V2.2.1 (2011-09) -5.3.1 
+X-REM-Msg-Type Z Z 
+2 
+ 
+ETSI TS 102 640-2 
+V2.2.1 (2011-09) - 4.1 X-REM-hashAlgorithm Z Z 
+3 ETSI TS 102 640-2 
+V2.2.1 (2011-09) - 4.1 X-REM-hashValue Z Z 
+4 
+ 
+ETSI TS 102 640-2 
+V2.2.1 (2011-09) - 4.1 X-REM-UAMessageIdentifier Z Z 
+5 
+ 
+ETSI TS 102 640-2 
+V2.2.1 (2011-09) - 4.1 X-REM-MessageIdentifierByREMMD Z Z 
+6 
+ 
+ETSI TS 102 640-5 
+V2.2.1 (2011-09) - 5.3 X-REM-EvidenceIdentifier Z K 
+7 ETSI TS 102 640-5 
+V2.2.1 (2011-09) - 5.3 X-REM-EvidenceType Z K 
+8 ETSI TS 102 640-5 
+V2.2.1 (2011-09) -5.3 X-REM-EventCode Z K 
+ 
+şeklinde kullanılır. 
+ 
+(4) Yedinci maddenin ikinci  fıkrasında anılan başlık bilgileri KEP paketinin başlığına da 
+eklenir. 
+ 
+KEP hesabı arayüzleri 
+MADDE 9 - (1) KEPHS’ler tarafından sunulan arayüzlerde yer verilen öğeler bu 
+maddede belirtildiği şekilde kullanılır. 
+ 
+(2) KEP hesabı “Gelen” kutusundaki “Konu” başlığı; 
+ 
+a) KEP paketi için: [KEP İletisi] <Orijinal İleti Başlığı>  
+ 
+b) KEP iletisi için: [KEP Delili: <Delil Açıklaması>] <Orijinal İleti Başlığı > 
+ 
+şeklinde gösterilir.
+
+
+==================== SAYFA 14 ====================
+
+14 
+(3) Bu maddenin ikinci fıkrasının (b) bendinde yer alan <Delil Açıklaması> ; 
+ 
+a) “SubmissionAcceptanceRejection:Acceptance” delili için [KEP Delili: hsY Tarafından 
+Kabul Edildi] 
+ 
+b) “SubmissionAcceptanceRejection:Rejection” delili için  [KEP Delili: hsY Tarafından 
+Reddedildi] 
+ 
+c) “RelayToREMMDAcceptanceRejection:Acceptance” delili için [KEP Delili: hsY 
+Tarafından Kabul Edildi] 
+ 
+ 
+ç) “RelayToREMMDAcceptanceRejection:Rejection” delili için [KEP Delili: hsY 
+Tarafından Reddedildi] 
+ 
+d) “RelayToREMMDFailure” delili için [KEP Delili: hsY’ye Ulaşılamadı] 
+ 
+e) “DeliveryNonDeliveryToRecipient:Delivery” delili için [KEP Delili: 
+ad.soyad@hsY.kep.tr’ye Teslim Edildi] 
+ 
+f) “DeliveryNonDeliveryToRecipient:DeliveryExpiration” delili için [KEP Delili: 
+ad.soyad@hsY.kep.tr’ye Teslim Edilemedi] 
+ 
+g) “RetrievalNonRetrievalByRecipient:Retrieval” delili için [KEP Delili: 
+ad.soyad@hsY.kep.tr Tarafından Okundu] 
+ 
+ğ) “RetrievalNonRetrievalByRecipient:RetrievalExpiration” delili için [KEP Delili: 
+Okundu Kabul Edildi] 
+  
+h) “ DownloadNonDownloadByRecipient:Download” delili için [KEP Delili: 
+ad.soyad@hsY.kep.tr Tarafından İndirildi] 
+ 
+ı) “ DownloadNonDownloadByRecipient:DownloadExpiration” delili için [KEP Delili: 
+İndirildi Kabul Edildi] 
+ 
+şeklinde gösterilir. 
+ 
+ 
+DÖRDÜNCÜ BÖLÜM 
+KEP Delili İçeriği, Dosya İsimleri, Dosya Gösterimi ve Paylaşımı  
+ 
+KEP delilleri 
+MADDE 10 - (1) KEP sisteminde tüm deliller, ETSI TS 102 640 -2 V2.2.1 (2011 -09) 
+standardının "REM-MD Evidence Content and Semantics " başlıklı 5’inci kısmına ve " Annex B 
+(normative): REM-MD Evidence Implementation in xml" kısmına uygun olarak oluşturulur.  
+ 
+(2) KEP delillerinde yer alan özet değerlerin gösterimi “BASE64 ENCODED” şeklinde 
+olur. 
+ 
+(3) KEP sisteminde tüm KEP delilleri Tablo –1’e uygun olarak oluşturulur.
+
+
+==================== SAYFA 15 ====================
+
+15 
+Delil Delil Açıklaması  Oluşturan 
+KEPHS 
+Çalışma 
+Modeli 
+KEPHS’nin Orijinal İletiyi Göndermeyi Kabul 
+Ettiğine İlişkin Delil: 
+(Gönderici KEPHS Kabul) 
+SubmissionAcceptanceRejection:Acceptance 
+KEPHS’nin, göndericinin kimlik doğrulamasını yaptıktan 
+sonra orijinal iletiyi başarılı bir şekilde teslim aldığını 
+kanıtlar. 
+Gönderici 
+Sakla-Bildir 
+ve 
+Sakla-İlet 
+KEPHS’nin Orijinal İletiyi Göndermeyi Kabul 
+Etmediğine İlişkin Delil: 
+(Gönderici KEPHS Red) 
+SubmissionAcceptanceRejection:Rejection 
+KEPHS’nin, göndericinin kimlik doğrulamasını yaptıktan 
+sonra orijinal iletiyi başarılı bir şekilde teslim aldığını ancak 
+orijinal iletinin KEPH S tarafından belirli bir sebeple kabul 
+edilmediğini kanıtlar. 
+ 
+Gönderici 
+Sakla-Bildir 
+ve 
+Sakla-İlet 
+KEP Paketinin Alıcı KEPHS Tarafından Kabul 
+Edildiğine İlişkin Delil: 
+(Alıcı KEPHS Kabul) 
+RelayToREMMDAcceptanceRejection:Acceptance 
+Gönderici KEPHS tarafından gönderilen bir KEP paketinin, 
+alıcı KEPH S tarafından başarılı bir şekilde teslim alındığını 
+ve kabul edildiğini kanıtlar.  
+Alıcı 
+Sakla-Bildir 
+ve 
+Sakla-İlet 
+KEP Paketinin Alıcı KEPHS Tarafından 
+Reddedildiğine İlişkin Delil: 
+(Alıcı KEPHS Red) 
+RelayToREMMDAcceptanceRejection:Rejection 
+Gönderici KEPHS tarafından gönderilen bir KEP paketinin, 
+alıcı KEPHS  tarafından başarılı bir şekilde teslim alındığını 
+ancak KEP paketinin KEPHS tarafından belirli bir sebeple 
+kabul edilmediğini kanıtlar.  
+Alıcı 
+Sakla-Bildir 
+ve 
+Sakla-İlet 
+KEP Paketinin Alıcı KEPHS'ye Belirli Bir Süre 
+İçinde Teslim Edilemediğine İlişkin Delil: 
+(Alıcı KEPHS'ye belirli bir süre sonunda teslim 
+edilemedi) 
+(RelayToREMMDFailure) 
+KEP paketinin herhangi bir sebeple belirli bir süre (KEP İleti 
+Akışı başlıklı 6’ıncı maddenin birinci fıkrasının (c) bendinin 
+2’inci alt bendindeki süre)  içinde, alıcı K EPHS'ye teslim 
+edilemediğini kanıtlar. 
+ 
+Gönderici 
+Sakla-Bildir 
+ve 
+Sakla-İlet
+
+
+==================== SAYFA 16 ====================
+
+16 
+Delil Delil Açıklaması Oluşturan 
+KEPHS 
+Çalışma 
+Modeli 
+KEP Paketinin Okunduğuna İlişkin Delil: (Okundu) 
+RetrievalNonRetrievalByRecipient:Retrieval 
+Alıcının KEP hesabındaki  KEP paketinin, alıcı tarafından 
+okunduğunu kanıtlar. Alıcı Sakla-İlet 
+KEP Paketinin Belirli Bir Süre İçinde 
+Okunmadığına İlişkin Delil: 
+(Belirli bir süre içinde okunmadı) 
+RetrievalNonRetrievalByRecipient: 
+RetrievalExpiration 
+Alıcının KEP hesabındaki  KEP paketinin, alıcı tarafından  
+belirli bir süre  içinde okunmadığını kanıtlar. Bu KEP delili 
+Yönetmeliğin “ Kayıtlı elektronik posta hesabının kontrol 
+edilmesi” başlıklı 12’inci maddesinin ikinci fıkrası uyarınca  
+KEP paketinin alıcıya teslim edilmesini takip eden iş günü 
+saat 23:59’da üretilir. 
+Alıcı Sakla-İlet 
+KEP Paketini Alıcıya Teslim Edildiğine İlişkin 
+Delil: 
+(Teslim) 
+DeliveryNonDeliveryToRecipient:Delivery 
+KEP paketi nin alıcının KEP hesabına teslim edildiğini 
+kanıtlar.  Alıcı Sakla-İlet 
+KEP Paketinin Belirli Bir Süre İçinde Teslim 
+Edilemediğine İlişkin Delil: 
+(Belirli bir süre içinde KEP paketi teslim edilemedi) 
+DeliveryNonDeliveryToRecipient:DeliveryExpiratio
+n 
+KEP paketinin, belli bir süre ( KEP İleti Akışı başlıklı 6’ıncı 
+maddenin birinci fıkrasının (c) bendinin 2’inci alt bendindeki 
+süre) içinde herhangi bir sebeple alıcı nın KEP hesabına  
+teslim edilemediğini kanıtlar.  
+Alıcı 
+ veya 
+Gönderici 
+Sakla-İlet
+
+
+==================== SAYFA 17 ====================
+
+17 
+Delil Delil Açıklaması  Oluşturan 
+KEPHS 
+Çalışma 
+Modeli 
+KEP Paketini İndirebilmesi İçin Alıcının KEP 
+Hesabına, KEPHS’nin Deposuna Erişebileceği Bir 
+Bildirimin Teslim Edildiğine İlişkin Delil: 
+(Bildirim teslim) 
+DeliveryNonDeliveryToRecipient:Delivery 
+KEP paketinin KEPHS’nin deposunda n indirilebilmesi için 
+alıcının KEP he sabına, KEPHS’nin deposuna eriş ebileceği 
+bir bildirimin teslim edildiğini kanıtlar.  Alıcı Sakla-Bildir 
+KEP Paketinin İndirilebilmesi İçin Alıcının KEP 
+Hesabına, KEPHS’nin Deposuna Erişebileceği Bir 
+Bildirimin Teslim Edilemediğine İlişkin Delil: 
+ (Belirli bir süre içinde bildirim teslim edilemedi) 
+DeliveryNonDeliveryToRecipient:DeliveryExpiratio
+n 
+KEP paketinin alıcının KEP hesabına belli bir süre içinde 
+herhangi bir nedenle teslim edilemediğini kanıtlar. 
+Alıcı  
+veya 
+Gönderici 
+Sakla-Bildir 
+KEP Paketinin İndirildiğine İlişkin Delil 
+(Alıcı tarafından indirildi) 
+DownloadNonDownloadByRecipient:Download 
+KEP paketinin alıcı veya işlem yetkilisi tarafından belirli bir 
+süre içinde indirildiğini kanıtlar. Alıcı Sakla-Bildir 
+KEP Paketinin Belirli Bir Süre İçinde 
+İndirilmediğine İlişkin Delil: 
+(Belirli bir süre içerisinde indirilmedi) 
+DownloadNonDownloadByRecipient:DownloadExp
+iration 
+KEP paketinin belirli bir süre içinde herhangi bir nedenle 
+alıcı KEPHS’nin deposundan indirilmediğini kanıtlar. Bu 
+KEP delili Y önetmeliğin “Kayıtlı elektronik posta hesabının 
+kontrol edilmesi” başlıklı 12’inci maddesinin ikinci fıkrası 
+uyarınca KEP paketinin alıcıya teslim edilmesini takip eden 
+iş günü saat 23:59’da üretilir. 
+Alıcı Sakla-Bildir 
+ 
+Tablo – 1 KEP Delilleri, Açıklaması, Oluşturan KEPHS ve Oluşturulduğu Çalışma Modeli
+
+
+==================== SAYFA 18 ====================
+
+18 
+ 
+KEP delilleri dosya isimleri yapısı 
+MADDE 11 – (1) KEP sisteminde üretilen KEP delillerinin dosya isimleri nin yapısı 
+“delilin ismi.<MessageID>.xml” şeklinde olur. 
+ 
+(2) KEP sisteminde oluşturulan KEP delillerinin dosya isimleri; 
+ 
+KEP Delili İsmi Dosya İsim Yapısı 
+Gönderim Kabul/Ret Delili SubmissionAcceptanceRejection.<MessageID>.xml 
+KEPHS’ler Arası Kabul/Ret 
+Delili RelayToREMMDAcceptanceRejection.<MessageID>.xml 
+KEPHS’ler Arası Sistem 
+Hatası Delili RelayToREMMDFailure. <MessageID>.xml 
+Alıcıya Teslim 
+Edildi/Edilemedi Delili  DeliveryNonDeliveryToRecipient.<MessageID>.xml 
+Alıcı Tarafından 
+İndirildi/İndirilmedi Delili DownloadNonDownloadByRecipient.<MessageID>.xml 
+Alıcı Tarafından 
+Okundu/Okunmadı Delili RetrievalNonRetrievalByRecipient. .<MessageID>.xml 
+ 
+şeklinde kullanılır. 
+ 
+KEP delilleri içeriği  
+MADDE 12 – (1) KEP paketlerinin başlık bilgisinde bulunan “X-REM-
+MessageIdentifierByREMMD” alanı , ETSI TS 102 640 -2 V2.2.1 (2011 -09) standardının 
+“5.2.2.4.1 M00 - REM-MD Message/REM Dispatch details ” maddesi kapsamında KEP 
+delillerinin içerisinde de bulunur. 
+ 
+(2) KEP sisteminde üretilen delillerde gönderici detaylarını gösteren “SenderDetails” 
+alanı; 
+ 
+a) Gerçek kişiler için: ad, soyad, KEP adresi, 
+“ElectronicAddress” etiketi içerisinde;  
+<tsl:ElectronicAddress><tsl:URI>Ad Soyad <KEP hesap adresi></tsl:URI> <KEP 
+hesap adresi></tsl:ElectronicAddress> 
+ 
+b) Tüzel kişi için: tüzel kişi unvanı, tüzel kişi KEP hesap adresi,  
+“ElectronicAddress” etiketi içerisinde; 
+<tsl:ElectronicAddress>Tüzel Kişi Unvanı <tüzel kişi KEP hesap adresi> 
+</tsl:ElectronicAddress> 
+şeklinde olur.
+
+
+==================== SAYFA 19 ====================
+
+19 
+(3) KEP sisteminde üretilen KEP delillerinde a lıcı detaylarını gösteren 
+“RecipientsDetails” alanı; 
+a) Gerçek kişi için: Ad, soyad, KEP hesap adresi, 
+”ElectronicAddress” etiketi içerisinde; 
+ <tsl:ElectronicAddress>Ad Soyad <KEP hesap adresi></tsl:ElectronicAddress> 
+ 
+b) Tüzel kişi için: tüzel kişi ünvanı, tüzel kişi KEP hesap adresi, 
+“ElectronicAddress” etiketi içerisinde;  
+<tsl:ElectronicAddress>Tüzel Kişi Unvanı <tüzel kişi KEP hesap adresi> 
+</tsl:ElectronicAddress> 
+ 
+şeklinde olur.  
+ 
+(4) KEP sisteminde üretilen KEP delillerinde alıcının tüzel kişi olması halinde işlem 
+yetkilisine ilişkin “RecipientsdelegatesDetails” alanı; 
+“ElectronicAddress” etiketi içerisinde; 
+<tsl:ElectronicAddress>Tüzel Kişi Unvanı Adına İşlem Yetkilisi Ad Soyad <tüzel kişi 
+KEP hesap adresi></tsl:ElectronicAddress>  
+ 
+şeklinde olur.  
+ 
+KEP delili gösterimi 
+MADDE 13 - (1) KEP iletilerinin gövde kısmına , iletinin ekinde bulunan KEP delili ile 
+ilgili;  
+ 
+a) SubmissionAcceptanceRejection delili için; 
+ Gönderici KEPHS Tarafından [Kabul/Ret] Edildi Delili:  
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <hsY> tarafından [kabul/<RS> sebebiyle ret] edilmiştir.  
+ 
+ 
+b) RelayToREMMDAcceptanceRejection delili için; 
+Alıcı KEPHS Tarafından [Kabul/Ret] Edildi Delili:  
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <hsY> tarafından [kabul/<RS> sebebiyle ret] edilmiştir.  
+ 
+c) DeliveryNonDeliveryToRecipient delili için; 
+ Alıcıya [Teslim Edildi/Edilemedi] Delili:
+
+
+==================== SAYFA 20 ====================
+
+20 
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <adı.soyadı@hsY.kep.tr> hesabına [teslim edilmiştir/ <RS> 
+sebebiyle teslim edilememiştir].  
+  
+ç) RetrievalNonRetrievalByRecipient delili için; 
+ Alıcı Tarafından [Okundu/Okundu Kabul Edildi] Delili:  
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <adı.soyadı@hsY.kep.tr> alıcısı tarafından [okunmuştur/okundu 
+kabul edilmiştir].  
+ 
+d) RelayToREMMDFailure delili için; 
+ Alıcı KEPHS’ye Ulaşılamadı Delili:  
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <adı.soyadı@hsY.kep.tr> alıcısının hizmet aldığı <hsY> ’ye 
+ulaşılamamıştır. 
+ 
+e) DownloadNonDownloadByRecipient delili için;  
+Alıcı Tarafından İndirilme Delili:  
+<YYYY-MM-DDThh:mm:ssTZD> tarihinde <"Ad Soyad" 
+adı.soyadı@hsY.kep.tr> kullanıcısı tarafından  
+<alıcı hesap adresi 1> 
+<alıcı hesap adresi 2> 
+… 
+[alıcısına/alıcılarına] gönderilen <MessageIdentifierByREMMD>  numaralı ve 
+<Konu> konulu ileti <adı.soyadı@hsY.kep.tr> alıcısı tarafından [indirilmiştir/<RS> 
+sebebiyle indirilmemiştir]. 
+şeklinde açıklama yaz ar. <RS>, KEP iletilerinin ret sebeplerini ifade etmek üzere kullanılan 
+kısaltmadır. Bu fıkrada kullanılan <RS> bu maddenin ikinci fıkrası kapsamında belirlenir. 
+ 
+(2) Ret sebepleri(<RS>) ve karşılık gelen k odları ETSI TS 102 640 -2 V2.2.1 (2011 -09) 
+standardının “Annex E (normative): Event reason identifiers and codes” bölümü kapsamında 
+Tablo-2’ye göre oluşturulur.
+
+
+==================== SAYFA 21 ====================
+
+21 
+Ret Sebebi Belirteci Sebep 
+No 
+Ret Sebebi 
+<RS> 
+http:uri.etsi.org/REM/EventReason#InvalidMessageFormat 1 Geçersiz Format 
+http:uri.etsi.org/REM/EventReason#MalwareFound 2 Kötücül Yazılım Bulunması 
+http:uri.etsi.org/REM/EventReason#InvalidUserSignature 3 Geçersiz Kullanıcı İmzası 
+http:uri.etsi.org/REM/EventReason#UserCertExpiredOrRevoked 4 Kullanıcı Sertifikasının Geçersiz Olması 
+http:uri.etsi.org/REM/EventReason#PolicyViolation 5 - 
+http:uri.etsi.org/REM/EventReason#R_REMMD_Malfunction 6 Alıcı KEPHS’ninTeknik Arızası 
+http:uri.etsi.org/REM/EventReason#R_REMMD_NotIdenified 7 Alıcı KEPHS’nin Tanımsız Olması 
+http:uri.etsi.org/REM/EventReason#R_REMMD_Unreachable 8 Alıcı KEPHS’ye Ulaşılamaması 
+http:uri.etsi.org/REM/EventReason#S_REMMD_ReceivedNoDeliveryInfoFromR_REM
+MD 
+9 Alıcı KEPHS’den Teslim Bilgisi Alınamaması 
+http:uri.etsi.org/REM/EventReason#UnknownRecipient 10 Alıcının Tanımsız Olması 
+http:uri.etsi.org/REM/EventReason#MailboxFull 11 Mail Kutusunun Dolu Olması 
+http:uri.etsi.org/REM/EventReason#TechnicalMalfunction 12 Teknik Arıza 
+http:uri.etsi.org/REM/EventReason#AttachementFormatNotAccepted 13 - 
+http:uri.etsi.org/REM/EventReason#RecipientRejection 14 - 
+http:uri.etsi.org/REM/EventReason#RetentionPeriodExpired 15 Bekleme Süresinin Aşılması 
+http:uri.etsi.org/REM/EventReason#RegularEmailUnreachable 16 - 
+http:uri.etsi.org/REM/EventReason#RegularEmailNonOperational 17 - 
+http:uri.etsi.org/REM/EventReason#RegularEmailRejection 18 - 
+http:uri.etsi.org/REM/EventReason#PrintingSystemUnreachable 19 - 
+http:uri.etsi.org/REM/EventReason#PrintingSystemNonOperational 20 - 
+http:uri.etsi.org/REM/EventReason#PrintingBufferFull 21 - 
+http:uri.etsi.org/REM/EventReason#Other 22 Diğer Sorunlar 
+Tablo - 2 Ret Sebepleri (<RS>)
+
+
+==================== SAYFA 22 ====================
+
+22 
+(3) KEPHS depolama alanında sakladığı KEP delillerinin ilgili KEP hesap sahipleri 
+tarafından sorgulanabilmesini temin eder. 
+ 
+e-Yazışma paketi 
+MADDE 14 – (1) Orijinal iletinin ekinde bir e -yazışma paketi olması halinde; bu 
+EYP’nin SHA -256 algoritmasıyla hes aplanan özet değeri “BASE64 ENCODED”  olarak KEP  
+delili içerisine, ETSI TS 102 640-2 V2.2.1 (2011-09) standardının “Annex B (normative): REM-
+MD Evidence Implementation in xml” bölümünde yer alan “B.1.18 Element <rem:Extensions>” 
+alanına “non critical” olacak şekilde ve; 
+ 
+<rem:EYP> 
+<ds:dosyaAdı> 
+<ds:AttachedFileName="dosyaAdı"/> 
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/> 
+<ds:DigestValue>[Özet değeri]</ds:DigestValue> 
+</ds:dosyaAdı> 
+</rem:EYP> 
+ 
+şeklinde bir etiket içerisine konulur. 
+ 
+  
+BEŞİNCİ BÖLÜM 
+KEP Rehberi Entegrasyonu 
+ 
+Rehber entegrasyonu 
+MADDE 15 – (1) KEPHS’ler arası KEP rehberi sorguları Ek-1’de tanımlanan web 
+servisi aracılığı ile yapılır ve bu web servisi dışında bir sorgulama yöntemi kullanılmaz. 
+ 
+(2) KEPHS, KEP rehber sorgusunun yapılacağı IP adreslerini önceden belirleyip diğer 
+KEPHS’ler ve Kurum ile paylaş ır. Bu IP adreslerinde bir değişiklik planlanması halinde diğer 
+KEPHS’leri ve Kurumu asgari on beş iş günü öncesinden bilgilendirir. 
+ 
+(3) KEPHS’ler arası KEP rehber sorguları IPSec VPN kullanılarak güvenli bir kanal 
+üzerinden yapılır. 
+ 
+(4) KEP rehberi sorgularında parametre girilmeyen alanlar da web servise gönderilir. 
+ 
+(5) Web servise sorgu parametreleri gönderilirken “benzer” (like) karakteri 
+kullanılabilen alanlar için “%” karakteri kullanıl ır ve sadece “%” karakteri ile sorgu yapılmasına 
+izin verilmez.  
+  
+(6) Yapılan sorgu sonucunda aynı hesap sahibine ait birden fazla KEP hesabı bulun ması 
+halinde bu hesapların tamamı sorgu sonucu olarak geri döndürülür. 
+ 
+(7) KEP rehberi sorgu sonuçları, sorguyu yapan KEPHS tarafından saklan maz, sonuçlar 
+kullanıcıya iletildikten sonra sorguyu yapan KEPHS’nin sistemlerinden silinir.
+
+
+==================== SAYFA 23 ====================
+
+23 
+ 
+(8) KEPHS’ler arası KEP rehberi sorgulama web servisinin;  
+ a) Giriş parametreleri; 
+ 
+i) Gerçek kişiler için; 
+ 
+Parametre Tip Benzer (like) 
+KEP Hesap Adı String √ 
+Ad String √ 
+Soyad String √ 
+Cadde String √ 
+Hizmet Alma Türü String  
+İlçe String  
+İl String  
+TC Kimlik No String  
+Telefon Numarası String  
+Unvan String √ 
+İmza Doğrulama Verisi String  
+ 
+alanlarından,  
+  
+ii) Tüzel kişiler için; 
+ 
+Parametre Tip Benzer (like) 
+KEP Hesap Adı String √ 
+Mersis No String  
+Tüzel Kişi Tam Adı String √ 
+Ana Faaliyet Alanı String √ 
+Merkezinin Bulunduğu İl String  
+Adres  String √ 
+İşlem Yetkilisinin Adı String √ 
+İşlem Yetkilisinin Ünvanı String √ 
+ 
+alanlarından, 
+ 
+b) Çıkış parametreleri; 
+ 
+Parametre Tip 
+Durum Kodu String 
+Durum Mesajı String 
+KEP Hesap Bilgisi ArrayOfString 
+ 
+alanlarından oluşur.
+
+
+==================== SAYFA 24 ====================
+
+24 
+(9) Çıkış parametrelerindeki “durum kodları” ve “durum mesajları”;  
+Durum Kodu Durum Mesajı Durum Açıklaması 
+DURUM_BULUNDU Sorgu başarıyla 
+tamamlanmıştır. 
+Sorgu sonucunda tekil bir hesap 
+sahibine ait cevap bulunmuşsa 
+kullanılır. Bulunan sonuç/sonuçlar 
+sorgu yapan KEPHS’ye gönderilir. 
+DURUM_BULUNAMADI 
+Kriterlere uygun 
+hesap kaydı 
+bulunamamıştır. 
+Sorgu sonucunda hiç bir cevap 
+bulunamamışsa kullanılır.  
+DURUM_HATA 
+……………. den 
+kaynaklanan bir 
+hata oluştu. 
+Sorgu yapılırken sistem kaynaklı bir 
+hata oluşması halinde kullanılır. 
+DURUM_COKLU_SONUC 
+Kriterlere uygun 
+birden fazla kayıt 
+bulunmuştur. 
+Sorgu sonucunda birden fazla hesap 
+sahibine ait sonuç bulunmuşsa 
+kullanılır. Bu durumda sorgu yapan 
+KEPHS’ye daha detaylı bir sorgu 
+yapması gerektiğine ilişkin bilgi iletilir 
+ama sorgu sonuçları iletilmez. 
+DURUM_HATALI_SORGU 
+Sorgu işlemi 
+hatalı olarak 
+çağrılmıştır. 
+Sorgunun hatalı yapılması halinde 
+kullanılır. Bu durumda sorgu yapan 
+KEPHS’nin işleyişini kontrol etmesi 
+gerekir. 
+DURUM_EKSIK_PARAMETRE 
+Zorunlu 
+parametreler 
+eksiktir. 
+Zorunlu parametrelerden herhangi 
+birinin eksik olması halinde kullanılır. 
+ 
+şeklinde kullanılır. 
+ 
+ 
+ALTINCI BÖLÜM 
+Elektronik Tebligata İlişkin Esaslar 
+ 
+Elektronik tebligat hizmeti alanlar listesi 
+MADDE 16 – (1) Elektronik tebligat hizmeti alanlar listesi KEP rehberinden farklı bir 
+yapıda Elektronik Tebligat Yönetmeliği kapsamında Posta ve Telgraf Teşkilatı Anonim Şirk eti 
+tarafından oluşturul ur ve bu liste KEPHS’lerin erişimine yedi gün yirmidört saat ( 7/24) açık 
+tutulur. 
+  
+(2) Elektronik tebligat hizmeti alanlar listesi hizmetini sunan KEPHS, diğer KEPHS’lerin 
+bu listede kendi kullanıcıları olan hesap sahiplerine  ilişkin bilgilerde ekleme, iptal ve değişiklik 
+yapma yetkisine sahip olmalarını sağlar. 
+ 
+(3) Elektronik tebligat hizmetinden isteğe bağlı olarak yararlanan gerçek kişiler ve diğer 
+tüzel kişilerin elektronik tebligat  hizmeti alanlar listesinde yer alıp almayacaklarına ilişkin
+
+
+==================== SAYFA 25 ====================
+
+25 
+muvafakatları KEPHS’ler tarafından alınır ve elektronik tebligat hizmeti alanlar listesindeki 
+gerekli değişiklikler KEPHS’ler tarafından yapılır. 
+ 
+Elektronik tebligata ilişkin genel hükümler  
+MADDE 17 – (1) KEPHS, elektronik tebligatlara ilişkin alternatif iletişim kanalları 
+üzerinden yapılan bildirimlerde KEP iletisinin elektronik tebligat olduğunu belirten  ifadelerin 
+yer almasını sağlar. 
+ 
+(2) KEPHS, KEP iletisinin elektronik tebligat olması halinde KEPHS tarafından hesap 
+sahiplerine sunulan arayüzlerde bu iletinin elektronik tebligat olduğunu belli edecek uygun bir 
+gösterim metodu belirler. 
+ 
+(3) KEPHS, KEP iletisinin elektronik tebligat olması halinde ; Elektronik Tebligat 
+Yönetmeliğinin ilgili maddesi  uyarınca e lektronik yolla tebligat ın hesap sahibinin elektronik 
+tebligata elveri şli KEP hesabına ula ştığı tarihi izleyen beşinci günün sonunda yapılmış 
+sayılacağına ilişkin bir ifadeyi KEP paketinin gövde kısmına koyar. 
+ 
+ 
+YEDİNCİ BÖLÜM 
+Kurumsal Entegrasyon 
+ 
+Kurumsal entegrasyon 
+MADDE 18 – (1) KEPHS’nin, tüzel kişilerin KEP iletisi gönderim ve alımını otomatik 
+olarak yapabilecek bir yapı kurması halinde; 
+ 
+ a) Entegrasyon yapılan tüzel kişi, güvenli elektronik imzalı S/MIME paketlerini KEPHS 
+sistemine doğrudan gönderemez. KEPHS, güvenli elektronik imzalı S/MIME paketlerini, kendi 
+sistemleri ile tüzel kişi sistemleri arasında geliştirilecek webmail benzeri işlev  gösteren bir web 
+servis veya IMAP/SMTP proxy sunucu kullanarak kabul eder.  
+b) KEPHS, kullandığı web servise veya IMAP/SMTP p roxy sunucusuna bağlantının 
+güvenli ve doğrudan internete açık olmayan bir şekilde yapılmasını sağlar.  
+c) K EPHS, k ullanılan web servisine veya IMAP/SMTP proxy sunucusuna bağlantıda, 
+kimlik doğrulama işlemini güvenli bir yöntemle yapar. 
+ç) Tüzel kişinin gönderdiği S/MIME paketi, KEP sistemine aktarılmadan önce KEPHS 
+tarafından bir ara katmanda ön kontrolden geçirilir.  
+d) KEP sistemine  gönderilecek orijinal iletiler tüzel kişi  veya KEPHS  tarafından KEP 
+mevzuatına uygun olarak hazırlanır.  
+ e) KEPHS’ye gönderilen iletilerde S/MIME formatına uygun olarak kime (to), bilgi (cc) 
+ve konu (subject) bilgileri bulunur.  KEPHS’nin sunduğu ara katman, k imden (from), 
+<MessageID>, <X -TR-REM-iletiTip> ve ileti gönderim zamanı bilgilerinin varlığını ve 
+doğruluğunu kontrol eder, eksik ise ekler.
+
+
+==================== SAYFA 26 ====================
+
+26 
+ 
+SEKİZİNCİ BÖLÜM 
+Diğer Hükümler 
+ 
+Güvenli elektronik imza  
+MADDE 19 - (1) Orijinal iletinin imzalanarak S/MIME  formatına getirilme işlemi nin, 
+5070 sayılı Elektronik İmza Kanunu ve ilgili ikincil mevzu at ile belirlenen standartlara uygun 
+olmak şartıyla istemcide veya sunucuda yapılması KEPHS’nin tercihine bağlıdır. 
+ 
+(2) KEP sisteminde kullanılacak güvenli elektronik imza formatları;  
+ 
+İmzalanacak Veri İmza Formatı 
+KEP Delilleri XAdES-A 
+KEP İletileri S/MIME formatında üzerindeki imza CadES-A 
+KEP Paketi  S/MIME formatında üzerindeki imza CadES-A 
+İşlem Logları  CAdES-A 
+Orijinal İleti S/MIME formatında üzerindeki imza CAdES-BES 
+veya CAdES-A 
+e-İmza ile Kimlik Doğrulama 
+(Login) CAdES-BES veya CAdES-A 
+Sözleşme/Taahhütname   CAdES-A veya PAdES-A 
+ 
+şeklinde olur.  
+ 
+(3) KEP sisteminde kullanılan güvenli elektronik imza formatları;  
+ 
+a) CAdES için ETSI TS 101 733, 
+ 
+ 
+b) XAdES için ETSI TS 101 903 ve  
+ 
+ 
+c) PAdES için ETSI TS 102 778-3, ETSI TS 102 778-4, ETSI TS 102 778-5  
+ 
+ 
+dokümanlarına uygun olarak oluşturulur. 
+ 
+(4) KEP sisteminde kullanılan; 
+a) CAdES-BES formatındaki güvenli elektronik imzaların ETSI standartlarına uygun 
+olarak oluşturulması, 
+ 
+ 
+b) CAdES-A, XAdES -A ve PAdES -A formatlarından biriyle oluşturulan güvenli 
+elektronik imzaların, Bilgi Teknolojileri ve İletişim Kurumu tarafından 2/7/2012 tarihli ve 
+2012/DK-15/299 sayılı Kurul Kararı ile yayımlanan “Elektronik İmza Kullanım Profilleri 
+Rehberinde” yer alan “Uzun Dönemli ve ÇİSDuP Kontrollü Güvenli Elektronik İmz a 
+Politikaları” Profil P4’euygun olması ve saklanması gereken süre içinde ihtiyaç duyuldukça arşiv 
+formatında yeniden imzalanması 
+ 
+gereklidir.
+
+
+==================== SAYFA 27 ====================
+
+27 
+ 
+(5) KEP iletileri, KEP paketleri ve orijinal iletiler RFC 3851 ’e uygun olarak S/MIME 
+formatında oluşturulmalı ancak üzerindeki imza bu maddenin ikinci fıkrasında tanımlandığı 
+şekilde olur. 
+ 
+(6) KEPHS işlem sertifikasını kullanarak gerçekleştirdiği  tüm imzalamalarda zaman 
+damgası kullanılır. 
+ 
+(7)  KEPHS, KEP Paketi veya  KEP İletisi eklerinde yer alan imza dosyalarını  webmail 
+arayüzlerinde “Gönderici İmzası” ve “KEPHS İmzası” şeklinde isimlendirerek ayırt edilmelerini 
+sağlar. 
+ 
+(8) KEPHS, orijinal ileti yi üzerinde herhangi bir değişiklik yapmadan imzalandığı 
+şekliyle işler ve SMTP protokolünün eklediği alanlar ı temizleyerek gönderici tarafından 
+imzalanan şeklinin SHA -256 algoritmasına göre özet değeri ni hesaplar ve bu değere ilgili 
+alanlarda yer verir. 
+ 
+Bilgi deposu 
+MADDE 20 – (1) Her KEPHS, kurumsal internet sitesinde “Bilgi Deposu” adında bir 
+bölüm açar. 
+ 
+(2) KEPHS, “Bilgi Deposu”’nda asgari olarak; 
+ 
+a) İşlem sertifikalarının sertifika özet değerlerini ve özetleme algoritmalarını, 
+b) KEP uygulama esaslarını, 
+c) Başvuru sahipleri ile imzalayacağı sözleşme veya taahhütname örneklerini  
+yayımlar.  
+(3) KEPHS, “Bilgi Deposu”’nda yayımlanan işlem sertifikalarını güncel tut ar ve sürekli 
+erişime hazır bulundurur. 
+ 
+Tarih-zaman alanlarının yapısı   
+MADDE 21 – (1) KEP sisteminde , tüm tarih alanları YYYY-MM-DDThh:mm:ssTZD 
+(Örnek: 2014-01-01T09:00:00+0200) yapısına uygun olur. 
+ 
+Bakım çalışmaları 
+MADDE 22 – (1) KEPHS planlı bakım çalışmalarını sadece pazar günleri 02.00 – 05.00 
+saatleri arasında yap ar. Bu süreden uzun sürmesi planlanan bakım çalışmaları en az on beş iş  
+günü öncesinden Kuruma bildirilmek suretiyle yapılır. 
+(2) Planlı bakım  çalışmaları dışında zorunlu olarak yapılması gereken arıza giderme 
+çalışmaları diğer KEPHS’lerin işleyişine olumsuz etki etmeyecek şekilde  ve en kısa sürede 
+Kuruma bilgi verilmek suretiyle yapılır. 
+ 
+ (3) KEPHS’nin, sisteminde diğer KEPHS’leri etkileyecek  değişiklikler yapacak olması 
+halinde bu değişiklikler için en az on beş iş günü öncesinden “bakim@hsY.kep.tr” servis adresi 
+vasıtasıyla diğer KEPHS’leri ve “ kep.tr@btk.gov.tr” adresi vasıtasıyla Kurumu bilgilendir mesi 
+gereklidir.
+
+
+==================== SAYFA 28 ====================
+
+28 
+ 
+Servis adresleri 
+MADDE 23 – (1) KEPHS’ler, servis adreslerini bu maddede belirtildiği şekilde oluşturur 
+ve bu adresleri yedi gün yirmi dört saat açık tutar. 
+ 
+(2) Servis adresleri, “servis-adı@alan-adı-tarafı” formatında belirlenir.  
+ 
+(3) Servis adreslerinin, “servis-adı” kısmı tüm KEPHS’lerde aynı olmalı ve “alan-adı-
+tarafı” ise ilgili KEPHS’nin “hsY.kep.tr” şeklindeki alan adını içerir.  
+ 
+(4) KEPHS asgari olarak;  
+ 
+Servis Adı Servis Adresi Açıklama 
+KEP Servisi kepservisi@hsY.kep.tr 
+KEPHS adına gönderilecek olan tüm 
+iletilerin gönderim ve alımları bu 
+servis adresi aracılığıyla yapılır. 
+KEP Rehberi keprehberservisi@hsY.kep.tr 
+Rehber ile ilgili sorunlar ve 
+bilgilendirmeler bu servis adresi 
+aracılığıyla yapılır. 
+Mahsuplaşma  kepmahsup@hsY.kep.tr 
+KEPHS’ler arası mahsuplaşma iş ve 
+işlemlerine ilişkin gönderim ve 
+alımlar için kullanılır. 
+KEP Bilgilendirme kepbilgi@hsY.kep.tr 
+KEPHS’ler yapacakları 
+bilgilendirmeleri bu servis adresi 
+aracılığıyla yapar. 
+Bakım 
+Bilgilendirme bakim@hsY.kep.tr 
+KEPHS’ler yapacakları bakım 
+çalışmaları ile alakalı 
+bilgilendirmeleri bu servis adresi 
+aracılığıyla yapar. 
+KEPHS’ler arası 
+Test 
+<KEPHSAdı>.test@hsY.kep.tr 
+ 
+KEPHS’ler yapacakları test 
+çalışmalarını bu servis adresi 
+aracılığıyla yapar. 
+ 
+servis adreslerini önceden oluşturur ve diğer KEPHS’ler ile paylaşır. 
+ 
+ (5) Servis adresleri KEPHS tarafından gerçek veya tüzel kişilere  verilmemeli ve başka 
+amaçlarla kullanılamaz.
+
+
+==================== SAYFA 29 ====================
+
+29 
+KEP sistemlerinde tutulan işlem kayıtları 
+MADDE 24 - (1) KEPHS, KEP hizmetine ilişkin Tablo  - 3’de yer verilen işlem 
+kayıtlarını asgari olarak aynı tabloda belirtilen sürelerde saklanır.  
+ 
+Kayıt Türü Açıklama 
+Saklama 
+Süresi 
+(Yıl) 
+Uygulama işlem kayıtları  
+ 
+KEP uygulamaları (KEP sistemi iletim ve delil 
+üretilmesinden sorumlu uygulamalar, rehber servisi 
+vb.) tarafından üretilen bilgilere ve verinin iletimine 
+yönelik işlem kayıtları. 
+20 
+Kullanıcı ve Operatör 
+erişim işlem kayıtları 
+Kullanıcıların/operatörlerin müşteri yönetimi, web 
+mail, web başvuru ekranları vb üzerinden 
+gerçekleştirdiği işlemlere ilişkin işlem kayıtları. 
+20 
+İptale İlişkin Ses kayıtları Çağrı merkezinden yapılan iptal başvurularına ilişkin 
+ses kayıtları. 
+20 
+Diğer Ses kayıtları Çağrı merkezinden yapılan diğer ses kayıtları 2 
+KEP altyapısında bulunan 
+sistem bileşenlerinde 
+yönetimsel amaçlı yapılan 
+işlemlere ilişkin işlem 
+kayıtları 
+KEP altyapısında bulunan sistem bileşenlerinde 
+kullanıcılar/operatörler/yöneticiler tarafından 
+gerçekleştirilen bütün işlemlere ilişkin işlem 
+kayıtları. (İlgili varlıklara yalnızca sistemlerin 
+yönetimi amaçlı erişimler bu şekilde kayıt altına 
+alınmalıdır.) 
+20 
+İşletim sistemi işlem 
+kayıtları   5 
+Diğer işlem kayıtları 
+KEPHS tarafından hizmetin yönetim ve denetimine 
+yönelik kendi inisiyatifinde toplanan diğer işlem 
+kayıtları. 
+5 
+Fiziksel güvenliğe yönelik 
+giriş-çıkış işlem kayıtları 
+KEPHS hizmetinin sunulduğu güvenli bölgelerin 
+giriş ve çıkışlarına ilişkin işlem kayıtları. 
+3 
+Kamera kayıtları Güvenli bölgelerin izlendiği kamera sistemine ait 
+kayıtlar. 
+1 
+ 
+Tablo - 3 İşlem Kayıtları Saklama Süreleri 
+ 
+(2) KEPHS, KEP sisteminde tuttuğu işlem kayıtlarını  üç saatte bir işlem sertifikasıyla 
+imzalayarak ilgili işlem kayıtlarının saklama süresi kadar saklar. 
+(3) KEPHS , KEP sist eminde tuttuğu işlem kayıtlarında asgari aşağıdaki hususların 
+uygulanabilir olanlarını içerecek şeklide birinci fıkrada belirtilen süre boyunca tutar. 
+ 
+a) Kullanıcı kimlikleri. 
+ 
+b) Oturum açma/kapatma, veri ekleme/silme/değiştirme gibi işlemlerin tarihi, zamanı ve 
+açıklamaları. 
+ 
+c) Bağlantı sağlanan ekipmanın kimliği ve yeri.
+
+
+==================== SAYFA 30 ====================
+
+30 
+ç) Başarılı ve reddedilen sistem, veri ve diğer kaynaklara erişim girişimlerinin kayıtları. 
+ 
+d) Sistem ayarlarındaki değişiklikler. 
+ 
+e) Kullanılan özel izinleri ve ayrıcalıkları. 
+ 
+f) Sistem araçlarının ve uygulamalarının kullanımı. 
+ 
+g) Erişilen dosyalar ve erişimin tipi. 
+ 
+ğ) Ağ adresleri. 
+ 
+h) Erişim kontrol sistemi tarafından üretilen alarmlar. 
+ 
+ı) Kötücül yazılım, güvenlik duvarı gibi güvenlik sistemlerinin akt if ve pasif hale 
+getirilmeleri. 
+ 
+i) Sistem güv enlik ayarlarına ve kontrollerine ilişkin değişiklik ler veya değişiklik 
+girişimleri, 
+ 
+j) Sistem yöneticileri tarafından yapılan işlemler. 
+ 
+k) Kullanıcı veya sistem programları tarafından rapor edilen bilgi işlem ve haberleşme 
+sistemlerine ilişkin hatalar. 
+ 
+İşlem yetkililerinin başka işlem yetkilisi tanımlaması 
+MADDE 25 – (1) KEPHS, tüzel kişi adına açılan KEP hesabını kullanmaya yetkili işlem 
+yetkilisine, kimlik tespiti yapılmış olması ve gerekli bilgileri KEPHS’ye bildirmesi koşuluyla 
+ilgili hesabı kullanacak alt işlem yetkilisi tanımlama veya tanımlanmış alt işlem yetkilisini silme 
+imkânı sunabilir. Bu durum sözleşme veya taahhütname ile kayıt altına alınır. 
+(2) Alt işlem yetkilisinin kimlik tespiti KEPHS’nin sorumluluğundadır. 
+(3) Alt işlem yetkilisinin KEP hesabına ilişkin yetkileri işlem yetkilisi tarafından verilir. 
+(4) Alt işlem yetkilisi yeni bir alt işlem yetkilisi tanımlayamaz , tanımlanmış bir alt işlem 
+yetkilisini silemez, KEP hesabını açma veya kapama  talebinde bulunamaz  ve KEP hesabına 
+ilişkin yetkileri düzenleyemez. 
+(5) Tanımlanabilecek alt işlem yetkilisi sayısında herhangi bir kısıtlama yapılamaz. 
+(6) İşlem yetkilisi, alt işlem yetkilisine ait kimlik, erişim, adres gibi normal bir başvuruda 
+olması gereken tüm bilgileri tanımlamakla sorumludur. 
+ 
+Güvenlik 
+MADDE 26 – (1) KEPHS, orijinal ileti, KEP iletisi ve KEP paketini  virüs taramasından 
+geçirebilir. 
+ 
+ (2) Hesap sahibi KEP iletilerinin virüs taramasından geçirilip geçirilmemesi hususunda 
+seçim hakkına sahiptir.  
+ 
+(3) KEPHS, orijinal iletinin, KEP ileti sinin ve KEP paketinin  virüs taraması na ilişkin 
+hususlara s özleşmede, taahhütnamede , KEP  uygulama esaslarında ve i nternet sitesinde açıkça 
+yer verir.
+
+
+==================== SAYFA 31 ====================
+
+31 
+KEP İleti Boyutu 
+MADDE 27 – (1) KEPHS’ler arası KEP ileti gönderiminde ileti boyutu 50 MB’yi 
+geçemez. 
+ 
+ 
+SEKİZİNCİ BÖLÜM 
+Son Hükümler 
+ 
+Yürürlük 
+MADDE 28 - (1) Bu Usul ve Esaslar Kurul tarafından kabul edildiği tarihte yürürlüğe 
+girer. 
+ 
+Yürütme 
+MADDE 29 - (1) Bu Usul ve Esas hükümlerini Kurul Başkanı yürütür.
+
+
+==================== SAYFA 32 ====================
+
+32 
+ 
+ 
+ 
+EK-1 
+ 
+KEP Rehber Sorgularında Kullanılacak Web Servis 
+ 
+İşbu usul esasın 15’inci maddesi kapsamında gerçekleştirilecek KEPHS’ler arası KEP rehberi sorguları aşağıdaki web  servisi aracılığı ile 
+yapılmalıdır.  
+ 
+ 
+ 
+<?xml version="1.0"?> 
+<definitions xmlns="http://schemas.xmlsoap.org/wsdl/"  
+xmlns:tns="http://hsY.kep.tr/Rehber"  
+xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"  
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"  
+xmlns:soap-enc="http://schemas.xmlsoap.org/soap/encoding/"  
+xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" name="KepRehberServis" targetNamespace="http://hsY.kep.tr/Rehber"> 
+ <types> 
+ <xsd:schema targetNamespace="http://hsY.kep.tr/Rehber"> 
+   <xsd:complexType name="GercekKisi"> 
+    <xsd:all> 
+     <xsd:element name="kepHesapAdresi" type="xsd:string" nillable="true"/> 
+     <xsd:element name="ad" type="xsd:string" nillable="true"/> 
+     <xsd:element name="soyad" type="xsd:string" nillable="true"/> 
+     <xsd:element name="cadde" type="xsd:string" nillable="true"/> 
+     <xsd:element name="hizmetAlmaSekli" type="xsd:string" nillable="true"/> 
+     <xsd:element name="ilce" type="xsd:string" nillable="true"/> 
+     <xsd:element name="sehir" type="xsd:string" nillable="true"/> 
+     <xsd:element name="tcKimlikNo" type="xsd:string" nillable="true"/> 
+     <xsd:element name="telefonNumarasi" type="xsd:string" nillable="true"/> 
+     <xsd:element name="unvan" type="xsd:string" nillable="true"/>
+
+
+==================== SAYFA 33 ====================
+
+33 
+     <xsd:element name="imzaDogrulamaVerisi" type="xsd:string" nillable="true"/> 
+    </xsd:all> 
+   </xsd:complexType> 
+   <xsd:element name="gercekKisiSorgula"> 
+    <xsd:complexType> 
+     <xsd:sequence> 
+      <xsd:element name="gercekKisi" type="tns:GercekKisi"/> 
+     </xsd:sequence> 
+    </xsd:complexType> 
+   </xsd:element> 
+   <xsd:complexType name="ArrayOfString"> 
+    <xsd:sequence> 
+     <xsd:element name="item" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/> 
+    </xsd:sequence> 
+   </xsd:complexType> 
+   <xsd:complexType name="SorguSonucu"> 
+    <xsd:all> 
+     <xsd:element name="durumKodu" type="xsd:string" nillable="true"/> 
+     <xsd:element name="durumMesaji" type="xsd:string" nillable="true"/> 
+     <xsd:element name="kepHesapAdresi" type="tns:ArrayOfString" nillable="true"/> 
+    </xsd:all> 
+   </xsd:complexType> 
+   <xsd:element name="gercekKisiSorgulaResponse"> 
+    <xsd:complexType> 
+     <xsd:sequence> 
+      <xsd:element name="gercekKisiSorgulaResult" type="tns:SorguSonucu"/> 
+     </xsd:sequence> 
+    </xsd:complexType> 
+   </xsd:element> 
+   <xsd:complexType name="TuzelKisi"> 
+    <xsd:all> 
+     <xsd:element name="kepHesapAdresi" type="xsd:string" nillable="true"/> 
+     <xsd:element name="mersisNo" type="xsd:string" nillable="true"/>
+
+
+==================== SAYFA 34 ====================
+
+34 
+     <xsd:element name="tuzelKisiTamAdi" type="xsd:string" nillable="true"/> 
+     <xsd:element name="anaFaaliyetAlani" type="xsd:string" nillable="true"/> 
+     <xsd:element name="merkezininBulunduguIl" type="xsd:string" nillable="true"/> 
+     <xsd:element name="adresBilgileri" type="xsd:string" nillable="true"/> 
+     <xsd:element name="islemYetkilisininTamAdi" type="xsd:string" nillable="true"/> 
+     <xsd:element name="islemYetkilisininUnvani" type="xsd:string" nillable="true"/> 
+    </xsd:all> 
+   </xsd:complexType> 
+   <xsd:element name="tuzelKisiSorgula"> 
+    <xsd:complexType> 
+     <xsd:sequence> 
+      <xsd:element name="tuzelKisi" type="tns:TuzelKisi"/> 
+     </xsd:sequence> 
+    </xsd:complexType> 
+   </xsd:element> 
+   <xsd:element name="tuzelKisiSorgulaResponse"> 
+    <xsd:complexType> 
+     <xsd:sequence> 
+      <xsd:element name="tuzelKisiSorgulaResult" type="tns:SorguSonucu"/> 
+     </xsd:sequence> 
+    </xsd:complexType> 
+   </xsd:element> 
+  </xsd:schema> 
+ </types> 
+ <portType name="KepRehberServisPort"> 
+  <operation name="gercekKisiSorgula"> 
+   <documentation>Gerçek kişi sorgulama.</documentation> 
+   <input message="tns:gercekKisiSorgulaIn"/> 
+   <output message="tns:gercekKisiSorgulaOut"/> 
+  </operation> 
+  <operation name="tuzelKisiSorgula"> 
+   <documentation>Tüzel kişi sorgulama.</documentation> 
+   <input message="tns:tuzelKisiSorgulaIn"/>
+
+
+==================== SAYFA 35 ====================
+
+35 
+   <output message="tns:tuzelKisiSorgulaOut"/> 
+  </operation> 
+ </portType> 
+ <binding name="KepRehberServisBinding" type="tns:KepRehberServisPort"> 
+  <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/> 
+  <operation name="gercekKisiSorgula"> 
+   <soap:operation soapAction="http://hsY.kep.tr/Rehber#gercekKisiSorgula"/> 
+   <input> 
+    <soap:body use="literal"/> 
+   </input> 
+   <output> 
+    <soap:body use="literal"/> 
+   </output> 
+  </operation> 
+  <operation name="tuzelKisiSorgula"> 
+   <soap:operation soapAction="http://hsY.kep.tr/Rehber#tuzelKisiSorgula"/> 
+   <input> 
+    <soap:body use="literal"/> 
+   </input> 
+   <output> 
+    <soap:body use="literal"/> 
+   </output> 
+  </operation> 
+ </binding> 
+ <service name="KepRehberServisService"> 
+  <port name="KepRehberServisPort" binding="tns:KepRehberServisBinding"> 
+   <soap:address location="http://hsY.kep.tr/Rehber"/> 
+  </port> 
+ </service> 
+ <message name="gercekKisiSorgulaIn"> 
+  <part name="parameters" element="tns:gercekKisiSorgula"/> 
+ </message> 
+ <message name="gercekKisiSorgulaOut">
+
+
+==================== SAYFA 36 ====================
+
+36 
+  <part name="parameters" element="tns:gercekKisiSorgulaResponse"/> 
+ </message> 
+ <message name="tuzelKisiSorgulaIn"> 
+  <part name="parameters" element="tns:tuzelKisiSorgula"/> 
+ </message> 
+ <message name="tuzelKisiSorgulaOut"> 
+  <part name="parameters" element="tns:tuzelKisiSorgulaResponse"/> 
+ </message> 
+</definitions>
