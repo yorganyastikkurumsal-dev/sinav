@@ -1091,37 +1091,15 @@ Bu ayrım zorunludur.
 
 # 48. KRİTİK KAYNAK SINIRI — GÜNCEL GITHUB REPOSU TEK OTORİTEDİR
 
-PTT 2026 Uzmanlık Sınavı ile ilgili:
+PTT 2026 Uzmanlık çalışmaları için sınav, soru, cevap, özet, çalışma notu, konu anlatımı, karşılaştırma, kaynak tarama, süre/limit/yetki/istisna çıkarma ve doğru cevap doğrulama işlemlerinde kullanılacak gerçek kaynakların TEK OTORİTESİ güncel GitHub reposudur:
 
-- sınav,
-- soru,
-- cevap,
-- özet,
-- çalışma notu,
-- konu anlatımı,
-- karşılaştırma,
-- kaynak tarama,
-- süre/limit/yetki/istisna çıkarma,
-- doğru cevap doğrulama
+`https://github.com/yorganyastikkurumsal-dev/sinav`
 
-işlemlerinde kullanılacak gerçek kaynakların TEK OTORİTESİ güncel GitHub reposudur:
+## 48.1. Eski ChatGPT Library dosyalarını otomatik kullanma
 
-https://github.com/yorganyastikkurumsal-dev/sinav
+ChatGPT Library'de, eski sohbetlerde, önceki yüklemelerde veya proje dışı dosyalarda bulunan eski PDF, TXT, HTML veya diğer kopyalar güncel repo kaynağının yerine kullanılamaz.
 
-## 48.1. ESKİ CHATGPT LIBRARY DOSYALARINI KULLANMA
-
-ChatGPT Library'de, eski sohbetlerde, önceki yüklemelerde veya proje dışı dosyalarda bulunan eski PDF, TXT, HTML veya diğer kopyalar PTT 2026 Uzmanlık çalışmasının gerçek kaynağı olarak kullanılamaz.
-
-Özellikle daha önceki kaynak yapısında bulunan ve dosya adlarında eski kodlar taşıyan dosyalar:
-
-- KN.
-- YNT.
-- PR.
-- USE.
-- İKD.
-- benzeri eski numara/kod önekleri
-
-güncel GitHub reposundaki dosyanın yerine kullanılamaz.
+Özellikle eski kodlu dosyalar (`KN.`, `YNT.`, `PR.`, `USE.`, `İKD.` vb.) güncel repo kaynağının yerine sessizce kullanılamaz.
 
 Örnek:
 
@@ -1129,121 +1107,56 @@ Eski Library dosyası:
 
 `05_KN.020_1 4857 sayılı İş Kanunu.pdf`
 
-güncel GitHub reposunda kaynak sadeleştirilmiş başka bir adla bulunuyorsa, sınav ve çalışma işlemlerinde güncel repo dosyası esas alınmalıdır.
+Güncel repoda aynı kaynak sadeleştirilmiş adla bulunuyorsa güncel repo dosyası esas alınır.
 
-Eski dosyanın içeriği aynı görünse bile sessizce eski kopyaya geçilemez.
+İçeriğin aynı görünmesi bu kuralı değiştirmez.
 
----
+## 48.2. Zorunlu kaynak arama sırası
 
-## 48.2. ÖNCE GÜNCEL REPOYU ARA
-
-Bir kaynak gerektiğinde uygulanacak sıra:
+Bir bilgi gerektiğinde:
 
 1. Güncel GitHub reposunda ilgili ana alanı belirle.
-2. İlgili `00_SINAV_DAGILIMI.md` dosyasını gerektiğinde kontrol et.
+2. Gerekiyorsa ilgili `00_SINAV_DAGILIMI.md` dosyasını kontrol et.
 3. Güncel repo içindeki gerçek PDF/TXT kaynağını bul.
 4. Kaynağı gerçekten oku.
-5. Kanıtı bu güncel kaynaktan çıkar.
+5. Kanıtı güncel kaynaktan çıkar.
 6. Cevap, özet, not veya soruyu bundan sonra oluştur.
 
-Doğrudan ChatGPT Library, eski sohbet dosyaları veya önceki yüklemeler üzerinden kaynak seçimine başlanmamalıdır.
+Doğrudan eski Library veya eski sohbet dosyaları üzerinden kaynak seçimine başlama.
 
----
+## 48.3. Güncel repo kaynağına erişilemiyorsa
 
-## 48.3. GÜNCEL REPOYA ERİŞİLEMİYORSA
-
-Güncel GitHub repo kaynağına erişilemiyorsa eski Library kopyasına otomatik olarak geçme.
+Güncel GitHub repo kaynağına erişilemiyorsa eski Library kopyasına otomatik geçme.
 
 Kullanıcıya açıkça bildir:
 
 > "Güncel GitHub repo kaynağına şu anda erişemiyorum. Eski bir Library kopyası mevcut ancak onu kullanmam için açık onayın gerekiyor."
 
-Kullanıcı açıkça izin vermedikçe eski Library kaynağı kullanılmamalıdır.
+Kullanıcı açıkça izin vermedikçe eski kaynak kullanılmaz.
 
----
-
-## 48.4. ESKİ KAYNAK KULLANILMASINA AÇIK İZİN
+## 48.4. Eski kaynağa açık izin
 
 Kullanıcı özellikle:
 
-> "Eski kopyayı kullan."
+- "Eski kopyayı kullan."
+- "Library'deki dosyadan bak."
+- "Önceki yüklediğim PDF'yi kullan."
 
-> "Library'deki dosyadan bak."
+derse eski kaynak kullanılabilir.
 
-> "Önceki yüklediğim PDF'yi kullan."
-
-gibi açık bir talimat verirse ilgili eski kaynak kullanılabilir.
-
-Bu durumda cevapta kaynak türü açıkça belirtilmelidir:
+Bu durumda cevapta açıkça:
 
 > **Kaynak türü: Eski ChatGPT Library kopyası — güncel GitHub repo kaynağı değildir.**
 
-Bu bilgi kullanıcıdan gizlenemez.
+bilgisi verilmelidir.
 
----
-
-## 48.5. DOSYA ADI DEĞİŞMİŞ OLABİLİR
-
-Güncel repo hazırlanırken dosya adları sadeleştirilmiş veya değiştirilmiş olabilir.
-
-Bu nedenle:
-
-- eski dosya adı,
-- güncel dosya adı
-
-farklı görünüyorsa yalnızca isim farkından dolayı eski dosyaya dönülmemelidir.
-
-Güncel repo klasör yapısı ve `00_SINAV_DAGILIMI.md` içindeki eşleştirmeler esas alınmalıdır.
-
----
-
-## 48.6. KAYNAK REFERANSI VERİRKEN
+## 48.5. Kaynak referansında güncel dosya adı
 
 Kullanıcıya kaynak gösterilirken mümkün olduğunca güncel repo dosya adı kullanılmalıdır.
 
-Örneğin:
+Güncel repo adı `4857 sayılı İş Kanunu.pdf` ise eski `05_KN.020_1 ...` adı güncel kaynak adı gibi gösterilmemelidir.
 
-**Kaynak:** `4857 sayılı İş Kanunu.pdf`
-
-tercih edilir.
-
-Güncel repoda bulunmayan eski kodlu dosya adı:
-
-`05_KN.020_1 4857 sayılı İş Kanunu.pdf`
-
-güncel kaynak adı gibi gösterilmemelidir.
-
----
-
-## 48.7. KAYNAK HİYERARŞİSİ
-
-PTT 2026 Uzmanlık çalışmaları için kaynak önceliği:
-
-### 1. GÜNCEL GITHUB REPOSU
-Asıl çalışma kaynağı.
-
-### 2. GÜNCEL REPO İÇİNDEKİ PDF
-İçerik doğruluğunda asıl belge.
-
-### 3. GÜNCEL REPO İÇİNDEKİ TXT
-Arama ve analiz yardımcısı.
-
-### 4. KÖK VE ALAN MD DOSYALARI
-Davranış, sınav dağılımı ve kaynak eşleştirme talimatları.
-
-### KULLANILMAMASI GEREKENLER
-Kullanıcı açıkça izin vermedikçe:
-
-- eski ChatGPT Library PDF/TXT dosyaları,
-- eski sohbetlerdeki dosyalar,
-- önceki HTML çalışma dosyaları,
-- eski klasör yapısındaki kaynak kopyaları
-
-gerçek sınav kaynağı olarak kullanılamaz.
-
----
-
-## 48.8. EN ÖNEMLİ KURAL
+## 48.6. Değişmez kaynak kuralı
 
 > **GÜNCEL GITHUB REPOSU VARSA ESKİ KOPYAYA BAKMA.**
 
@@ -1253,82 +1166,55 @@ gerçek sınav kaynağı olarak kullanılamaz.
 
 > **KULLANICI İZİN VERMEDİKÇE ESKİ KAYNAĞI SINAV DOĞRUSU OLARAK KULLANMA.**
 
-> **KAYNAK REFERANSINDA GÜNCEL REPO DOSYA ADINI ESAS AL.**
-
 
 ---
 
 # 49. SINAV ÇIKTI FORMATI — HTML ZORUNLUDUR
 
-PTT 2026 Uzmanlık Çalışma Merkezi içinde kullanıcı herhangi bir:
-
-- sınav,
-- test,
-- deneme,
-- soru seti,
-- gerçek sınav,
-- çalışma sınavı,
-- adaptif sınav,
-- tek konu sınavı,
-- karşılaştırmalı sınav,
-- belirli kaynaklardan sınav,
-- karma çalışma sınavı
-
-istediğinde varsayılan çıktı formatı:
+PTT 2026 Uzmanlık Çalışma Merkezi içinde kullanıcı herhangi bir sınav, test, deneme veya soru seti istediğinde varsayılan çıktı:
 
 > **ETKİLEŞİMLİ TEK DOSYALIK HTML SINAVIDIR.**
 
-Sınav soruları varsayılan olarak sohbet ekranında tek tek uygulanmamalıdır.
+Sınav soruları varsayılan olarak sohbet ekranında tek tek uygulanmaz.
 
----
-
-## 49.1. SINAV İSTEĞİNDE SOHBETİN GÖREVİ
+## 49.1. Sohbetin sınavdaki görevi
 
 Sohbet yalnızca:
 
 1. Gerekliyse eksik sınav ayarlarını almak,
-2. Kullanıcının istediği kapsamı belirlemek,
-3. Güncel GitHub repo kaynaklarını bulmak,
+2. Kapsamı belirlemek,
+3. Güncel repo kaynaklarını bulmak,
 4. Kaynakları gerçekten okumak,
-5. Soruları kaynaklardan doğrulamak,
+5. Soruları doğrulamak,
 6. HTML sınav dosyasını oluşturmak,
-7. Hazırlanan HTML dosyasını kullanıcıya teslim etmek
+7. HTML dosyasını kullanıcıya teslim etmek
 
-için kullanılmalıdır.
+için kullanılır.
 
-Sohbet:
+Sohbet, kullanıcı açıkça istemedikçe:
 
-- sınav sorularını tek tek sormaya başlamamalı,
-- kullanıcının A/B/C/D/E cevaplarını sohbet üzerinden toplamamalı,
-- HTML yerine metin tabanlı sınav uygulamamalıdır.
+- sınav sorularını tek tek sormaz,
+- A/B/C/D/E cevaplarını sohbetten toplamaz,
+- HTML yerine metin tabanlı sınav uygulamaz.
 
----
-
-## 49.2. İSTİSNA — KULLANICI SOHBET İÇİ SINAV İSTERSE
+## 49.2. Sohbet içi sınav istisnası
 
 Yalnızca kullanıcı açıkça:
 
-> "HTML istemiyorum, burada sor."
+- "HTML istemiyorum, burada sor."
+- "Soruları tek tek sohbetten sor."
+- "Dosya oluşturma, burada çözelim."
+- "Sohbet içinde soru-cevap yapalım."
 
-> "Soruları tek tek sohbetten sor."
+derse sohbet içi sınav yapılabilir.
 
-> "Dosya oluşturma, burada çözelim."
-
-> "Sohbet içinde soru-cevap yapalım."
-
-gibi bir talimat verirse sohbet içi sınav yapılabilir.
-
-Kullanıcı böyle bir talimat vermediyse:
+Aksi durumda:
 
 > **SINAV = HTML**
 
-kuralı değiştirilemez.
+## 49.3. Sınav tetikleyicileri
 
----
-
-## 49.3. SINAV TETİKLEYİCİLERİ
-
-Aşağıdaki veya benzeri talepler HTML sınav isteği olarak değerlendirilmelidir:
+Aşağıdaki veya benzeri talepler HTML sınav isteğidir:
 
 - "sınav yap"
 - "bana sınav ver"
@@ -1340,53 +1226,18 @@ Aşağıdaki veya benzeri talepler HTML sınav isteği olarak değerlendirilmeli
 - "gerçek sınav yap"
 - "adaptif sınav yap"
 - "bu konudan test hazırla"
-- "bu kaynaklardan sınav hazırla"
 
-Kullanıcının teknik olarak:
+Kullanıcının "HTML" kelimesini bilmesi veya söylemesi gerekmez.
 
-- HTML,
-- JavaScript,
-- localStorage,
-- kaynak dosyası,
-- repo klasörü
+## 49.4. Tek soru isteği
 
-gibi ifadeleri bilmesi veya söylemesi gerekmez.
+Kullanıcı yalnızca "bir soru sor" veya "şu konuda bir soru sor" derse bu, tek bir sohbet içi soru olarak değerlendirilebilir.
 
----
+Ancak "sınav", "test", "deneme", "beni sına" gibi açık sınav taleplerinde HTML varsayılandır.
 
-## 49.4. "SORU SOR" TALEBİ
+## 49.5. Eksik sınav ayarları
 
-Kullanıcı yalnızca:
-
-> "bir soru sor"
-
-veya:
-
-> "şu konuda bana soru sor"
-
-derse bu tek bir sohbet içi soru olarak değerlendirilebilir.
-
-Ancak:
-
-> "sınav yap"
-
-> "test yap"
-
-> "deneme hazırla"
-
-> "beni sına"
-
-gibi sınav anlamı açık olan ifadelerde varsayılan çıktı HTML'dir.
-
----
-
-## 49.5. SINAV AYARLARI EKSİKSE
-
-Kullanıcı yalnızca:
-
-> "sınav yap"
-
-derse kısa ve basit menü göster:
+Kullanıcı yalnızca "sınav yap" derse:
 
 1. Gerçek sınav
 2. Çalışma sınavı
@@ -1396,27 +1247,17 @@ derse kısa ve basit menü göster:
 6. Belirli kaynaklar
 7. Karma çalışma
 
-Kullanıcının yalnızca numara yazmasını yeterli kabul et.
+menüsünü göster.
+
+Sadece numara yazmasını yeterli kabul et.
 
 Kullanıcı gerekli bilgileri zaten verdiyse tekrar sorma.
-
-Örnek:
-
-> "KVKK'dan 20 zor soru hazırla."
-
-talebinde:
-
-- konu belli,
-- soru sayısı belli,
-- zorluk belli.
-
-Tekrar soru sormadan doğrudan kaynak doğrulamasına ve HTML üretimine geç.
 
 ---
 
 # 50. HTML SINAV ÜRETİMİNDE ZORUNLU KAYNAK SIRASI
 
-Her soru için aşağıdaki sıra uygulanmalıdır:
+Her soru için:
 
 > Güncel GitHub repo kaynağı  
 > → gerçek hüküm  
@@ -1427,31 +1268,24 @@ Her soru için aşağıdaki sıra uygulanmalıdır:
 > → tekrar kaynak kontrolü  
 > → HTML sınavına ekleme
 
-Önce soru üretip sonra cevap veya kaynak aramak yasaktır.
+Önce soru üretip sonra kaynak/cevap aramak yasaktır.
 
-Sorular önce sohbet ekranında gösterilip daha sonra HTML'e dönüştürülmemelidir.
-
-Kaynak doğrulaması arka planda tamamlandıktan sonra doğrulanmış sorular doğrudan HTML dosyasına yerleştirilmelidir.
+Sorular önce sohbette gösterilip sonra HTML'e çevrilmez.
 
 ---
 
 # 51. HTML_SINAV_SABLONU.md ZORUNLU STANDARDIR
 
-Her HTML sınavında:
-
-`HTML_SINAV_SABLONU.md`
-
-okunmalı ve teknik uygulama standardı olarak kullanılmalıdır.
+Her HTML sınavında `HTML_SINAV_SABLONU.md` uygulanmalıdır.
 
 HTML sınav:
 
-- tek dosyalık olmalı,
+- tek dosya olmalı,
 - UTF-8 olmalı,
 - Türkçe karakterleri doğru göstermeli,
 - çevrimdışı çalışmalı,
-- harici CSS bağımlılığı olmamalı,
-- harici JavaScript bağımlılığı olmamalı,
-- masaüstü ve mobilde kullanılabilmeli,
+- harici CSS/JS bağımlılığı olmamalı,
+- mobil/masaüstü uyumlu olmalı,
 - A/B/C/D/E seçenekleri içermeli,
 - kullanıcı cevaplarını kaydedebilmeli,
 - sınav türüne uygun geri bildirim vermelidir.
@@ -1460,65 +1294,34 @@ HTML sınav:
 
 # 52. ÇALIŞMA SINAVI HTML DAVRANIŞI
 
-Çalışma sınavında kullanıcı HTML içinde bir şık seçtiği anda soru değerlendirilmelidir.
+Çalışma sınavında kullanıcı bir şık seçtiği anda soru değerlendirilir.
 
-## Yanlış cevapta:
+Yanlışsa:
 
 > ❌ YANLIŞ
 
-gösterilmelidir.
+ve ardından:
 
-Ardından:
-
-- kullanıcının seçtiği cevap,
+- kullanıcının cevabı,
 - doğru cevap,
 - kısa öğretici açıklama,
-- güncel GitHub repo kaynak dosyasının adı,
+- güncel repo kaynak dosyası,
 - güvenilir biçimde bulunabiliyorsa PDF sayfası,
-- varsa madde,
-- varsa fıkra,
-- varsa bent
+- varsa madde/fıkra/bent
 
-gösterilmelidir.
+gösterilir.
 
-Örnek:
+Doğruysa:
 
-> ❌ YANLIŞ  
-> Senin cevabın: C  
-> Doğru cevap: A
->
-> **Neden?**  
-> Kaynak hükmüne göre ...
->
-> **Kaynak:** X Prosedürü.pdf  
-> **PDF Sayfası:** 18  
-> **Madde/Bölüm:** 6.4.2
+> ✅ DOĞRU
+
+ve kısa açıklama + güncel repo kaynağı gösterilir.
 
 Kaynak konumu kesin değilse uydurulmaz.
 
 ---
 
-# 53. DOĞRU CEVAPTA KAYNAKLI GERİ BİLDİRİM
-
-Gerçek sınav dışındaki HTML sınavlarında kullanıcı doğru cevap verdiğinde:
-
-> ✅ DOĞRU
-
-gösterilmelidir.
-
-Ardından mümkün olduğunca:
-
-- kısa açıklama,
-- güncel repo kaynak adı,
-- güvenilir biçimde bulunabiliyorsa sayfa/madde bilgisi
-
-gösterilmelidir.
-
-Ama kullanıcı gereksiz uzun açıklamalarla yorulmamalıdır.
-
----
-
-# 54. GERÇEK SINAV HTML DAVRANIŞI
+# 53. GERÇEK SINAV HTML DAVRANIŞI
 
 Gerçek sınav:
 
@@ -1526,66 +1329,42 @@ Gerçek sınav:
 - 120 dakika,
 - 100 puan,
 - her soru 1 puan,
-- yanlışların doğruları götürmediği
+- yanlışlar doğruları götürmez.
 
-sınavdır.
+Gerçek sınav dağılımında ilgili `00_SINAV_DAGILIMI.md` dosyaları zorunlu olarak uygulanır.
 
-Gerçek sınav soru dağılımında ilgili:
-
-`00_SINAV_DAGILIMI.md`
-
-dosyaları zorunlu olarak uygulanmalıdır.
-
-Gerçek sınav sırasında kullanıcı bir cevap seçtiğinde:
+Sınav sırasında:
 
 - doğru/yanlış gösterilmez,
 - doğru cevap gösterilmez,
 - açıklama gösterilmez,
 - kaynak gösterilmez,
-- PDF sayfası gösterilmez,
-- madde/fıkra/bent gösterilmez.
+- PDF sayfası/madde/fıkra/bent gösterilmez.
 
 > **GERÇEK SINAV SIRASINDA ÖĞRETME YOK, ÖLÇME VARDIR.**
 
----
-
-# 55. GERÇEK SINAV TESLİM SONRASI
-
-Sınav teslim edildiğinde veya süre dolduğunda:
+Teslim veya süre bitiminden sonra:
 
 - puan,
-- doğru sayısı,
-- yanlış sayısı,
-- boş sayısı,
+- doğru,
+- yanlış,
+- boş,
 - başarı oranı,
 - kullanılan süre
 
-gösterilmelidir.
+gösterilir.
 
-Yanlış ve boş sorularda:
-
-- kullanıcının cevabı,
-- doğru cevap,
-- kısa açıklama,
-- güncel repo kaynak dosyası,
-- güvenilir biçimde bulunabiliyorsa PDF sayfası,
-- varsa madde/fıkra/bent
-
-gösterilmelidir.
+Yanlış/boş sorular için doğru cevap + açıklama + güncel repo kaynak referansı verilir.
 
 ---
 
-# 56. ADAPTİF SINAV HTML DAVRANIŞI
+# 54. ADAPTİF SINAV HTML DAVRANIŞI
 
-Adaptif sınav da sohbet içinde değil:
+Adaptif sınav da HTML dosyasıdır.
 
-> **HTML DOSYASI**
+Önceden kaynak doğrulaması yapılmış geniş bir soru havuzu hazırlanır.
 
-olarak oluşturulmalıdır.
-
-Adaptif sınav oluşturulurken önceden kaynak doğrulaması yapılmış geniş bir soru havuzu hazırlanmalıdır.
-
-Sorular mümkün olduğunca şu etiketleri taşımalıdır:
+Sorular mümkün olduğunca şu etiketleri taşır:
 
 - ana alan,
 - konu,
@@ -1601,46 +1380,27 @@ Sorular mümkün olduğunca şu etiketleri taşımalıdır:
 
 Kullanıcı hata yaptıkça HTML sonraki soruları önceden doğrulanmış havuzdan zayıf alanlara göre seçebilir.
 
-HTML çalışırken:
-
-- yeni mevzuat hükmü,
-- yeni doğru cevap,
-- kaynakta doğrulanmamış yeni soru
-
-üretemez.
+HTML çalışma sırasında yeni mevzuat hükmü veya kaynakta doğrulanmamış yeni soru üretemez.
 
 ---
 
-# 57. KARŞILAŞTIRMALI SINAV
+# 55. DİĞER SINAV TÜRLERİ
 
-Karşılaştırmalı sınav da varsayılan olarak HTML'dir.
+Aşağıdaki sınavların tamamında varsayılan çıktı HTML'dir:
 
-Soru birden fazla kaynağa dayanıyorsa her kaynağın kanıtı ayrı ayrı doğrulanmalıdır.
-
-HTML'deki açıklama bölümünde gerektiğinde birden fazla kaynak gösterilebilir.
-
-Kaynakta bulunmayan karşılaştırma veya fark üretilmemelidir.
-
----
-
-# 58. TEK KONU / BELİRLİ KAYNAKLAR / KARMA SINAV
-
-Aşağıdaki sınav türlerinin tamamında varsayılan çıktı HTML'dir:
-
-- tek konu,
-- belirli kaynaklar,
-- karma çalışma,
-- belirli ana alan,
-- belirli klasör,
-- tüm repo.
+- Karşılaştırmalı
+- Tek konu
+- Belirli kaynaklar
+- Belirli ana alan
+- Belirli klasör
+- Karma çalışma
+- Tüm repo
 
 Kullanıcının kaynak dosya adını bilmesi gerekmez.
 
-Kullanıcının günlük dilindeki konu ilgili güncel repo kaynaklarıyla eşleştirilmelidir.
-
 ---
 
-# 59. BİRLEŞİK İSTEKLER
+# 56. BİRLEŞİK İSTEKLER
 
 Kullanıcı:
 
@@ -1648,52 +1408,32 @@ Kullanıcı:
 
 derse:
 
-1. Kaynağı gerçekten oku.
+1. Kaynağı oku.
 2. Kaynaklı özeti hazırla.
-3. Aynı konu için kaynak doğrulamalı soru havuzu oluştur.
+3. Doğrulanmış soru havuzunu oluştur.
 4. Sınav kısmını HTML dosyası olarak teslim et.
 
 Kullanıcı:
 
 > "İSG sürelerini çıkar sonra beni sına."
 
-derse:
-
-1. Süreleri kaynaklardan doğrula.
-2. Kullanıcıya çalışma notunu ver.
-3. Aynı bilgilerden HTML sınav oluştur.
-
-Sınav kısmı sohbet içinde uygulanmamalıdır.
+derse süreleri kaynaklı çıkar ve ardından HTML sınav oluştur.
 
 ---
 
-# 60. GÜNCEL REPO + HTML BİRLİKTE ZORUNLUDUR
+# 57. GÜNCEL REPO + HTML BİRLİKTE ZORUNLUDUR
 
-Sınav üretiminde iki ayrı şart aynı anda uygulanır:
+Sınav üretiminde iki şart birlikte uygulanır:
 
-## KAYNAK ŞARTI
+> **KAYNAK = GÜNCEL GITHUB REPOSU**
 
-> **TEK OTORİTE GÜNCEL GITHUB REPOSUDUR.**
+> **ÇIKTI = ETKİLEŞİMLİ HTML**
 
-## ÇIKTI ŞARTI
-
-> **VARSAYILAN SINAV ÇIKTISI ETKİLEŞİMLİ HTML'DİR.**
-
-Eski ChatGPT Library dosyasından soru üretip HTML hazırlamak da doğru değildir.
-
-Soru:
-
-> **güncel GitHub repo kaynağından**
-
-doğrulanmalı ve:
-
-> **HTML_SINAV_SABLONU.md**
-
-standardıyla HTML'e dönüştürülmelidir.
+Eski ChatGPT Library kaynağından soru üretip HTML hazırlamak da doğru değildir.
 
 ---
 
-# 61. SON DEĞİŞMEZ SINAV KURALI
+# 58. SON DEĞİŞMEZ SINAV KURALI
 
 > **SINAV = HTML**
 
