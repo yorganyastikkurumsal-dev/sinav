@@ -1,0 +1,318 @@
+name: One-time add responsive exam standard
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/_one_time_add_responsive_exam_standard.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update-responsive-standard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Add responsive HTML exam standard
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("HTML_SINAV_SABLONU.md")
+          text = path.read_text(encoding="utf-8-sig")
+          marker = "# TAM FLEX RESPONSIVE VE MOBİL KULLANIM STANDARDI"
+
+          section = r'''
+---
+
+# TAM FLEX RESPONSIVE VE MOBİL KULLANIM STANDARDI
+
+Bu bölüm renk, tema veya görsel zevk standardı değildir.
+
+> **Bu bölüm, bütün HTML sınavların telefon, tablet ve masaüstünde sorunsuz kullanılmasını sağlayan zorunlu işlev standardıdır.**
+
+Kullanıcının kurum bilgisayarını sürekli meşgul etmesi beklenemez. Sınav, tek HTML dosyası olarak telefona gönderildiğinde de tam işlevli çalışmalıdır.
+
+## 1. DESTEKLENECEK EKRANLAR
+
+HTML sınav en az şu ekran genişliklerinde kullanılabilir olmalıdır:
+
+- **320 px** küçük telefon
+- **360 px** standart Android telefon
+- **390–430 px** güncel telefonlar
+- **768 px** tablet
+- **1024 px** tablet veya küçük dizüstü
+- **1366 px** standart masaüstü
+- **1920 px ve üzeri** geniş ekran
+
+Hem **dikey** hem **yatay** ekran yönü desteklenmelidir.
+
+Hiçbir desteklenen genişlikte:
+
+- Sayfanın tamamında yatay kaydırma oluşmamalı,
+- Soru veya şık metni ekrandan taşmamalı,
+- Düğmeler birbirinin üzerine binmemeli,
+- Sayaç, soru numarası veya ilerleme çubuğu kesilmemeli,
+- Sonuç kartları ve grafikler görünmez hâle gelmemelidir.
+
+## 2. VIEWPORT VE GÜVENLİ ALAN
+
+HTML başlığında en az şu viewport tanımı kullanılmalıdır:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+```
+
+Çentikli ve alt gezinme çubuklu telefonlarda gerekli yerlerde:
+
+- `env(safe-area-inset-top)`
+- `env(safe-area-inset-right)`
+- `env(safe-area-inset-bottom)`
+- `env(safe-area-inset-left)`
+
+kullanılmalıdır.
+
+Sabit alt menü veya üst sayaç telefonun sistem alanlarının altında kalmamalıdır.
+
+## 3. FLEX TABANLI YERLEŞİM
+
+Ana sınav yerleşimi uyarlanabilir `flex` yapısıyla kurulmalıdır.
+
+Masaüstünde:
+
+- Soru alanı geniş ve esnek olmalı,
+- Soru haritası sağ tarafta bulunabilmeli,
+- Soru alanında `min-width: 0` kullanılmalı,
+- Soru alanı kalan genişliği almalıdır.
+
+Telefon ve tablette:
+
+- Ana yerleşim tek sütuna dönmelidir,
+- Soru kartı ekran genişliğini aşmamalıdır,
+- Masaüstü kenar çubuğu içeriği daraltmamalıdır,
+- Soru haritası açılır çekmece, tam ekran panel veya benzer mobil yöntemle erişilebilir olmalıdır.
+
+Örnek temel yapı:
+
+```css
+.exam-layout{
+  display:flex;
+  align-items:flex-start;
+  gap:20px;
+  min-width:0;
+}
+.question-panel{
+  flex:1 1 0;
+  min-width:0;
+}
+.question-map{
+  flex:0 0 315px;
+}
+@media (max-width:1024px){
+  .exam-layout{flex-direction:column}
+  .question-panel{width:100%}
+}
+```
+
+Bu örnekteki renk ve ölçüler değişebilir; esnek davranış korunmalıdır.
+
+## 4. METİN TAŞMASI YASAĞI
+
+Soru, şık, açıklama, kaynak ve ana alan adlarında uzun metin bulunabileceği kabul edilmelidir.
+
+Gerekli alanlarda:
+
+```css
+min-width:0;
+overflow-wrap:anywhere;
+word-break:normal;
+```
+
+kullanılmalıdır.
+
+Soru veya şık metni küçültülerek okunamaz hâle getirilmemelidir. Metin gerektiğinde doğal olarak alt satıra geçmelidir.
+
+## 5. DOKUNMATİK KULLANIM
+
+Telefon ve tablette tüm etkileşimli alanlar parmakla rahat kullanılmalıdır.
+
+- Şıkların dokunma yüksekliği tercihen **en az 48 px**, hiçbir durumda **44 px altında olmamalıdır**.
+- Önceki, sonraki, harita, tekrar bak ve teslim düğmelerinin dokunma alanı en az **44 × 44 px** olmalıdır.
+- Düğmeler birbirine yanlış dokunmaya yol açacak kadar yakın yerleştirilmemelidir.
+- İşlem yalnızca `hover` davranışına bağlı olmamalıdır.
+- `touch-action: manipulation` ve uygun dokunma davranışı kullanılabilir.
+- Seçili şık yalnızca renkle değil; kenarlık, simge veya belirgin durum değişikliğiyle de anlaşılmalıdır.
+
+## 6. MOBİL ALT GEZİNME ÇUBUĞU
+
+Uzun sınavlarda telefonda aşağıdaki işlemlere sürekli erişim sağlanmalıdır:
+
+- Önceki soru
+- Sonraki soru
+- Soru haritası
+- Tekrar Bak / İşaretle
+- Sınavı teslim et
+
+Bu işlemler mobilde sabit alt gezinme çubuğunda gösterilebilir.
+
+Sabit alt çubuk:
+
+- Soru ve şıkların üzerini kapatmamalı,
+- Sayfa içeriğinde kendi yüksekliği kadar alt boşluk bırakmalı,
+- Telefonun güvenli alt alanını dikkate almalı,
+- Ekran yatay çevrildiğinde kullanılabilir kalmalıdır.
+
+## 7. MOBİL SORU HARİTASI
+
+Masaüstündeki soru haritası telefonda soru metnini daraltmamalıdır.
+
+Mobilde soru haritası:
+
+- Sağdan veya alttan açılan çekmece,
+- Tam ekran panel,
+- Açılır modal
+
+şeklinde uygulanabilir.
+
+Harita açıldığında:
+
+- Arka plan etkileşimi engellenmeli,
+- Kapat düğmesi bulunmalı,
+- Dış alana dokunarak ve `Escape` tuşuyla kapatılabilmeli,
+- Bir soru seçildiğinde harita kapanıp seçilen soruya gidilmeli,
+- Cevaplanmış, boş, aktif ve Tekrar Bak durumları ayırt edilebilmelidir.
+
+## 8. ÜST BİLGİ VE SAYAÇ
+
+Sayaç ve sınav ilerlemesi mobilde de görünür kalmalıdır.
+
+Dar ekranda:
+
+- Başlık kısaltılabilir,
+- Alt açıklama gizlenebilir,
+- Sayaç küçültülebilir ancak okunabilir kalmalıdır,
+- İlerleme çubuğu ayrı satıra geçebilir.
+
+Sayaç hiçbir ekran genişliğinde üst üste binmemeli veya kesilmemelidir.
+
+## 9. MODAL VE TESLİM UYARISI
+
+Teslim onayı ve boş soru uyarısı küçük ekranda tamamen görünmelidir.
+
+Mobil modal:
+
+- Ekran yüksekliğini aşarsa kendi içinde kaydırılmalı,
+- Düğmeleri en az 44 px yüksekliğinde olmalı,
+- Dikey ekranda düğmeler alt alta yerleştirilebilmeli,
+- Telefon klavyesi veya tarayıcı çubuğu nedeniyle erişilemez hâle gelmemelidir.
+
+## 10. SONUÇ EKRANI VE GRAFİKLER
+
+Sonuç kartları telefon ekranında tek veya iki sütuna düşebilmelidir.
+
+Pasta/donut grafikler ve başarı göstergeleri:
+
+- Taşmamalı,
+- Ekran genişliğine göre küçülmeli,
+- Metinsel sonuçları kapatmamalı,
+- Grafik çalışmasa bile sayısal sonuçlar okunabilir kalmalıdır.
+
+Ana alan performans tablosu dar ekranda kontrollü biçimde kendi kutusu içinde yatay kaydırılabilir. Ancak bütün sayfanın yatay kaymasına sebep olmamalıdır.
+
+Yanlış/boş soru analizi uzun kaynak adlarında ve madde açıklamalarında ekrandan taşmamalıdır.
+
+## 11. ERİŞİLEBİLİRLİK
+
+- Bütün düğmelerin anlaşılır metni veya `aria-label` değeri olmalıdır.
+- Klavye odağı görünür olmalıdır.
+- Soru haritası, modal ve mobil çekmece klavyeyle kullanılabilmelidir.
+- Renk tek başına durum göstergesi olmamalıdır.
+- Yazı boyutları tarayıcı yakınlaştırmasında bozulmamalıdır.
+- Kullanıcının cihaz yazı boyutunu büyütmesi yatay taşmaya neden olmamalıdır.
+
+## 12. EKRAN YÖNÜ DEĞİŞİKLİĞİ
+
+Telefon dikeyden yataya veya yataydan dikeye çevrildiğinde:
+
+- Mevcut cevap kaybolmamalı,
+- Aktif soru değişmemeli,
+- Sayaç sıfırlanmamalı,
+- Açık soru haritası güvenli biçimde kapanabilir,
+- Yerleşim yeni genişliğe göre yeniden düzenlenmelidir.
+
+## 13. ÇEVRİMDIŞI VE PAYLAŞILABİLİR DOSYA
+
+Mobil uyumluluk için haricî site, CDN, font, grafik kütüphanesi veya internet bağlantısı zorunlu tutulamaz.
+
+Arkadaşa gönderilen tek `.html` dosyası:
+
+- Dosya yöneticisinden açılabilmeli,
+- İnternet bağlantısı olmadan sınavı çalıştırabilmeli,
+- Sınav durumunu aynı tarayıcıda `localStorage` ile koruyabilmeli,
+- Yenilemede süreyi ve cevapları sıfırlamamalıdır.
+
+## 14. RESPONSIVE TESLİM ÖNCESİ TESTİ
+
+HTML kullanıcıya verilmeden önce en az şu testler yapılmalıdır:
+
+- [ ] 320 px genişlikte yatay taşma yok
+- [ ] 360 px genişlikte bütün şıklar rahat seçiliyor
+- [ ] 390–430 px genişlikte sayaç ve ilerleme kesilmiyor
+- [ ] 768 px tablette yerleşim çalışıyor
+- [ ] 1024 px geçiş noktasında soru haritası doğru davranıyor
+- [ ] 1366 px masaüstünde soru alanı ve harita dengeli
+- [ ] Dikey ve yatay telefon yönü çalışıyor
+- [ ] Mobil alt gezinme içeriği kapatmıyor
+- [ ] Soru haritası açılıyor, kapanıyor ve soru seçiyor
+- [ ] Dokunma alanları en az 44 × 44 px
+- [ ] Uzun soru ve uzun şık metni taşmıyor
+- [ ] Teslim modalı küçük ekranda kullanılabiliyor
+- [ ] Sonuç kartları ve grafikler taşmıyor
+- [ ] Ana alan tablosu bütün sayfayı yatay kaydırmıyor
+- [ ] Sayfa yenilemede cevaplar ve sayaç korunuyor
+- [ ] Ekran yönü değişince sınav durumu kaybolmuyor
+- [ ] Chrome/Edge masaüstü ve Android Chrome üzerinde kontrol edildi
+- [ ] Mümkünse iPhone Safari ve Firefox üzerinde de kontrol edildi
+
+Bu kontrollerden kritik olan biri başarısızsa HTML sınav mobil uyumlu kabul edilmez.
+
+> **Sınav yalnızca masaüstünde açılan bir sayfa değildir. Tek dosya olarak paylaşıldığında çalışanların telefondan da rahatça çözebileceği tam işlevli bir sınav uygulamasıdır.**
+'''.strip()
+
+          if marker not in text:
+              target = "\n---\n\n# SORU VERİ STANDARDI"
+              if target not in text:
+                  raise SystemExit("Insertion target not found")
+              text = text.replace(target, "\n\n" + section + target, 1)
+
+          text = text.replace(
+              '<meta name="viewport" content="width=device-width, initial-scale=1.0">',
+              '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">'
+          )
+
+          checklist_anchor = "- [ ] Sonuç ekranında yanlış ve boş soruların kaynakları görünüyor mu?"
+          checklist_add = """- [ ] 320 px telefon görünümünde yatay taşma yok mu?\n- [ ] Mobil dokunma alanları en az 44 × 44 px mi?\n- [ ] Telefon dikey/yatay yönünde sınav durumu korunuyor mu?\n- [ ] Mobil soru haritası ve alt gezinme çalışıyor mu?\n- [ ] Sonuç kartları, grafikler ve tablolar telefonda taşmıyor mu?"""
+          if checklist_add not in text:
+              text = text.replace(checklist_anchor, checklist_anchor + "\n" + checklist_add, 1)
+
+          path.write_text(text, encoding="utf-8")
+          print("Responsive exam standard added.")
+          PY
+
+      - name: Commit update
+        shell: bash
+        run: |
+          if git diff --quiet -- HTML_SINAV_SABLONU.md; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add HTML_SINAV_SABLONU.md
+          git commit -m "docs: require fully responsive mobile exam HTML"
+          git push
