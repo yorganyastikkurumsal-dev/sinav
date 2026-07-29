@@ -15,14 +15,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Package current TXT and MD sources
+      - name: Package current PDF, TXT and MD sources
         shell: bash
         run: |
           mkdir -p export
           while IFS= read -r -d '' file; do
             mkdir -p "export/$(dirname "$file")"
             cp "$file" "export/$file"
-          done < <(find . -type f \( -iname '*.txt' -o -iname '*.md' \) -not -path './.git/*' -print0)
+          done < <(find . -type f \( -iname '*.pdf' -o -iname '*.txt' -o -iname '*.md' \) -not -path './.git/*' -print0)
           python - <<'PY'
           from pathlib import Path
           import json
