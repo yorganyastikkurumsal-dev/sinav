@@ -1,0 +1,411 @@
+﻿===== PDF SAYFA 1 / 6 =====
+
+Doküman Adı
+                  Uyum Programı
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               1/6
+  Tüm Kullanıcılar
+
+ 1. AMAÇ
+
+ Bu programın amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinde 5549 sayılı Suç Gelirlerinin Aklanmasının
+ Önlenmesi  Hakkında  Kanun’un  uygulanmasına  yönelik  olarak,  suç  gelirlerinin  aklanmasının  ve  terörün
+ finansmanının önlenmesi amacıyla alınması gereken tedbirler ile sorumlulukları belirlemektir.
+
+ 2. KAPSAM
+
+ Bu program; Posta ve Telgraf Teşkilatı Anonim Şirketinde suç gelirlerinin aklanmasının ve terörün finansmanının
+ önlenmesine ilişkin kurum politikalarının ve prosedürlerinin oluşturulması, uyum risk yönetimi ile izleme ve kontrol
+ faaliyetlerinin yürütülmesi, Uyum Görevlisi atanması ve Uyum Birimi oluşturulması, eğitim faaliyetlerinin ve iç
+ denetim faaliyetlerinin yürütülmesi ile ilgili usul ve esaslar ile tüm birimleri kapsar.
+
+ 3. DAYANAK
+
+ Bu program; 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında hazırlanan Suç
+ Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine  İlişkin Yükümlülüklere Uyum Programı
+ Hakkında Yönetmelik’in 4. maddesinin 1. fıkrasının (ç) bendi uyarınca hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.2 Denetim Elemanı: Vergi Müfettişleri, Başkanlıkta istihdam edilen Hazine ve Maliye Uzmanları, Gümrük ve
+ Ticaret Müfettişleri, Bankalar Yeminli Murakıpları, Hazine Kontrolörleri, Sigorta Denetleme Uzman ve Aktüerleri,
+ Bankacılık Düzenleme ve Denetleme Kurumu ve Sermaye Piyasası Kurulu Uzmanları ile Türkiye Cumhuriyet
+ Merkez Bankası Denetçileri ve Uzmanlarıdır.
+
+ 4.3 Kanun: 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun’dur.
+
+ 4.4 Kurum Politikası ve Prosedürleri: 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun,
+ Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler Hakkında Yönetmelik, Suç
+ Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine  İlişkin Yükümlülüklere Uyum Programı
+ Hakkında Yönetmelik ve ilgili diğer mevzuata uygun şekilde, ayrıca söz konusu mevzuata aykırı olmamak şartıyla
+ ulusal ve uluslararası kuruluşlarca getirilen tavsiye, ilke, standart ve rehberler kapsamında hazırlanan; içeriğinde iç
+ denetim, eğitim, izleme ve kontrol, risk yönetimi konularında belli hususları içeren politikayı ve prosedürü ifade
+ eder.
+
+ 4.5 MASAK: Mali Suçları Araştırma Kurulu Başkanlığıdır.
+
+ 4.6 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek
+ üzere kurduğu hizmet noktalarıdır.
+
+ 4.7 Risk: Sunulan hizmetlerden suç gelirlerinin aklanması ve terörün finansmanı amacıyla yararlanılması ya da
+ kanuni yükümlülüklere tam olarak uyulmaması nedeniyle PTT AŞ’nin ya da PTT AŞ personelinin maruz
+ kalabileceği mali ya da itibari zarar ihtimalidir.
+
+ 4.8 Suç Gelirlerinin Aklanması: Öncül suçlardan elde edilen gelirlerin, yasa dışı kaynağını gizlemek ve bu gelirleri
+ yasal bir kaynaktan elde edilmiş gibi göstermek amacıyla yapılan her türlü işlemdir.
+
+ 4.9 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+
+
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+UYUM BİRİMİ           ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+UYUM BİRİMİ             SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ
+BİRİM SORUMLUSU       BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 6 =====
+
+Dokümanın Adı
+                 Uyum Programı
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               2/6
+  Tüm Kullanıcılar
+
+4.10 Tedbirler Yönetmeliği: Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine Dair Tedbirler
+Hakkında Yönetmelik’tir.
+
+4.11 Terörün Finansmanı: 6415  sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun’un  3. ve  4.
+Maddesi’ne göre, suç olarak düzenlenen fiillerin gerçekleştirilmesinde tümüyle veya kısmen kullanılması amacıyla
+veya kullanılacağını bilerek ve isteyerek belli bir fiille ilişkilendirilmeden dahi bir teröriste veya terör örgütlerine
+fon sağlama veya toplama faaliyetidir.
+
+4.12 Uyum Birimi: Uyum  Görevlisine  bağlı  olarak  çalışan ve uyum programının  yürütülmesiyle  görevli
+personelden oluşan birimdir.
+
+4.13 Uyum Görevlisi: Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ve bu Kanuna dayanılarak
+yürürlüğe konulan mevzuatla  getirilen yükümlülüklere PTT AŞ’nin uyumunu sağlamak amacıyla, PTT AŞ
+tarafından gerekli yetkiyle donatılmış görevlidir.
+
+4.14 Uyum Programı: Suç gelirlerinin aklanmasının ve terörün finansmanının önlenmesine yönelik olarak, Suç
+Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Uyum Programı Hakkında Yönetmelik
+gereği oluşturulmuş olan tedbirler bütününü teşkil eden işbu program metnidir.
+
+4.15 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+
+4.16 Yönetmelik: Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Uyum Programı
+Hakkında Yönetmelik’tir.
+
+5. SORUMLULUKLAR
+
+5.1 Yönetim Kurulu
+
+5.1.1 PTT AŞ’nin en üst düzeyde yönetim ve temsil mercii olarak, uyum programının bütününün, PTT AŞ’nin
+faaliyetlerinin kapsamı ve özelliklerine uygun bir biçimde, yeterli ve etkin bir şekilde yürütülmesinden, nihai olarak
+Yönetim Kurulu yetkili ve sorumludur.
+
+5.1.2 Yönetim Kurulu, uyum programı kapsamındaki yetkilerinin bir kısmını veya tamamını Türkiye’de mukim bir
+veya birden fazla Yönetim Kurulu üyesine (açık bir şekilde ve yazılı olarak) devredebilir. Söz konusu yetki devrinin
+yapılması, Yönetim Kurulunun bu konudaki sorumluluğunu ortadan kaldırmaz.
+
+5.1.3 Yönetim Kurulu, Uyum Görevlisinin görev, yetki ve sorumlulukları çerçevesinde bağımsız bir irade ile karar
+verebilecek, PTT AŞ bünyesindeki tüm birimlerden kendi görev alanı ile ilgili her türlü bilgi ve belgeyi talep
+edebilecek ve bunlara zamanında erişebilecek yetkiyi haiz olmasını sağlar. Bu sorumluluk çerçevesinde, Yönetim
+Kurulunun 24.09.2008 tarihli ve 416 sayılı kararı ile Uyum Görevlisinin PTT AŞ bünyesindeki tüm birimlerden
+kendi görev alanı ile ilgili her türlü bilgi ve belgeyi talep edebilmesi için yetki verilmesi ve tüm birimlerin bu
+talepleri zamanında yerine getirmesi hususunda ilgili birimlere talimat verilmesi hüküm altına alınmıştır.
+
+5.1.4 Yönetim Kurulu, Uyum Görevlisi tarafından Uyum Birimi personelinin uygun kişilerden oluşturulması
+ve/veya personelin bu esaslara uygun olarak görev yapabilmesi için gerekli görülebilecek her türlü Şirket içi veya
+Şirket dışı eğitimlerin tamamlanabilmesi için gerekebilecek kaynak tahsisinin yapılmasını sağlar.
+
+5.2 Uyum Görevlisi
+
+5.2.1 PTT AŞ’nin Kanun ve Kanun uyarınca  çıkarılan düzenlemelere uyumunu sağlamak amacıyla  gerekli
+çalışmaları yapar ve MASAK ile gerekli iletişim ve koordinasyonu sağlar.
+
+5.2.2 Şirket politikası ve prosedürlerini oluşturur ve Yönetim Kurulunun onayına sunar.
+
+5.2.3 Risk yönetimi politikasını oluşturur ve risk yönetimi faaliyetlerini yürütür.
+
+5.2.4 İzleme ve kontrol politikalarını oluşturur ve buna ilişkin faaliyetleri yürütür.
+
+5.2.5 Suç  gelirlerinin aklanmasının ve terörün finansmanının önlenmesine yönelik eğitim programına  ilişkin
+çalışmalarını Yönetim Kurulunun onayına sunar ve onaylanan eğitim programının etkin bir şekilde uygulanmasını
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 6 =====
+
+Dokümanın Adı
+                 Uyum Programı
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               3/6
+  Tüm Kullanıcılar
+
+sağlar.
+
+5.2.6 Kendisine iletilen veya resen öğrendiği şüpheli olabilecek işlemler hakkında yetki ve imkânları ölçüsünde
+araştırma yaparak edindiği bilgi ve bulguları değerlendirir, şüpheli olduğuna karar verdiği işlemleri MASAK’a
+bildirir.
+
+5.2.7 Bildirimlerin ve ilgili diğer hususların gizliliğinin sağlanmasına yönelik gerekli tedbirleri alır.
+
+5.2.8 İç denetim ve eğitim faaliyetlerine ilişkin bilgi ve istatistikleri düzenli olarak tutarak bunları Yönetmelik’te
+belirtilen sürelerde MASAK’a bildirir.
+
+5.2.9 Uyum Görevlisi, Uyum Birimi personelinin belirtilen esaslara uygun kişilerden oluşması ve/veya personelin
+bu esaslara uygun olarak görev yapabilmesi için gerekli görülebilecek her türlü Şirket içi veya Şirket dışı eğitimlerin
+tamamlanmasını sağlamakla sorumludur.
+
+5.3 Uyum Birimi
+
+5.3.1 Uyum Birimi personeli idari yönden sadece ve doğrudan Uyum Görevlisine bağlı olarak çalışırlar.
+
+5.3.2 Uyum Birimi personeli görev tanımları açısından, tüm işkollarından ve özellikle satış, pazarlama ve iç denetim
+ile ilgili faaliyetler ile gelir getirici her türlü faaliyetin yürütüldüğü birimlerden bağımsız olarak çalışırlar.
+
+5.3.3 Uyum Birimi personeli PTT AŞ’nin hizmet, ürün ve faaliyetleri  ile bunların genel operasyonel işleyişi
+hakkında yeterli düzeyde bilgi sahibidirler.
+
+5.3.4 Uyum Birimi personeli Kanun ve Kanun  ile  ilgili  alt düzenlemeler ve PTT AŞ’nin hizmet, ürün ve
+faaliyetlerini ilgilendiren diğer önemli yasal düzenlemeler ile Şirket politika ve prosedürleri konusunda eğitimli ve
+bilgilidirler.
+
+5.3.5 Uyum Birimi personeli, tespit ettikleri veya dikkatlerine getirilen her türlü aksaklık, ihlal, hata, suistimal, vb.
+şüpheli durum ve  unsurların Yönetim Kurulu’nun  bilgisine gereği  gibi sunulmak üzere Uyum Görevlisine
+aktarılması konusundaki görev ve sorumluluklarının bilincindedirler.
+
+5.3.6 Uyum Birimi personeli, başta PTT AŞ personelin tarafından Uyum Görevlisine yapılan dahili şüpheli işlem
+bildirimleri ile, Uyum Görevlisi tarafından MASAK’a yapılan şüpheli işlem bildirimlerinin gizliliği olmak üzere,
+Kanun ve Kanuna ilişkin alt mevzuat kapsamındaki gizlilik prensiplerine harfiyen riayet eder ve çalışmalarını bu
+prensiplere uygun olarak sürdürürler.
+
+6. UYGULAMA
+
+6.1 Genel Hususlar
+
+6.1.1 Suç gelirlerinin aklanması ve terörün finansmanının önlenmesi için, Kanun ve Kanun uyarınca çıkarılan
+yönetmelik ve tebliğlere gerekli uyumun sağlanması amacıyla risk temelli bir yaklaşımla oluşturulacak olan uyum
+programı aşağıdaki tedbirleri içerir.
+
+a) Kurum politikası ve prosedürlerinin oluşturulması,
+
+b) Risk yönetimi faaliyetlerinin yürütülmesi,
+
+c) İzleme ve kontrol faaliyetlerinin yürütülmesi,
+
+ç) Uyum Görevlisi atanması ve Uyum Birimi oluşturulması,
+
+d) Eğitim faaliyetlerinin yürütülmesi,
+
+e) İç denetim faaliyetlerinin yürütülmesi.
+
+6.1.2 Uyum programı kapsamındaki risk yönetimi ile izleme ve kontrole ilişkin faaliyetler, Yönetim Kurulunun
+gözetim, denetim ve sorumluluğunda, Uyum Görevlisi tarafından yerine  getirilir. Uyum programı kapsamında
+birinci ve üçüncü fıkralarda yer alan tedbirler asgari 2 (iki) yılda bir gözden geçirilerek gerekli güncellemeler
+yapılır.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 4 / 6 =====
+
+Dokümanın Adı
+                 Uyum Programı
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               4/6
+  Tüm Kullanıcılar
+
+6.2 Kurum Politikası ve Prosedürlerinin Oluşturulması
+
+6.2.1 Kurum politika ve prosedürleri; Kanun ve Kanun uyarınca çıkarılan yönetmelik ve tebliğlere uygun olacak
+şekilde, PTT AŞ bünyesindeki ilgili tüm birimlerin katılımının sağlanmasıyla ve Uyum Görevlisinin gözetim ve
+koordinasyonunda, yazılı bir şekilde oluşturulur. Kurum politika ve prosedürleri oluşturulurken, Kanun ve Kanun
+uyarınca çıkarılan yönetmelik ve tebliğlere aykırı olmamak şartıyla diğer ulusal ve uluslararası kuruluşlarca getirilen
+tavsiye, ilke, standart ve rehberlerden de faydalanılır. Uyum Görevlisinin atandığı tarihten itibaren en geç 30 (otuz)
+gün içinde kurum politikasını oluşturulur. Kurum politikası aynı süre içinde Yönetim Kurulu tarafından onaylanır.
+
+6.2.2 Kurum politikasının MASAK veya denetim elemanları tarafından talep edildiğinde ibrazı zorunludur. Kurum
+politikasının değişmesi halinde 30 (otuz) gün içinde MASAK tarafından yayımlanan taahhüt formları yeniden
+düzenlenerek MASAK’a gönderilir.
+
+6.3 Risk Yönetimi Faaliyetlerinin Yürütülmesi
+
+PTT AŞ’nin risk yönetimi politikasının ve bu çerçevede yürütülecek risk yönetimi faaliyetlerinin amacı; PTT
+AŞ’nin  suç  gelirlerinin  aklanmasına ve  terörün  finansmanına  yönelik  olarak maruz  kalabileceği  risklerin
+tanımlanması,  derecelendirilmesi,  izlenmesi,  değerlendirilmesi  ve  azaltılmasını  sağlamaktır.  Risk  yönetim
+politikasının temel unsurlarını, Tedbirler Yönetmeliği’nin “Müşterinin Tanınmasına İlişkin Esaslar” başlıklı üçüncü
+bölümünde yer alan tedbirler ve bunlara ilişkin önlem ve işleyiş kuralları oluşturur.
+
+6.4 İzleme ve Kontrol Faaliyetlerinin Yürütülmesi
+
+6.4.1 PTT AŞ’nin Şirket  politikası kapsamındaki izleme ve kontrol  faaliyetlerinin amacı; PTT AŞ’nin suç
+gelirlerinin aklanmasına ve terörün finansmanına yönelik olarak maruz kalabileceği risklerden korunması ve
+faaliyetlerinin Kanuna ve Kanuna ilişkin alt mevzuata, Şirket politika ve prosedürlerine uygun olarak yürütülüp
+yürütülmediğinin sürekli olarak izlenmesi ve kontrol edilmesidir.
+
+6.4.2 PTT AŞ’nin izleme ve kontrol faaliyetleri, PTT AŞ’nin ilgili tüm birimlerinden gerekebilecek her türlü bilgi,
+belge, veri ve kaynak temin etmek üzere Yönetim Kurulu tarafından gerekli yetki  ile donatılmış olan Uyum
+Görevlisinin koordinasyon, yönetim ve gözetiminde Uyum  Görevlisi ve Uyum Birimi  personeli  tarafından
+yürütülür.
+
+6.4.3 İzleme ve kontrol faaliyetleri kapsamında; Kanun uyarınca getirilen yükümlülüklere uyumun sağlanmasıyla
+ilgili olarak yapılan kontroller neticesinde tespit edilen eksiklikler, gerekli tedbirlerin alınması için ilgili birimlere ve
+yönetime raporlanarak sonuçları takip edilir.
+
+6.5 Uyum Görevlisi Atanması ve Uyum Birimi Oluşturulması
+
+6.5.1 Yönetim Kurulu, Kanunun 5. maddesi ile yönetmeliğin “Uyum Görevlisi ve Uyum Görevlisi Yardımcısı
+Atanması”  başlıklı 16. maddesi hükümlerine uygun  olarak, uyum programının yürütülmesi amacıyla Uyum
+Görevlisi atar. Uyum Görevlisi, Yönetim Kurulu’na veya Yönetim Kurulu’nun yetkisini devrettiği bir veya birden
+fazla üyeye bağlı olacak şekilde, münhasıran kurum personeli olarak atanır. Uyum Görevlisinin uhdesinde satış ve
+pazarlamayla ilgili olmamak şartıyla, uyum programının yürütülmesini aksatmayacak diğer görevler bulunabilir.
+
+6.5.2 Yönetim Kurulu ayrıca, uyum programının yürütülmesi amacıyla Uyum Görevlisi için aranan şartları ve
+nitelikleri taşıyan bir Uyum Görevlisi Yardımcısı atar. Uyum Görevlisi Yardımcısı, Uyum Görevlisine bağlı olacak
+şekilde münhasıran kurum personeli olarak atanır. Uyum Görevlisi Yardımcısı, Uyum Görevlisiyle aynı süre ve
+usulde atanır. Uyum Görevlisi, görev ve yetkilerinin bir kısmını veya tamamını, açık bir şekilde ve yazılı olarak
+Uyum Görevlisi Yardımcısına devredebilir. Söz konusu görev ve yetki devrinin yapılması, Uyum Görevlisinin bu
+konudaki sorumluluğunu ortadan kaldırmaz.
+
+6.5.3 Uyum Görevlisinin, Yönetmelikteki görev ve sorumluluklarını etkin  bir şekilde yerine getirebilmesini
+sağlamak amacıyla, Yönetim Kurulu tarafından, PTT AŞ’nin işletme büyüklüğü, işlem hacmi, iş yeri ve personel
+sayısı ya da karşılaşılabilecek risklerin yüksekliği gibi unsurları göz önünde bulundurularak, idari yönden doğrudan
+Uyum Görevlisine bağlı olan ve uyum programının yürütülmesiyle görevli yeterli sayıda personelden oluşan bir
+Uyum Birimi oluşturulması sağlanır.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 5 / 6 =====
+
+Dokümanın Adı
+                 Uyum Programı
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               5/6
+  Tüm Kullanıcılar
+
+6.6 Uyum Görevlisinin ve Uyum Görevlisi Yardımcısının Görevinden Ayrılması
+
+6.6.1 Uyum Görevlisinin veya Yardımcısının Yönetmelik  ile aranan şartları kaybetmesi veya bu şartları haiz
+olmadığının sonradan anlaşılması veya görevinden ayrılması halinde, durum yükümlü tarafından ayrılış tarihinden
+itibaren 10 (on) gün içinde MASAK’a yazılı olarak bildirilir ve yeni atama ayrılış tarihinden itibaren en geç 30
+(otuz) gün içinde yapılır. Uyum Görevlisi ve Uyum Görevlisi Yardımcısı için yeni atama, ayrılış tarihinden itibaren
+en geç otuz gün içinde yapılır. Atamaya ilişkin taahhüt formu Yönetim Kurulu veya yetkisini devrettiği Yönetim
+Kurulu üye veya üyeleri tarafından imzalanarak, atanma tarihinden  itibaren 10 (on) gün içinde MASAK’a
+gönderilir.
+
+6.6.2 Uyum Görevlisi birinci fıkra kapsamında yeniden atanana kadar veya uyum görevlisinin izin, hastalık ve
+benzeri nedenlerle geçici olarak görevden ayrılması halinde, yerine bir Uyum Görevlisi Yardımcısı vekalet eder.
+
+6.7 Eğitim Faaliyetlerinin Yürütülmesi
+
+6.7.1 PTT AŞ eğitim faaliyetini, suç gelirlerinin aklanmasının ve terörün finansmanının önlenmesi amacıyla işletme
+büyüklüğüne, iş hacmine ve değişen koşullara uyumlu olacak şekilde ve yıllık eğitim programı dahilinde yürütür.
+
+6.7.2 Eğitim faaliyetleri Uyum Görevlisi koordinatörlüğünde Uyum Birimi personeli, eğitim birimi bünyesinde
+görevli eğitici personel vasıtasıyla sağlanabileceği gibi, gereken hallerde MASAK ve/veya bu konuda faaliyet
+gösteren diğer uzman kurum ve kuruluşlardan destek almak suretiyle de yerine  getirilir. Eğitim programı ve
+eğitimlerde kullanılacak materyaller, Uyum Görevlisi tarafından ilgili birimlerin de katılımıyla hazırlanır.
+
+6.7.3 Uygulanan eğitim faaliyetlerine ilişkin eğitimin; tarihleri, bölgesi ya da  ili, yöntemi, toplam eğitim saati,
+personel sayısı, toplam personel sayısına oranı, personelin birim ve ünvanlarına göre dağılımı, içeriği, eğiticilerin
+ünvanı, uzmanlık alanı vb. bilgilerin yer aldığı istatistiki bilgiler eğitim birimi tarafından Uyum Birimine iletilir ve
+takip eden yılın Mart ayı sonuna kadar Uyum Görevlisi tarafından MASAK’a bildirilir.
+
+6.8 İç Denetim Faaliyetlerinin Yürütülmesi
+
+Uyum programı kapsamında iç denetim faaliyetlerinin amacı, uyum programının bütünlüğünün etkinliği ve yeterliği
+hususunda Yönetim Kurulu’na güvence sağlamaktır. İç denetim faaliyetlerini yürütmek üzere yetkilendirilecek
+personelin, bağımsız çalışmasını teminen, uyum programı kapsamındaki diğer tedbirlerin yerine getirilmesinde
+görev ve yetki almamış olması gerekir.
+
+7. ONAY
+
+Bu program Yönetim Kurulu tarafından onaylanır.
+
+8. YÜRÜRLÜK
+
+Bu program yayımlandığı tarihte yürürlüğe girer.
+
+9. YÜRÜTME
+
+Bu programı Genel Müdür yürütür.
+
+10. REFERANS DOKÜMANLAR
+
+KN.030-5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun
+KN.040-6415 sayılı Terörizmin Finansmanının Önlenmesi Hakkında Kanun
+YKK.01-24.09.2008 Tarihli ve 416 Sayılı Yönetim Kurulu Kararı
+YNT.058-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum
+Programı Hakkında Yönetmelik
+YNT.059-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanın Önlenmesine Dair Tedbirler Hakkında
+Yönetmelik
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 6 / 6 =====
+
+Dokümanın Adı
+                 Uyum Programı
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR04           17.07.2018            1.01.2026            3               6/6
+  Tüm Kullanıcılar
+
+
+
+
+
+11. REVİZYON BİLGİLERİ
+
+ Revizyon
+             Revizyon Tarihi                           Revizyon Nedeni
+   No
+
+                               Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına
+     3       1.01.2026
+                                  ihtiyaç duyulmuştur.
+
+                         Gözden geçirme ve yönetmelik değişikliği sebebiyle revizyon yapılmasına
+     2       28.07.2025
+                                  ihtiyaç duyulmuştur.
+                           Suç Gelirlerinin Aklanmasının ve Terörün Finansmanın Önlenmesine
+     1       7.06.2022          İlişkin Yükümlülüklere Uyum Programı Hakkında Yönetmelik hakkında
+                               26.02.2021 tarihli ve 31407 sayılı Resmi Gazete’de yayımlanan değişiklik.
+
+     0       17.07.2018      Yeni Doküman
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

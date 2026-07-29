@@ -1,0 +1,466 @@
+﻿===== PDF SAYFA 1 / 7 =====
+
+Doküman Adı
+                Kişisel Verilerin Korunması Prosedürü
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               1/7
+  Tüm Kullanıcılar
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketinin tüm faaliyetlerinin 6698 sayılı Kişisel Verilerin
+ Korunması Kanunu ile uyum içinde yürütülmesini sağlamak adına ilgili usul ve esaslar ile yetki ve sorumlulukları
+ belirlemektir.
+
+ 2. KAPSAM
+
+ Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketinin tüm birim ve personelini kapsar.
+
+ 3. DAYANAK
+
+ Bu prosedür 6698 sayılı Kişisel Verilerin Korunması Kanunu ve alt mevzuatına dayalı olarak hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Açık Rıza: Belirli bir konuya ilişkin, bilgilendirilmeye dayalı olarak ve özgür iradeyle açıkladığı rızadır.
+
+ 4.2 Alıcı Grubu: Veri sorumlusu tarafından kişisel verilerin aktarıldığı gerçek veya tüzel kişi kategorisidir.
+
+ 4.3 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.4 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Merkez Teşkilatıdır.
+
+ 4.5 İlgili Kişi: Kişisel verisi işlenen gerçek kişidir.
+
+ 4.6 İrtibat Kişisi: Türkiye’de yerleşik olan gerçek ve tüzel kişiler için veri sorumlusu tarafından, Türkiye’de
+ yerleşik olmayan gerçek ve tüzel kişiler için de veri sorumlusu temsilcisi tarafından, Kişisel Verilerin Korunması
+ Kanunu ve bu Kanuna dayalı olarak çıkarılacak ikincil düzenlemeler kapsamındaki yükümlülükleriyle ilgili olarak,
+ Kişisel Verileri Koruma Kurumu ile iletişimi sağlamak amacıyla Veri Sorumluları Siciline kayıt esnasında bildirilen
+ gerçek kişidir.
+
+ 4.7 Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir.
+
+ 4.8 Kişisel Veri İşleme Envanteri: Veri sorumlularının iş süreçlerine bağlı olarak gerçekleştirmekte oldukları
+ kişisel verileri işleme faaliyetlerini; kişisel verileri işleme amaçları, veri kategorisi, aktarılan alıcı grubu ve veri
+ konusu kişi grubuyla ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan azami
+ süreyi, yabancı ülkelere aktarımı öngörülen kişisel verileri ve veri güvenliğine ilişkin alınan tedbirleri açıklayarak
+ detaylandırdıkları envanterdir.
+
+ 4.9 Kişisel Verilerin İşlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt
+ sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, saklanması,
+ değiştirilmesi, yeniden düzenlenmesi, açıklanması,  aktarılması, devralınması, elde  edilebilir hale  getirilmesi,
+ sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü işlemdir.
+
+ 4.10 Kurul: Kişisel Verileri Koruma Kuruludur.
+
+ 4.11 KVKK: 6698 sayılı Kişisel Verilerin Korunması Kanunu’dur.
+
+ 4.12 KVKK  Ekibi: Risk Yönetimi Birim Sorumlusu  tarafından Risk Yönetimi  Birimi  personeli  içinden
+ görevlendirilen ve kişisel verilerin korunması ile ilgili iş ve işlemleri yürüten personeldir.
+
+ 4.13 Üst Düzey Yönetici: Kamu kurum ve kuruluşlarında Kişisel Verilerin Korunması Kanunu’nun uygulanmasıyla
+  ilgili koordinasyonu sağlamak üzere belirlenerek Kişisel Verileri Koruma Kurumuna bildirilen kişidir.
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+RİSK YÖNETİM BİRİMİ     ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+RİSK YÖNETİM BİRİMİ     SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ I.
+BİRİM SORUMLUSU       BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+===== PDF SAYFA 2 / 7 =====
+
+Doküman Adı
+               Kişisel Verilerin Korunması Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               2/7
+  Tüm Kullanıcılar
+
+4.14 Özel Nitelikli Kişisel Veri: Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya
+diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve
+güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileridir.
+
+4.15 Standart Sözleşme: Veri kategorileri, veri aktarımının amaçları, alıcı ve alıcı grupları, veri alıcısı tarafından
+alınacak teknik ve idari tedbirler, özel nitelikli kişisel veriler için alınan ek önlemler gibi hususları ihtiva eden ve
+Kişisel Verileri Koruma Kurulu tarafından belirlenerek ilan edilen sözleşmedir.
+
+4.16 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+4.17 Taşra Teşkilatı: Şirketin Genel Müdürlük Birimleri dışındaki tüm birimleridir.
+
+4.18 Veri İşleyen: Veri sorumlusunun verdiği yetkiye dayanarak veri sorumlusu adına kişisel verileri işleyen gerçek
+veya tüzel kişidir.
+
+4.19 Veri Sorumlusu:  Kişisel  verilerin  işleme  amaçlarını ve  vasıtalarını  belirleyen,  veri  kayıt  sisteminin
+kurulmasında ve yönetilmesinden sorumlu gerçek veya tüzel kişidir.
+
+4.20 Veri Sorumluları Sicil Bilgi Sistemi (VERBİS): Veri sorumlularının Sicile başvuruda ve Sicile ilişkin ilgili
+diğer işlemlerde  kullanacakları,  internet üzerinden  erişilebilen,  Kişisel  Verileri Koruma Kurumu Başkanlığı
+tarafından oluşturulan ve yönetilen bilişim sistemidir.
+
+4.21 Yeterlilik Kararı: Kişisel Verileri Koruma Kurulunun, kişisel verilerin yurt dışına aktarımı ile ilgili olarak bir
+ülkenin, ülke içerisindeki bir veya daha fazla sektörün ya da bir uluslararası kuruluşun yeterli düzeyde koruma
+sağladığına ilişkin kararıdır.
+
+5. SORUMLULUKLAR
+
+5.1 Genel Müdür
+
+Üst düzey yönetici olarak KVKK’nın uygulanmasıyla ilgili Kurul ile koordinasyonu sağlamakla sorumludur.
+
+5.2 PTT AŞ Personeli
+
+Bu prosedürün uygulanmasından her kademedeki PTT AŞ personeli sorumludur.
+
+5.3 Risk Yönetimi Birim Sorumlusu
+
+Risk Yönetimi Birim Sorumlusunun kişisel verilerin korunması ile ilgili iş ve işlemlere ilişkin görev, yetki ve
+sorumlulukları aşağıda sayılmıştır.
+
+a) İrtibat Kişisi olarak, PTT AŞ ile Kişisel Verileri Koruma Kurumu arasındaki iletişimi sağlar.
+
+b) Risk yönetimi personelinin çalışmalarını izler ve kontrol eder.
+
+c) Risk yönetimi personelinin görev, yetki ve sorumluluklarının gerektirdiği niteliklere haiz olup olmadıklarını
+denetler.
+
+ç) Risk yönetimi personelinin mesleki bilgi, beceri ve yeteneklerinin geliştirilmesine yönelik eğitim programlarını
+hazırlar.
+
+d) Risk Yönetimi Birimini temsil eder.
+
+e)  Risk  Yönetimi  Biriminin  yönetiminden  ve KVKK  ekibinin bu  prosedürün  5.3  maddesi  çerçevesinde
+çalıştırılmasından Yönetim Kuruluna karşı sorumludur.
+
+===== PDF SAYFA 3 / 7 =====
+
+Doküman Adı
+               Kişisel Verilerin Korunması Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               3/7
+  Tüm Kullanıcılar
+
+f) Risk Yönetimi Birimi personeli içinden, kişisel verilerin korunması ile  ilgili iş ve işlemleri yürütecek olan
+personeli belirler ve üst yazı ile görevlendirir.
+
+5.4 KVKK Ekibi
+
+Risk Yönetimi Birimi içinde kişisel verilerin korunması ile ilgili iş ve işlemleri yürüten personelin görev, yetki ve
+sorumlulukları aşağıda sayılmıştır.
+
+a) PTT AŞ’nin KVKK’ya uyumu kapsamında kişisel verilerin hukuka uygun bir şekilde işlenmesi için gerekli olan
+çalışmaları yürütür.
+
+b) PTT AŞ’nin ve irtibat kişisinin VERBİS’e kayıt olmasının sağlanması ve kayıt için Kurul tarafından talep edilen
+belgeleri hazırlar.
+
+c) Kişisel veri işleme envanterinin Birimler tarafından güncel bir şekilde tutulmasını ve değişikliklerin VERBİS’e
+bildirilmesini sağlar.
+
+ç) Kişisel verilerin korunmasına dair tüm politika ve prosedürleri hazırlar.
+
+d) KVKK’nın gerektirdiği belge ve metinleri hazırlar.
+
+e) Kişisel verilerin korunmasına ilişkin farkındalık çalışmaları yapar ve bu konuda eğitim içerikleri hazırlayarak
+eğitimler düzenler.
+
+f) İlgili kişilerin şikâyet ve başvurularına karşı cevap verme süreçlerini yürütür.
+
+g) Kişisel veri ihlali oluşması durumunda söz konusu ihlalin Kurula zamanında bildirilmesi ve Kurulun taleplerinin
+en hızlı şekilde yerine getirilebilmesini sağlar.
+
+ğ) Kurul kararlarının ve konuya ilişkin mevzuattaki değişikliklerin takibini ve uygulanmasını sağlar.
+
+h) Alıcı gruplarıyla akdedilecek sözleşmelerde kullanılmak üzere gizlilik ve kişisel verilerin korunmasına ilişkin
+matbu hükümleri hazırlar.
+
+ı) PTT AŞ’nin hizmet kalemlerinde uygulanacak aydınlatma ve açık rıza metinlerini hazırlar.
+
+i) Kişisel verilere erişim ve yetkilendirmeye ilişkin yetki matrisinin Birimler tarafından hazırlanmasını sağlar.
+
+j) Birimler tarafından kişisel verilerin korunması hakkında görüş taleplerine cevap verir.
+
+k) Kişisel Verileri Koruma Kurumunun talep ettiği diğer işleri yapar.
+
+6. UYGULAMA
+
+6.1 Genel İlkeler
+
+Kişisel verilerin işlenmesinde uygulanan ilkeler aşağıda sayılmıştır.
+
+a) Kişisel veriler hukuka ve dürüstlük kurallarına uygun olarak işlenir.
+
+b) Kişisel verilerin doğru ve gerektiğinde güncel olması sağlanır.
+
+c) Kişisel verilerin belirli, açık ve meşru amaçlar için işlenmesi sağlanır.
+
+ç) Kişisel verilerin işlendikleri amaçla bağlantılı, sınırlı ve ölçülü olarak işlenmesi sağlanır.
+
+d) Kişisel verilerin ilgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar muhafaza edilmesi
+sağlanır.
+
+6.2 Kişisel Verilerin İşlenmesi
+
+Kişisel verilerin işlenme şartları aşağıda sayılmıştır.
+
+===== PDF SAYFA 4 / 7 =====
+
+Doküman Adı
+               Kişisel Verilerin Korunması Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               4/7
+  Tüm Kullanıcılar
+
+a) Kişisel veriler ilgili kişinin açık rızası alınarak işlenir.
+
+b) Kişisel veriler, kanunlarda açıkça öngörülmesi halinde açık rıza aranmaksızın işlenir.
+
+c)Kişisel  veriler,  fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki
+geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için
+zorunlu olması halinde açık rıza aranmaksızın işlenir.
+
+ç) Kişisel veriler, bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin
+taraflarına ait kişisel verilerin işlenmesinin gerekli olması halinde açık rıza aranmaksızın işlenir.
+
+d) Kişisel veriler    veri sorumlusunun hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması halinde açık
+rıza aranmaksızın işlenir.
+
+e) Kişisel veriler, ilgili kişinin kendisi tarafından alenileştirilmiş olması halinde açık rıza aranmaksızın işlenir.
+
+f) Kişisel  veriler, bir hakkın  tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması halinde
+açık rıza aranmaksızın işlenir.
+
+g) Kişisel veriler, ilgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri sorumlusunun meşru
+menfaatleri için veri işlenmesinin zorunlu olması halinde açık rıza aranmaksızın işlenir.
+
+6.3 Özel Nitelikli Kişisel Verilerin İşlenmesi
+
+Özel nitelikli kişisel verilerin işlenme şartları aşağıda sayılmıştır.
+
+a) Özel nitelikli kişisel veriler, ilgili kişinin açık rızası alınarak işlenir.
+
+b) Özel nitelikli kişisel veriler, kanunlarda açıkça öngörülmesi halinde işlenir.
+
+c) Özel nitelikli kişisel veriler, fiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına
+hukuki geçerlilik tanınmayan kişinin, kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması
+için zorunlu olması halinde işlenir.
+
+ç) Özel nitelikli kişisel veriler, ilgili kişinin alenileştirdiği kişisel verilere ilişkin ve alenileştirme iradesine uygun
+olması halinde işlenir.
+
+d) Özel nitelikli kişisel veriler, bir hakkın tesisi, kullanılması veya korunması için zorunlu olması halinde işlenir.
+
+e) Özel nitelikli kişisel veriler, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlarca,
+kamu sağlığının korunması, koruyucu hekimlik, tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi ile sağlık
+hizmetlerinin planlanması, yönetimi ve finansmanı amacıyla gerekli olması halinde işlenir.
+
+f) Özel nitelikli kişisel veriler, istihdam, iş sağlığı ve güvenliği, sosyal güvenlik, sosyal hizmetler ve sosyal yardım
+alanlarındaki hukuki yükümlülüklerin yerine getirilmesi için zorunlu olması halinde işlenir.
+
+g) Özel nitelikli kişisel veriler, siyasi, felsefi, dini veya sendikal amaçlarla kurulan vakıf, dernek ve diğer kâr amacı
+gütmeyen kuruluş ya da oluşumların, tâbi oldukları mevzuata ve amaçlarına uygun olmak, faaliyet alanlarıyla sınırlı
+olmak ve üçüncü kişilere açıklanmamak kaydıyla; mevcut veya eski üyelerine ve mensuplarına veyahut bu kuruluş
+ve oluşumlarla düzenli olarak temasta olan kişilere yönelik olması halinde işlenir.
+
+ğ) Özel nitelikli kişisel veriler, Kurul tarafından belirlenen yeterli önlemler alınarak işlenir.
+
+6.4 Kişisel Verilerin Silinmesi Yok Edilmesi veya Anonim Hale Getirilmesi
+
+Kişisel verilerin RYB.PK02 Kişisel Veri Saklama ve İmha Politikası’na uygun olarak silinmesi, yok edilmesi veya
+anonim hâle getirilmesi sağlanır.
+
+===== PDF SAYFA 5 / 7 =====
+
+Doküman Adı
+               Kişisel Verilerin Korunması Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               5/7
+  Tüm Kullanıcılar
+
+6.5 Kişisel Verilerin Aktarılması
+
+Kişisel verilerin aktarılma şartları aşağıda sayılmıştır.
+
+a) Kişisel veriler ilgili kişinin açık rızası alınarak aktarılır.
+
+b) Kişisel veriler bu prosedürün 6.2 ve 6.3 maddelerinde yer alan şartların bulunması halinde yeterli önlemler
+alınarak aktarılır.
+
+6.6 Kişisel Verilerin Yurt Dışına Aktarılması
+
+Kişisel veriler, aşağıda belirtilen hallerden birinin gerçekleşmesi halinde PTT AŞ tarafından yurt dışına aktarılabilir.
+6.6.1 ve 6.6.2 maddelerinde yer alan usuller ile yurt dışına aktarımın yapılabilmesi için, bu prosedürün 6.2 ve 6.3
+maddelerinde yer alan şartlardan birinin varlığı da gerekir.
+
+6.6.1 Yeterlilik Kararının Bulunması
+
+Kişisel veriler; verinin aktarılacağı ülke, ülke içerisindeki sektörler veya uluslararası kuruluşlar hakkında Kişisel
+Verileri Koruma Kurulu tarafından verilmiş olan bir yeterlilik kararının bulunması halinde PTT AŞ tarafından yurt
+dışına aktarılır.
+
+6.6.2 Uygun Güvencenin Bulunması
+
+Yeterlilik kararının bulunmaması halinde kişisel veriler, ilgili kişinin aktarımın yapılacağı ülkede de haklarını
+kullanma ve etkili kanun yollarına başvurma imkânının bulunması kaydıyla, aşağıda belirtilen uygun güvencelerden
+birinin aktarım taraflarca sağlanması halinde PTT AŞ tarafından yurt dışına aktarılır.
+
+a) PTT AŞ ile aktarımın yapılacağı yurt dışındaki kamu kurum ve kuruluşu veya uluslararası kuruluş arasında
+yapılan uluslararası sözleşme niteliğinde olmayan anlaşmanın varlığı ve Kurul tarafından aktarıma izin verilmesi
+halinde kişisel veriler yurt dışına aktarılır. Anlaşmada Kişisel Verilerin Yurt dışına Aktarılmasına İlişkin Usul ve
+Esaslar Hakkında Yönetmelik’in 11’inci maddesinin 3’üncü fıkrasında sayılan hususlar yer  alır. Anlaşmaya
+dayanılarak kişisel verilerin yurt dışına aktarılabilmesi için veri aktaran tarafından Kurula izin başvurusunda
+bulunulur. Yapılacak başvuru kapsamında anlaşma metninin nihai hâli ve Kurul tarafından yapılacak değerlendirme
+için gerekli diğer bilgi ve belgeler Kurula sunulur. Kişisel veri aktarımına, Kurul tarafından izin verilmesinden sonra
+başlanır.
+
+b) Kişisel veriler, Kurul tarafından belirlenerek ilan edilen Standart Sözleşmenin PTT AŞ ile verinin aktarılacağı
+taraf arasında akdedilmesi halinde yurt dışına aktarılır. Standart Sözleşme imzaların tamamlanmasından itibaren 5
+(beş) iş günü içinde, fiziki olarak veya kayıtlı elektronik posta (KEP) adresi ya da Kurul tarafından belirlenen diğer
+yöntemlerle Kişisel Verileri Koruma Kurumuna bildirilir. Standart sözleşmede, bildirim yükümlülüğünün kimin
+tarafından yerine getirileceği belirlenebilir. Eğer bu konuda bir belirleme yapılmamışsa standart sözleşme veri
+aktaran  tarafından  Kişisel  Verileri Koruma Kurumuna  bildirilir.  Yapılacak  bildirime,  standart  sözleşmeyi
+imzalayanların yetkili olduğuna dair tevsik edici belgeler ile yabancı dildeki her belgenin noter onaylı çevirisi
+eklenir. Standart Sözleşmenin üzerinde herhangi bir değişiklik yapılmadan kullanılır. Standart sözleşmenin yabancı
+dilde de akdedilmesi hâlinde Türkçe metin esas  alınır. Standart sözleşme taraflarında veya standart sözleşme
+içeriğinde taraflarca yer verilen bilgi ve açıklamalarda bir değişiklik olması veya standart sözleşmenin sona ermesi
+hâlinde de aynı usulle Kişisel Verileri Koruma Kurumu’na bildirim yapılır.
+
+c) Kişisel  veriler, aktarım  tarafları arasında  kişisel verilerin korunmasına yönelik hükümler içeren yazılı bir
+taahhütnamenin akdedilmesi halinde PTT AŞ tarafından yurt dışına aktarılır. Taahhütnamede yer verilecek kişisel
+verilerin korunmasına yönelik hükümler Kişisel Verilerin Yurt Dışına Aktarılmasına  İlişkin Usul ve Esaslar
+Hakkında Yönetmelik’in 15’inci maddesinin 2’nci fıkrasında yer alan hususları içerir. Taahhütnameye dayanılarak
+kişisel  verilerin yurt dışına aktarılabilmesi  için veri aktaran tarafından Kurula  izin başvurusunda bulunulur.
+Yapılacak başvuru kapsamında taahhütname metni ve Kurul tarafından yapılacak değerlendirme için gerekli diğer
+bilgi ve belgeler Kurula sunulur. Taahhütnamenin yabancı dilde de akdedilmesi hâlinde Türkçe metin esas alınır.
+Kişisel veri aktarımına, Kurul tarafından izin verilmesinden sonra başlanır.
+
+===== PDF SAYFA 6 / 7 =====
+
+Doküman Adı
+               Kişisel Verilerin Korunması Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               6/7
+  Tüm Kullanıcılar
+
+6.6.3 İstisnai Aktarımlar
+
+6.6.3.1 İstisnai Aktarım Halleri
+
+Bu prosedürün 6.6.1 ve 6.6.2 maddelerinde yer alan şartlardan herhangi birinin sağlanamaması durumunda kişisel
+veriler; düzenli olmayan, tek veya birkaç sefer gerçekleşen, süreklilik arz etmeyen ve olağan faaliyet akışı içinde
+bulunmayan arızi aktarımlar için geçerli olmak kaydıyla aşağıda yer alan istisnai hallerinden birinin varlığı halinde
+yurt dışına aktarılır.
+
+a) İlgili kişinin, muhtemel riskler hakkında bilgilendirilmesi kaydıyla, aktarıma açık rıza vermesi,
+
+b) Aktarımın, ilgili kişi ile veri sorumlusu arasındaki bir sözleşmenin ifası veya ilgili kişinin talebi üzerine alınan
+sözleşme öncesi tedbirlerin uygulanması için zorunlu olması.
+
+c) Aktarımın,  ilgili  kişi yararına veri sorumlusu ve diğer  bir gerçek veya tüzel  kişi arasında yapılacak  bir
+sözleşmenin kurulması veya ifası için zorunlu olması,
+
+ç) Aktarımın üstün bir kamu yararı için zorunlu olması,
+
+d) Bir hakkın tesisi, kullanılması veya korunması için kişisel verilerin aktarılmasının zorunlu olması,
+
+e)  Fiili  imkânsızlık  nedeniyle  rızasını  açıklayamayacak durumda  bulunan veya  rızasına  hukuki  geçerlilik
+tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için kişisel verilerin
+aktarılmasının zorunlu olması,
+
+f) Kamuya veya meşru menfaati bulunan kişilere açık olan bir sicilden, sicillerde yer alan kişisel verilerin veya
+kişisel veri kategorilerinin tamamını içerecek şekilde olmamak kaydıyla; ilgili mevzuatta sicile erişmek için gereken
+şartların sağlanması ve meşru menfaati olan kişinin talep etmesi kaydıyla aktarım yapılması.
+
+6.6.3.2 Kamu Hukukuna Tabi Faaliyetlerde Uygulanmayan İstisnai Haller
+
+PTT AŞ’nin kamu hukukuna tâbi faaliyetlerine, yukarıda sayılan istisnai aktarım hallerinden; ilgili kişinin açık rıza
+vermesi, aktarımın ilgili kişi ile veri sorumlusu arasındaki bir sözleşmenin ifası veya ilgili kişinin talebi üzerine
+alınan sözleşme öncesi tedbirlerin uygulanması için zorunlu olması ve aktarımın ilgili kişi yararına veri sorumlusu
+ve diğer bir gerçek veya tüzel kişi arasında yapılacak bir sözleşmenin kurulması veya ifası için zorunlu olması
+halleri uygulanmaz.
+
+6.7 PTT AŞ’nin Aydınlatma Yükümlülüğü
+
+PTT AŞ aydınlatma yükümlülüğünün yerine getirilmesi amacıyla, veri sorumlusunun ve varsa temsilcisinin kimliği,
+kişisel verilerin hangi amaçla işleneceği, işlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği, kişisel
+veri toplamanın yöntemi ve hukuki  sebebi,  ilgili  kişinin KVKK  11. maddede  sayılan  hakları konusunda
+bilgilendirilmesi amacıyla aydınlatma metni hazırlar.
+
+6.8 İlgili Kişinin PTT AŞ’ye Şikâyet ve Başvuru Süreci
+
+İlgili kişi başvurularına ilişkin süreç RYB.PR04 Veri Sahibi Başvuru Yönetimi Prosedürü’ne uygun olarak yönetilir.
+
+6.9 Veri Güvenliğine İlişkin Yükümlülükler
+
+Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek, kişisel verilere hukuka aykırı olarak erişilmesini
+önlemek, Kişisel verilerin muhafazasını sağlamak amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli
+her türlü teknik ve idari tedbirlerin alınması RYB.PR06 Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+Prosedürü’ne uygun olarak sağlanır.
+
+6.10 Veri Sorumluları Sicili
+
+VERBİS’e başvuru sürecine ilişkin uygulama aşağıda sayılmıştır.
+
+===== PDF SAYFA 7 / 7 =====
+
+Doküman Adı
+                Kişisel Verilerin Korunması Prosedürü
+
+      Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR02           28.07.2025            1.01.2026            1               7/7
+  Tüm Kullanıcılar
+
+ 6.10.1 Veri Sorumluları Sicili’ne kayıt başvurusu PTT AŞ’nin kimlik ve adres bilgileri, kişisel verilerin hangi
+ amaçla işleneceği, veri konusu kişi grubu ve grupları ile bu kişilere ait veri kategorileri hakkındaki açıklamalar,
+ kişisel verilerin aktarılabileceği alıcı veya alıcı grupları, yabancı ülkelere aktarımı öngörülen kişisel veriler, kişisel
+ veri güvenliğine ilişkin alınan tedbirler ve kişisel verilerin işlendikleri amaç için gerekli olan azami süre hususlarını
+ içeren bildirimle yapılır.
+
+ 6.10.2 Başvuru sırasında verilen bilgilerde değişiklik olması halinde bu değişiklikler derhal Kişisel Verileri Koruma
+ Kurumu Başkanlığına bildirilir.
+
+ 6.10.3 VERBİS kaydına ilişkin hususlarda Veri Sorumluları Sicili Hakkında Yönetmelik’e uygun hareket edilir.
+
+ 6.11 Kurul Kararlarının Uygulanması
+
+ KVKK’da belirlenen suç ve kabahatlerin PTT AŞ içerisinde işlenmesi sonucunda Kurulun yapacağı bildirim
+ üzerine, ilgili personel hakkında disiplin hükümlerine göre işlem yapılması sağlanır ve sonucu Kurula bildirilir.
+
+ 7. ONAY
+
+ Bu prosedür Yönetim Kurulu tarafından onaylanır.
+
+ 8. YÜRÜRLÜK
+
+ Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+
+ 9. YÜRÜTME
+
+ Bu prosedürü Genel Müdür yürütür.
+
+ 10. REFERANS DOKÜMANLAR
+
+ KN.008-6698 sayılı Kişisel Verilerin Korunması Kanunu
+ RYB.PK02-Kişisel Veri Saklama ve İmha Politikası
+ RYB.PR04-Veri Sahibi Başvuru Yönetimi Prosedürü
+ RYB.PR06-Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler Prosedürü
+ YNT.079-Veri Sorumluları Sicili Hakkında Yönetmelik
+ YNT.094-Kişisel Verilerin Yurt Dışına Aktarılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik
+
+ 11. REVİZYON BİLGİLERİ
+
+Revizyon
+              Revizyon Tarihi   Revizyon Nedeni
+No
+
+                                   Şirketimizin  yeniden  yapılanması  kapsamında  revizyon  yapılmasına  ihtiyaç
+1               1.01.2026
+                                duyulmuştur.
+
+
+0               28.07.2025        Yeni Doküman

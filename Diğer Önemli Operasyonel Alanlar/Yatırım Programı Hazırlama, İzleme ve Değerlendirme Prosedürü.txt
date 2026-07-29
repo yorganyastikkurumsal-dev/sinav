@@ -1,0 +1,465 @@
+﻿===== PDF SAYFA 1 / 7 =====
+
+Doküman Adı
+  Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               1/7
+  Tüm Kullanıcılar
+
+
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nin Yatırımlarının Stratejik Plan ve Performans
+ Programında yer alan amaç ve hedefler doğrultusunda planlanması ile ilgili usul ve esaslarla, görev, yetki ve
+ sorumlulukları belirlemektir.
+
+ 2. KAPSAM
+
+ Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi’nin Kısa ve Orta Vadeli Yatırım Programının hazırlanması
+  ile Kısa Vadeli Yatırım Programının izlenmesi ve değerlendirilmesini kapsar.
+
+ 3. DAYANAK
+
+ Bu prosedür; Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi ve Posta Hizmetlerinin Yürütülmesine
+ İlişkin Görev Sözleşmesine dayanılarak hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.2 Ek Ödenek: Proje ödeneğini artırırken Şirketin yatırım tavanını da artıran ilave ödenek tahsisidir.
+
+ 4.3 Fizibilite (Fayda-Maliyet Analizi): Herhangi bir yatırım veya projeye başlama kararı vermeden önce gerekli
+ olan tüm bilgilerin sistematik bir şekilde elde edilmesidir.
+
+ 4.4 Genel Müdürlük: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürlüğüdür.
+
+ 4.5  İz Ödenek: Ekonomik  konjonktür  itibarıyla  yatırımının  durdurulmasına  karar  verilen  ancak  yatırım
+ programında muhafazasında yarar görülen projelere tahsis edilen 1.000 TL tutarındaki ödenektir.
+
+ 4.6 Kısa ve Orta Vadeli Yatırım Programı: Performans Programında belirtilen amaç ve hedefler ile politikaların,
+ önceliklerin  gerçekleştirilmesini teminen  gerekli  olan  projelerin  hayata  geçirilmesi  ile  Şirket  hizmetlerinin
+ geliştirilmesi, idamesi ve yenilenmesi için ihtiyaç duyulan ödeneğin bir program dahilinde temin edilmesi, bu
+ planın uygulanması, koordinasyonu ve izlenmesi, yıl içinde gereken revize işlemlerin yapılması çalışmalarının
+ bütünüdür.
+
+ 4.7 Finans Daire Başkanlığı: Posta ve Telgraf Teşkilatı Anonim Şirketi Finans Daire Başkanlığıdır.
+
+ 4.8 Ödenek: Yatırım Programında yer alan proje ya da alt kalem için tahsis edilmiş ödenektir.
+
+ 4.9 Proje: Belirli bir başlangıç ve bitiş zamanı olan, daha önceden var olmayan bir ürün veya hizmeti geliştirmek
+ veya  faaliyet  alanları  ve  birim  sorumlulukları  çerçevesindeki  çalışmalarla   ilgili  önemli  bir  değişikliği
+ gerçekleştirmek üzere yürütülecek bir seri iş, çalışma ve faaliyetler bütününe verilen isimdir.
+
+ 4.10 Proje Parametreleri: Projenin; ad, yer, karakteristik, kümülatif harcama, süre (başlama-bitiş yılı), maliyet ve
+ ödeneğidir.
+
+ 4.11 Projeler Arası Ödenek Aktarması: Proje bazında ödenek tavanını değiştirmesine rağmen Şirketin yatırım
+ tavanını değiştirmeyen ödenek revizyonudur.
+
+ 4.12 Revize: Yatırım Programında yer alan proje ve proje alt kalemlerinde başlangıçta öngörülmeyen ya da yaşanan
+ gelişmelere göre ortaya çıkan ihtiyaç doğrultusunda yapılan değişikliklerdir. (Proje, Proje Alt Kalem ilavesi veya
+ çıkarılması, Proje tutarı, ödenek, karakteristik, proje yeri vb. değişiklikler)
+
+
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+STRATEJİ GELİŞTİRME     ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+DAİRE BAŞKANLIĞI DAİRE  SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ
+BAŞKANI               BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               2/7
+  Tüm Kullanıcılar
+
+4.13 Strateji Geliştirme Daire Başkanlığı: Posta ve Telgraf Teşkilatı Anonim Şirketi Strateji Geliştirme Daire
+Başkanlığıdır.
+
+4.14 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+4.15 Tavan Ödenek: İlgili yılın yatırım programında yer alan projelerin toplam ödeneğidir.
+
+4.16 Toplu Proje: Proje ve karakteristiği makine-teçhizat, bilgisayar yazılım ve donanımı, idame-yenileme, bakım-
+onarım, büyük onarım, tamamlama, taşıt alımı, etüt-proje ile yayın alım ve basımı olan veya bunların bileşiminden
+oluşması uygun görülen projedir.
+
+4.17 Toplulaştırılmış Proje: Benzer nitelikteki alt projelerden oluşan ve amaç ve kapsamı itibariyle toplu ödenek
+tahsis edilmesi uygun görülen projedir.
+
+4.18 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+
+5. SORUMLULUKLAR
+
+Bu prosedürün hazırlanmasından ve yönetiminden Strateji Geliştirme Daire Başkanlığı, uygulanmasından ise
+Birimler sorumludur.
+
+6. UYGULAMA
+
+6.1 Genel İlkeler
+
+6.1.1 Şirketin stratejik planı ve performans programında yer alan amaç ve hedeflere ulaşmak amacıyla yatırımların
+koordineli bir şekilde yürütülmesi esastır.
+
+6.1.2  İlgili  yılın programının uygulanmasında  yatırımların  bütçeler  ile programlarda  değişiklik ve aktarma
+yapılmayacak şekilde gerçekleştirilmesi temel ilkedir.
+
+6.1.3  İlgili  yılın  yatırım programına  dâhil  edilen  projelerin  ilave finansman  ihtiyaçları  öncelikle  Şirketin
+programında yer alan diğer projelerin ödeneklerinden, bu prosedürde belirtilen esaslara göre yapılacak aktarmalarla
+sağlanır. Şirketin, ek ödenek talepleri bütçe imkânları da dikkate alınarak Yönetim Kurulunun iznine tabidir.
+
+6.1.4 İlgili yılın yatırım programında yer almayan herhangi bir proje için harcama yapılamaz. Yatırım projeleri
+finansman kaynağının türüne bakılmaksızın (hibe, arsa karşılığı vb dahil) yatırım programıyla ilişkilendirilmek
+zorundadır. Proje ödeneklerinin yatırım ile ilgili olmayan amaçlar için kullanılmaması esastır. Proje ödenekleri
+arasında bu prosedürde belirtilen kurallar dışında aktarma yapılamaz.
+
+6.2 Yatırım Programının Süresi, Revizyonu
+
+6.2.1 Yatırım Programı Finans Daire Başkanlığı tarafından hazırlanan bütçeye paralel olarak 3 yıllık hazırlanır (İlk
+yıl uygulama, sonraki iki yıl sadece planlama olarak).
+
+6.2.2 Yatırım Programı kapsamında yer alan proje/proje alt kalemlerinin ödenek darboğazına girmesi, ek ödenek
+ihtiyacının doğması, proje parametrelerinde değişiklik olması vb. halinde ihtiyacın giderilmesi için bu prosedür
+kapsamında belirlenen kurallar çerçevesinde revizyon yapılır.
+
+6.2.3 Toplu veya toplulaştırılmış projelerin detay programlarının belirlenmesi ve yıl içi revizyonları, Şirket Yönetim
+Kurulunun onayıyla yapılır.
+
+6.3 Üç yıllık yatırım programı teklifler
+
+6.3.1 Birimler, genel yatırım ve finansman programı çalışmaları kapsamında Şirket stratejik planı ve performans
+programında belirtilen hedefleri, politikaları, öncelikleri dikkate alarak proje düzeyinde üç yıllık yatırım program
+teklif taslaklarını (Projelerin ödenek ve gerekçelerinin yer aldığı özet tablo şeklinde) hazırlar ve Haziran/Temmuz
+ayında Strateji Geliştirme Daire Başkanlığına gönderirler. Şirketimizce Teklif taslaklarına yılsonuna kadar son şekli
+verilir ve ilk yıl Program, sonraki yıllar ise Teklif olarak onaylanır.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               3/7
+  Tüm Kullanıcılar
+
+6.3.2  Yatırım Program Teklifinde;
+
+6.3.2.1 Yılı içinde tamamlanarak hizmete girebilecek öncelikli projelere,
+
+6.3.2.2 Uygulamasında önemli fiziki gerçekleşme sağlanmış projelere,
+
+6.3.2.3 Başlatılmış bulunan diğer projelerle bağlantılı veya eş zamanlı olarak yürütülmesi ve tamamlanması gereken
+projelere,
+
+6.3.2.4 Mevcut sermaye stokunun daha etkin kullanılmasına ve korunmasına yönelik idame- yenileme, bakım-
+onarım, rehabilitasyon ve modernizasyon türü yatırım projelerine,
+
+6.3.2.5 Afet risklerinin azaltılması, afetlere hazırlık ile afet hasarlarının telafisine yönelik projelere
+
+6.3.2.6 e-Dönüşüm Türkiye Projesi ve Bilgi Toplumu Stratejisi ile uyumlu projelere ağırlık verilmesi esastır.
+
+6.3.3 Yeni hizmet binası tekliflerinde proje tamamlanma sürelerinin 3 yılı aşmamasına dikkat edilir. Hizmet binası
+tekliflerinde mevcut binanın kullanım durumu  ile ekonomik ömrünü dikkate  alan, güncel birim  maliyetler
+kullanılarak hesaplanan gerçekçi fiyatlara dayanan fayda – maliyet ya da maliyet - etkinlik analizleri yapılarak;
+analize ilişkin verilere göre düzenlenen İdari Hizmet Binası Projeleri için Gerekçe Raporunda ilgili bölümlerde
+yer verilir.
+
+6.3.4 Tasarruf tedbirlerine ilişkin çıkartılan Cumhurbaşkanlığı genelgelerinde yatırım programının hazırlanmasına
+ilişkin yer alan hükümler dikkate alınır.
+
+6.3.5 3 Yıllık dönemi kapsayan yatırım teklifleri, başlangıç yılının fiyatlarıyla ve bin TL bazında hazırlanır. Döviz
+üzerinden  yapılacak  hesaplamalarda  Cumhurbaşkanlığı-Strateji  ve  Bütçe  Başkanlığınca  yayınlanan  Yatırım
+Programı Hazırlama Rehberi ekinde yer alan kur değeri esas alınır.
+
+6.3.6 Devam eden projelerde İlgili Yılsonuna Kadar Tahmini Kümülatif Harcama ve Proje Tutarı yatırım
+programı döneminin başlangıç yılının fiyatları  ile verilir (Örneğin 2018-2020 Dönemi için 2018  yılı fiyatları
+kullanılır). Bunun için geçmiş yıllara ait harcamalar Cumhurbaşkanlığı-Strateji ve Bütçe Başkanlığınca yayınlanan
+Yatırım Programı Hazırlama Rehberi ekinde yer alan deflatörler ile ilgili yıl fiyatına dönüştürülür. Ayrıca başlangıç
+yılı yatırım ödeneği teklifi ile bu yıldan sonraki yıllara ait yatırım harcama tahminleri de başlangıç yılı fiyatları ile
+hazırlanır.
+
+6.3.7 Proje ve proje alt kalem tekliflerinde Birimlerce Proje Detay Formu, Proje Gerekçe Formu, İl Dağılımı
+Tablosu, … Yılı Yatırım Programında Yer Alan Devam Eden Projelerin … Yılsonu Tahmini Kümülatif
+Harcama Toplamları Tablosu (cari ve deflateli) ve ilgili yıldaki tüm proje/proje alt kalemlerini kapsayan …
+Yılsonu Tahmini Harcama Tablosu (cari) düzenlenerek Strateji Geliştirme Daire Başkanlığına gönderilir.
+
+6.3.8 Taşıt alımı teklifinde yine Cumhurbaşkanlığı-Strateji ve Bütçe Başkanlığınca yayınlanan Yatırım Programı
+Hazırlama Rehberi ekinde yer alan Tahmini Taşıt Alım Bedelleri Listesi esas alınır. Ayrıca, Taşıt edimine yönelik
+taleplerde mevcut taşıt envanterinin ve kullanım durumu dikkate alınır. Bu kapsamda taşıt talebinde bulunulması
+halinde Taşıt Envanteri Formu ve her bir taşıt talebi için Taşıt Talep Formu (Yatırım Programı) eksiksiz
+doldurulur.
+
+6.3.9 Taşıt satın alma talepleri, Şirketimiz envanterinde olan taşıtların yanında kiralık ve başka kurumdan tahsisli
+olarak kullanılmakta olan bütün taşıtların bilgisi ile birlikte iletilir. Taşıt alımı talepleri iletilirken, taşıt kiralama
+alternatifi   ile  maliyet  karşılaştırması  yapılır,  talebe  konu  taşıtın  piyasadan  kiralanıp  kiralanamayacağı,
+kiralanabiliyorsa gösterge mahiyetinde olmak üzere gerçekleşen veya tahmini kiralama bedeli (şoför ve diğer sabit
+giderler dahil) hesaplanarak teklifle birlikte iletilir.
+
+6.3.10 Teklif edilecek taşıt sayıları belirlenirken, tahmini taşıt alım bedellerinin her türlü vergi öncesi bedeller
+olduğu dikkate alınır.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 4 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               4/7
+  Tüm Kullanıcılar
+
+6.3.11 Bilgi ve iletişim teknolojileri projelerinin birbirleriyle koordinasyon içerisinde yürütülmesi, veri tabanı,
+bilgisayar altyapısı ve işlev bakımından benzerlik gösteren ve ortak yönleri bulunan projelerin birbirleriyle bütünlük
+içerisinde gerçekleştirilmesi için gerekli çalışmalar yapılır.
+
+6.3.12 Bilgi ve iletişim teknolojileri projelerinin hazırlanmasında http://www.bilgitoplumu.gov.tr/yatirim/ internet
+adresinde yer alan Kamu Bilgi ve İletişim Teknolojileri Projeleri Hazırlama Kılavuzunda belirtilen esaslar
+dikkate alınır.
+
+6.3.13 Birimler maliyeti 10 milyon TL ve üzerinde olan yıl içinde Yatırım Programına alınmasını talep edecekleri
+yeni projeler için hazırlayacakları fizibilite raporu ile birlikte Strateji Geliştirme Daire Başkanlığına müracaat
+ederler. Fizibilite etütlerinin gönderildiği yıl itibariyle güncel bilgileri içermesi gerekmektedir. Güncelliğini yitirmiş
+fizibilite etütleri revize edilmek üzere Birimlere geri gönderilebilir.
+
+6.3.14 Proje maliyeti 10 Milyon TL ve üzerinde olan yeni yatırım projesi  tekliflerinde  fizibilite raporunun
+hazırlanması  zorunludur.   Fizibilite  raporu  ve   ilgili  mevzuatın  gerektirmesi  durumunda  Çevresel  Etki
+Değerlendirmesi (ÇED) olumlu belgesi bulunmayan yeni projeler yatırım programına teklif edilmez. Yıl içi acil ve
+zorunlu nedenlere dayalı proje tekliflerinde, ilgili fizibilite raporlarına yeni proje tekliflerinin aciliyetini belirten
+gerekçeler de dahil edilir.
+
+6.3.15 Ancak, proje maliyetine bakılmaksızın, toplu ve yatırım programında tadat edilmemiş toplulaştırılmış projeler
+ile adı ve/veya karakteristiği taşıt alımı, restorasyon, lojman, eğitim tesisi, ikmal inşaatı, deprem güçlendirme, afet
+hasarlarının telafisi şeklinde olan her türlü yeni yatırım projesi teklifleri için fizibilite raporu yerine geçmek üzere
+Proje Teklif Formu doldurulur.
+
+6.3.16 Hizmet binası projelerinde önemli oranda fiziki gerçekleşmeye sahip projelere öncelik verilir. Yeni hizmet
+binası yapılması projelerine ilişkin tekliflerde İdari Hizmet Binası Projeleri İçin Gerekçe Raporu Formatı
+hazırlanır.
+
+6.3.17 Strateji Geliştirme Daire Başkanlığı, projenin özelliğini dikkate alarak maliyeti ne olursa olsun gerektiğinde
+ayrıntılı fizibilite raporu istemeye yetkilidir.
+
+6.3.18 Yapım ihaleleri için 4.1.2002 tarihli ve 4734 sayılı Kamu İhale Kanunu kapsamında ilgili Birimlerce, yıllara
+sari projeler için 3 yıllık yatırım döneminde her yıl için tahsis edilmesi gereken asgari ödenek miktarı dikkate alınır.
+
+6.3.19 Yapım ihaleleri hariç Yatırım Programı kapsamında yer alan diğer projeler için ise Şirketimiz Satınalma
+Prosedürü doğrultusunda Birimlerce yıllık ve çok yıllık projelere ait her yıl için tahsis edilmesi gereken ödenek
+miktarı belirlenir.
+
+6.4 Yatırım Programının Onaylanması
+
+6.4.1 Posta ve Telgraf Teşkilatı A.Ş. Esas Sözleşmesinin “Şirketin Temsili” başlıklı 16. maddesinin "ö" fıkrasındaki
+“Yıllık yatırım programını onaylamak ve  yıl  içerisinde  ihtiyaç duyulan  değişikleri yapmak.” hükmü
+doğrultusunda yatırım programı Yönetim Kurulu tarafından karara bağlanır.
+
+6.4.2 PTT A.Ş. ile Bilgi Teknolojileri ve İletişim Kurumu arasında 21 Temmuz 2014 tarihinde imzalanan Posta
+Hizmetlerinin Yürütülmesine İlişkin Görev Sözleşmesinin “Yatırım Planları” başlıklı 8. Maddesinde yer alan “PTT,
+Kurum düzenlemeleri uyarınca gelecek yılın plan ve programlarını her yıl 31 Aralık tarihine kadar Kuruma
+sunar” hükmü doğrultusunda Yatırım Programı 31 Aralık tarihine kadar Regülasyon Birimi aracılığı ile Bilgi
+Teknolojileri ve İletişim Kurumuna sunulur.
+
+6.5 Yatırım Programının Revizyonu
+
+6.5.1 Yatırım Programına yıl içinde proje alınması ile Yatırım Programından proje çıkarılması işlemleri Şirket
+Yönetim Kurulunun onayıyla karara bağlanır.
+
+6.5.2 Yatırım Programının tavan ödeneğinin artırılmasına yönelik revize Şirket Yönetim Kurulunca sonuçlandırılır.
+
+6.5.3  İlgili  Yılın Yatırım Programında yer  alan  toplu ve  toplulaştırılmış  projelerin detay programlarındaki
+değişiklikler ve bu itibarla ihtiyaç duyulacak ana proje grubu revizyonlarında aşağıdaki hükümlere uyulur:
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 5 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               5/7
+  Tüm Kullanıcılar
+
+6.5.3.1 Yer değişiklikleri: Toplu projeler ile yatırım programında detayı tadat edilmemiş toplulaştırılmış projelerin
+alt projelerinde yer değişiklikleri, Şirket Yönetim Kurulunun onayıyla yapılır.
+
+6.5.3.2 Proje adı ve karakteristik değişiklikleri: Toplu projeler ile yatırım programında detayı tadat edilmemiş
+toplulaştırılmış projelerin  alt projelerinde proje adı ve karakteristik  değişiklikleri Şirket Yönetim Kurulunun
+onayıyla karara bağlanır.
+
+6.5.3.3 Süre değişiklikleri: İlgili yılda bitirilmesi programlanmış projeler dahil, süre değişiklikleri Şirket Yönetim
+Kurulunun onayıyla yapılır.
+
+6.5.3.4 Maliyet değişiklikleri:
+
+6.5.3.4.1 İhale edilmiş projelerin sözleşme bedelinde (ihale bedeli) fiyat ve kur değişikliğinden kaynaklanan artış ile
+anahtar teslimi götürü bedel ihale edilen işlerde  iş artışından kaynaklanan proje maliyet değişiklikleri, İhale
+edilmemiş projelerin maliyet değişiklikleri, toplulaştırılmış projelerin alt projelerindeki her türlü maliyet artışı Şirket
+Yönetim Kurulunun onayıyla yapılır.
+
+6.5.3.4.2 Yıllık projelerin ödenek değişikliğinden kaynaklanan maliyet değişikliği kendiliğinden yapılmış sayılır.
+
+6.5.3.5 Ödenek değişiklikleri
+
+6.5.3.5.1 Her türlü kaynaktan proje ödeneğine (toplulaştırılmış projelerin alt projeleri dâhil) yıl içinde yapılacak ek
+ödenek tahsisleri Yönetim Kurulunun onayı ile karara bağlanır.
+
+6.5.3.5.2 Yatırım Programında iz ödenekle yer alan projelere yıl içinde ödenek aktarması, iz ödeneğe çekme
+gerekçeleri dikkate alınarak ve projelerin durumu gözden geçirilerek Şirket Yönetim Kurulunun onayı ile karara
+bağlanır.
+
+6.5.3.6 Şirketin dış finansman (kredi ve/veya hibe) ile yürüteceği projelerde 4749 sayılı Kamu Finansmanı ve Borç
+Yönetiminin Düzenlenmesi Hakkında Kanun ve bu Kanuna dayanılarak çıkarılmış olan “4749 Sayılı Kanun
+Kapsamında Dış Finansman Sağlanmasına ilişkin Usul ve Esaslara Dair Yönetmelik" hükümlerine uyulur. Dış
+finansman kullanımlarının Yatırım Programı ile ilişkilendirilmesi esastır.
+
+6.5.3.7 Önceki yıl içerisinde kullanılmayan ve bir sonraki yıla devreden dış proje kredisi ödeneklerinin Yatırım
+Programı ile ilişkilendirilmesinde ihtiyaç duyulacak revizyon, Yönetim Kurulunca sonuçlandırılır.
+
+6.6 Yatırım Programının İzlenmesi ve Değerlendirilmesi
+
+6.6.1 Finans Daire Başkanlığı  tarafından …  Yılı İşletme Bütçesinde yer alması gereken  ....  Yılı Yatırım
+Programının proje ve alt kalemlerine ilişkin talep edilen üçer aylık gerçekleşme planlaması doğrultusunda ilgili
+Birimlerden alınan bilgilere göre …. Yılı Yatırım Programında Yer Alan Proje ve Alt Kalemlerine Ait Üçer
+Aylık Gerçekleşme Planlaması Tablosu hazırlanır.
+
+6.6.2 Yatırım Programı ve Revize Yatırım Programında yer alan Proje ve Proje Alt Kalemlerinin Aylık, Üç Aylık
+ve Yıllık Periyotlarda takibi yapılarak;
+
+6.6.2.1 … Yılı Yatırım İzleme Formu,
+
+6.6.2.2 … Yılı Yatırım Programı … Ayı Sonu İtibariyle Gerçekleşme Durumu Tablosu,
+
+6.6.2.3 … Yılı Yatırım Programı … Yılı Sonu İtibariyle Gerçekleşme Durumu Tablosu,
+
+6.6.2.4 … Yılı Yatırım Programı İl Bazında Ödenek ve Harcama Bilgileri İle Gerçekleşme Oranları Tablosu,
+
+6.6.2.5 … Yılı Süreç Planlaması ve Planlama Etkinliği Tablosu,
+
+6.6.2.6 … Yılı Süreç Planlaması ve Planlama Etkinliği İzleme Tablosu,
+
+6.6.2.7 …  Yılı Yatırım Programında Yer Alan Proje ve Alt Kalemlerin Üçer Aylık Dönemler  İtibariyle
+Gerçekleşme Durumu ve Sapma Nedenleri Tablosu üzerinden raporlanır.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 6 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+      Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               6/7
+  Tüm Kullanıcılar
+
+ 7. ONAY
+
+ Bu prosedür Yönetim Kurulu tarafından onaylanır.
+
+ 8. YÜRÜRLÜK
+
+ Bu prosedür yayınlandığı tarihte yürürlüğe girer.
+
+ 9. YÜRÜTME
+
+ Bu prosedürü Yönetim Kurulu yürütür.
+
+ 10.REFERANS DOKÜMANLAR
+
+ DHU.PR17-PTT AŞ Taşıt Prosedürü
+ GNG.004-2024-7 sayılı Tasarruf Tedbirleri Konulu Cumhurbaşkanlığı Genelgesi
+ KN.031-4734 sayılı Kamu İhale Kanunu
+ KN.033-4735 sayılı Kamu İhale Sözleşmeleri Kanunu
+ KN.071-4749 sayılı Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun
+ KN.072-5378 sayılı Engelliler Hakkında Kanun
+ SAT.PR04-PTT AŞ Mal ve Hizmet Alımı Prosedürü
+ SGD.DKD03-Yatırım Programı Hazırlama Rehberi
+ SGD.FR06-Taşıt Envanter Formu
+ SGD.FR08-Fizibilite Raporu Formatı
+ SGD.FR09-Proje Teklif Formu
+ SGD.FR10-İdari Hizmet Binası Projeleri İçin Gerekçe Raporu Formatı
+ SGD.FR11-Proje Detay Formu
+ SGD.FR12-Proje Gerekçe Formu
+ SGD.FR49-Taşıt Talep Formu (Yatırım Programı)
+ SGD.TB07-İl Dağılımı Tablosu
+ SGD.TB08- ... Yılı Yatırım Programında Yer Alan Devam Eden Projelerin … Yıl Sonu Tahmini Kümülatif
+ Harcama Toplamları Tablosu
+ SGD.TB09-… Yıl Sonu Tahmini Harcama Tablosu
+ SGD.TB18-.… Yılı Yatırım Programında Yer Alan Proje ve Alt Kalemlerin Üçer Aylık Dönemler İtibarıyla
+ Gerçekleşme Durumu ve Sapma Nedenleri Tablosu
+ SGD.TB19- …. Yılı Yatırım Programında Yer Alan Proje ve Alt Kalemlerine Ait Üçer Aylık Gerçekleşme
+ Planlaması Tablosu
+ SZL.005-PTT AŞ Esas Sözleşmesi
+ YAP.PR04-Yapı İşleri Satınalma Prosedürü
+ YNT.103-4749 sayılı Kanun Kapsamında Dış Finansman Sağlanmasına İlişkin Usul ve Esaslar Hakkında
+ Yönetmelik
+
+ 11.REVİZYON BİLGİLERİ
+
+Revizyon
+             Revizyon Tarihi  Revizyon Nedeni
+No
+
+                                Şirketimizin  yeniden  yapılanması  kapsamında  revizyon  yapılmasına
+2             1.01.2026
+                                  ihtiyaç duyulmuştur.
+
+                            Cumhurbaşkanlığı   Hükümet    Sistemi    değişiklikleri,    Şirketimiz
+                             Organizasyon yapısında yapılmış olan değişiklikler ile KYS kapsamında
+1             11.01.2019
+                               yer almayan formlar (SGG, Süreç Performans İzleme Tablosu  gibi)
+                               nedeniyle revize yapılmasına ihtiyaç duyulmuştur.
+
+
+
+
+
+                            “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 7 / 7 =====
+
+Doküman Adı
+ Yatırım Programı Hazırlama, İzleme ve Değerlendirme Prosedürü
+
+      Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR02           16.07.2018            1.01.2026            2               7/7
+  Tüm Kullanıcılar
+
+
+0             16.07.2018      Yeni Doküman
+
+
+
+
+
+                            “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

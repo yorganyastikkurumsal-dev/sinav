@@ -1,0 +1,343 @@
+﻿===== PDF SAYFA 1 / 6 =====
+
+Dokümanın Adı:
+                PTT A.Ş. MÜZELERİ İŞLETİM PROSEDÜRÜ
+
+Gizlilik Derecesi:    Doküman No:       İlk Yayın Tarihi    Revizyon Tarihi     Revizyon No:       Sayfa Sayısı:
+    Tüm         DKD.PR03          13.07.2018          13.07.2018             0                   1/6
+   Kullanıcılar
+
+
+
+                      REVİZYON TARİHÇESİ
+
+
+   Revizyon
+              Revizyon Tarihi                              Açıklama
+    No
+
+      0        13.07.2018
+
+
+
+
+
+ Hazırlayan:                Süreç Sahibi:           EYS Onayı                   Onaylayan / İdari
+DEĞERLİ KAĞITLAR D.   DEĞERLİ KAĞITLAR     ENTEGRE YÖNETİM SİSTEMİ  GENEL MÜDÜR
+BŞK.                  DAİRE BAŞKANLIĞI     DAİRE BAŞKANLIĞI
+                   MÜZE ŞUBE           BAŞKANLIK DAİRE BAŞKANI
+                  MÜDÜRLÜĞÜ ŞUBE
+                  MÜDÜRÜ
+ Doküman No
+ DKD.PR03.0                                  1/6                                  13.07.2018
+
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 6 =====
+
+1. AMAÇ
+
+Prosedürün amacı, Posta ve Telgraf Teşkilatı Anonim Şirketi’ne bağlı olarak hizmet verecek müzelerin kuruluş,
+çalışma ve işleyiş esaslarını belirlemektir.
+
+2. KAPSAM
+
+Bu prosedür PTT A.Ş. bünyesinde faaliyet gösteren merkez ve taşra teşkilatı birimlerine bağlı müzeleri
+kapsar.
+
+3.TANIMLAR VE KISALTMALAR
+
+3.1.  Başkanlık: Değerli Kâğıtlar Daire Başkanlığı’nı ifade eder.
+3.2.  CCTV (Kapalı Devre TV): Güvenlik kameraları izleme ekranlarıdır.
+3.3.  Değerlendirme Komisyonu: Varlıkların tasnifi ve müzeye alınmaları ile ilgili oluşturulan komisyonu
+ifade eder.
+3.4.   Filatelik Ürün: PTT tarafından hazırlanarak satışa sunulan ve içerisinde değerli kâğıt ve/veya diğer
+materyaller yer alan, koleksiyon değeri taşıyan ürünlerdir.
+3.5.  Genel Müdür: Posta ve Telgraf Teşkilatı Anonim Şirketi Genel Müdürü’dür.
+3.6.  Hediyelik Eşya Satış Ürünü: Müze bünyesinde satışı yapılmak üzere temin edilen hediyelik eşyalar ile
+PTT tarafından belirlenecek diğer ürünleri ifade eder.
+3.7.   İlgili Başmüdürlük: Bünyesinde müze bulunan Başmüdürlüğü ifade eder.
+3.8.  Müze: Posta hizmetlerine  ait eserleri tespit eden, koruyan, tanıtan, sergileyen, eğitim programları
+aracılığıyla söz konusu eserler konusunda halkı bilinçlendirerek toplumun kültür düzeyine katkı sağlanmasının
+amaçlandığı yerdir.
+3.9.  Müze Dükkân: Filatelik ve hediyelik eşya satışı yapılan yerdir.
+3.10. Müze Dükkân Kasa Sorumlusu: Müdür ünvanına sahip çalışanı ifade eder.
+3.11. Müze Eserleri: Değerli Kağıtlar İşletme Prosedürü ve Filateli İşletme Prosedürü kapsamında
+üretilen ürünler ile gerçek/tüzel kişilerce müzeye bağışlanan, hediye edilen veya satın alınan koleksiyon değeri
+taşıyan ve tasnif edilerek envanter kayıtları yapılmak suretiyle Kültür ve Turizm Bakanlığı tarafından denetime
+tabi tutulan eserler ve ürünlerdir.
+3.12. PTT Müzesi: PTT bünyesinde faaliyet gösteren PTT Müzelerini ifade eder.
+3.13. Sayım Komisyonu: Müze deposu ve  arşivindeki  varlıkların  yılsonunda  sayımı yapmak  üzere
+oluşturulan komisyonu ifade eder.
+3.14. Şirket/PTT: Posta ve Telgraf Teşkilatı Anonim Şirketi’dir.
+3.15. Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kurulu’nu ifade eder.
+
+
+4. SORUMLULUKLAR
+
+4.1  Değerli Kâğıtlar Daire Başkanlığı: Müze işletimine dair prosedürleri belirler.
+
+4.2 Destek Hizmetleri Daire Başkanlığı: Müze işletim sürecinde gerekli olan destek hizmetlerine ilişkin
+görev alanları içerinde gerekli iş ve işlemleri yaparak müze işletiminin sürdürülmesini sağlar.
+
+4.3 Başmüdürlükler: Bünyesinde müze bulunan birimler bu prosedür kapsamında işletilmesini sağlar.
+
+5.UYGULAMA
+5.1 Müzenin Kuruluşu, Faaliyet Alanı ve İşletilmesi
+
+5.1.1 PTT, 22/01/1984 tarihli ve 18289 sayılı Resmî Gazete’de yayımlanan Özel Müzeler ve Denetimleri
+Hakkında Yönetmelik hükümleri doğrultusunda posta ve telgraf hizmetlerine ait kültür varlıklarının teşhiri,
+incelenmesi, değerlendirilmesi, korunması ve tanıtılması amacıyla müzeler kurabilir. Müzelerin kurulacağı
+yer PTT tarafından belirlenir.
+Doküman No
+DKD.PR03.0                                  2/6                                  13.07.2018
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 6 =====
+
+5.2 Müzelerin Faaliyet Alanı
+
+5.2.1  Müzelerin  faaliyet  alanı  Özel  Müzeler  ve  Denetimleri  Hakkındaki  Yönetmelik  hükümleri
+doğrultusunda;
+
+a)  Müzelerin işletilmesine ilişkin iş ve işlemleri yapmak,
+b)  Posta hizmetlerine ait alanlarla ilgili teknik ve eğitim faaliyetlerinin yürütülmesine destek vermek veya
+    yer tahsis etmek, eğitim ve öğretim kurumlarıyla işbirliği yapmak ve öğrencilerin müzeleri tanımasına
+   ve eğitilmelerine yardımcı olmak,
+c)  PTT’nin kuruluş ve faaliyetlerinin tarihi gelişiminin araştırılmasına, faaliyet alanına ait araç, gereç,
+   doküman, belge ve eşyaların toplanması, korunması ve teşhir edilmesine imkân sağlamak,
+d) PTT’ye bağlı birimlerde müzelik eserlerle ilgili faaliyetleri yürütmek,
+e)  Çeşitli yollarla tespit edilmiş olan müzelik eserlere ilişkin gerçek ya da tüzel kişilerle irtibat kurularak,
+    gerek hibe gerekse satın alma yolu ile bu eserlerin müzelere kazandırılmasını sağlamak,
+f)  Müzelerdeki mevcut eserlerle müzelere intikali sağlanan eserlerin tasniflerini yapmak,
+g)  Eserleri teşhir için düzenlemek ve güncellenmesini sağlamak,
+h) Müzede ve müze dışında eğitici kurslar, konferanslar, sergiler, geziler düzenlemek, kültür hayatının
+    geliştirilmesine katkıda bulunulmasını sağlamak,
+i)  Arşivlerdeki eserlerin sağlıklı bir şekilde korunması sağlamaktır.
+j)  Müzeye yapılmak istenen okul ziyaretlerinin planlaması yapılarak rehberlik edilir.
+
+5.3 Müzelerin İşletilmesi
+Müzelerin işletilmesi Değerli Kâğıtlar Daire Başkanlığı tarafından yürütülür.
+
+5.4 Müze Eserlerinin Temini
+
+Müze eserlerinin temini;
+
+a)  Filateli İşletme Prosedürüne göre üretilen ürünler,
+b)  Şartlı ya da şartsız bağışlar,
+c)  Özelliği gereği müzelere gelen hediyeler,
+d)  Satın alma,
+
+gibi yöntemlerle sağlanır.
+
+5.5 Bağışlar
+
+5.5.1 Müzeye bağış yapacak gerçek ve tüzel kişiler, bağışın yerini ve mahiyetini içeren bir dilekçe ile müze
+müdürlüğüne başvururlar. Bağışların kabulü ilgili Başmüdürlük ve Başkanlığın izni ile yapılır.
+5.5.2 Bağışlanan  eserlerin müzelerde  sergilenmesi  halinde  bağışı yapan  kişilerin  isimleri unvan ve
+amblemleri ilgili yerlere konulur.
+5.5.3 Bağışlanan eserler; kültür varlığı ise envanter defterine, kültür varlığı değilse demirbaş kayıt defterine
+kaydedilir. Hediye ve bağış sahibine bir yazı ile envanter veya demirbaş kayıt numarası bildirilir.
+
+5.6 Müze Eserlerinin Satın Alınması
+
+5.6.1 Başkanlık ve ilgili Başmüdürlük tarafından ihtiyacın bildirilmesi halinde PTT. A.Ş satın almaya ilişkin
+düzenlemeler çerçevesinde temin edilir.
+
+5.6  Eserlerin Müze Dışına Çıkarılması
+
+5.7.1 Resmi ve özel müzeler ile PTT tarafından katılım sağlanan yurtiçi ve yurtdışı sergilere geçici olarak
+müze eserleri verilebilir. Bu eserlerin verilmesi Genel Müdürün onayı ile Kültür ve Turizm Bakanlığının
+iznine tabidir.
+Doküman No
+DKD.PR03.0                                  3/6                                  13.07.2018
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 4 / 6 =====
+
+5.7.2  PTT müzelerinde bulunan Osmanlı Pulları  ile Türk Pulu Resim Baskı Örneklerinin orijinalleri
+yurtdışına gönderilmez. Talep edilmesi ve Genel Müdürün uygun görülmesi halinde bu örneklerin dijital
+baskıları verilebilir.
+
+5.8 Yayın ve Tanıtma
+
+5.8.1 PTT;
+
+a)   Müzelerde konusu  ile  ilgili olarak  tanıtıcı yayınlar  hazırlayabilir.  Eserleri veya ürünleri  tanıtıcı
+     kataloglar, el broşürleri ve kartpostalları bastırabilir.
+b)  Müzelere ilişkin CD, DVD, fotoğraf gibi hediyelik eşyalar ve çeşitli ürünler yaptırabilir ve satabilir.
+c)   Müzelere ilişkin tanıtıcı faaliyet yapabilir. Aynı zamanda müze ile ilgili olmak kaydıyla, yurt içinde ve
+     dışında yayınlanmakta olan gazete ve dergilerle çeşitli müzecilik yayınlarında makaleler yayınlanabilir,
+    bu alandaki her türlü süreli ve süresiz yayın satın alabilir veya satabilir.
+
+5.9 Müzelerden, Müze Eserlerinden Ve Dokümanından Yararlanma
+
+5.9.1 Müzede araştırma yapmak isteyen kişi ya da kuruluşlar;
+
+a)  25/9/1986 tarihli ve 86/11038 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren Kamu Kurum ve
+    Kuruluşlarına Ait Eserlerden Faydalanma Usul ve Esasları Hakkında Tüzüğün, “Başvuru ve İzin”
+    başlıklı 3 üncü maddesi hükümlerine göre PTT’den izin almak zorundadır.
+
+b)  Yabancı araştırmacıların müzelerdeki çalışmalarında, 4/4/1988 tarihli ve 88/2839 sayılı Bakanlar Kurulu
+    Kararı ile yürürlüğe konulan Türkiye’de İlmi Araştırma, İnceleme Yapmak ve Film Çekmek İsteyen
+    Yabancılar veya Yabancılar Adına Müracaat Edenler ile Yabancı Basın-Yayın Mensuplarının Tabi
+    Olacakları Esasların 3 üncü maddesinde yer alan hükümlere uymak zorundadır.
+
+c)  Müzelere yapılan araştırma  talepleri Üst Yönetim  bilgilendirilerek Başkanlıkça  değerlendirilir ve
+    sonuçlandırılır.
+
+d) PTT tarafından izin verilen müze çekimleri sırasında, arşiv malzemesine zarar verebilecek flaş ve
+    benzeri araçların kullanılmasına izin verilmez.
+
+e) PTT Müzelerinde yapılacak izne bağlı çekimler ile stant açılması “Film-Fotoğraf Çekimi ve Stant Açma
+     İle Reklam İşleri Prosedürü uyarınca belirlenecek ücret mukabilinde olabileceği gibi PTT onayı ile
+    ücretsiz olarak da yapılabilir. Çekimler müze çalışanının denetiminde gerçekleştirilir.
+
+
+5.10 Envanter Kayıtları
+5.10.1 Koleksiyon değeri taşıyan haberleşme araçları, posta hizmetlerine ait kültür varlıkları ve filatelik
+ürünlerden müzeye alınanlar müze envanter defterine kaydedilir.
+5.10.2 Türk Pulları Resim Baskı Örnekleri, Kültür ve Turizm Bakanlığınca uygun görülen noter tasdikli
+envanter defterlerine iki nüsha halinde kaydedilir. Bu defterlerden bir nüshası Kültür ve Turizm Bakanlığına
+verilir, bir nüshası müzede muhafaza edilir.
+5.10.3 Müze Şube Müdürlüğü envanterinde kayıtlı değerli kâğıtlar ve filatelik ürünler satılamaz ve
+armağan edilemez.
+
+5.11 Sayım Ve Değerlendirme Komisyonlarının Görev Ve Yetkileri
+
+5.11.1 Müzelerde, müze deposu ve arşivindeki  varlıkların yılsonunda sayımını yapmak üzere Sayım
+Komisyonu; varlıkların tasnifi ve müzeye alınmaları ile ilgili olarak ise Değerlendirme Komisyonu kurulur.
+
+5.11.2 Komisyonlar, üç kişiden az olmamak üzere ilgili Daire Başkan Yardımcısının Başkanlığında Müze
+Müdürlüğü çalışanlarından oluşturulur.
+
+5.12 Güvenlik Önlemleri
+
+
+Doküman No
+DKD.PR03.0                                  4/6                                  13.07.2018
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 5 / 6 =====
+
+5.12.1 Müzenin ve müzedeki her türlü kültür varlığı ile ayniyatın güvenliği yirmi dört saat boyunca güvenlik
+elemanlarınca sağlanır.
+5.12.2 Müze teşhir salonlarında bulunan vitrinlerin anahtarları müze müdürünün, müdür yoksa yerine
+vekâlet edenin sorumluluğu altındaki mühürlü bir dolapta veya kasada bulundurulur.
+5.12.3 Arşiv  kapıları müdür  tarafından  görevlendirilecek  bir  çalışan  ile  birlikte  açılır ve  kapatılır.
+Gerektiğinde bu yerler ilgili Başmüdürlük ve Başkanlıkça oluşturulacak komisyon marifetiyle kontrol edilir.
+Bu işlem bir tutanakla tespit edilir. Büroların anahtarları da mesai bitimi sonrasında kilitlenerek güvenlik
+odasında bulunan dolapta muhafaza edilir.
+5.12.4 Müzede Kurulu alarm sistemi görevli çalışanların çıkışından sonra aktif; mesainin başlaması ile
+birlikte pasif hale  getirilir. Müzenin kapanış saatinde değişiklik olması durumunda  ilgili alarm izleme
+merkezine haber verilir.
+5.12.5 Kapanışından sonra müzede, yalnız nöbetçi güvenlik personeli bulunur. Bunların dışında  ilgili
+Başmüdürlük ve Başkanlığın izni olmaksızın müzeye girilemez.
+5.12.6 Müze ziyaretçilerinin, yanındaki paket ve benzeri eşyalar, güvenlik görevlisi tarafından iki anahtarla
+açılan kilitli emanet dolabına konulmak üzere teslim alınır. Anahtarın biri emanet sahibi olan ziyaretçiye
+verilir.
+5.12.7 Müzede inşaat, bakım, onarım, restorasyon çalışmaları sırasında güvenlik önlemleri artırılarak sıkı
+denetimler yapılır. Müteahhit firma işe başlamadan önce başlama-bitiş tarihleri ve saatleri ile çalışacak
+işçilerin fotoğraflı kimlik bilgileri Değerli Kâğıtlar Daire Başkanlığınca teslim alınır ve dosyada muhafaza
+edilir.
+
+5.13. Müze Ziyaret Saatleri
+5.13.1 Müzeler resmi tatiller ile dini ve milli bayramlar dışında 09.00 ile 17.00 saatleri arasında açıktır.
+Müze ziyaret gün ve saatlerinde değişiklik yapılması PTT’nin yetkisindedir.
+
+5.14 Giriş Ücreti
+
+5.14.1 Müzelere giriş ücretsiz olup, Kültür ve Turizm Bakanlığı müzeleri için tayin edilen azami giriş
+ücretinden fazla olmamak kaydıyla Yönetim Kurulu kararıyla ziyaretçilerden tam ve indirimli ücret de
+alınabilir.
+
+5.15 Satış
+
+5.15.1 Müzelerde  satışa konu ürünler  değerli  kağıtlar,  filatelik  ürünler,  kişisel pul  ile bu  ürünlerin
+tanıtılmasını sağlamak üzere yapılan hediyelik eşyalardan oluşur.
+
+5.15.2 Değerli kâğıtların ve filatelik ürünlerin satışı Değerli Kâğıtlar İşletme Prosedürü ve Filateli İşletme
+Prosedürüne göre gerçekleştirilir.
+
+5.15.3  Satılan  değerli  kâğıtlar ve  filatelik ürünler  geri alınmaz.  Hizmet sunumunda hata oluşması
+durumunda değerli kâğıt ve filatelik ürünün iadesi kabul edilir.
+
+5.15.4 Müzelerdeki her türlü satış ürününün satış fiyatı, PTT tarafından Genel Müdürün onayı ile belirlenir.
+
+5.16 Müze Dükkân Sorumlusunun Görev Ve Yetkileri
+
+5.16.1 Kasa sorumlusu unvanına sahip çalışanlar arasından, müze müdürünün teklifi ve Daire Başkanının
+veya Başmüdürün onayı ile görevlendirilir. Kasa sorumlusu Müze dükkânda satışı yapılan filatelik ürün ve
+hediyelik eşyaların ve diğer satış ürünlerinin sayımı ve stoklarının takip edilmesinden sorumludur.
+
+5.16.2 Her ay sonu itibarıyla filatelik ürün ve hediyelik eşya stoklarının sayımı yapılarak kasa sorumlusu,
+ilgili çalışan ve müze müdürünün imzasıyla tutanak oluşturulur.
+
+5.16.3 Müze Dükkân Kasa sorumlusu satışlardan elde edilen gelirlerin hesaplara yatırılmasını günlük olarak
+takip eder.
+
+5.17 Kafeterya Hizmetleri
+
+
+
+Doküman No
+DKD.PR03.0                                  5/6                                  13.07.2018
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 6 / 6 =====
+
+5.17.1  Müzelerde  bulunan  kafeteryalar     ilgili  düzenlemeler  çerçevesinde   işletilir.  Kafeteryanın
+işletilmesinden elde edilecek gelirler bağlı bulunduğu başmüdürlüğün sosyal tesisler gelirleri içerisinde
+değerlendirilir.
+
+
+
+
+
+6. YÜRÜRLÜK
+Bu prosedür yayınlandığı tarihte yürürlüğe girer.
+7. YÜRÜTME
+Bu prosedürü Genel Müdür yürütür.
+
+8. REFERANS DOKÜMANLAR:
+
+
+DKD.PR01-Filateli İşletme Prosedürü
+DKD.PR04-Değerli Kağıtlar İşletme Prosedürü
+
+
+
+
+
+Doküman No
+DKD.PR03.0                                  6/6                                  13.07.2018
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

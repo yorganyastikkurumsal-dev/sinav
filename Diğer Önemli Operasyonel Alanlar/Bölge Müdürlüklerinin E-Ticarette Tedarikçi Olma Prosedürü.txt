@@ -1,0 +1,195 @@
+﻿===== PDF SAYFA 1 / 3 =====
+
+Doküman Adı
+   Bölge Müdürlüklerinin E-Ticarette Tedarikçi Olma Prosedürü
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         ETD.PR03           1.01.2026             1.01.2026            0               1/3
+  Tüm Kullanıcılar
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi Bölge Müdürlüklerinin e-ticaret platformlarında
+ farklı rol ve pozisyonlarda tedarikçi olarak yer almasına ilişkin sürecin usul ve esaslarını belirlemektir.
+
+ 2. KAPSAM
+
+ Bu prosedür, Bölge Müdürlüklerinin  e-ticaret platformlarına üye olması ve bu platformlarda kuracağı sanal
+ mağazalardan satış yapması ile e-ticaret platformu hizmetlerinden faydalandırmasını, tedarikçi olarak yapacağı iş ve
+ işlemleri kapsar.
+
+ 3. DAYANAK
+
+ Bu  prosedür, 6475  sayılı  Posta  Hizmetleri Kanunu’nun  “Faaliyet Konuları ve  Nitelikleri”  başlıklı  22’nci
+ maddesinin 1’inci fıkrasına dayanılarak hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1  Alıcı: E-ticaret platformları üzerinde Bölge Müdürlükler tarafından satışa arz edilen mal ve/veya hizmetleri
+ satın alan gerçek veya tüzel kişileri,
+
+ 4.2  Alt Tedarikçi: Bölge Müdürlüklerin ürün temin ettiği satıcı ve/veya üreticileri,
+
+ 4.3 Bölge Müdürlükler: Posta ve Telgraf Teşkilatı Anonim Şirketinin Taşra Teşkilat birimlerini,
+
+ 4.4  E-Ticaret platformları: Posta ve Telgraf Teşkilatı Anonim Şirketi ve bağlı birimlerinin yapacağı sözleşme
+ kapsamında hizmetlerini sunduğu web siteleri ve mobil uygulamalarını,
+
+ 4.5  Kullanıcı/Kullanıcılar: E-ticaret platformlarına erişimde bulanan tüm gerçek ve tüzel kişileri,
+
+ 4.6 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketini,
+
+ 4.7  Tedarikçi: E-ticaret platformları üzerinde oluşturduğu hesap üzerinden yayınladığı ilanlar aracılığıyla çeşitli
+ mal ve/veya hizmetleri satışa sunan Bölge Müdürlükleri,
+
+ 4.8 Üye/Üyeler: Posta ve Telgraf Teşkilatı Anonim Şirketi ile yapmış oldukları harici sözleşmelere dayalı olarak
+ e-ticaret platformlarına üye olan veya Posta ve Telgraf Teşkilatı Anonim Şirketinin sunduğu hizmetlerden
+ yararlanan alıcıları,
+
+ ifade eder.
+
+ 5. SORUMLULUKLAR
+
+ Bu prosedürün hazırlanmasından E-Ticaret Daire Başkanlığı personeli, uygulanmasından E-Ticaret Daire
+ Başkanlığı personeli ve Bölge Müdürlükleri sorumludur.
+
+ 6. UYGULAMA
+
+ 6.1 Bölge Müdürlüklerinin Faaliyetinin/Projesinin Belirlenmesi, Fizibilite Raporu Hazırlanması
+
+ 6.1.1 Bölge Müdürlükleri, Şirketimizin hizmet yelpazesini genişleterek gelirlerinin arttırılması amacıyla e-ticaret
+ kapsamında yürütmek istediği faaliyeti belirler.
+
+ 6.1.2 Bölge Müdürlükleri, e-ticaret kapsamında yürütmek istediği faaliyet için fizibilite raporu hazırlar. Fizibilite
+ raporu aşağıda belirtilen hususları içerecektir.
+
+ 6.1.2.1  Fizibilite raporunda yapılmak istenen faaliyetlerin tanımlanması,  satışı planlanan ürünün/ürünlerin ve
+ hizmetlerin satışa sunulma amacı, satış kapsamı, satılacak olan ürünün/hizmetin özellikleri, satış modeli ve satışın
+ yapılacağı e-ticaret platformları yer alacaktır.
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+E-TİCARET DAİRE        ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+BAŞKANLIĞI DAİRE        SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ
+BAŞKANI               BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 3 =====
+
+Doküman Adı
+      Bölge Müdürlüklerin E-Ticarette Tedarikçi Olma Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         ETD.PR03           1.01.2026             1.01.2026            0               2/3
+  Tüm Kullanıcılar
+
+6.1.2.2 Fizibilite raporunda faaliyet hedefinin belirlenmesi, gelir gider tablolarının oluşturulması ve tahmini satış
+hedefi detaylı bir şekilde yer alacaktır.
+
+6.1.2.3 Fizibilite raporunda ürünün/ürünlerin ve hizmetlerin tedarik aşamalarında izlenecek politikalar, gerektiğinde
+hangi kurum ve kuruluşlarla görüşüleceği ve hangi bilgi/belgelerin kim tarafından temin edileceği, tedarikçi seçimi
+hakkında detaylı bilgi, satın alma süreci, tedarik birim fiyatı ve toplam maliyeti de yer alacaktır.
+
+6.1.2.4 Fizibilite raporunda satılması planlanan ürünün/ürünlerin ve hizmetlerin hangi birim fiyat aralıklarında
+satılacağı, uzun  süreli kurumsal  tedarik  sözleşmelerinde, değişken birim  fiyata  sahipse birim  fiyatın  nasıl
+belirleneceği bilgisi detaylı olarak yer alacaktır. Birim fiyatın belirlenmesini etkileyen son müşteri kargo bedeli,
+paketleme maliyeti, stok maliyeti, tedarikçiye ödenen bedelin alternatif finansal getiri maliyeti, ürünün nakliye vb.
+maliyetleri açıkça belirtilecektir.
+
+6.1.2.5 Fizibilite raporunda e-ticaret platform yönetiminin nasıl gerçekleştirileceği, faturalandırma, kargolama ve
+iade  süreçleri,  satışı planlanan ürüne/ürünlere yönelik  izin, sertifikasyon,  lisans vb. süreç yönetiminin  nasıl
+yapılacağı, sorumlularıyla birlikte yer alacaktır. Uzak mesafeli satışta e-fatura çıktısı ürünün/ürünlerin beraberinde
+gönderilmeyecekse gönderim maliyeti dikkate alınacaktır.
+
+6.1.2.6  Fizibilite raporunda kargo hizmet bedelinin kim tarafından karşılanacağı, operasyonel sürecin Bölge
+Müdürlüklere  ait hangi  iş yerinden  yönetileceği yer  alacaktır. Kargo  takip sisteminde tanımlanan  e-ticaret
+tedarikçilerinin, satılan ürün/ürünlerin kargo personelince alınması bakımından mağaza depo adreslerinin neresi
+olacağının belirlenmesi gerekmektedir.
+
+6.1.2.7 Fizibilite raporunda hem operasyonel hem de muhasebeleştirme adımları sorumlularıyla birlikte   açık ve
+net olarak yer alacaktır.
+
+6.1.2.8 Fizibilite raporunda iade sebeplerinin tek tek analizleri ve aksiyonları yer alacaktır. (Ürünün/ürünlerin bozuk
+olması, koşulsuz iade, pakette deformasyon vb.)
+
+6.1.2.9 Fizibilite raporunda proje hakkında yer verilmesi ve açıklanması gereken diğer hususlar da belirtilecektir.
+
+6.1.2.10 Fizibilite raporu, Bölge Müdürlükler tarafından değerlendirmek üzere E-Ticaret Dairesi Başkanlığına
+sunulması gerekir.
+
+6.2  Fizibilite Raporlarının Değerlendirilmesi ve Bölge Müdürlükler Faaliyetlerinin Belirlenmesi
+
+6.2.1 E-Ticaret  Dairesi  Başkanlığına sunulan  fizibilite  raporları  E-Ticaret  Dairesi  Başkanlığınca  kurulacak
+komisyon marifeti ile değerlendirilir. Bölge Müdürlükleri E-Ticaret Dairesi Başkanlığınca onaylanan fizibilite
+raporları doğrultusunda işleme başlar.
+
+6.2.2   Bölge Müdürlüklerin e-ticaret platformlarında tedarikçi olarak yer almaları için gereken harcama yetkisi,
+Posta ve Telgraf Teşkilatı Anonim Şirketi Mal ve Hizmet Alımı Prosedüründe belirlenen limitler dahilindedir.
+
+6.2.3 Faaliyeti uygun görülen Bölge Müdürlükleri, E-Ticaret Dairesi Başkanlığı tarafından belirlenen e-ticaret
+platformlarında yer alabilmek için alt tedarikçi vb. ile hizmet sözleşmelerini ve/veya talep edilecek belgeleri tanzim
+eder ve ilgili yerlere gönderir.
+
+6.2.4 Sanal mağazanın açılmasını müteakip, Bölge Müdürlüklerince yetkili kılınan personel e-ticaret platformunda
+tedarikçi yönetimi için gerekli kullanıcı adı ve şifresini temin eder. E-ticaret platformunda tedarikçi yönetimi Bölge
+Müdürlüklerince yapılır.
+
+6.2.5. Açılacak mağaza için mağaza adı ve logosu E-Ticaret Dairesi Başkanlığının onayı ile belirlenir ve Bölge
+Müdürlükleri tarafından sanal mağazaya yükletilir.
+
+6.2.6. Alt tedarikçi ile yapılan sözleşme doğrultusunda ürünler tedarik edilerek, satışa başlanır.
+
+6.3 Bölge Müdürlüklerin E-Ticaret Faaliyetlerine Son Verilmesi
+
+Bölge  Müdürlüklerinin  e-ticaret  faaliyetlerine   ilgili  Bölge  Müdürlüklerinin  teklifi  ve  E-Ticaret  Dairesi
+Başkanlığının onay vermesi ile son verilir.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 3 =====
+
+Doküman Adı
+      Bölge Müdürlüklerin E-Ticarette Tedarikçi Olma Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         ETD.PR03           1.01.2026             1.01.2026            0               3/3
+  Tüm Kullanıcılar
+
+7. ONAY
+
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+
+8. YÜRÜRLÜK
+
+8.1 Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+
+8.2 Bu prosedür yayımlandığında ETD.PR02 Başmüdürlüklerin E-Ticarette Tedarikçi Olma Prosedürü yürürlükten
+kalkar.
+
+9. YÜRÜTME
+
+Bu prosedürü Genel Müdür yürütür.
+
+10. REFERANS DOKÜMANLAR
+
+
+11. REVİZYON BİLGİLERİ
+
+ Revizyon
+             Revizyon Tarihi                           Revizyon Nedeni
+   No
+
+     0       1.01.2026       Yeni Doküman
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

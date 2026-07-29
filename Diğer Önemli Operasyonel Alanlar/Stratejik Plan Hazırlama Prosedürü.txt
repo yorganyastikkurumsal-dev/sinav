@@ -1,0 +1,308 @@
+﻿===== PDF SAYFA 1 / 5 =====
+
+Doküman Adı
+                 Stratejik Plan Hazırlama Prosedürü
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         SGD.PR01           16.07.2018            1.01.2026            2               1/5
+  Tüm Kullanıcılar
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketi’nin misyon, vizyon, temel ilke ve politikalarını,
+ önceliklerini, performans ölçütlerini ve bunlara ulaşmak için izlenecek yöntemler  ile kaynak dağılımlarını ve
+ bunların etkin ve verimli kullanımlarının gerçekleştirilmesi  için  stratejik planlama  sürecini, görev, yetki ve
+ sorumluluklarını tanımlamaktır.
+
+ 2. KAPSAM
+
+ Şirketimizde yürütülecek stratejik plan hazırlık ve uygulama çalışmalarında görev, yetki ve sorumluluklara ilişkin
+ hükümleri kapsar.
+
+ 3. DAYANAK
+
+ Posta ve Telgraf Teşkilatı Anonim Şirketi Esas Sözleşmesi’nin Yönetim Kurulunun Görev ve Yetkileri başlıklı 16.
+ maddesinin h bendinde yer alan “Şirketin Stratejik planını, vizyon, misyon ve yönetim sistemlerine ilişkin iş ve
+ işlemleri yapmak.” ifadesi gereğince hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Amaçlar: Orta ve uzun vadede Şirketin gelecekte ulaşmak istediği sonuçlardır.
+
+ 4.2 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.3 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim
+ Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür.
+
+ 4.4 Birim Yöneticisi: Merkez Teşkilatında Şube Müdürleri/Teknik Müdürler, Taşra Teşkilatında ise Teknik
+ Müdürler/Müdürler (İhtisas) ve PTT Müdürleridir.
+
+ 4.5 Güncelleme: Stratejik plan döneminin kalan yılları için yapılan değişiklikleridir.
+
+ 4.6 GZFT (Güçlü yönler, Zayıf yönler, Fırsatlar, Tehditler) Analizi:  Şirketin güçlü ve zayıf yönlerini
+ belirlemek, iç ve dış çevreden kaynaklanan fırsatlar ve tehditleri saptamak için kullanılan analiz yöntemidir.
+
+ 4.7 Hazırlık Programı: Stratejik Planlama Ekibi (SPE) tarafından oluşturulan ve stratejik plan hazırlık dönemine
+ ilişkin faaliyetleri ve zaman çizelgesini içeren programıdır.
+
+ 4.8 Hedef: Amaçların gerçekleştirilmesine yönelik öngörülen çıktı ve sonuçların tanımlanmış bir zaman dilimi
+ içerisinde nitelik ve nicelik olarak ifadesidir.
+
+ 4.9 Merkez Teşkilatı: Şirketin Genel Müdürlük birimleridir.
+
+ 4.10 Misyon: Şirketin varoluş gerekçesidir.
+
+ 4.11 Performans Göstergesi: Stratejik planda yer alan hedeflerin ölçülebilirliğini miktar ve zaman boyutuyla ifade
+ eden araçlardır.
+
+ 4.12  Strateji  Geliştirme  Daire  Başkanlığı:  Şirketin  stratejik  plan  çalışmalarında  koordinasyon  görevini
+ yürütmekle görevli Daire Başkanlığıdır.
+
+
+
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+STRATEJİ GELİŞTİRME     ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+DAİRE BAŞKANLIĞI DAİRE  SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ
+BAŞKANI               BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 5 =====
+
+Doküman Adı
+                Stratejik Plan Hazırlama Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR01           16.07.2018            1.01.2026            2               2/5
+  Tüm Kullanıcılar
+
+4.13 Strateji: İşletmenin amaçlara ve hedeflere ulaşabilmek  için Yönetim Sistemi  politikaları çerçevesinde
+uygulanacak olan yol, yöntem ve araçlardır.
+
+4.14 Stratejik Plan: Kamu idarelerinin orta ve uzun vadeli amaçlarını, temel ilke ve politikalarını, hedef ve
+önceliklerini, performans ölçütlerini, bunlara ulaşmak için izlenecek yöntemler ile kaynak dağılımlarını içeren
+plandır.
+
+4.15 Stratejik Plan Değerlendirme Raporu: Stratejik plan döneminin her bir uygulama yılı gerçekleşmelerinin
+değerlendirilmesini sağlayan rapordur.
+
+4.16 Stratejik Plan İzleme Raporu: Stratejik plan döneminin her bir uygulama yılının Ocak-Haziran dönemi
+gerçekleşmelerinin izlenmesini sağlayan rapordur.
+
+4.17 Stratejik Planlama Çalışma Grubu: Stratejik Planlama Ekibi tarafından gerekli görüldüğü durumlarda,
+ekibin çalışmalarına katkı sağlamak amacıyla ekip üyeleri ile birlikte çalışma yapmak üzere oluşturulan gruptur.
+
+4.18  Stratejik Planlama Ekibi:  Stratejik plan  hazırlık  sürecini yürütmek üzere  Strateji  Geliştirme Daire
+Başkanlığının bağlı olduğu Genel Müdür Yardımcısı başkanlığında, Strateji Geliştirme Daire Başkanı ile harcama
+birimlerinin temsilcilerinden oluşan ekiptir.
+
+4.19 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+4.20 Taşra Teşkilatı: Şirketin Genel Müdürlük birimleri dışındaki tüm birimleridir.
+
+4.21  Üst  Politika  Belgeleri:  Kalkınma  planı,  Cumhurbaşkanlığı  programı,  orta  vadeli  program  ve
+Cumhurbaşkanlığı yıllık programı, Ulaştırma ve Haberleşme Şura Raporları ile Şirketi ilgilendiren ulusal, bölgesel
+ve sektörel strateji belgeleridir.
+
+4.22 Üst Yönetim: Yönetim Kurulu Başkanı ve Üyeleri, Genel Müdür, Genel Müdür Yardımcıları ile Birim Üst
+Yöneticileridir.
+
+4.23 Vizyon: Şirketin arzu edilen geleceği; gelecekte olmak istediği yerdir.
+
+4.24 Yenileme: Stratejik planın, dönemi tamamlanmadan yeni bir plan dönemi için tüm unsurlarıyla yeniden
+hazırlanmasıdır.
+
+5. SORUMLULUKLAR
+
+Bu prosedürün hazırlanmasından ve yönetiminden Strateji Geliştirme Daire Başkanlığı, uygulanmasından ise tüm
+birimler sorumludur.
+
+6. UYGULAMA
+
+6.1GENEL İLKELER
+
+6.1.1   Stratejik planlama sürecinde aşağıdaki ilkelere uyulması esastır:
+
+6.1.1.1 Stratejik planlamanın başarısı, Üst Yönetim ve personelin stratejik planı sahiplenmesi ile mümkündür.
+Çalışmalar, Stratejik Planlama Ekibi idaresinde tüm birimlerin desteği alınarak yürütülür.
+
+6.1.1.2 Strateji Geliştirme Daire Başkanlığı koordinatörlüğünde, stratejik planlama çalışmalarına yönelik Stratejik
+Planlama Ekibi tarafından bir hazırlık programı oluşturulur.
+
+6.1.1.3 Şirket iç ve dış paydaşlarının stratejik planlamaya katılımları sağlanarak katkıları alınır.
+
+6.1.1.4 İhtiyaç duyulması halinde Şirket dışından eğitim ve danışmanlık hizmetleri alınabilir.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 5 =====
+
+Doküman Adı
+                Stratejik Plan Hazırlama Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR01           16.07.2018            1.01.2026            2               3/5
+  Tüm Kullanıcılar
+
+6.1.1.5 Tüm birimler uyum, işbirliği ve eşgüdüm içinde; hesap verme sorumluluğunun gereklerini dikkate alarak
+çalışırlar.
+
+6.1.1.6 Stratejik plan Şirketin en üst seviye amaçları ve hedeflerini ifade eder, Şirketle ilgili oluşturulacak her türlü
+planlamanın bu amaçlar ve hedeflere yönelik olmasına dikkat edilir.
+
+6.2Hazırlık Dönemi
+
+6.2.1  Stratejik planlama süreci hazırlık dönemi ile başlar ve bir iç genelge ile çalışmaların başlatıldığı duyurulur.
+
+6.2.2  Strateji  Geliştirme  Daire  Başkanlığının  bağlı  olduğu  Genel  Müdür  Yardımcısı  tarafından  birim
+temsilcilerinden Stratejik Planlama Ekibi ile bu ekibin çalışmalarına katkı sağlamak amacıyla Stratejik Planlama
+Çalışma Grubu oluşturulur.
+
+6.2.3  Stratejik Planlama  Ekibinin ve  Stratejik Planlama Çalışma Grubunun  koordinasyon  görevi,  Strateji
+Geliştirme Daire Başkanlığı tarafından yürütülür.
+
+6.2.4  Stratejik plan hazırlıkları esnasında eğitim ve danışmanlık hizmetine ihtiyaç duyulması halinde Satınalma
+Prosedürüne göre bu ihtiyacın karşılanmasına yönelik çalışmalar Strateji Geliştirme Daire Başkanlığı tarafından
+yapılır.
+
+6.2.5  Stratejik plan; üst politika belgelerine uygun olarak hazırlanır.
+
+6.2.6 Durum Analizi Stratejik Planlama Ekibi tarafından yapılır ve aşağıdaki unsurları içerir;
+
+6.2.6.1 Kurumsal  tarihçe, uygulanmakta olan  stratejik planın değerlendirilmesi, mevzuat  analizi, üst politika
+belgeleri analizi, faaliyet alanları ile ürün ve hizmetlerin belirlenmesi,
+
+6.2.6.2 Paydaş Analizi Raporu: Paydaşlar, Şirketin ürün ve hizmetleri ile ilgisi olan, Şirketten doğrudan veya
+dolaylı, olumlu ya da olumsuz yönde etkilenen veya Şirketi etkileyen kişi, grup veya kurumlardır. Paydaşlar, iç ve
+dış paydaşlar ile yararlanıcılar/müşteriler olarak sınıflandırılabilir. Paydaş Analiz Raporunda paydaşların listesi,
+önceliklendirmesi, değerlendirilmesi ile paydaşların görüş ve önerilerine ilişkin bilgiler yer alır.
+
+6.2.6.3 Şirket İçi Analiz: İnsan kaynaklarının yetkinlik düzeyi, kurum kültürü, teknoloji ve bilişim altyapısı, fiziki
+ve mali kaynaklara ilişkin analizlerin yapılarak idarenin mevcut kapasitesinin değerlendirilmesidir. Ayrıca bu
+bölümde Şirketin teşkilat şemasına da yer verilir.
+
+6.2.6.4 Dış Çevre Analizi Raporu: Şirketin faaliyet alanında ülkemizdeki ve dünyadaki durum ve gelişmeler,
+temel eğilimler ve sorunlar arasında Şirketi yakından ilgilendiren kritik konular ve bu konuların Şirketi nasıl ve ne
+yönde etkileyeceğine ilişkin bilgiler yer alır.
+
+6.2.6.5 GZFT Analizi Raporu: Şirketin güçlü ve zayıf yönleri ile Şirket dışında oluşabilecek fırsatlar ve tehditler
+belirlenir. Şirketin güçlü ve zayıf yönleri Şirket içi analiz ile durum analizi kapsamında yapılan diğer çalışmaların,
+fırsatlar ve tehditleri ise sektörel analiz sonuçlarından yararlanılarak tespit edilir.
+
+6.2.7 Misyon ve Vizyon ve Temel Değerler Üst Yönetim tarafından belirlenir.
+
+6.2.8  Stratejik amaç ve hedefler; Durum Analizi verileri ile Misyon, Vizyon ve Temel Değerler doğrultusunda
+Stratejik Planlama Ekibince hazırlanır ve Üst Yönetime sunulur.
+
+6.2.9 Belirlenen hedeflere ne ölçüde ulaşıldığının ortaya konulması için performans göstergeleri belirlenir.
+
+6.2.10Belirlenen hedeflere yönelik stratejiler (proje/faaliyet) tespit edilir.
+
+6.2.11Belirlenen hedeflerin, plan dönemini kapsayan her yıl için, tahmini maliyeti tespit edilir.
+
+6.3Stratejik Planın Onaylanması ve Duyurulması
+
+6.3.1 Hazırlanan stratejik plan taslağı Şirket Yönetim Kurulunun onayına sunulur.
+
+6.3.2 Onaylanan stratejik plan, Şirketimizin merkez ve taşra teşkilatı ile uygun görülen paydaşlara basılı ya da
+dijital ortamda duyurulur.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 4 / 5 =====
+
+Doküman Adı
+                Stratejik Plan Hazırlama Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         SGD.PR01           16.07.2018            1.01.2026            2               4/5
+  Tüm Kullanıcılar
+
+6.4Stratejik Planın İzlemesi ve Değerlendirilmesi
+
+Stratejik Planın izlenmesi ve değerlendirilmesinde kullanılan tablolar Strateji Geliştirme Daire Başkanlığınca
+sorumlu birimlere gönderilir, gelen bilgiler konsolide edilerek İzleme Raporu ile Değerlendirme Raporu oluşturulur
+ve Üst Yönetime sunulur.
+
+6.5Stratejik Planın Süresi, Güncellenmesi ve Yenilenmesi
+
+6.5.1  Stratejik plan 5 (beş) yıllık dönemi kapsar.
+
+6.5.2  Stratejik planlar, içinde yer alınan sektöre, yürütülen hizmetlere ve çalışma şartlarına ilişkin ileriye yönelik
+alınacak olan tedbirlerin belirlenmesi, ekonomik koşullarda oluşan değişiklikler nedeniyle oluşabilecek risklerin
+azaltılabilmesi, mevcut planda yer alan ve uygulanabilirliği mümkün olmayan amaç, hedef, eylem ve projelerin
+plandan çıkartılması gibi durumlarda plan döneminin kalan yılları için güncellenebilir.
+
+6.5.3  Stratejik planın güncellenmesi kararı Şirket Yönetim Kurulu onayı ile alınır.
+
+6.5.4 Güncellenen stratejik planlar, takip eden yılın Ocak ayı itibarıyla yürürlüğe konulur.
+
+6.5.5  Stratejik plan görev, yetki ve sorumlulukları düzenleyen mevzuatta önemli değişiklik olması veya Şirket
+Yönetim Kurulunun gerekli görmesi halinde yenilenebilir.
+7. ONAY
+
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+8. YÜRÜRLÜK
+
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+9. YÜRÜTME
+
+Bu prosedürü Genel Müdür yürütür.
+10. REFERANS DOKÜMANLAR
+
+SGD.DKD01-Kamu İdareleri İçin Stratejik Planlama Kılavuzu (2021)
+SGD.DKD02-Kamu Sermayeli İşletmeler İçin Stratejik Planlama Rehberi (2018)
+SGD.TB32-Stratejik Plan Değerlendirme Tablosu
+SGD.TB33-Stratejik Plan İzleme Tablosu
+
+11. REVİZYON BİLGİLERİ
+
+ Revizyon
+             Revizyon Tarihi                           Revizyon Nedeni
+   No
+
+                               Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına
+     2       1.01.2026
+                                  ihtiyaç duyulmuştur.
+
+                           Prosedürün adı "STRATEJİK PLAN HAZIRLAMA PROSEDÜRÜ"
+                              olarak değiştirilmiştir. “Kamu İdareleri İçin Stratejik Planlama Kılavuzu
+     1       15.02.2022
+                               (2021) ile Kamu Sermayeli İşletmeler İçin Stratejik Planlama Rehberi
+                               (2018)” referans alınarak prosedür içeriği yeniden düzenlenmiştir.
+
+     0       16.07.2018      Yeni Doküman
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 5 / 5 =====
+
+Doküman Adı
+              Stratejik Plan Hazırlama Prosedürü
+
+  Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+    Derecesi         SGD.PR01           16.07.2018            1.01.2026            2               5/5
+Tüm Kullanıcılar
+
+
+
+
+
+                        “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

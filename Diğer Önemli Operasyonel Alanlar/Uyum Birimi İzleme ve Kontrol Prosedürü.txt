@@ -1,0 +1,251 @@
+﻿===== PDF SAYFA 1 / 4 =====
+
+Doküman Adı
+         Uyum Birimi İzleme ve Kontrol Prosedürü
+
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         UYB.PR02           16.07.2018            1.01.2026            3               1/4
+  Tüm Kullanıcılar
+
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinin suç gelirlerinin aklanmasına ve terörün
+ finansmanına yönelik olarak maruz kalabileceği risklerden korunması ve faaliyetlerinin 5549 sayılı Suç Gelirlerinin
+ Aklanmasının Önlenmesi Hakkında Kanun ve bu Kanuna ilişkin alt mevzuata, kurum politika ve prosedürlerine
+ uygun olarak yürütülüp yürütülmediğinin sürekli olarak izlenmesi ve kontrol edilmesi ile ilgili usul ve esaslar ile
+ yetki ve sorumlulukları belirlemektir.
+
+ 2. KAPSAM
+
+ Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi nezdinde uyum programı dahilindeki izleme ve kontrol
+ faaliyetleri kapsamında gerçekleştirilen çalışmalara ilişkin usul ve esaslar ile tüm birimleri kapsar.
+
+ 3. DAYANAK
+
+ Bu prosedür; 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun kapsamında hazırlanan Suç
+ Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine  İlişkin Yükümlülüklere Uyum Programı
+ Hakkında Yönetmelik’in 14’üncü ve 15’inci maddelerine, Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının
+ Önlenmesine Dair Tedbirler Hakkında Yönetmelik’in 19’uncu maddesine, PBD.PR01 Posta Çeki ve Havale
+ İşlemleri Uygulama Prosedürü’ne dayanılarak hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.2 Kanun: 5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun’dur.
+
+ 4.3 MASAK: Mali Suçları Araştırma Kurulu Başkanlığıdır.
+
+ 4.4 PTT İş Yeri: Posta ve Telgraf Teşkilatı Anonim Şirketinin posta, kargo, bankacılık ve diğer işlemleri yürütmek
+ üzere kurduğu hizmet noktalarıdır.
+
+ 4.5  Risk: Sunulan hizmetlerden suç gelirlerinin aklanması veya terörün finansmanı amacıyla yararlanılması, ya da
+ kanuni yükümlülüklere tam olarak uyulmaması nedeniyle PTT AŞ ya da PTT AŞ personelinin maruz kalabileceği
+ mali ya da itibari zarar ihtimalidir.
+
+ 4.6 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+ 4.7 Uyum Birimi: Uyum görevlisine bağlı olarak çalışan ve uyum programının yürütülmesiyle görevli personelden
+ oluşan birimdir.
+
+ 4.8 Uyum Görevlisi: Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun ve bu Kanuna dayanılarak
+ yürürlüğe konulan mevzuatla getirilen yükümlülüklere uyumu sağlamak amacıyla, PTT AŞ tarafından gerekli
+ yetkiyle donatılmış görevlidir.
+
+ 4.9 Uyum Programı: PTT AŞ bünyesinde suç gelirlerinin aklanmasının ve terörizmin finansmanının önlenmesine
+ yönelik olarak, Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Uyum Programı
+ Hakkında Yönetmelik gereği oluşturulmuş olan tedbirler bütününü teşkil eden program metnidir.
+ 4.10 Yönetim Kurulu: Posta ve Telgraf Teşkilatı Anonim Şirketi Yönetim Kuruludur.
+
+
+
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+UYUM BİRİMİ           ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+UYUM BİRİMİ             SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ
+BİRİM SORUMLUSU       BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+
+
+
+                             “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 2 / 4 =====
+
+Doküman Adı
+        Uyum Birimi İzleme ve Kontrol Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR02           16.07.2018            1.01.2026            3               2/4
+  Tüm Kullanıcılar
+
+5 SORUMLULUKLAR
+
+Bu prosedürün hazırlanmasından, yönetiminden ve etkin bir şekilde uygulanmasından Yönetim Kurulu, Uyum
+Görevlisi ve Uyum Birimi sorumludur.
+
+6 UYGULAMA
+
+6.1 İzleme ve kontrol kapsamında;
+
+a) PTT AŞ müşterileri tarafından gerçekleştirilen işlemlerin; müşterilerinin mesleği, ticari faaliyetleri, iş geçmişi,
+mali durumu, risk profili ve fon kaynaklarına dair bilgiler ile uyumlu olup olmadığının Uyum Birimi personelince
+sürekli iş ilişkisi kapsamında devamlı olarak izlenmesi ve müşteriler hakkındaki bilgi, belge ve kayıtların güncel
+tutulması,
+
+b) Sürekli iş ilişkisi dışında gerçekleştirilen işlemleri de risk temelli yaklaşımla izlemek amacıyla gerekli tedbirlerin
+alınması,
+
+c) Kanun uyarınca getirilen yükümlülüklere uyumun sağlanmasıyla ilgili olarak yapılan kontroller neticesinde tespit
+edilen eksikliklerin, gerekli tedbirlerin alınması için ilgili birimlere raporlanarak sonuçlarının takip edilmesi,
+
+ç) Gişe personelinin yaptığı iş ve işlemlerin, gün sonunda PTT iş yerlerinde görevli şef ya da müdürler tarafından
+kimlik kontrolü ve işlem tutarları yönünden mevzuata uygun olarak yapılıp yapılmadığının kontrolünün yapılması,
+
+d) İş ve işlemler  ile  iş akışlarının risklere göre izlenmesi, kontrol edilmesi ve denetlenmesi,  iş ve işlemleri
+gerçekleştiren personel dışında görevlendirilecek ve yetkilendirilecek personel vasıtasıyla yerine getirilmesi,
+
+e) Suç gelirlerinin aklanması ve terörün finansmanının önlenmesi konusunda yetkili makamlardan alınacak yazılı
+talimat doğrultusunda ilgili makamlarca belirlenen ve yayımlanan listelerde adı geçen kişi ve kuruluşların da müşteri
+olarak kabul edilmemesi ayrıca PBD.PR01 Posta Çeki ve Havale İşlemleri Uygulama Prosedürü’ne göre hesabın
+ahlak ve genel adaba aykırı, güvenliği bozucu ve milli ekonomiye zarar verici işlev ve amaçlar için kullanıldığının
+resmi merciler tarafından karar altına alınması durumunda hesabın doğrudan kapatılması için gerekli önlemlerin
+alınması faaliyetleri gerçekleştirilir.
+
+6.2 İzleme ve kontrol faaliyetleri asgari düzeyde;
+
+a) Yüksek risk grubundaki müşteri ve işlemlerin izlenmesi ve kontrolü,
+
+b) Riskli ülkelerle gerçekleştirilen işlemlerin izlenmesi ve kontrolü,
+
+c) Karmaşık ve olağandışı işlemlerin izlenmesi ve kontrolü,
+
+ç) Yükümlünün, risk politikasına göre belirleyeceği bir tutarın üzerindeki işlemlerin, müşteri profili ile uyumlu olup
+olmadığının örnekleme yöntemi ile kontrolü,
+
+d) Birlikte ele alındıklarında, kimlik tespiti yapılmasını gerektiren tutarı aşan bağlantılı işlemlerin izlenmesi ve
+kontrolü,
+
+e) Müşteriler hakkında elektronik ortamda yahut yazılı olarak muhafaza edilmesi gereken bilgi ve belgeler ile
+elektronik transfer mesajlarında yer verilmesi zorunlu bilgilerin kontrolü ve eksikliklerin tamamlatılması ve bunların
+güncellenmesi,
+
+f) Müşteri tarafından yürütülen işlemin; müşterinin, işine, risk profiline ve fon kaynaklarına dair bilgiler ile uyumlu
+olup olmadığının iş ilişkisi süresince devamlı olarak izlenmesi,
+
+g) Yüz yüze olmayan işlemler yapılmasını mümkün kılan sistemler kullanılarak gerçekleştirilen işlemlerin kontrolü,
+
+ğ) Yeni sunulan ürünler ve teknolojik gelişmeler nedeniyle suistimale açık hale gelebilecek hizmetlerin risk odaklı
+kontrolü faaliyetlerini,
+
+h) Mal varlığının dondurulması kararı verilenler ile yasaklı ve sakıncalı listelerdeki kişi ve kurumların kimlik bilgisi
+benzeşme eşleşmesi yoluyla yapılan izleme ve kontrol faaliyetlerini kapsar.
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 3 / 4 =====
+
+Doküman Adı
+        Uyum Birimi İzleme ve Kontrol Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR02           16.07.2018            1.01.2026            3               3/4
+  Tüm Kullanıcılar
+
+6.3 İzleme ve kontrol faaliyetleri kapsamında belirlenen senaryolar işletilerek PTT AŞ’ye ait sistemler üzerinden
+Uyum Birimi tarafından incelemeler gerçekleştirilir. Söz konusu senaryolar belirlenirken;
+
+a) Uyum Birimi tarafından belirlenen riskler,
+
+b) Müşteri profili,
+
+c) İşlem tipi,
+
+ç) İşlemin gerçekleştirildiği kanal,
+
+d) İşlemin tutarı ve sıklığı,
+
+e) Ulusal ve uluslararası mercilerce riskli kabul edilen ülkelere/ülkelerden yapılan işlemler,
+
+f) Yeni açılmış posta çeki hesaplarına ait işlemler,
+
+g) Mal varlığının dondurulması kararı verilen kişiler ve temin edilen kara listelerde bulunan kişi ve kurumlar ile bu
+kapsamda yapılan işlemler göz önünde bulundurulur.
+
+6.4 Posta ya da kargo işlemleri sırasında dolandırıcılık, kaçakçılık ya da taşınması yasak gönderilerin gönderilmeye
+çalışılması gibi olayların anında Uyum Birimine iletilmesi sağlanır.
+
+6.5 Gerekli incelemeler yapıldıktan sonra Uyum Görevlisi tarafından şüpheli olduğuna karar verilen havale, hesap
+ve/veya hesap hareketleri MASAK’a bildirilir.
+
+6.6 PTT iş yerlerinde görevli personel tarafından Uyum Birimi’ne iletilen şüpheli işlem bilgileri, gerekli incelemeler
+yapıldıktan sonra Uyum Görevlisi tarafından şüpheli olduğuna karar verilmesi halinde MASAK’a bildirilir.
+
+7 ONAY
+
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+
+8 YÜRÜRLÜK
+
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+
+9 YÜRÜTME
+
+Bu prosedürü Genel Müdür yürütür.
+
+10 REFERANS DOKÜMANLAR
+
+KN.030-5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun
+PBD.PR01-Posta Çeki ve Havale İşlemleri Uygulama Prosedürü
+YNT.058-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanının Önlenmesine İlişkin Yükümlülüklere Uyum
+Programı Hakkında Yönetmelik
+YNT.059-Suç Gelirlerinin Aklanmasının ve Terörün Finansmanın Önlenmesine Dair Tedbirler Hakkında
+Yönetmelik
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”
+
+===== PDF SAYFA 4 / 4 =====
+
+Doküman Adı
+        Uyum Birimi İzleme ve Kontrol Prosedürü
+
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         UYB.PR02           16.07.2018            1.01.2026            3               4/4
+  Tüm Kullanıcılar
+
+
+
+
+
+11. REVİZYON BİLGİLERİ
+
+ Revizyon     Revizyon
+                                                     Revizyon Nedeni
+   No          Tarihi
+
+                             Şirketimizin yeniden yapılanması kapsamında revizyon yapılmasına
+    3       1.01.2026
+                               ihtiyaç duyulmuştur.
+                       Gözden geçirme ve yönetmelik değişikliği sebebiyle revizyon
+    2       28.07.2025
+                           yapılmasına ihtiyaç duyulmuştur.
+
+    1       7.06.2022      Uygulamada yapılan değişikliklerden dolayı revize edilmiştir.
+
+    0       16.07.2018     Yeni Doküman
+
+
+
+
+
+                           “Bu dokümanın güncelliği, elektronik ortamda EYS Yazılımından takip edilmelidir. Basılı kopyalar “Kontrolsüz Kopyadır.”

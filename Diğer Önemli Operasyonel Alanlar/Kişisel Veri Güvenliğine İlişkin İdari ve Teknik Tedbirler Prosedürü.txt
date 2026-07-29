@@ -1,0 +1,294 @@
+﻿===== PDF SAYFA 1 / 5 =====
+
+Doküman Adı
+       Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+                          Prosedürü
+       Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+        Derecesi         RYB.PR06           28.07.2025            1.01.2026            1               1/5
+  Tüm Kullanıcılar
+
+ 1. AMAÇ
+
+ Bu prosedürün amacı; Posta ve Telgraf Teşkilatı Anonim Şirketinin 6698 sayılı Kişisel Verilerin Korunması
+ Kanunu’nun 12. maddesinin 1. fıkrası uyarınca alması gereken idari ve teknik tedbirler ile ilgili usul ve esasları
+ düzenlemektir.
+
+ 2. KAPSAM
+
+ Bu prosedür, Posta ve Telgraf Teşkilatı Anonim Şirketi bünyesinde kişisel veri işlenen tüm ortamları, süreçleri,
+ birim ve çalışanları kapsar.
+
+ 3. DAYANAK
+
+ Bu prosedür 6698 sayılı Kişisel Verilerin Korunması Kanunu ve alt mevzuatına dayalı olarak hazırlanmıştır.
+
+ 4. TANIMLAR VE KISALTMALAR
+
+ 4.1 Alıcı Grubu: Veri sorumlusu tarafından kişisel verilerin aktarıldığı gerçek veya tüzel kişi kategorisidir.
+
+ 4.2 Birim:  Kurul,  Başkanlık,  Müşavirlik,  Daire  Başkanlığı,  Birimler, Özel Kalem Müdürlüğü ve Bölge
+ Müdürlükleridir.
+
+ 4.3 Birim Üst Yöneticisi: Merkez Teşkilatında Kurul Başkanı, Başkan, 1. Hukuk Müşaviri, Daire Başkanı, Birim
+ Sorumlusu ve Özel Kalem Müdürü; Taşra Teşkilatında ise Bölge Müdürüdür.
+
+ 4.4 İlgili Kişi: Kişisel verisi işlenen gerçek kişidir.
+
+ 4.5 KVKK: 6698 sayılı Kişisel Verilerin Korunması Kanunu’dur.
+
+ 4.6 Kişisel Veri: Kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgidir.
+
+ 4.7 Kişisel Verilerin İşlenmesi: Kişisel verilerin tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt
+ sisteminin parçası olmak kaydıyla otomatik olmayan yollarla elde edilmesi, kaydedilmesi, depolanması, muhafaza
+ edilmesi,  değiştirilmesi,  yeniden  düzenlenmesi,  açıklanması,  aktarılması,  devralınması,  elde  edilebilir  hale
+ getirilmesi, sınıflandırılması ya da kullanılmasının engellenmesi gibi veriler üzerinde gerçekleştirilen her türlü
+ işlemdir.
+
+ 4.8 Kişisel Veri İşleme Envanteri: Veri sorumlularının iş süreçlerine bağlı olarak gerçekleştirmekte oldukları
+ kişisel veri işleme faaliyetlerini; kişisel veri işleme amaçları, veri kategorisi, aktarılan alıcı grubu ve veri konusu kişi
+ grubuyla ilişkilendirerek oluşturdukları ve kişisel verilerin işlendikleri amaçlar için gerekli olan azami süreyi,
+ yabancı ülkelere aktarımı öngörülen  kişisel  verileri ve  veri güvenliğine  ilişkin alınan  tedbirleri açıklayarak
+ detaylandırdıkları envanterdir.
+
+ 4.9 Kurul: Kişisel Verileri Koruma Kuruludur.
+
+ 4.10 Özel Nitelikli Kişisel Veri: Kişilerin ırkı, etnik kökeni, siyasi düşüncesi, felsefi inancı, dini, mezhebi veya
+ diğer inançları, kılık ve kıyafeti, dernek, vakıf ya da sendika üyeliği, sağlığı, cinsel hayatı, ceza mahkûmiyeti ve
+ güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileridir.
+
+ 4.11 Şirket/PTT AŞ: Posta ve Telgraf Teşkilatı Anonim Şirketidir.
+
+ 4.12 Veri Sorumlusu:  Kişisel  verilerin işlenme amaçlarını ve  vasıtalarını  belirleyen,  veri  kayıt sisteminin
+ kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişidir.
+
+ 5. SORUMLULUKLAR
+
+ Bu prosedürün uygulanmasından PTT AŞ bünyesindeki tüm Birimler sorumludur.
+
+Hazırlayan Birim Onayı     EYS Onayı                Kontrol Onayı                 Yürürlük Onayı
+RİSK YÖNETİM BİRİMİ     ENTEGRE YÖNETİM     HUKUK MÜŞAVİRLİĞİ       YÖNETİM KURULU
+RİSK YÖNETİM BİRİMİ     SİSTEMİ DAİRE        HUKUK MÜŞAVİRLİĞİ I.
+BİRİM SORUMLUSU       BAŞKANLIĞI DAİRE     HUKUK MÜŞAVİRİ
+                      BAŞKANI
+
+===== PDF SAYFA 2 / 5 =====
+
+Doküman Adı
+      Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+                         Prosedürü
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR06           28.07.2025            1.01.2026            1               2/5
+  Tüm Kullanıcılar
+
+6. UYGULAMA
+
+6.1 Kişisel Veri Güvenliğine İlişkin İdari Tedbirler
+
+6.1.1 PTT AŞ tarafından işlenen kişisel verilerin kanuni olmayan yollarla başkaları tarafından elde edilmesi
+durumunda, BTD.PR03 Bilgi Güvenliği Olay ve İhlal Yönetimi Prosedürü uyarınca gerekli işlemler yapılır ve söz
+konusu ihlal olayı ilgili Birim Üst Yöneticileri tarafından Risk Yönetimi Birimine bildirilir.
+
+6.1.2 Risk Yönetimi Birimi tarafından KVKK’nın 12. maddesinin 4. fıkrası uyarınca ihlal süreci yönetilir.
+
+6.2 Diğer İdari Tedbirler
+
+6.2.1 Kişisel verilerin KVKK ve ikincil mevzuat, Kurul Kararları ve diğer düzenlemelere uygun bir şekilde
+işlenmesinin sağlanması amacıyla Risk Yönetimi Birimi tarafından hazırlanan eğitimler, periyodik olarak Eğitim
+Daire Başkanlığınca tüm personele verilir.
+
+6.2.2 PTT AŞ tarafından yürütülen faaliyetlere ilişkin çalışanlara gizlilik taahhütnameleri imzalatılır.
+
+6.2.3 Kişisel veri işlemeye başlamadan önce PTT AŞ tarafından  ilgili kişileri aydınlatma yükümlülüğü yerine
+getirilir.
+
+6.2.4 Kişisel veri işleme envanteri hazırlanır ve RYB.PR03 Kişisel Veri İşleme Envanteri Prosedürü’ne göre
+güncellenir.
+
+6.2.5 Alıcı gruplarıyla akdedilen sözleşmelere gizlilik ve kişisel verilerin korunmasına ilişkin maddeler eklenir.
+
+6.2.6 Fiziki kayıt ortamlarında saklanan kişisel veriler için Ayıklama ve İmha Komisyonu bulunur.
+
+6.2.7 Arşiv sorumluları tarafından arşivlere yetkisiz girişlerin engellenmesi ve kişisel verilerin saklandığı fiziksel
+ortamların güvenliğinin sağlanması için (elektrik kaçağı, yangın, su baskını, hırsızlık vb.) yeterli güvenlik önlemleri
+alınır.
+
+6.2.8  Tedbirlere uyum sürecinin takibinin yapılabilmesi amacıyla RYB.PR05 Kişisel Veri Güvenliği Denetim
+Prosedürü’ne uygun olarak Şirket içi denetimler gerçekleştirilir.
+
+6.2.9 Üçüncü taraflara, PTT AŞ’ye ait bütün çok gizli/gizli/hizmete özel/kişiye özel dereceli bilgilerin korunması
+amacıyla EYS.FR22 Üçüncü Taraf Bilgi Koruma Taahhütnamesi imzalattırılır.
+
+6.2.10  Kişisel verilerin personelin çalışma ortamı içerisinde de korunmasına ilişkin tedbirler alınır.
+
+6.2.11 PTT AŞ  internet  sitesinde  “Gizlilik” sekmesi  içerisinde  kişisel  verilerin korunmasına  ilişkin olarak;
+aydınlatma metinleri, RYB.FR16 Veri Sahibi Başvuru Formu gibi dokümanlara yer verilir.
+
+6.2.12  Kişisel verilerin korunmasına  ilişkin olarak RYB.PK02 Kişisel Veri Saklama ve İmha Politikası’nda
+belirtilen diğer idari tedbirlere göre işlem yapılır.
+
+6.2.13  Kişisel verilerin kâğıt ortamı yoluyla aktarımı gerekiyorsa evrakın çalınması, kaybolması ya da yetkisiz
+kişiler tarafından görülmesi gibi risklere karşı gerekli önlemler alınır ve evrak “gizlilik dereceli belgeler” formatında
+gönderilir.
+
+6.3  Kişisel Veri Güvenliğine İlişkin Teknik Tedbirler
+
+6.3.1 Kişisel veri güvenliğine ilişkin alınması gereken teknik tedbirler aşağıda sıralanmıştır.
+
+a) Siber güvenliğin sağlanması,
+
+b) Kişisel veri güvenliğinin takibi, (sızma testi, erişim logları ve raporlama, saldırı tespit ve önleme sistemi)
+
+c) Kişisel veri içeren ortamların güvenliğinin sağlanması,
+
+ç) Erişim güvenliği,
+
+d) Şifreleme,
+
+===== PDF SAYFA 3 / 5 =====
+
+Doküman Adı
+      Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+                         Prosedürü
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR06           28.07.2025            1.01.2026            1               3/5
+  Tüm Kullanıcılar
+
+e) Bilgi teknolojileri sistemleri tedariki, geliştirme ve bakımı,
+
+f) Kişisel verilerin yedeklenmesi,
+
+g) Yetki Matrisi,
+
+ğ) Yetki Kontrol,
+
+h) Erişim Logları,
+
+ı) Kullanıcı Hesap Yönetimi,
+
+i) Ağ Güvenliği,
+
+j) Uygulama Güvenliği,
+
+k) Veri Maskeleme,
+
+l) Veri Kaybı Önleme Yazılımları,
+
+m) Güvenlik Duvarları,
+
+n) Güncel Anti-Virüs Sistemleri,
+
+o) Anahtar Yönetimi.
+
+6.3.2 Yukarıda yer alan teknik tedbirler; ISO 27001 Bilgi Güvenliği Yönetim Sistemi ile BTD.PK01 Bilgi Transferi
+Politikası, BTD.PK06 Uzaktan Çalışma  Politikası, BTD.PK04 Mobil Cihaz Güvenliği  Politikası, BTD.PK02
+Kriptolama ve Anahtar Yönetimi Politikası, BTD.PK03 Bilgi Güvenliği Yedekleme Politikası, Şifre Yönetimi
+Politikası, BTD.PR02 Haberleşme Güvenliği Prosedürü, BTD.PK07 Erişim Kontrol Politikası, BTD.PR03 Bilgi
+Güvenliği Olay ve İhlal Yönetimi Prosedürü, BTD.PR04 Bilgi İçerikli Ortamların Yönetimi Prosedürü, BTD.PR01
+Log Yönetimi Prosedürü, BTD.PR05 İşletimsel Sistemlerin Güvenliği Prosedürü, BTD.PR06 İş Sürekliliği Yönetim
+Prosedürü, BTD.PR07 Bilgi Sistemi Temini Geliştirilmesi ve Bakımı Prosedürü, BTD.TL08 Erişim Yönetimi
+Talimatı, RYB.PK02 Kişisel Veri Saklama ve İmha Politikası doğrultusunda alınmaktadır.
+
+6.4  Özel Nitelikli Kişisel Verilerin İşlenmesinde Alınması Gereken Ek Teknik ve İdari Tedbirler
+
+6.4.1 Verilere erişim yetkisine sahip kullanıcıların, yetki kapsamları ve süreleri tanımlanır.
+
+6.4.2 Periyodik olarak yetki kontrolleri gerçekleştirilir.
+
+6.4.3 Görev değişikliği olan ya da işten ayrılan çalışanların bu alandaki yetkileri kaldırılır.
+
+6.4.4 Veriler kriptografik yöntemler kullanılarak muhafaza edilir.
+
+6.4.5 Kriptografik anahtarlar güvenli ve farklı ortamlarda tutulur.
+
+6.4.6  Veriler üzerinde gerçekleştirilen tüm hareketlerin işlem kayıtları güvenli olarak loglanır.
+
+6.4.7 Verilerin bulunduğu ortamlara  ait güvenlik güncellemelerinin  sürekli  takip  edilmesi,  gerekli güvenlik
+testlerinin düzenli olarak yapılması/yaptırılması, test sonuçlarının kayıt altına alınması sağlanır.
+
+6.4.8 Verilere bir yazılım aracılığı ile erişilmesi halinde, bu yazılıma ait kullanıcı yetkilendirmelerinin yapılması,
+bu yazılımların güvenlik testlerinin düzenli olarak yapılması/yaptırılması, test sonuçlarının kayıt altına alınması
+sağlanır.
+
+6.4.9 Verilere uzaktan erişim halinde en az iki kademeli kimlik doğrulama sistemi sağlanır.
+
+6.4.10  Verilerin e-posta yoluyla aktarılması gerekiyorsa  şifreli olarak kurumsal e-posta adresiyle aktarılması
+sağlanır.
+
+6.4.11  Taşınabilir  bellek, CD, DVD  gibi ortamlar yoluyla  aktarılması gerekiyorsa  kriptografik yöntemlerle
+şifrelenir ve kriptografik anahtar farklı ortamda tutulur.
+
+===== PDF SAYFA 4 / 5 =====
+
+Doküman Adı
+      Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+                         Prosedürü
+     Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR06           28.07.2025            1.01.2026            1               4/5
+  Tüm Kullanıcılar
+
+6.4.12  Farklı fiziksel ortamlardaki sunucular arasında aktarma gerçekleştiriliyorsa, sunucular arasında IPSec VPN
+kurularak veya kriptolu yöntemlerle veri aktarımı gerçekleştirilir.
+
+7. ONAY
+
+Bu prosedür Yönetim Kurulu tarafından onaylanır.
+
+8. YÜRÜRLÜK
+
+Bu prosedür yayımlandığı tarihte yürürlüğe girer.
+
+9. YÜRÜTME
+
+Bu prosedürü Genel Müdür yürütür.
+
+10. REFERANS DOKÜMANLAR
+
+BİL.PK01-Güvenli Yazılım ve Sistem Geliştirme Politikası
+BİL.PR01-Güvenli Sistem Mühendisliği Prensipleri
+BTD.PK01-Bilgi Transferi Politikası
+BTD.PK02-Kriptolama ve Anahtar Yönetimi Politikası
+BTD.PK03-Bilgi Güvenliği Yedekleme Politikası
+BTD.PK04-Mobil Cihaz Güvenliği Politikası
+BTD.PK05-Şifre Yönetimi Politikası
+BTD.PK06-Uzaktan Çalışma Politikası
+BTD.PK07-Erişim Kontrol Politikası
+BTD.PR02-Haberleşme Güvenliği Prosedürü
+BTD.PR03-Bilgi Güvenliği Olay ve İhlal Yönetimi Prosedürü
+BTD.PR04-Bilgi İçerikli Ortamların Yönetimi Prosedürü
+BTD.PR05-İşletimsel Sistemlerin Güvenliği Prosedürü
+BTD.PR06-İş Sürekliliği Yönetim Prosedürü
+BTD.PR07-Bilgi Sistemi Temini Geliştirilmesi ve Bakımı Prosedürü
+BTD.TL04-Bilgi Güvenliği Yedekleme Talimatı
+BTD.TL07-Bilgisayar ve İnternet Kullanımı Talimatı
+BTD.TL08-Erişim Yönetimi Talimatı
+BTD.TL25-Aktif Dizin Kullanıcı Yönetim Talimatı
+BTD.TL50-Siber Olaylar Eylem Talimatı
+EYS.FR22-Üçüncü Taraf Bilgi Koruma Taahhütnamesi
+KN.008-6698 sayılı Kişisel Verilerin Korunması Kanunu
+RYB.FR16-Veri Sahibi Başvuru Formu
+RYB.PK02-Kişisel Veri Saklama ve İmha Politikası
+RYB.PR03-Kişisel Veri İşleme Envanteri Prosedürü
+RYB.PR05-Kişisel Veri Güvenliği Denetim Prosedürü
+STD.004-TS EN ISO-IEC 27001 Bilgi Güvenliği Yönetim Sistemi Standardı
+YNT.042-Devlet Arşiv Hizmetleri Hakkında Yönetmelik
+
+===== PDF SAYFA 5 / 5 =====
+
+Doküman Adı
+      Kişisel Veri Güvenliğine İlişkin İdari ve Teknik Tedbirler
+                         Prosedürü
+      Erişilebilirlik      Doküman No       İlk Yayım Tarihi     Revizyon Tarihi    Revizyon No    Sayfa Sayısı
+       Derecesi         RYB.PR06           28.07.2025            1.01.2026            1               5/5
+  Tüm Kullanıcılar
+
+ 11. REVİZYON BİLGİLERİ
+
+Revizyon
+             Revizyon Tarihi  Revizyon Nedeni
+No
+
+                                Şirketimizin  yeniden  yapılanması  kapsamında  revizyon  yapılmasına
+1             1.01.2026
+                                  ihtiyaç duyulmuştur.
+
+0             28.07.2025      Yeni Doküman
