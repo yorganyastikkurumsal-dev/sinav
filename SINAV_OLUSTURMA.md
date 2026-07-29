@@ -3,7 +3,7 @@
 
 ## 1. BU DOSYANIN AMACI
 
-Bu dosya, PTT 2026 Uzmanlık Sınavı için sınav oluşturma davranışını belirler.
+Bu dosya, PTT 2026 Uzmanlık Sınavı için sınav oluşturma ve uygulama davranışını belirler.
 
 Bu dosyayı okuyan yapay zekâ:
 
@@ -12,29 +12,26 @@ Bu dosyayı okuyan yapay zekâ:
 - İlgili kaynakları bulmalı,
 - İlgili klasörlerdeki `00_SINAV_DAGILIMI.md` dosyalarını okumalı,
 - Soruları yalnızca gerçek sınav kaynaklarından üretmeli,
-- Seçilen sınav türüne uygun HTML sınav hazırlamalıdır.
-
-Bu dosya özellikle teknik bilgisi olmayan kullanıcıların çok kolay şekilde sınav oluşturabilmesini amaçlar.
+- Seçilen sınav türüne uygun tek dosyalık etkileşimli HTML sınav hazırlamalıdır.
 
 Kullanıcının prompt yazmayı, kaynak seçmeyi, klasör yapısını veya yapay zekâ çalışma prensiplerini bilmesi beklenmez.
 
 ---
 
-# 2. ANA TALİMAT DOSYASIYLA BİRLİKTE ÇALIŞ
+# 2. ANA TALİMAT VE HTML ŞABLONUYLA BİRLİKTE ÇALIŞ
 
 Sınav hazırlamadan önce kök klasörde bulunan:
 
-`AI_TALIMAT.md`
+1. `AI_TALIMAT.md`
+2. `SINAV_OLUSTURMA.md`
+3. `HTML_SINAV_SABLONU.md`
+4. İlgili bütün `00_SINAV_DAGILIMI.md` dosyaları
 
-dosyası mutlaka okunmalıdır.
+okunmalıdır.
 
-`AI_TALIMAT.md` içindeki kaynak doğruluğu kuralları her zaman geçerlidir.
+`AI_TALIMAT.md` bilginin nasıl doğrulanacağını, bu dosya sınav oluşturma davranışını, `HTML_SINAV_SABLONU.md` ise teknik HTML standardını belirler.
 
-Bu dosya sınav oluşturma davranışını belirler.
-
-`AI_TALIMAT.md` ise bilginin nasıl doğrulanacağını belirler.
-
-Çelişki durumunda kaynak doğruluğunu daha sıkı koruyan kural uygulanmalıdır.
+Çelişki durumunda kaynak doğruluğunu daha sıkı koruyan kural uygulanır.
 
 ---
 
@@ -44,7 +41,7 @@ Bu dosya sınav oluşturma davranışını belirler.
 
 Her soru için süreç:
 
-**Kaynak → Hüküm → Sayfa/Madde/Fıkra → Doğru cevap → Soru → Şıklar**
+**Kaynak → Hüküm → Sayfa/Madde/Fıkra/Bent → Doğru cevap → Soru → Şıklar → Tekrar kaynak kontrolü**
 
 şeklinde ilerlemelidir.
 
@@ -62,67 +59,46 @@ Kullanıcı yalnızca:
 
 > Sınav yap.
 
-yazabilir.
+şeklinde yazabilir.
 
-Böyle bir durumda uzun açıklama yapılmamalıdır.
-
-Şu şekilde cevap verilmelidir:
-
----
+Bu durumda şu kısa menü gösterilir:
 
 ## Nasıl bir sınav istiyorsun?
 
 **1 — Gerçek Sınav Simülasyonu**  
-Gerçek sınav düzeninde 100 soru, 120 dakika. Cevapları sınav bitene kadar göremezsin.
+Gerçek sınav düzeninde 100 soru, 120 dakika. Cevaplar sınav bitene kadar gösterilmez.
 
 **2 — Çalışma Sınavı**  
 Her sorudan sonra doğru/yanlış, açıklama ve kaynak gösterilir.
 
 **3 — Adaptif Sınav**  
-Yanlış yaptığın konuları tespit eder ve sınav ilerledikçe o alanlara daha fazla ağırlık verir.
+Yanlış yapılan konulara sınav ilerledikçe daha fazla ağırlık verir.
 
 **4 — Tek Konu Sınavı**  
-Sadece istediğin konu üzerinden sınav hazırlar.
+Yalnızca istenen konu üzerinden sınav hazırlar.
 
 **5 — Karşılaştırmalı Sınav**  
 Birbirine benzeyen veya karıştırılan kaynak, konu, süre, yetki ve hükümleri karşılaştırmalı sorar.
 
 **6 — Belirli Kaynaklardan Sınav**  
-Senin seçtiğin PDF/kaynaklardan sınav hazırlar.
+Kullanıcının seçtiği kaynaklardan sınav hazırlar.
 
 **7 — Karma Çalışma Sınavı**  
 Birden fazla ana alandan karışık çalışma sınavı hazırlar.
 
----
-
 Kullanıcı yalnızca numara yazabilmelidir.
-
-Örnek:
-
-> 3
-
-yazması yeterli olmalıdır.
 
 ---
 
 # 5. GEREKSİZ SORU SORMA
 
-Kullanıcı gerekli bilgiyi zaten verdiyse tekrar sorulmamalıdır.
+Kullanıcı gerekli bilgiyi zaten verdiyse tekrar sorulmaz.
 
-Örneğin kullanıcı:
+Örneğin:
 
 > Tebligat konusundan 30 soruluk zor çalışma sınavı yap.
 
-dediyse bot:
-
-- sınav türünü,
-- konuyu,
-- soru sayısını,
-- zorluğu
-
-yeniden sormamalıdır.
-
-Doğrudan sınav hazırlığına başlamalıdır.
+isteğinde sınav türü, konu, soru sayısı ve zorluk yeniden sorulmadan kaynak taramasına başlanır.
 
 ---
 
@@ -142,120 +118,55 @@ Sabit kurallar:
 - **Sınav sırasında kaynak gösterilmez**
 - **Sınav sırasında açıklama gösterilmez**
 
-Kullanıcıya:
-
-> Kaç soru olsun?
-
-diye sorulmaz.
-
-Kullanıcıya:
-
-> Kaç dakika olsun?
-
-diye sorulmaz.
-
-Bunlar gerçek sınav modunda sabittir.
+Gerçek sınav modunda soru sayısı ve süre kullanıcıya sorulmaz.
 
 ---
 
 # 7. GERÇEK SINAVDA SORU DAĞILIMI
 
-Gerçek sınav simülasyonunda konu ve kaynak dağılımı yapay zekâ tarafından tahmin edilemez.
+Konu ve kaynak dağılımı yapay zekâ tarafından tahmin edilemez.
 
-Her ana alan klasöründe bulunabilecek:
+Her ana alan klasöründeki `00_SINAV_DAGILIMI.md` dosyası okunmalıdır.
 
-`00_SINAV_DAGILIMI.md`
+Bu dosyalar gerçek sınavda hangi alandan ve hangi kaynaktan kaç soru geleceğini belirler.
 
-dosyaları okunmalıdır.
+İlgili bütün dağılımlar birleştirildiğinde toplam **100 soru** olmalıdır.
 
-Bu dosyalar:
-
-> **Gerçek sınavda hangi alandan ve hangi kaynaktan kaç soru geleceğini**
-
-belirler.
-
-Gerçek sınav hazırlanırken ilgili bütün `00_SINAV_DAGILIMI.md` dosyalarındaki dağılımlar birleştirilmelidir.
-
-Toplam:
-
-**100 soru**
-
-olmalıdır.
-
-Toplam 100 değilse sınav oluşturulmadan önce kullanıcıya bilgi verilmelidir.
+Toplam 100 değilse sınav oluşturulmadan önce kullanıcıya bilgi verilir; eksik dağılım uydurulmaz.
 
 ---
 
 # 8. GERÇEK SINAVDA DAĞILIM DEĞİŞTİRİLEMEZ
 
-Örneğin bir klasörde:
+Kaynak daha uzun, kolay veya soru üretmeye daha uygun diye dağılım değiştirilemez.
 
-- Kaynak A → 4 soru
-- Kaynak B + Kaynak C → toplam 1 soru
-- Kaynak D → 1 soru
-- Kaynak E → 1 soru
-
-yazıyorsa:
-
-gerçek sınavda bu dağılım aynen uygulanmalıdır.
-
-Bir kaynak:
-
-- daha uzun,
-- daha kolay,
-- daha fazla madde içeriyor,
-- daha fazla soru üretmeye uygun
-
-diye dağılım değiştirilemez.
+`00_SINAV_DAGILIMI.md` içindeki kaynak ve soru adetleri aynen uygulanır.
 
 ---
 
 # 9. ORTAK SORU AĞIRLIKLARI
 
-`00_SINAV_DAGILIMI.md` içinde iki veya daha fazla kaynak için:
+İki veya daha fazla kaynak için:
 
 > TOPLAM 1 SORU
 
-gibi bir ifade bulunabilir.
-
-Bu durumda kaynak başına ayrı ayrı soru üretilmez.
-
-Örneğin:
-
-Kaynak A + Kaynak B → **TOPLAM 1**
-
-ise:
-
-❌ Kaynak A → 1 soru  
-❌ Kaynak B → 1 soru
-
-yapılamaz.
-
-Toplam soru sayısı:
-
-✅ **1**
-
-olmalıdır.
+şeklinde ortak ağırlık verilmişse her kaynaktan ayrı soru üretilmez; bütün kaynak grubundan toplam bir soru üretilir.
 
 ---
 
 # 10. GERÇEK SINAV HTML DAVRANIŞI
 
-Gerçek sınav HTML olarak hazırlanmalıdır.
+Gerçek sınav HTML olarak hazırlanır.
 
-Başlangıçta:
+Başlangıçta **120:00** geri sayımı başlar.
 
-**120:00**
-
-geri sayımı başlamalıdır.
-
-Sınav sırasında kullanıcı:
+Kullanıcı:
 
 - Sorular arasında ilerleyebilmeli,
 - Önceki soruya dönebilmeli,
 - Cevabını değiştirebilmeli,
 - Cevabını temizleyebilmeli,
-- Soruyu “Tekrar Bak” olarak işaretleyebilmelidir.
+- Soruyu “Tekrar Bak/İnceleme İçin İşaretle” olarak işaretleyebilmelidir.
 
 ---
 
@@ -263,21 +174,15 @@ Sınav sırasında kullanıcı:
 
 Sınav devam ederken:
 
-❌ Doğru
+- Doğru/yanlış bilgisi,
+- Doğru cevap,
+- Açıklama,
+- Kaynak,
+- Madde,
+- Sayfa,
+- Fıkra/bent
 
-❌ Yanlış
-
-❌ Doğru cevap
-
-❌ Açıklama
-
-❌ Kaynak
-
-❌ Madde
-
-❌ Sayfa
-
-gösterilmemelidir.
+gösterilmez.
 
 > **Sınav sırasında öğretme yoktur. Yalnızca ölçme vardır.**
 
@@ -285,23 +190,15 @@ gösterilmemelidir.
 
 # 12. SINAVI TESLİM ET
 
-HTML içerisinde:
+HTML içinde **SINAVI TESLİM ET** düğmesi bulunmalıdır.
 
-**SINAVI TESLİM ET**
-
-düğmesi bulunmalıdır.
-
-Düğmeye basıldığında:
-
-> Sınavı teslim etmek istediğinize emin misiniz?
-
-sorulmalıdır.
+Düğmeye basıldığında teslim onayı sorulur.
 
 Boş soru varsa:
 
 > X adet cevaplanmamış sorunuz bulunmaktadır.
 
-uyarısı gösterilmelidir.
+uyarısı gösterilir.
 
 Kullanıcı onay verirse:
 
@@ -310,34 +207,26 @@ Kullanıcı onay verirse:
 3. Sınav ekranı kapanır.
 4. Sonuç ekranı açılır.
 
-Bu işlev HTML teslim edilmeden önce mutlaka test edilmelidir.
+Bu işlev teslimden önce test edilmelidir.
 
 ---
 
 # 13. SÜRE DOLUNCA
 
-Sayaç:
-
-**00:00**
-
-olduğunda sınav otomatik teslim edilmelidir.
-
-Kullanıcıdan onay istenmez.
+Sayaç **00:00** olduğunda sınav kullanıcıdan onay istenmeden otomatik teslim edilir.
 
 ---
 
 # 14. GERÇEK SINAV SONUCU
 
-Sınav tamamlandığında:
+Sınav tamamlandığında en az:
 
-## SINAV SONUCU
-
-**Puan:** XX / 100  
-**Doğru:** XX  
-**Yanlış:** XX  
-**Boş:** XX  
-**Başarı:** %XX  
-**Kullanılan Süre:** XX:XX
+- **Puan:** XX / 100
+- **Doğru:** XX
+- **Yanlış:** XX
+- **Boş:** XX
+- **Başarı:** %XX
+- **Kullanılan Süre:** XX:XX
 
 gösterilmelidir.
 
@@ -347,31 +236,16 @@ Yanlış cevaplar doğruları götürmez.
 
 # 15. GERÇEK SINAV SONRASI YANLIŞ ANALİZİ
 
-Sonuç ekranında ayrıca:
+Sonuç ekranında **Yanlış ve Boş Sorular** bölümü bulunmalıdır.
 
-## Yanlış ve Boş Sorular
+Her yanlış veya boş soru için:
 
-bölümü bulunmalıdır.
-
-Her yanlış soru için:
-
-**Soru 37**
-
-**Senin cevabın:** B
-
-**Doğru cevap:** D
-
-**Açıklama:**  
-Kaynak hükmünün açıklaması.
-
-**Kaynak:**  
-Gerçek kaynak dosyası
-
-**PDF Sayfası:** X
-
-**Madde:** X
-
-**Fıkra/Bent:** varsa X
+- Soru numarası ve soru metni,
+- Kullanıcının cevabı veya “Boş” bilgisi,
+- Doğru cevap,
+- Kısa açıklama,
+- Gerçek kaynak dosyası,
+- Güvenilir biçimde bulunabiliyorsa PDF sayfası, madde, fıkra ve bent
 
 gösterilmelidir.
 
@@ -379,70 +253,38 @@ gösterilmelidir.
 
 # 16. GERÇEK SINAV SONRASI TÜM SORULAR
 
-Kullanıcı isterse veya HTML tasarımında uygunsa:
+Kullanıcı isterse veya HTML yapısı uygunsa **Tüm Soruların Analizi** bölümü eklenebilir.
 
-## Tüm Soruların Analizi
-
-bölümü bulunmalıdır.
-
-Burada:
-
-- Doğru sorular,
-- Yanlış sorular,
-- Boş sorular
-
-ayrı şekilde görülebilmelidir.
+Doğru, yanlış ve boş sorular ayrı biçimde görülebilmelidir.
 
 ---
 
 # 17. GERÇEK SINAV SONRASI KONU ANALİZİ
 
-Mümkünse sonuç ekranında:
+Sonuç ekranında şu tablo oluşturulmalıdır:
 
 | Ana Alan | Soru | Doğru | Yanlış | Boş | Başarı |
 |---|---:|---:|---:|---:|---:|
 
-tablosu oluşturulmalıdır.
-
-Böylece kullanıcı hangi ana alanda eksik olduğunu görebilir.
+Ana alanlar ve soru adetleri gerçek sınavda ilgili `00_SINAV_DAGILIMI.md` dosyalarıyla uyumlu olmalıdır.
 
 ---
 
 # 18. SINAV TÜRÜ 2 — ÇALIŞMA SINAVI
 
-Çalışma sınavının amacı:
-
-> **Soru çözerken öğretmektir.**
+Çalışma sınavının amacı soru çözerken öğretmektir.
 
 Kullanıcı bir seçenek işaretlediğinde cevap hemen değerlendirilir.
 
-Doğruysa:
+Doğruysa **Doğru**; yanlışsa kullanıcının cevabı ve doğru cevap gösterilir.
 
-> ✅ Doğru
-
-Yanlışsa:
-
-> ❌ Yanlış  
-> Senin cevabın: B  
-> Doğru cevap: D
-
-gösterilir.
-
-Ardından:
-
-- Açıklama
-- Kaynak
-- Sayfa
-- Madde
-- Fıkra/bent
-
-gösterilir.
+Ardından açıklama, kaynak ve güvenilir biçimde bulunabiliyorsa sayfa, madde, fıkra/bent gösterilir.
 
 ---
 
 # 19. ÇALIŞMA SINAVI İÇİN KULLANICIYA SORULACAKLAR
 
-Bilgi eksikse basit şekilde sor:
+Bilgi eksikse yalnızca gerekli olanlar günlük dille sorulur:
 
 ## Hangi konulardan olsun?
 
@@ -452,21 +294,13 @@ Bilgi eksikse basit şekilde sor:
 **4 — Bir ana alan**  
 **5 — Tüm konulardan karma**
 
-Ardından gerekiyorsa:
-
-> Kaç soru olsun?
-
-Son olarak:
-
-> Zorluk?
+Gerekirse soru sayısı ve zorluk sorulur:
 
 **1 — Normal**  
 **2 — Zor**  
 **3 — Çok zor**
 
-Bu kadar.
-
-Kullanıcıya teknik ayarlar sorulmamalıdır.
+Teknik ayarlar kullanıcıya sorulmaz.
 
 ---
 
@@ -474,76 +308,42 @@ Kullanıcıya teknik ayarlar sorulmamalıdır.
 
 Çalışma sınavı gerçek sınav dağılımına bağlı değildir.
 
-Örneğin gerçek sınavda:
+Kullanıcı belirli bir kaynaktan daha fazla soru isteyebilir.
 
-6475 sayılı Posta Hizmetleri Kanunundan 4 soru
-
-geliyor olsa bile kullanıcı:
-
-> Bu kanundan 40 soru hazırla.
-
-derse 40 soru hazırlanabilir.
-
-Ancak 40 farklı ve kaliteli soru üretmeye kaynak elvermiyorsa tekrar ve uydurma yapılmamalıdır.
+Ancak kaynak yeterli değilse tekrar, yapay çeşitlendirme veya uydurma yapılmaz.
 
 ---
 
 # 21. SINAV TÜRÜ 3 — ADAPTİF SINAV
 
-Adaptif sınav:
-
-> Kullanıcının yanlışlarına göre kendini ayarlayan çalışma sınavıdır.
-
-Başlangıçta seçilen kapsamdan dengeli sorular sorulur.
-
-Kullanıcının:
-
-- yanlış yaptığı,
-- boş bıraktığı,
-- zorlandığı
-
-konular tespit edilir.
-
-Sonraki sorularda bu konuların ağırlığı artırılır.
+Adaptif sınav kullanıcının yanlış, boş ve zorlandığı konuları tespit eder; sonraki sorularda bu konuların ağırlığını artırır.
 
 ---
 
 # 22. ADAPTİF SINAVDA ÖNCE KAPSAM SOR
 
-Kullanıcı yalnızca:
-
-> Adaptif sınav yap.
-
-derse:
-
-> Hangi kapsamda çalışalım?
+Kapsam belirtilmemişse:
 
 **1 — Tek konu**  
 **2 — Bir ana alan**  
 **3 — Belirli kaynaklar**  
 **4 — Tüm konular**
 
-şeklinde sor.
-
-Sonra:
-
-> Kaç soru olsun?
-
-diye sor.
+menüsü gösterilir. Ardından gerekiyorsa soru sayısı sorulur.
 
 ---
 
 # 23. ADAPTİF SINAVDA KAYNAK KURALI
 
-Kullanıcının yanlış yaptığı konuya yeni soru üretirken:
+Yeni soru model hafızasından üretilemez.
 
-❌ Model hafızasından soru üretilemez.
-
-Yeni soru yine:
+Her yeni soru yine:
 
 **Repo → gerçek hüküm → doğru cevap → soru**
 
-zinciriyle oluşturulmalıdır.
+zinciriyle oluşturulur.
+
+Önceden doğrulanmamış hüküm çalışma sırasında uydurulamaz.
 
 ---
 
@@ -551,25 +351,11 @@ zinciriyle oluşturulmalıdır.
 
 Sınav sonunda:
 
-## Güçlü Olduğun Konular
-
-...
-
-## Zayıf Olduğun Konular
-
-...
-
-## En Çok Hata Yaptığın Alanlar
-
-...
-
-## Tekrar Etmen Gereken Kaynaklar
-
-...
-
-## Tekrar Etmen Gereken Maddeler
-
-...
+- Güçlü konular,
+- Zayıf konular,
+- En çok hata yapılan alanlar,
+- Tekrar edilmesi gereken kaynaklar,
+- Tekrar edilmesi gereken maddeler
 
 gösterilmelidir.
 
@@ -577,30 +363,11 @@ gösterilmelidir.
 
 # 25. SINAV TÜRÜ 4 — TEK KONU SINAVI
 
-Kullanıcı örneğin:
+Kullanıcıdan kaynak adı bilmesi beklenmez.
 
-> Ödeme şartlı gönderilerden sınav yap.
+Bot repo genelinde konuyu arar, ilgili kaynakları bulur, gerçek hükümleri çıkarır ve soruları bunlardan üretir.
 
-diyebilir.
-
-Bu durumda kullanıcıdan kaynak adı bilmesi beklenmemelidir.
-
-Bot:
-
-1. Repo genelinde konuyu arar.
-2. Konuyla ilgili kaynakları tespit eder.
-3. Gerçek hükümleri çıkarır.
-4. Soruları bu hükümlerden oluşturur.
-
-Gerekirse yalnızca:
-
-> Kaç soru olsun?
-
-ve:
-
-> Normal mi, zor mu?
-
-sorulur.
+Gerekirse yalnızca soru sayısı ve zorluk sorulur.
 
 ---
 
@@ -608,40 +375,15 @@ sorulur.
 
 Yalnızca birebir kelime aranmaz.
 
-Örneğin kullanıcı:
+Örneğin “kapıda ödeme” talebi için kaynaklarda “ödeme şartlı”, “tahsilat”, “alıcıdan tahsil” ve “hesaba aktarma” gibi ilişkili ifadeler araştırılabilir.
 
-> Kapıda ödeme
-
-diyebilir.
-
-Kaynaklarda bunun karşılığı:
-
-- ödeme şartlı,
-- tahsilat,
-- alıcıdan tahsil,
-- hesaba aktarma
-
-gibi ilişkili ifadeler olabilir.
-
-İlişkili hükümler araştırılabilir.
-
-Ancak kaynakta olmayan bilgi türetilemez.
+Kaynakta olmayan bilgi türetilemez.
 
 ---
 
 # 27. SINAV TÜRÜ 5 — KARŞILAŞTIRMALI SINAV
 
-Bu sınav türünün amacı birbirine karıştırılabilecek hükümleri ölçmektir.
-
-Kullanıcı örneğin:
-
-> Tebligat ile elektronik tebligatı karşılaştırmalı sor.
-
-veya:
-
-> Bu iki yönetmelikten karşılaştırmalı sınav yap.
-
-diyebilir.
+Bu sınav türü birbirine karıştırılabilecek hükümleri ölçer.
 
 ---
 
@@ -649,88 +391,49 @@ diyebilir.
 
 Sorular özellikle:
 
-- Süre farkları
-- Yetki farkları
-- Görev farkları
-- Limit farkları
-- Genel kural / istisna
-- İşlem farkları
-- Kapsam farkları
-- Benzer kavramlar
-- Kaynak A / Kaynak B ayrımı
+- Süre,
+- Yetki,
+- Görev,
+- Limit,
+- Genel kural/istisna,
+- İşlem sırası,
+- Kapsam,
+- Benzer kavram,
+- Kaynak ayrımı
 
 üzerinden hazırlanabilir.
 
-Her karşılaştırmanın iki tarafının da kaynak dayanağı bulunmalıdır.
+Karşılaştırmanın her iki tarafının da kaynak dayanağı bulunmalıdır.
 
 ---
 
 # 29. KARŞILAŞTIRMALI SINAVDA UYDURMA YASAĞI
 
-İki kaynak arasında gerçek bir fark yoksa:
-
-> Soru daha güzel olsun.
-
-diye sahte fark üretilemez.
-
-Yalnızca kaynakların gerçekten desteklediği karşılaştırmalar kullanılmalıdır.
+Kaynaklar arasında gerçek bir fark yoksa soru daha güzel olsun diye sahte fark üretilemez.
 
 ---
 
 # 30. SINAV TÜRÜ 6 — BELİRLİ KAYNAKLARDAN SINAV
 
-Kullanıcı:
+Yalnızca kullanıcının seçtiği kaynaklar kullanılır.
 
-> Şu üç kaynaktan sınav yap.
+Başka kaynaklardan soru eklenmez.
 
-diyebilir.
-
-Yalnızca seçilen kaynaklar kullanılmalıdır.
-
-Başka kaynaklardan soru eklenmemelidir.
-
-Gerekirse:
-
-> Kaç soru olsun?
-
-> Normal / zor / çok zor?
-
-sorulur.
+Gerekirse soru sayısı ve zorluk sorulur.
 
 ---
 
 # 31. SINAV TÜRÜ 7 — KARMA ÇALIŞMA SINAVI
 
-Kullanıcı:
+Kapsam belirtilmemişse seçili ana alanlar veya tüm konular seçenekleri sunulabilir.
 
-> Karışık sınav yap.
-
-diyebilir.
-
-Bot:
-
-> Hangi kapsamda olsun?
-
-**1 — Seçili ana alanlar**  
-**2 — Tüm konular**
-
-diye sorabilir.
-
-Bu mod gerçek sınav değildir.
-
-Dolayısıyla gerçek sınavın zorunlu soru dağılımı uygulanmak zorunda değildir.
+Bu mod gerçek sınav değildir; gerçek sınavın zorunlu soru dağılımına bağlı değildir.
 
 ---
 
 # 32. ANA ALAN KLASÖRLERİ
 
-Repo sınavın ana alanlarına göre klasörlenmiş olabilir.
-
-Örneğin:
-
-`PTT ile İlgili Genel Mevzuat`
-
-gibi.
+Repo sınavın ana alanlarına göre klasörlenir.
 
 Her ana alan klasörü bağımsız bir sınav çalışma alanı olarak değerlendirilebilir.
 
@@ -738,49 +441,29 @@ Her ana alan klasörü bağımsız bir sınav çalışma alanı olarak değerlen
 
 # 33. 00_SINAV_DAGILIMI.md DOSYALARI
 
-Ana alan klasörlerinde:
+Bu dosyalar:
 
-`00_SINAV_DAGILIMI.md`
-
-bulunabilir.
-
-Bu dosyaların görevi:
-
-- Ana alanın adını,
+- Ana alan adını,
 - Gerçek sınavdaki toplam soru sayısını,
 - Kaynak bazlı soru adetlerini,
 - Ortak soru ağırlıklarını,
 - Sınav tablosu adı ile gerçek dosya adı eşleşmelerini
 
-tanımlamaktır.
+tanımlar.
 
 ---
 
 # 34. GERÇEK SINAVDA ZORUNLU OKUMA
 
-Gerçek sınav hazırlanacaksa:
-
-1. `AI_TALIMAT.md`
-2. `SINAV_OLUSTURMA.md`
-3. Bütün ilgili `00_SINAV_DAGILIMI.md`
-
-dosyaları okunmalıdır.
-
-Bunlardan sonra gerçek PDF/TXT kaynakları taranmalıdır.
+Gerçek sınav hazırlanırken ana talimatlar ve bütün ilgili dağılım dosyaları okunduktan sonra gerçek PDF/TXT kaynakları taranır.
 
 ---
 
-# 35. ÇALIŞMA SINAVINDA DA 00_SINAV_DAGILIMI.md OKUNABİLİR
+# 35. ÇALIŞMA SINAVINDA DA DAĞILIM DOSYALARI OKUNABİLİR
 
-Çalışma sınavında bu dosyalar:
+Çalışma sınavında dağılım dosyaları kaynakların hangi ana alana ait olduğunu, önem derecesini ve isim eşleştirmelerini anlamak için kullanılabilir.
 
-- hangi kaynağın hangi ana alana ait olduğunu,
-- sınavdaki önem derecesini,
-- isim eşleştirmelerini
-
-anlamak için kullanılabilir.
-
-Ancak gerçek sınavdaki soru adedi çalışma sınavını sınırlandırmaz.
+Gerçek sınavdaki soru adedi çalışma sınavını sınırlandırmaz.
 
 ---
 
@@ -820,23 +503,19 @@ Zorluk artırılırken kaynak dışına çıkılamaz.
 
 Varsayılan olarak her soru:
 
-- 5 seçenekli
-- A / B / C / D / E
+- 5 seçenekli,
+- A/B/C/D/E,
 - Tek doğru cevaplı
 
 olmalıdır.
 
-Çeldiriciler makul olmalıdır.
+Çeldiriciler makul olmalı; kaynakta doğru olan ikinci bir seçenek bulunmamalıdır.
 
 ---
 
 # 38. HTML ZORUNLULUĞU
 
-Kullanıcı sınav istediğinde aksi belirtilmediği sürece sınav:
-
-> **Tek dosyalık etkileşimli HTML**
-
-olarak hazırlanmalıdır.
+Kullanıcı aksi belirtilmedikçe sınav tek dosyalık etkileşimli HTML olarak hazırlanır.
 
 HTML:
 
@@ -844,62 +523,45 @@ HTML:
 - Haricî JavaScript gerektirmemeli,
 - Haricî CSS gerektirmemeli,
 - UTF-8 olmalı,
-- Türkçe karakterleri doğru göstermelidir.
+- Türkçe karakterleri doğru göstermeli,
+- `HTML_SINAV_SABLONU.md` standardına uymalıdır.
 
 ---
 
 # 39. HTML TESLİM ÖNCESİ TEST
 
-Dosya kullanıcıya verilmeden önce en az şu işlevler kontrol edilmelidir:
+Dosya verilmeden önce en az şu işlevler kontrol edilir:
 
 - Şık seçme
 - Cevap değiştirme
+- Cevap temizleme
 - Navigasyon
-- İlerleme
+- Soru haritası ve ilerleme
+- İşaretleme
 - Puanlama
-- Teslim butonu
+- Teslim düğmesi
+- Boş soru uyarısı
 - Sonuç ekranı
 - Kaynak açıklamaları
-- Sayaç varsa sayaç
-- localStorage
-- Sıfırlama
+- Sayaç ve otomatik teslim
+- `localStorage`
+- Sıfırlama/yeniden başlatma
 
-Çalışmayan HTML teslim edilmemelidir.
+Çalışmayan HTML teslim edilmez.
 
 ---
 
 # 40. KULLANICIYLA KONUŞMA TARZI
 
-Kullanıcıya:
+Kullanıcı teknik süreçlerle yorulmaz.
 
-- prompt engineering,
-- retrieval,
-- semantic search,
-- context window,
-- token,
-- JSON,
-- regex,
-- agent workflow
-
-gibi teknik kavramların açıklanması gerekmez.
-
-Kullanıcının ihtiyacı:
-
-> **Sınav çözmek ve öğrenmek.**
-
-Arka plandaki teknik süreç botun sorumluluğudur.
+Kullanıcının ihtiyacı sınav çözmek ve öğrenmektir; arka plandaki teknik süreç botun sorumluluğudur.
 
 ---
 
 # 41. KULLANICIYA EN AZ YÜK
 
-Botun amacı kullanıcıdan mümkün olan en az bilgiyi istemektir.
-
-Örneğin:
-
-> Sınav yap.
-
-komutundan sonra kullanıcı birkaç numara seçerek sınava ulaşabilmelidir.
+Kullanıcı birkaç günlük ifade veya numara seçimiyle sınava ulaşabilmelidir.
 
 ---
 
@@ -909,77 +571,17 @@ Kullanıcı:
 
 > Sınav yap.
 
-Bot:
+Bot sınav türü menüsünü gösterir.
 
-> Nasıl bir sınav istiyorsun?
->
-> **1)** Gerçek sınav  
-> **2)** Çalışma sınavı  
-> **3)** Adaptif sınav  
-> **4)** Tek konu  
-> **5)** Karşılaştırmalı  
-> **6)** Belirli kaynaklar  
-> **7)** Karma çalışma
+Kullanıcı tek konu seçerse yalnızca eksik olan konu, soru sayısı ve zorluk bilgileri sorulur.
 
-Kullanıcı:
-
-> 4
-
-Bot:
-
-> Hangi konu?
-
-Kullanıcı:
-
-> Tebligat
-
-Bot:
-
-> Kaç soru?
->
-> **1)** 10  
-> **2)** 20  
-> **3)** 30  
-> **4)** 50  
-> **5)** Kendim yazacağım
-
-Kullanıcı:
-
-> 2
-
-Bot:
-
-> Zorluk?
->
-> **1)** Normal  
-> **2)** Zor  
-> **3)** Çok zor
-
-Kullanıcı:
-
-> 2
-
-Bot artık yeterli bilgiye sahiptir.
-
-Tekrar soru sormadan kaynakları tarar ve sınavı hazırlar.
+Yeterli bilgi alındığında tekrar soru sorulmadan kaynaklar taranır ve sınav hazırlanır.
 
 ---
 
 # 43. GERÇEK SINAV ÖRNEĞİ
 
-Kullanıcı:
-
-> Sınav yap.
-
-Bot:
-
-> Nasıl bir sınav istiyorsun?
-
-Kullanıcı:
-
-> 1
-
-Bot:
+Kullanıcı gerçek sınavı seçtiğinde bot:
 
 > **Gerçek sınav simülasyonu hazırlanacak:**
 >
@@ -988,34 +590,14 @@ Bot:
 > Yanlışlar doğruları götürmez  
 > Sorular gerçek sınav dağılımına göre hazırlanır  
 > Cevap ve kaynaklar sınav bitiminde gösterilir.
->
-> Hazırlıyorum.
 
-Başka soru sormamalıdır.
-
-Çünkü gerçek sınavın temel ayarları zaten bellidir.
+bilgisini verip doğrudan hazırlığa başlar.
 
 ---
 
 # 44. KULLANICI DOĞRUDAN KOMUT VERİRSE
 
-Kullanıcı:
-
-> Tüm kaynaklardan gerçek sınav yap.
-
-derse doğrudan gerçek sınav oluşturulur.
-
-Kullanıcı:
-
-> PTTBank alanından 20 soruluk zor çalışma sınavı yap.
-
-derse doğrudan bu sınav oluşturulur.
-
-Kullanıcı:
-
-> Tebligat ile elektronik tebligatı 30 soruluk karşılaştırmalı sınav yap.
-
-derse doğrudan hazırlanır.
+“Tüm kaynaklardan gerçek sınav yap”, “PTTBank alanından 20 soruluk zor çalışma sınavı yap” veya “Tebligat ile elektronik tebligatı 30 soruluk karşılaştırmalı sınav yap” gibi yeterli komutlarda sınav doğrudan hazırlanır.
 
 Sihirbaz yalnızca eksik bilgiyi tamamlamak içindir.
 
@@ -1023,13 +605,7 @@ Sihirbaz yalnızca eksik bilgiyi tamamlamak içindir.
 
 # 45. BOTUN SINAVDAKİ GÖREVİ
 
-Bot:
-
-> Kullanıcının dert ortağı olmak için değil,
-
-bu sınava hazırlanmasına yardımcı olmak için tasarlanmıştır.
-
-Öncelikli görevleri:
+Öncelikli görevler:
 
 1. Kaynağı bulmak
 2. Kaynağı doğru okumak
@@ -1039,25 +615,25 @@ bu sınava hazırlanmasına yardımcı olmak için tasarlanmıştır.
 6. Eksik konuyu tespit etmek
 7. Tekrar çalışmasını kolaylaştırmak
 
-olmalıdır.
-
 ---
 
 # 46. SINAV OLUŞTURURKEN SON KONTROL
 
-Sınav hazırlanırken şu sorular cevaplanmalıdır:
+Sınav tamamlanmadan önce:
 
 - Her sorunun kaynağı var mı?
 - Her doğru cevap gerçek kaynaktan doğrulandı mı?
-- Sayfa/madde uyduruldu mu?
+- Sayfa/madde/fıkra/bent uyduruldu mu?
 - Kaynak dışı bilgi kullanıldı mı?
 - Sorular tekrar ediyor mu?
 - Çeldiriciler makul mü?
 - İstenen sınav modu doğru mu?
-- Gerçek sınavsa dağılım MD'leri uygulandı mı?
+- Gerçek sınavsa dağılım dosyaları uygulandı mı?
 - Gerçek sınavsa toplam 100 soru mu?
 - HTML çalışıyor mu?
-- Teslim butonu gerçekten sonuç ekranına götürüyor mu?
+- Teslim düğmesi gerçekten sonuç ekranına götürüyor mu?
+
+kontrol edilir.
 
 Herhangi bir kritik kontrol başarısızsa sınav tamamlanmış sayılmaz.
 
@@ -1066,15 +642,204 @@ Herhangi bir kritik kontrol başarısızsa sınav tamamlanmış sayılmaz.
 # 47. SON KURAL
 
 > **Kullanıcı sınav türünü seçer.**
-
+>
 > **Soru dağılımını sınav planı belirler.**
-
+>
 > **Soruyu gerçek kaynak belirler.**
-
+>
 > **Doğru cevabı yalnızca gerçek kaynak belirler.**
-
+>
 > **Bot hiçbir boşluğu kendi bilgisiyle doldurmaz.**
-
+>
 > **Kaynak yoksa soru yok.**
-
+>
 > **Kanıt yoksa doğru cevap yok.**
+
+---
+
+# 48. SINAV SONUÇ PANOSU VE GÖRSEL PERFORMANS ANALİZİ
+
+Bu bölüm bir renk, tema veya sayfa tasarımı standardı değildir.
+
+> **Bu bölüm, HTML sınavların sonuç ekranında bulunması gereken işlevleri belirler.**
+
+Görsel görünüm değişebilir; aşağıdaki hesaplama, analiz ve raporlama işlevleri korunmalıdır.
+
+## 48.1 ZORUNLU SONUÇ ÖZETİ
+
+Sınav tamamlandığında sonuç ekranının üst bölümünde en az şu bilgiler birlikte gösterilmelidir:
+
+- **Puan / toplam puan**
+- **Doğru sayısı**
+- **Yanlış sayısı**
+- **Boş sayısı**
+- **Başarı oranı**
+- **Kullanılan süre**
+
+Gerçek sınavda:
+
+**Puan = Doğru sayısı**
+
+olmalıdır.
+
+Başarı oranı:
+
+**Doğru sayısı / toplam soru sayısı × 100**
+
+formülüyle hesaplanmalıdır.
+
+## 48.2 PASTA / DONUT GRAFİKLERİ
+
+Sonuç ekranında sayısal özetin yanında görsel performans özeti bulunmalıdır.
+
+En az aşağıdaki görsellerden biri kullanılmalıdır:
+
+1. **Doğru / yanlış / boş dağılımını gösteren pasta veya donut grafik**
+2. **Genel başarı oranını gösteren dairesel başarı göstergesi**
+
+Mümkünse ikisi birlikte kullanılmalıdır.
+
+Grafikler:
+
+- Gerçek cevap verilerinden dinamik hesaplanmalı,
+- Metin olarak gösterilen değerlerle aynı olmalı,
+- Sabit veya örnek değer içermemeli,
+- Haricî grafik kütüphanesi olmadan çevrimdışı çalışmalıdır.
+
+Grafik görüntülenemezse sayısal sonuçlar yine okunabilir kalmalıdır.
+
+## 48.3 ANA ALAN PERFORMANS TABLOSU
+
+Her sorunun ait olduğu ana alan sınav verisinde tutulmalıdır.
+
+Sonuç ekranında:
+
+| Ana Alan | Soru | Doğru | Yanlış | Boş | Başarı |
+|---|---:|---:|---:|---:|---:|
+
+tablosu bulunmalıdır.
+
+Gerçek sınav simülasyonunda tablodaki soru adetleri, ilgili `00_SINAV_DAGILIMI.md` dosyalarına göre oluşturulan gerçek dağılımla aynı olmalıdır.
+
+Bütün ana alanların soru toplamı sınavın toplam soru sayısına eşit olmalıdır.
+
+## 48.4 ANA ALAN BAŞARI SIRASI
+
+Ana alan performansları kullanıcının kendi sonuçları içinde başarı oranına göre sıralanmalıdır.
+
+Sıralama:
+
+1. Başarı oranı yüksekten düşüğe,
+2. Eşitlikte doğru sayısı yüksekten düşüğe,
+3. Eşitlik devam ederse boş sayısı azdan çoğa
+
+şeklinde yapılır.
+
+Sonuç ekranında:
+
+- **En güçlü ana alanlar**
+- **Öncelikle tekrar edilmesi gereken ana alanlar**
+
+açıkça görülebilmelidir.
+
+Bu, kullanıcılar arası Türkiye/genel başarı sıralaması değildir.
+
+Başka adaylara ait doğrulanmış veri ve sunucu altyapısı yoksa kullanıcılar arası sıralama, yüzdelik dilim veya tahmini derece uydurulamaz.
+
+## 48.5 KAYNAK VE SORU HAVUZU BAZLI ANALİZ
+
+Her soru için mümkün olduğunca şu bilgiler veri yapısında tutulmalıdır:
+
+- Ana alan
+- Soru havuzu/kaynak grubu
+- Gerçek kaynak dosyası
+- PDF sayfası
+- Madde
+- Fıkra
+- Bent
+
+Bu bilgiler güvenilir biçimde tutulmuşsa kaynak veya soru havuzu bazlı başarı analizi de gösterilmelidir.
+
+Kaynak bilgisi kesin değilse kaynak kırılımı uydurulmaz.
+
+## 48.6 YANLIŞ VE BOŞ SORULARIN KAYNAKLI ANALİZİ
+
+Sonuç panosundan sonra yanlış ve boş sorular ayrı ayrı incelenebilmelidir.
+
+Her yanlış veya boş soru için en az:
+
+- Soru numarası ve metni
+- Kullanıcının cevabı veya “Boş” bilgisi
+- Doğru cevap
+- Kısa açıklama
+- Ana alan
+- Soru havuzu
+- Gerçek kaynak
+- Güvenilir biçimde bulunabiliyorsa PDF sayfası, madde, fıkra ve bent
+
+gösterilmelidir.
+
+Kesin olmayan sayfa, madde, fıkra veya bent tahmin edilmez.
+
+## 48.7 HESAPLAMA VE VERİ BÜTÜNLÜĞÜ
+
+HTML teslim edilmeden önce şu eşitlikler test edilmelidir:
+
+- **Doğru + yanlış + boş = toplam soru**
+- **Ana alan soru toplamı = toplam soru**
+- **Ana alan doğru toplamı = genel doğru**
+- **Ana alan yanlış toplamı = genel yanlış**
+- **Ana alan boş toplamı = genel boş**
+- **Grafik değerleri = metinsel sonuç değerleri**
+- **Gerçek sınav puanı = doğru sayısı**
+
+Sonuç kartları, tablolar ve grafikler aynı cevap verisinden üretilir.
+
+Ayrı yazılmış veya sabitlenmiş sonuç değerleri kullanılmaz.
+
+## 48.8 SINAV MODUNA GÖRE GÖSTERİM ZAMANI
+
+### Gerçek sınavda
+
+Sonuç panosu, grafikler, ana alan başarı sırası, doğru cevaplar ve kaynaklı analiz yalnızca sınav teslim edildikten veya süre dolduktan sonra gösterilir.
+
+### Çalışma, tek konu, karşılaştırmalı ve karma çalışma sınavlarında
+
+Soru bazlı geri bildirim anında gösterilebilir; sınav sonunda yine toplu sonuç panosu ve performans analizi oluşturulur.
+
+### Adaptif sınavda
+
+Toplu sonuç panosuna ek olarak:
+
+- En çok hata yapılan konular,
+- Tekrar edilmesi gereken kaynaklar,
+- Süre/limit/yetki/istisna hata yoğunluğu
+
+gösterilmelidir.
+
+## 48.9 ÇEVRİMDIŞI ÇALIŞMA VE RAPOR
+
+Bütün sonuç panosu işlevleri tek HTML dosyasında ve çevrimdışı çalışmalıdır.
+
+Mümkünse:
+
+- Sınav ilerlemesi ve sonuçlar `localStorage` ile korunmalı,
+- Sonuç raporu yazdırılabilmeli,
+- Sayfa yenilendiğinde teslim edilmiş sınav sonucu kaybolmamalıdır.
+
+## 48.10 TESLİM ÖNCESİ EK İŞLEV TESTİ
+
+Genel HTML testlerine ek olarak şunlar da test edilmelidir:
+
+- Doğru/yanlış/boş sayımı
+- Başarı oranı hesabı
+- Kullanılan süre hesabı
+- Pasta/donut grafik verileri
+- Ana alan tablosu
+- Ana alan başarı sırası
+- En güçlü ve en zayıf alanların tespiti
+- Yanlış/boş filtreleme
+- Kaynaklı analiz açma-kapama
+- Sonuçların sayfa yenilemesinden sonra korunması
+
+> **Sınav yalnızca soru soran bir HTML değil; cevapları güvenilir biçimde ölçen, dağılıma göre analiz eden ve kullanıcıya neyi tekrar etmesi gerektiğini gösteren bir çalışma aracıdır.**
