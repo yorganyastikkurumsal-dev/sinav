@@ -1,17 +1,15 @@
 name: One-time add responsive exam standard
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - .github/workflows/_one_time_add_responsive_exam_standard.yml
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   update-responsive-standard:
+    if: github.event.issue.title == '[SYSTEM] Apply responsive exam standard'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
