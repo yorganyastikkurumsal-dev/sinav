@@ -1,0 +1,43 @@
+name: Temporary export current exam sources
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/_temporary_export_sources.yml
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Package current TXT and MD sources
+        shell: bash
+        run: |
+          mkdir -p export
+          while IFS= read -r -d '' file; do
+            mkdir -p "export/$(dirname "$file")"
+            cp "$file" "export/$file"
+          done < <(find . -type f \( -iname '*.txt' -o -iname '*.md' \) -not -path './.git/*' -print0)
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          files = sorted(str(p.relative_to('export')) for p in Path('export').rglob('*') if p.is_file())
+          Path('export/_EXPORT_MANIFEST.json').write_text(json.dumps(files, ensure_ascii=False, indent=2), encoding='utf-8')
+          print(f'Packaged {len(files)} source files')
+          PY
+          cd export
+          zip -qr ../repo-current-sources.zip .
+
+      - name: Upload source package
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-current-sources
+          path: repo-current-sources.zip
+          retention-days: 1
