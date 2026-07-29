@@ -1,11 +1,9 @@
 name: Temporary export current exam sources
 
 on:
-  push:
+  pull_request:
     branches:
       - main
-    paths:
-      - .github/workflows/_temporary_export_sources.yml
 
 permissions:
   contents: read
