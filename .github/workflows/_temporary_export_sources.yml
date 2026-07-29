@@ -37,6 +37,39 @@ jobs:
       - name: Generate learning exam package
         run: python .github/scripts/generate_learning_exams.py
 
+      - name: Validate generated HTML files
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import subprocess
+          import tempfile
+
+          folder = Path('generated_learning_exams')
+          exams = sorted(p for p in folder.glob('[0-9][0-9]_*.html') if not p.name.startswith('00_'))
+          assert len(exams) == 10, f'10 sınav bekleniyordu, {len(exams)} bulundu'
+
+          for path in exams:
+              text = path.read_text(encoding='utf-8')
+              assert text.count('"question":') == 100, f'{path.name}: soru sayısı 100 değil'
+              assert 'class="dock"' in text, f'{path.name}: mobil alt menü yok'
+              assert 'Kaynak hükmü' in text, f'{path.name}: anında kaynak açıklaması yok'
+              assert 'viewport-fit=cover' in text, f'{path.name}: mobil viewport yok'
+              scripts = re.findall(r'<script>(.*?)</script>', text, flags=re.S)
+              assert scripts, f'{path.name}: JavaScript bulunamadı'
+              for index, script in enumerate(scripts):
+                  with tempfile.NamedTemporaryFile('w', suffix='.js', encoding='utf-8', delete=False) as handle:
+                      handle.write(script)
+                      temp_path = handle.name
+                  result = subprocess.run(['node', '--check', temp_path], text=True, capture_output=True)
+                  if result.returncode:
+                      raise RuntimeError(f'{path.name} JavaScript hatası:\n{result.stderr}')
+              print(f'OK: {path.name}')
+
+          print('Doğrulama tamamlandı: 10 HTML, 1.000 soru ve JavaScript sözdizimi başarılı.')
+          PY
+
       - name: Upload learning exam package
         uses: actions/upload-artifact@v4
         with:
