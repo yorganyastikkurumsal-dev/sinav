@@ -1,9 +1,9 @@
-﻿# YAPI - İŞ YERLERİ
+# SATINALMA - DESTEK
 ## SINAV SORU DAĞILIMI VE KAYNAK KULLANIM TALİMATI
 
 Bu klasör, PTT 2026 Uzmanlık Sınavı soru dağılımındaki:
 
-**Yapı - İş Yerleri**
+**Satınalma - Destek**
 
 ana alanını temsil eder.
 
@@ -13,13 +13,14 @@ ana alanını temsil eder.
 
 Bu ana alanın resmî sınav dağılımındaki ağırlığı:
 
-- **Toplam kaynak sayfası: 66**
-- **Gerçek sınav soru sayısı: 3**
-- **Gerçek sınav oranı: %3**
+- **Toplam kaynak sayısı: 15**
+- **Toplam kaynak sayfası: 123**
+- **Gerçek sınav soru sayısı: 6**
+- **Gerçek sınav oranı: %6**
 
 100 soruluk gerçek sınav simülasyonunda bu ana alandan:
 
-> **TAM OLARAK 3 SORU**
+> **TAM OLARAK 6 SORU**
 
 hazırlanmalıdır.
 
@@ -29,72 +30,74 @@ hazırlanmalıdır.
 
 | No | Tür | Kaynak | Sayfa |
 |---:|:---:|---|---:|
-| 1 | P | Yapı İşleri Satınalma Prosedürü | 13 |
-| 2 | P | PTT AŞ Taşınmazların Yönetimi Prosedürü | 14 |
-| 3 | P | Yapı İşlerinde Bakım Onarım Prosedürü | 6 |
-| 4 | P | Yapı Kontrol Prosedürü | 5 |
-| 5 | P | PTT Müdürlük ve Şube Yönetim Prosedürü | 7 |
-| 6 | P | Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü | 11 |
-| 7 | P | Kat Karşılığı İnşaat Yapımı ve Arsa Satışı Karşılığı Gelir Paylaşımı Prosedürü | 10 |
-| **TOPLAM** |  |  | **66** |
+| 1 | P | PTT AŞ Mal ve Hizmet Alımı Prosedürü | 14 |
+| 2 | P | PTT AŞ Malzeme Ambarlama Prosedürü | 7 |
+| 3 | P | Satış İşlemleri Prosedürü | 6 |
+| 4 | P | Dahili Sigorta İşlemleri Prosedürü | 5 |
+| 5 | P | Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü | 11 |
+| 6 | P | Misafirhane İşletme Prosedürü | 9 |
+| 7 | P | PTT AŞ Taşıt Prosedürü | 7 |
+| 8 | P | Hizmet ve Servis Telefonlarının Tahsis ve Kullanım Prosedürü | 3 |
+| 9 | P | PTT AŞ Ücretsiz Servis ve Yol Yardımı Verilmesine İlişkin Prosedür | 4 |
+| 10 | P | Güvenlik Prosedürü | 11 |
+| 11 | P | Mutfak ve Yemekhane İşletme Prosedürü | 9 |
+| 12 | P | Lokal Alakart Kafeterya İşletme Prosedürü | 10 |
+| 13 | P | Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına İlişkin Prosedür | 17 |
+| 14 | P | Postacı Yürüyüş Yarışması Prosedürü | 4 |
+| 15 | P | Tesis ve Çevre Temizliği Prosedürü | 6 |
+| **TOPLAM** |  |  | **123** |
 
 ---
 
 # 3. GERÇEK SINAV SORU DAĞILIMI
 
-Bu ana alanda 7 ayrı kaynak bulunmaktadır.
+Bu ana alanda 15 ayrı kaynak bulunmaktadır.
 
-Ancak gerçek sınavda bu alandan yalnızca:
+Ancak bu 15 kaynak:
 
-> **3 SORU**
+> **15 AYRI SINAV SORUSU ANLAMINA GELMEZ.**
 
-gelmektedir.
+Resmî sınav tablosundaki birleşik soru hücreleri:
 
-Resmî sınav tablosundaki birleşik soru hücreleri ortak soru havuzu olarak değerlendirilmelidir.
+> **ORTAK SORU HAVUZU**
+
+olarak değerlendirilmelidir.
+
+Gerçek sınavda bu alan 5 ortak soru havuzuna ayrılır.
+
+Birinci havuzdan **2 soru**, diğer dört havuzun her birinden **1 soru** hazırlanır.
+
+Kontrol:
+
+**2 + 1 + 1 + 1 + 1 = 6**
 
 ---
 
-# 4. HAVUZ 1 — YAPI SATINALMA / TAŞINMAZ YÖNETİMİ
+# 4. HAVUZ 1 — MAL VE HİZMET ALIMI
 
-Kaynaklar:
+Kaynak:
 
-- Yapı İşleri Satınalma Prosedürü
-- PTT AŞ Taşınmazların Yönetimi Prosedürü
+- PTT AŞ Mal ve Hizmet Alımı Prosedürü
 
-Bu iki kaynaktan:
+Bu kaynaktan:
 
-> **TOPLAM 1 SORU**
+> **TOPLAM 2 SORU**
 
 hazırlanmalıdır.
 
-Bu iki kaynaktan ayrı ayrı birer soru hazırlanması gerçek sınav dağılımına aykırıdır.
+Bu havuz, gerçek sınavda iki ayrı soru hakkına sahip olan tek Satınalma - Destek havuzudur.
+
+İki soru aynı hükmün yalnızca kelimeleri değiştirilmiş tekrarı olmamalıdır.
 
 ---
 
-# 5. HAVUZ 2 — BAKIM ONARIM / YAPI KONTROL
+# 5. HAVUZ 2 — AMBARLAMA / SATIŞ / DAHİLİ SİGORTA
 
 Kaynaklar:
 
-- Yapı İşlerinde Bakım Onarım Prosedürü
-- Yapı Kontrol Prosedürü
-
-Bu iki kaynaktan:
-
-> **TOPLAM 1 SORU**
-
-hazırlanmalıdır.
-
-Bu iki kaynaktan ayrı ayrı birer soru hazırlanması gerçek sınav dağılımına aykırıdır.
-
----
-
-# 6. HAVUZ 3 — İŞ YERLERİ / ENERJİ / ARSA VE İNŞAAT
-
-Kaynaklar:
-
-- PTT Müdürlük ve Şube Yönetim Prosedürü
-- Enerji Yönetim Sistemi Faaliyetlerinin Kontrolü Prosedürü
-- Kat Karşılığı İnşaat Yapımı ve Arsa Satışı Karşılığı Gelir Paylaşımı Prosedürü
+- PTT AŞ Malzeme Ambarlama Prosedürü
+- Satış İşlemleri Prosedürü
+- Dahili Sigorta İşlemleri Prosedürü
 
 Bu üç kaynaktan:
 
@@ -102,33 +105,93 @@ Bu üç kaynaktan:
 
 hazırlanmalıdır.
 
-Bu üç kaynağın her birinden ayrı ayrı soru hazırlanması gerçek sınav dağılımına aykırıdır.
+Bu kaynakların her birinden ayrı ayrı birer soru hazırlanması gerçek sınav dağılımına aykırıdır.
+
+Soru bu kaynaklardan yalnızca birine dayanabilir veya kaynakların gerçekten desteklediği ölçüde karşılaştırmalı hazırlanabilir.
 
 ---
 
-# 7. GERÇEK SINAV DAĞILIMININ ÖZETİ
+# 6. HAVUZ 3 — KONUT / MİSAFİRHANE
+
+Kaynaklar:
+
+- Posta ve Telgraf Teşkilatı Anonim Şirketi Konut Prosedürü
+- Misafirhane İşletme Prosedürü
+
+Bu iki kaynaktan:
+
+> **TOPLAM 1 SORU**
+
+hazırlanmalıdır.
+
+Bu iki kaynaktan ayrı ayrı birer soru hazırlanması gerçek sınav dağılımına aykırıdır.
+
+---
+
+# 7. HAVUZ 4 — TAŞIT / HİZMET VE SERVİS TELEFONLARI / ÜCRETSİZ SERVİS VE YOL YARDIMI
+
+Kaynaklar:
+
+- PTT AŞ Taşıt Prosedürü
+- Hizmet ve Servis Telefonlarının Tahsis ve Kullanım Prosedürü
+- PTT AŞ Ücretsiz Servis ve Yol Yardımı Verilmesine İlişkin Prosedür
+
+Bu üç kaynaktan:
+
+> **TOPLAM 1 SORU**
+
+hazırlanmalıdır.
+
+Bu kaynakların her birinden ayrı ayrı birer soru hazırlanması gerçek sınav dağılımına aykırıdır.
+
+---
+
+# 8. HAVUZ 5 — DESTEK HİZMETLERİ / GÜVENLİK / SOSYAL VE İDARİ HİZMETLER
+
+Kaynaklar:
+
+- Güvenlik Prosedürü
+- Mutfak ve Yemekhane İşletme Prosedürü
+- Lokal Alakart Kafeterya İşletme Prosedürü
+- Gebe veya Emziren Kadınların Çalıştırılma Şartlarıyla Emzirme Odaları ve Çocuk Bakım Yurtlarına İlişkin Prosedür
+- Postacı Yürüyüş Yarışması Prosedürü
+- Tesis ve Çevre Temizliği Prosedürü
+
+Bu altı kaynaktan:
+
+> **TOPLAM 1 SORU**
+
+hazırlanmalıdır.
+
+Bu altı kaynağın her birinden ayrı ayrı soru hazırlanması gerçek sınav dağılımına aykırıdır.
+
+---
+
+# 9. GERÇEK SINAV DAĞILIMININ ÖZETİ
 
 100 soruluk gerçek sınav simülasyonunda:
 
-- Yapı İşleri Satınalma + PTT AŞ Taşınmazların Yönetimi → **TOPLAM 1**
-- Yapı İşlerinde Bakım Onarım + Yapı Kontrol → **TOPLAM 1**
-- PTT Müdürlük ve Şube Yönetim + Enerji Yönetim Sistemi + Kat Karşılığı İnşaat/Arsa Satışı → **TOPLAM 1**
+- PTT AŞ Mal ve Hizmet Alımı Prosedürü → **2 soru**
+- Malzeme Ambarlama + Satış İşlemleri + Dahili Sigorta → **Toplam 1 soru**
+- Konut + Misafirhane → **Toplam 1 soru**
+- Taşıt + Hizmet ve Servis Telefonları + Ücretsiz Servis ve Yol Yardımı → **Toplam 1 soru**
+- Güvenlik + Mutfak/Yemekhane + Lokal/Alakart/Kafeterya + Gebe/Emziren Kadınlar + Postacı Yürüyüş Yarışması + Tesis/Çevre Temizliği → **Toplam 1 soru**
 
 Kontrol:
 
-**1 + 1 + 1 = 3**
+**2 + 1 + 1 + 1 + 1 = 6**
 
-> **TOPLAM = 3 SORU**
+> **TOPLAM = 6 SORU**
 
 Bu dağılım gerçek sınav simülasyonunda değiştirilemez.
 
 ---
 
-# 8. ORTAK SORU HAVUZLARI KORUNMALIDIR
+# 10. ORTAK SORU HAVUZLARI KORUNMALIDIR
 
-Bu klasördeki 7 kaynak:
+Bu klasördeki 15 kaynak:
 
-**7 ayrı sınav sorusu anlamına gelmez.**
+**15 ayrı gerçek sınav sorusu anlamına gelmez.**
 
 Yapay zekâ:
 
@@ -141,33 +204,31 @@ soru sayısı olarak yorumlamamalıdır.
 
 Gerçek sınavda belirleyici olan bu dosyada tanımlanan ortak soru havuzlarıdır.
 
+Özellikle Havuz 2, Havuz 3, Havuz 4 ve Havuz 5 için her havuzun toplam soru hakkı **1** olarak korunmalıdır.
+
 ---
 
-# 9. SAYFA SAYISI SORU SAYISINI DEĞİŞTİRMEZ
+# 11. SAYFA SAYISI SORU SAYISINI DEĞİŞTİRMEZ
 
-Kaynakların sayfa sayıları:
+Kaynakların veya ortak havuzların sayfa uzunluğu gerçek sınav soru sayısını değiştirmez.
 
-- Yapı İşleri Satınalma → 13
-- Taşınmazların Yönetimi → 14
-- Bakım Onarım → 6
-- Yapı Kontrol → 5
-- Müdürlük ve Şube Yönetim → 7
-- Enerji Yönetim Sistemi → 11
-- Kat Karşılığı İnşaat / Arsa Satışı → 10
+Daha uzun kaynak:
 
-olmasına rağmen gerçek sınav soru dağılımı:
+- ek soru hakkı oluşturmaz,
+- ortak havuzu ayrı sorulara bölmez,
+- kısa kaynakları sınav dışı bırakmaz.
 
-> **1 + 1 + 1 = 3**
+Bu alan için sabit dağılım:
+
+> **2 + 1 + 1 + 1 + 1 = 6**
 
 olarak korunmalıdır.
 
-Daha uzun kaynak daha fazla soru anlamına gelmez.
-
 ---
 
-# 10. GERÇEK SINAV VE ÇALIŞMA SINAVI AYRIMI
+# 12. GERÇEK SINAV VE ÇALIŞMA SINAVI AYRIMI
 
-Bu dosyadaki 3 soruluk dağılım:
+Bu dosyadaki 6 soruluk dağılım yalnızca:
 
 > **GERÇEK SINAV SİMÜLASYONU**
 
@@ -177,95 +238,102 @@ için zorunludur.
 
 Örneğin kullanıcı:
 
-> "Taşınmazların Yönetimi Prosedüründen 20 soru hazırla."
+> "Mal ve Hizmet Alımı Prosedüründen 20 soruluk çalışma sınavı hazırla."
 
-derse 1 soruluk ortak havuz sınırı uygulanmaz.
+derse 2 soruluk gerçek sınav sınırı uygulanmaz.
 
 Kullanıcı:
 
-> "Yapı - İş Yerleri alanından 30 soruluk zor çalışma sınavı yap."
+> "Satınalma - Destek alanından 40 zor soru hazırla."
 
-derse çalışma amacıyla daha fazla soru hazırlanabilir.
+derse kaynak yeterli olduğu sürece daha fazla soru hazırlanabilir.
 
 Ancak:
 
 - kaynak dışı bilgi üretilemez,
-- aynı soru gereksiz şekilde tekrar edilemez,
-- aynı hüküm yalnızca kelimeleri değiştirilerek çoğaltılamaz.
+- aynı soru tekrar edilemez,
+- aynı hüküm yalnızca kelimeleri değiştirilerek gereksiz yere çoğaltılamaz,
+- kaynakta bulunmayan doğru cevap oluşturulamaz.
 
 ---
 
-# 11. TEK KONU SINAVLARI
+# 13. TEK KONU SINAVLARI
 
 Kullanıcı tam kaynak adını bilmek zorunda değildir.
 
 Örneğin:
 
-> "Taşınmazlardan sınav yap."
+> "Mal ve hizmet alımından sınav yap."
 
-> "Yapı kontrol konusundan soru sor."
+> "Ambarlama konusundan soru hazırla."
 
-> "Enerji yönetiminden sınav yap."
+> "Konut ve misafirhaneyi çalışalım."
 
-> "Bakım onarımdan soru sor."
+> "Taşıt ve servis işlemlerinden beni sına."
 
-gibi taleplerde ilgili kaynaklar bu klasörde aranmalıdır.
+> "Destek hizmetlerinden çalışma sınavı yap."
+
+şeklindeki taleplerde ilgili PDF/TXT kaynakları bu klasörde aranmalıdır.
 
 ---
 
-# 12. KARŞILAŞTIRMALI SINAVLAR
+# 14. KARŞILAŞTIRMALI SINAVLAR
 
-Bu ana alanda karşılaştırmalı sınav hazırlanırken özellikle:
+Bu ana alanda karşılaştırmalı sınav hazırlanırken özellikle aynı ortak havuzdaki ilişkili kaynaklar değerlendirilebilir:
 
-- Yapı İşleri Satınalma / Taşınmazların Yönetimi
-- Bakım Onarım / Yapı Kontrol
-- Müdürlük ve Şube Yönetimi / Enerji Yönetimi
-- Taşınmaz Yönetimi / Kat Karşılığı İnşaat ve Arsa Satışı
+- Malzeme Ambarlama / Satış İşlemleri / Dahili Sigorta
+- Konut / Misafirhane
+- Taşıt / Hizmet ve Servis Telefonları / Ücretsiz Servis ve Yol Yardımı
+- Mutfak ve Yemekhane / Lokal Alakart Kafeterya
+- Güvenlik / Tesis ve Çevre Temizliği
 
-gibi ilişkili kaynaklar değerlendirilebilir.
-
-Ancak karşılaştırmalı soru yalnızca kaynakların gerçekten desteklediği:
+Ancak karşılaştırma yalnızca gerçek kaynakların desteklediği:
 
 - görev,
 - yetki,
-- süreç,
-- süre,
 - sorumluluk,
+- süre,
+- sayı ve limit,
+- işlem sırası,
 - kontrol,
-- işlem adımı,
+- tahsis,
+- kullanım,
+- yasak,
 - istisna,
 - şart
 
-farkları üzerinden hazırlanmalıdır.
+farkları ve benzerlikleri üzerinden yapılmalıdır.
 
-Kaynakta bulunmayan fark veya benzerlik üretilemez.
+Kaynaklarda bulunmayan fark, benzerlik veya istisna üretilmemelidir.
 
 ---
 
-# 13. PDF VE TXT KURALI
+# 15. PDF VE TXT KURALI
 
-Aynı isimdeki:
+Aynı isimli:
 
 `Kaynak.pdf`
 
-ve:
+ve
 
 `Kaynak.txt`
 
-iki ayrı sınav kaynağı değildir.
+iki farklı sınav kaynağı değildir.
 
-Bunlar aynı belgenin iki gösterimidir.
+Bunlar aynı kaynağın iki gösterimidir.
 
-- **PDF → orijinal sınav kaynağıdır.**
-- **TXT → arama ve analiz için yardımcı metindir.**
+- **PDF:** Orijinal sınav kaynağıdır.
+- **TXT:** Arama ve analiz amacıyla kullanılan yardımcı metindir.
 
 Doğruluk açısından PDF asıl kaynaktır.
 
+PDF ve TXT açıkça çelişirse PDF esas alınmalıdır.
+
 ---
 
-# 14. BU DOSYANIN GÖREVİ
+# 16. BU DOSYANIN GÖREVİ
 
-Bu `00_SINAV_DAGILIMI.md` dosyası yalnızca:
+Bu `00_SINAV_DAGILIMI.md` dosyası:
 
 > **hangi kaynak veya kaynak grubundan kaç soru hazırlanacağını**
 
@@ -276,71 +344,76 @@ Bu dosya:
 - doğru cevap kaynağı değildir,
 - prosedür hükmü kaynağı değildir,
 - süre kaynağı değildir,
-- limit kaynağı değildir,
-- yetki kaynağı değildir.
+- sayı veya limit kaynağı değildir,
+- görev veya yetki kaynağı değildir,
+- istisna kaynağı değildir.
 
-Soruların doğru cevapları mutlaka gerçek PDF/TXT kaynaklarından doğrulanmalıdır.
+Soruların içeriği ve doğru cevabı mutlaka gerçek PDF/TXT kaynaklarından doğrulanmalıdır.
 
 ---
 
-# 15. ZORUNLU SORU ÜRETİM SIRASI
+# 17. ZORUNLU SORU ÜRETİM SIRASI
 
 Bu ana alandan sınav hazırlanırken yapay zekâ:
 
 1. Önce bu `00_SINAV_DAGILIMI.md` dosyasını okumalıdır.
 2. Kullanıcının istediği sınav türünü belirlemelidir.
-3. Gerçek sınavsa 3 soruluk dağılımı sabitlemelidir.
-4. Üç ortak soru havuzunu belirlemelidir.
-5. İlgili PDF/TXT kaynaklarını gerçekten okumalıdır.
-6. Soru yapılabilecek gerçek hükümleri çıkarmalıdır.
-7. Her soru için kaynak kanıtını belirlemelidir.
-8. Doğru cevabı kaynaktan sabitlemelidir.
-9. Soruyu oluşturmalıdır.
-10. A-B-C-D-E seçeneklerini oluşturmalıdır.
-11. Soruyu tekrar kaynağa karşı doğrulamalıdır.
-12. Yalnızca doğrulanmış soruyu HTML sınavına aktarmalıdır.
+3. Gerçek sınavsa 6 soruluk dağılımı sabitlemelidir.
+4. Beş ortak soru havuzunu belirlemelidir.
+5. Havuz 1'den iki, diğer havuzlardan birer soru ayrıldığını doğrulamalıdır.
+6. İlgili PDF/TXT kaynaklarını gerçekten okumalıdır.
+7. Soru yapılabilecek gerçek hükümleri çıkarmalıdır.
+8. Her soru için kaynak kanıtını belirlemelidir.
+9. Doğru cevabı kaynaktan sabitlemelidir.
+10. Soruyu oluşturmalıdır.
+11. A-B-C-D-E seçeneklerini oluşturmalıdır.
+12. Soruyu tekrar kaynağa karşı doğrulamalıdır.
+13. Yalnızca doğrulanmış soruyu HTML sınavına aktarmalıdır.
 
 ---
 
-# 16. HER SORU İÇİN KANIT KAYDI
+# 18. HER SORU İÇİN KANIT KAYDI
 
 Her soru arka planda mümkün olduğunca şu bilgileri taşımalıdır:
 
-- **Ana Alan:** Yapı - İş Yerleri
-- **Soru Havuzu**
-- **Kaynak Dosya**
+- **Ana Alan:** Satınalma - Destek
+- **Soru Havuzu:** İlgili ortak havuz
+- **Kaynak Dosya:** PDF/TXT adı
 - **PDF Sayfası:** güvenilir biçimde tespit edilebiliyorsa
 - **Madde/Bölüm:** varsa
-- **Kaynak Hükmü**
+- **Fıkra/Bent:** varsa
+- **Kaynak Hükmü:** sorunun dayandığı gerçek ifade
 - **Doğru Cevap**
 - **Açıklama**
 
-Kaynakta bulunmayan bilgi tahmin edilmemelidir.
+Bu bilgiler tahmin edilmemelidir.
+
+Bulunamayan alanlar boş bırakılabilir.
 
 ---
 
-# 17. GERÇEK SINAVDA KULLANICIYA GÖSTERİM
+# 19. GERÇEK SINAVDA KULLANICIYA GÖSTERİM
 
 Gerçek sınav devam ederken:
 
-- doğru/yanlış gösterilmez,
+- doğru/yanlış bilgisi gösterilmez,
 - doğru cevap gösterilmez,
 - açıklama gösterilmez,
 - kaynak gösterilmez,
-- PDF sayfası gösterilmez.
+- PDF sayfası veya madde/fıkra gösterilmez.
 
 Sınav teslim edildikten sonra yanlış ve boş sorular için kaynaklı analiz gösterilir.
 
 ---
 
-# 18. ÇALIŞMA SINAVINDA KULLANICIYA GÖSTERİM
+# 20. ÇALIŞMA SINAVINDA KULLANICIYA GÖSTERİM
 
 Çalışma sınavında cevap verildikten sonra:
 
 - doğru/yanlış,
 - kullanıcının cevabı,
 - doğru cevap,
-- açıklama,
+- kısa açıklama,
 - kaynak dosyası,
 - PDF sayfası varsa,
 - madde/bölüm bilgisi varsa
@@ -349,7 +422,7 @@ gösterilmelidir.
 
 ---
 
-# 19. EN ÖNEMLİ KURAL
+# 21. EN ÖNEMLİ KURAL
 
 > **Bu dosya soru dağılımını belirler.**
 
@@ -357,15 +430,19 @@ gösterilmelidir.
 
 > **Gerçek PDF/TXT doğru cevabı belirler.**
 
-> **7 kaynak vardır ancak gerçek sınavda bu alandan yalnızca 3 soru gelir.**
+> **15 kaynak vardır ancak gerçek sınavda bu alandan tam olarak 6 soru gelir.**
 
-> **Yapı İşleri Satınalma + Taşınmazların Yönetimi = TOPLAM 1 soru.**
+> **PTT AŞ Mal ve Hizmet Alımı Prosedürü = 2 soru.**
 
-> **Bakım Onarım + Yapı Kontrol = TOPLAM 1 soru.**
+> **Malzeme Ambarlama + Satış + Dahili Sigorta = toplam 1 soru.**
 
-> **Müdürlük/Şube + Enerji Yönetimi + Kat Karşılığı İnşaat/Arsa Satışı = TOPLAM 1 soru.**
+> **Konut + Misafirhane = toplam 1 soru.**
 
-> **Gerçek sınavda Yapı - İş Yerleri toplamı tam olarak 3 sorudur.**
+> **Taşıt + Hizmet ve Servis Telefonları + Ücretsiz Servis ve Yol Yardımı = toplam 1 soru.**
+
+> **Diğer altı destek kaynağı = toplam 1 soru.**
+
+> **2 + 1 + 1 + 1 + 1 = 6.**
 
 > **Kaynak yoksa soru yok.**
 
